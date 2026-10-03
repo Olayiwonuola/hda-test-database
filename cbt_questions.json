@@ -26,5 +26,19 @@
     },
     "correctOption": "A",
     "createdAt": "2026-10-03T08:28:57.521Z"
+  },
+  {
+    "id": "cbt_1791016768689_l57axs",
+    "subject": "Mathematics",
+    "year": 2026,
+    "question": "fine the value of 4 in 4321",
+    "options": {
+      "A": "100",
+      "B": "200",
+      "C": "300",
+      "D": "400"
+    },
+    "correctOption": "A",
+    "createdAt": "2026-10-03T08:39:28.689Z"
   }
 ]
