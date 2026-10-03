@@ -1,16 +1,30 @@
 [
   {
-    "id": "cbt_1791006732663_h5afdz",
+    "id": "cbt_1791007506884_kxw00t",
     "subject": "Mathematics",
     "year": 2026,
-    "question": "wat is 1 +1",
+    "question": "what is the square root of 25?",
     "options": {
-      "A": "1",
-      "B": "2",
+      "A": "5",
+      "B": "4",
       "C": "3",
-      "D": "4"
+      "D": "7"
     },
     "correctOption": "A",
-    "createdAt": "2026-10-03T05:52:12.663Z"
+    "createdAt": "2026-10-03T06:05:06.884Z"
+  },
+  {
+    "id": "cbt_1791007555870_l777j2",
+    "subject": "Mathematics",
+    "year": 2026,
+    "question": "What is 2x2?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "correctOption": "B",
+    "createdAt": "2026-10-03T06:05:55.870Z"
   }
 ]
