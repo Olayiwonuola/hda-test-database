@@ -68,5 +68,19 @@
     },
     "correctOption": "A",
     "createdAt": "2026-10-03T09:03:25.478Z"
+  },
+  {
+    "id": "cbt_1791018243164_jrpxnf",
+    "subject": "Government",
+    "year": 2026,
+    "question": "Who si the president of Nigeria",
+    "options": {
+      "A": "balablu",
+      "B": "tinubu",
+      "C": "bulapa",
+      "D": "cornman"
+    },
+    "correctOption": "A",
+    "createdAt": "2026-10-03T09:04:03.164Z"
   }
 ]
