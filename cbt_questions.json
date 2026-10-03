@@ -40,5 +40,33 @@
     },
     "correctOption": "A",
     "createdAt": "2026-10-03T08:39:28.689Z"
+  },
+  {
+    "id": "cbt_1791018156179_wgw2kx",
+    "subject": "Biology",
+    "year": 2026,
+    "question": "what is another name for moulting?",
+    "options": {
+      "A": "ecydysis",
+      "B": "layamo",
+      "C": "i dont know",
+      "D": "i know"
+    },
+    "correctOption": "B",
+    "createdAt": "2026-10-03T09:02:36.179Z"
+  },
+  {
+    "id": "cbt_1791018205478_fllvsm",
+    "subject": "English Language",
+    "year": 2026,
+    "question": "spell your name",
+    "options": {
+      "A": "Ola",
+      "B": "alo",
+      "C": "oal",
+      "D": "lao"
+    },
+    "correctOption": "A",
+    "createdAt": "2026-10-03T09:03:25.478Z"
   }
 ]
