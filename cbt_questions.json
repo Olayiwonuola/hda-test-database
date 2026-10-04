@@ -1,7 +1,7 @@
 {
   "config": {
     "durationMinutes": 20,
-    "passingScore": 60,
+    "passingScore": 90,
     "maxSubjects": 4,
     "isLocked": true,
     "nextTestDate": "2026-10-03T21:08:00.000Z",
