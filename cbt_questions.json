@@ -3,7 +3,7 @@
     "durationMinutes": 20,
     "passingScore": 90,
     "maxSubjects": 4,
-    "isLocked": true,
+    "isLocked": false,
     "nextTestDate": "2026-10-05T13:12:00.000Z",
     "examTitle": "HDA WEEKLY MOCK",
     "curator": "Olayiwola"
