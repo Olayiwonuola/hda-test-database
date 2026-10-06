@@ -1,21 +1,6 @@
 {
   "questions": [
     {
-      "id": "cbt_1791061332491_5u8qc2",
-      "subject": "English Language",
-      "year": 2026,
-      "question": "spell Good",
-      "options": {
-        "A": "good",
-        "B": "gooood",
-        "C": "gd",
-        "D": "gdoo"
-      },
-      "correctOption": "A",
-      "createdAt": "2026-10-03T21:02:12.491Z",
-      "isLive": false
-    },
-    {
       "id": "cbt_1791219206215_476wet",
       "subject": "Mathematics",
       "year": 2026,
@@ -33,7 +18,7 @@
       "explanation": "because 1+1 =2",
       "passage": "Solve the following",
       "createdAt": "2026-10-05T16:53:26.215Z",
-      "isLive": false
+      "isLive": true
     },
     {
       "id": "cbt_1791250043023_8y6jtb",
@@ -109,8 +94,23 @@
       "passage": null,
       "isLive": false,
       "createdAt": "2026-10-06T01:30:36.463Z"
+    },
+    {
+      "id": "cbt_1791061332491_5u8qc2",
+      "subject": "English Language",
+      "year": 2026,
+      "question": "spell Good",
+      "options": {
+        "A": "good",
+        "B": "gooood",
+        "C": "gd",
+        "D": "gdoo"
+      },
+      "correctOption": "A",
+      "createdAt": "2026-10-03T21:02:12.491Z",
+      "isLive": false
     }
   ],
-  "updatedAt": "2026-10-06T01:56:59.075Z",
+  "updatedAt": "2026-10-06T02:07:44.701Z",
   "totalQuestions": 6
 }
