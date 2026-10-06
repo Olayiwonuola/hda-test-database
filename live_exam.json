@@ -10,21 +10,6 @@
   },
   "questions": [
     {
-      "id": "cbt_1791061332491_5u8qc2",
-      "subject": "English Language",
-      "year": 2026,
-      "question": "spell Good",
-      "options": {
-        "A": "good",
-        "B": "gooood",
-        "C": "gd",
-        "D": "gdoo"
-      },
-      "correctOption": "A",
-      "createdAt": "2026-10-03T21:02:12.491Z",
-      "isLive": true
-    },
-    {
       "id": "cbt_1791250043023_8y6jtb",
       "subject": "CRK/IRS",
       "year": 2026,
