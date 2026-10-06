@@ -40,33 +40,18 @@
       "isLive": true
     },
     {
-      "id": "cbt_1791066462684_efjsad",
-      "subject": "Mathematics",
+      "id": "cbt_1791061332491_5u8qc2",
+      "subject": "English Language",
       "year": 2026,
-      "question": "1-1",
+      "question": "spell Good",
       "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
+        "A": "good",
+        "B": "gooood",
+        "C": "gd",
+        "D": "gdoo"
       },
       "correctOption": "A",
-      "createdAt": "2026-10-03T22:27:42.684Z",
-      "isLive": true
-    },
-    {
-      "id": "cbt_1791067976708_cs3f56",
-      "subject": "Mathematics",
-      "year": 2026,
-      "question": "uiytgh",
-      "options": {
-        "A": "33",
-        "B": "yy",
-        "C": "ggg",
-        "D": "ddd"
-      },
-      "correctOption": "A",
-      "createdAt": "2026-10-03T22:52:56.708Z",
+      "createdAt": "2026-10-03T21:02:12.491Z",
       "isLive": true
     },
     {
@@ -87,21 +72,6 @@
       "explanation": "because 1+1 =2",
       "passage": "Solve the following",
       "createdAt": "2026-10-05T16:53:26.215Z",
-      "isLive": true
-    },
-    {
-      "id": "cbt_1791061332491_5u8qc2",
-      "subject": "English Language",
-      "year": 2026,
-      "question": "spell Good",
-      "options": {
-        "A": "good",
-        "B": "gooood",
-        "C": "gd",
-        "D": "gdoo"
-      },
-      "correctOption": "A",
-      "createdAt": "2026-10-03T21:02:12.491Z",
       "isLive": true
     }
   ]
