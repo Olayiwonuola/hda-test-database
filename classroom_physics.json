@@ -1,0 +1,61 @@
+{
+  "subject": "Physics",
+  "syllabus": "JAMB",
+  "modules": [
+    {
+      "moduleId": "mod_sample_1",
+      "title": "Module 1: Measurement and Units",
+      "sections": [
+        {
+          "sectionId": "sec_sample_1",
+          "title": "1.1 Fundamental & Derived Quantities",
+          "content": "Fundamental quantities are basic physical quantities that do not depend on any other quantities.\n\nExamples include length ($L$), mass ($M$), and time ($T$).\n\nDerived quantities are expressed from fundamental quantities, such as velocity ($v = \\frac{d}{t}$) and acceleration ($a = \\frac{v}{t}$).\n\nForce is given by Newton's second law: $$F = m \\cdot a = m \\frac{dv}{dt}$$",
+          "quiz": [
+            {
+              "quizId": "quiz_sample_1",
+              "question": "Which of the following is a fundamental physical quantity?",
+              "optionA": "Velocity",
+              "optionB": "Time",
+              "optionC": "Force",
+              "optionD": "Work",
+              "correctAnswer": "B"
+            },
+            {
+              "quizId": "quiz_1791309940746_k17ic",
+              "question": "what is physics",
+              "optionA": "1",
+              "optionB": "2",
+              "optionC": "3",
+              "optionD": "4",
+              "correctAnswer": "A"
+            }
+          ]
+        },
+        {
+          "sectionId": "sec_1791272316411_c32sj",
+          "title": "",
+          "content": "",
+          "quiz": []
+        },
+        {
+          "sectionId": "sec_1791272320554_ewesq",
+          "title": "",
+          "content": "",
+          "quiz": []
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1791272406980_tllb1",
+      "title": "",
+      "sections": [
+        {
+          "sectionId": "sec_1791272415425_adhpc",
+          "title": "",
+          "content": "",
+          "quiz": []
+        }
+      ]
+    }
+  ]
+}
