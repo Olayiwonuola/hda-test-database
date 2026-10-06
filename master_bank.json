@@ -109,8 +109,29 @@
       "correctOption": "A",
       "createdAt": "2026-10-03T21:02:12.491Z",
       "isLive": false
+    },
+    {
+      "id": "cbt_1791252523122_s0luqx",
+      "subject": "Use of English",
+      "year": 2026,
+      "question": "SPELL",
+      "options": {
+        "A": "WSS",
+        "B": "SSSS",
+        "C": "SSS",
+        "D": "SSS"
+      },
+      "correctOption": "A",
+      "instruction": "READ Properly",
+      "diagramUrl": "",
+      "image": null,
+      "explanation": "",
+      "passage": "READ Properly",
+      "isLive": true,
+      "createdAt": "2026-10-06T02:08:43.122Z",
+      "updatedAt": "2026-10-06T02:09:19.780Z"
     }
   ],
-  "updatedAt": "2026-10-06T02:07:44.701Z",
-  "totalQuestions": 6
+  "updatedAt": "2026-10-06T02:09:36.324Z",
+  "totalQuestions": 7
 }
