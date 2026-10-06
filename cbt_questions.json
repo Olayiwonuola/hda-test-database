@@ -28,6 +28,27 @@
       "passage": "Solve the following",
       "createdAt": "2026-10-05T16:53:26.215Z",
       "isLive": true
+    },
+    {
+      "id": "cbt_1791252523122_s0luqx",
+      "subject": "Use of English",
+      "year": 2026,
+      "question": "SPELL",
+      "options": {
+        "A": "WSS",
+        "B": "SSSS",
+        "C": "SSS",
+        "D": "SSS"
+      },
+      "correctOption": "A",
+      "instruction": "READ Properly",
+      "diagramUrl": "",
+      "image": null,
+      "explanation": "",
+      "passage": "READ Properly",
+      "isLive": true,
+      "createdAt": "2026-10-06T02:08:43.122Z",
+      "updatedAt": "2026-10-06T02:09:19.780Z"
     }
   ]
 }
