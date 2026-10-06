@@ -10,26 +10,6 @@
   },
   "questions": [
     {
-      "id": "cbt_1791250043023_8y6jtb",
-      "subject": "CRK/IRS",
-      "year": 2026,
-      "question": "Do you love God?",
-      "options": {
-        "A": "yes",
-        "B": "yes",
-        "C": "yes",
-        "D": "yes"
-      },
-      "correctOption": "A",
-      "instruction": "",
-      "diagramUrl": "",
-      "image": null,
-      "explanation": "",
-      "passage": null,
-      "isLive": true,
-      "createdAt": "2026-10-06T01:27:23.023Z"
-    },
-    {
       "id": "cbt_1791018156179_wgw2kx",
       "subject": "Biology",
       "year": 2026,
