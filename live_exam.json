@@ -25,21 +25,6 @@
       "isLive": true
     },
     {
-      "id": "cbt_1791018243164_jrpxnf",
-      "subject": "Government",
-      "year": 2026,
-      "question": "Who si the president of Nigeria",
-      "options": {
-        "A": "balablu",
-        "B": "tinubu",
-        "C": "bulapa",
-        "D": "cornman"
-      },
-      "correctOption": "A",
-      "createdAt": "2026-10-03T09:04:03.164Z",
-      "isLive": true
-    },
-    {
       "id": "cbt_1791061332491_5u8qc2",
       "subject": "English Language",
       "year": 2026,
