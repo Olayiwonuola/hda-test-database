@@ -9,7 +9,7 @@
         {
           "sectionId": "sec_sample_1",
           "title": "1.1 Fundamental & Derived Quantities",
-          "content": "Fundamental quantities are basic physical quantities that do not depend on any other quantities.\n\nExamples include length ($L$), mass ($M$), and time ($T$).\n\nDerived quantities are expressed from fundamental quantities, such as velocity ($v = \\frac{d}{t}$) and acceleration ($a = \\frac{v}{t}$).\n\nForce is given by Newton's second law: $$F = m \\cdot a = m \\frac{dv}{dt}$$",
+          "content": "In Physics, a physical quantity is any property of a body or system that can be measured with an instrument and expressed as a numerical value accompanied by a unit.In Nigeria, whether you are buying $5\\text{ kg}$ of semovita at the market or checking the speed of a Danfo bus on the Third Mainland Bridge, you are dealing with physical quantities!\n\nFundamental quantities (also called base quantities) are basic physical quantities that do not depend on any other physical quantity for their definition. They serve as the foundation for all other measurements in science. \n\n<div class=\"callout\">There are seven (7) fundamental physical quantities in the International System of Units (SI system)\n\nLength: Metre (m)\n\nMass: Kilogram (kg)\n\nTime: Second (s)\n\nElectric Current: Ampere (A)\n\nTemperature: Kelvin (K)\n\nAmount of Substance: Mole (mol)\n\nLuminous Intensity: Candela (cd)\n</div>\n\nCharacteristic: Fundamental quantities cannot be broken down into simpler physical quantities.Mass vs Weight: Mass is a fundamental quantity measured in $\\text{kg}$. Weight is a derived quantity (force) measured in Newtons ($\\text{N}$",
           "quiz": [
             {
               "quizId": "quiz_sample_1",
@@ -19,6 +19,15 @@
               "optionC": "Force",
               "optionD": "Work",
               "correctAnswer": "B"
+            },
+            {
+              "quizId": "quiz_1791309940746_k17ic",
+              "question": "what is physics",
+              "optionA": "not clear",
+              "optionB": "clear",
+              "optionC": "not sure",
+              "optionD": "clear",
+              "correctAnswer": "A"
             }
           ]
         },
@@ -30,6 +39,12 @@
         },
         {
           "sectionId": "sec_1791272320554_ewesq",
+          "title": "",
+          "content": "",
+          "quiz": []
+        },
+        {
+          "sectionId": "sec_1791463758451_1smc9",
           "title": "",
           "content": "",
           "quiz": []
