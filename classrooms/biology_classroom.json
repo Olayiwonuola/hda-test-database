@@ -1,0 +1,18 @@
+{
+  "subject": "Biology",
+  "syllabus": "JAMB",
+  "modules": [
+    {
+      "moduleId": "mod_1791566814443_1",
+      "title": "Module 1: Introduction to Biology",
+      "sections": [
+        {
+          "sectionId": "sec_1791566814443_1",
+          "title": "1.1 Overview",
+          "content": "",
+          "quiz": []
+        }
+      ]
+    }
+  ]
+}
