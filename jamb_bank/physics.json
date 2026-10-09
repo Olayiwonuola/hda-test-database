@@ -4,7 +4,7 @@
     "alocId": null,
     "subject": "physics",
     "year": 2025,
-    "category": "Past Question",
+    "category": "Model Exam",
     "topic": "physics",
     "instruction": "",
     "image": "",
@@ -72,7 +72,7 @@
       "c": "closed circuit",
       "d": "open circuit"
     },
-    "correctOption": "C",
+    "correctOption": "D",
     "explanation": "No detailed explanation provided."
   },
   {
