@@ -4,7 +4,7 @@
     "alocId": null,
     "subject": "physics",
     "year": 2025,
-    "category": "Model Exam",
+    "category": "Past Question",
     "topic": "physics",
     "instruction": "",
     "image": "",
@@ -2746,13 +2746,13 @@
     "image": "",
     "question": "An isotope has an initial activity of 120 Bq. 6 days later its activity is 15 Bq. The half-life is?",
     "options": {
-      "a": "2 days",
-      "b": "3 days",
+      "a": "3 days",
+      "b": "2 days",
       "c": "1 day",
       "d": "4 days"
     },
     "correctOption": "B",
-    "explanation": "No detailed explanation provided."
+    "explanation": "The equation that establishes the relationship between the amount left undecayed ($A$), the initial amount ($A_0$), and the number of half-lives ($n$) that elapse over a period of time ($t$) is:$$\\left(\\frac{1}{2}\\right)^n \\times A_0 = A$$$$\\left(\\frac{1}{2}\\right)^n \\times 120 = 15$$$$\\left(\\frac{1}{2}\\right)^n = \\frac{15}{120}$$$$\\left(\\frac{1}{2}\\right)^n = \\frac{1}{8}$$$$\\left(\\frac{1}{2}\\right)^n = \\left(\\frac{1}{2}\\right)^3$$$$2^n = 2^3 \\implies n = 3$$$$\\text{Half-life } (T_{1/2}) = \\frac{t}{n} = \\frac{6\\text{ days}}{3} = 2\\text{ days}$$"
   },
   {
     "id": 2255,
