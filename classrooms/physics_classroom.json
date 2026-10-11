@@ -457,6 +457,102 @@
                 "D": ""
               },
               "correctAnswer": "C"
+            },
+            {
+              "quizId": "quiz_1791739665015_6d5xb",
+              "question": "Which of the following represents the dimensional formula for Force?",
+              "diagramUrl": "",
+              "optionA": "$[MLT^{-1}]$",
+              "optionB": "$[MLT^{-2}]$",
+              "optionC": "$[ML^2T^{-2}]$",
+              "optionD": "$[ML^{-1}T^{-2}]$",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "B"
+            },
+            {
+              "quizId": "quiz_1791739665783_1pb90",
+              "question": "The dimension of Work done is identical to the dimension of:",
+              "diagramUrl": "",
+              "optionA": " Power",
+              "optionB": "Momentum",
+              "optionC": " Energy",
+              "optionD": " Pressure",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "C"
+            },
+            {
+              "quizId": "quiz_1791739861528_38tuf",
+              "question": "hat is the dimensional representation of Pressure?",
+              "diagramUrl": "",
+              "optionA": "$[ML^{-1}T^{-2}]$",
+              "optionB": " $[ML^{-2}T^{-2}]$",
+              "optionC": "$[MLT^{-2}]$",
+              "optionD": " $[ML^2T^{-3}]$",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "A"
+            },
+            {
+              "quizId": "quiz_1791739861881_4eh71",
+              "question": "The physical quantity whose dimensional formula is $[ML^2T^{-3}]$ is:",
+              "diagramUrl": "",
+              "optionA": " Work",
+              "optionB": " Momentum",
+              "optionC": " Impulse",
+              "optionD": "Power",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "D"
+            },
+            {
+              "quizId": "quiz_1791739862110_h65e8",
+              "question": "Which of the following pairs of physical quantities has the exact same dimensional formula?",
+              "diagramUrl": "",
+              "optionA": "Work and Power",
+              "optionB": "Force and Pressure",
+              "optionC": "Momentum and Impulse",
+              "optionD": " Acceleration and Velocity",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "C"
+            },
+            {
+              "quizId": "quiz_1791739862300_bk0pz",
+              "question": "A physical quantity has the dimensional formula $[ML^{-3}]$. Its fundamental SI unit is:",
+              "diagramUrl": "",
+              "optionA": " $\\text{kg} \\cdot \\text{m}^{-1}$",
+              "optionB": "$\\text{kg} \\cdot \\text{m}^{-2}$",
+              "optionC": "$\\text{kg} \\cdot \\text{m}^{-3}$",
+              "optionD": "$\\text{kg} \\cdot \\text{m}^3$",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "A"
             }
           ]
         },
@@ -464,18 +560,6 @@
           "sectionId": "sec_1791613948473_lhgia",
           "title": "1.5 Concept of Position, Coordinates, and Frame of Reference",
           "content": "- Frame of Reference: A coordinate system used to specify the precise location or motion of objects.\n\n- Position: The location of a point relative to a chosen reference origin ($O$).\n\n- Cartesian Coordinate System ($x-y$ plane): Expressed as $P(x, y)$, where $x$ represents horizontal coordinate and $y$ represents vertical coordinate.\n\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/0/0e/Cartesian-coordinate-system.svg\" \nwidth=\"100%\" />\n\n1.6.2 Concept of Displacement\n\nDisplacement is defined as the distance moved by an object in a specified, straight-line direction from its initial starting position to its final position.\n\n1.6.3 Distinction Between Distance and Displacement\n\n- Distance is the total length of path covered by a body while displacement is a straight-line distance in a specified direction\n\n- Distance is Scalar (Magnitude only) while Displacement is Vector (Magnitude + Direction)\n\n- They are both measured in meter (m)\n\n<mark> Illustrative Example: \n\nIf a Danfo bus departs from Oshodi, travels $12\\text{ km}$ East to Gbagada, and then turns around to drive $12\\text{ km}$ West back to Oshodi:Total Distance Covered: $12\\text{ km} + 12\\text{ km} = 24\\text{ km}$Total Net Displacement: $12\\text{ km} - 12\\text{ km} = 0\\text{ km}$ (since initial position equals final position).</mark>",
-          "quiz": []
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1791272406980_tllb1",
-      "title": "",
-      "sections": [
-        {
-          "sectionId": "sec_1791272415425_adhpc",
-          "title": "",
-          "content": "",
           "quiz": []
         }
       ]
