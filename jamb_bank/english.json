@@ -7359,7 +7359,7 @@
     "year": 2013,
     "category": "Past Question",
     "topic": "english-language",
-    "instruction": "<b>questions 36 - 45 are on LEXI\nIn each of this question select the option that best explains the information conveyed in the sentence.",
+    "instruction": "\nIn each of this question select the option that best explains the information conveyed in the sentence.",
     "image": "",
     "question": "Zinana's examination result was not unfavourable",
     "options": {
@@ -7568,7 +7568,7 @@
     "year": 2013,
     "category": "Past Question",
     "topic": "English Language",
-    "instruction": "<b>questions 36 - 45 are on LEXI\nIn each of this question select the option that best explains the information conveyed in the sentence.",
+    "instruction": "\nIn each of this question select the option that best explains the information conveyed in the sentence.",
     "image": "",
     "question": "Ramatus expressed her feelings in uncertain terms",
     "options": {
@@ -16403,7 +16403,7 @@
     "year": 2002,
     "category": "Past Question",
     "topic": "english-language",
-    "instruction": "<b>LEXIS, STRUCTUREAND ORAL FORMS\n(Questions 26 to 75 carry 1 mark each)\nIn each of questions 26 to 50, fill each gap with the most appropriate option from the lists provided.</b>",
+    "instruction": "\nIn each of questions 26 to 50, fill each gap with the most appropriate option from the lists provided.</b>",
     "image": "",
     "question": "The army officer said that more ...... would be needed to prosecute the war?",
     "options": {
