@@ -124,13 +124,13 @@
     "image": "",
     "question": "How long will it take to heat 4 kg of water from 30 °C to 65 °C using an electric kettle taking 5 A from a 240 V supply?\n(Specific heat capacity of water = 4200 J kg⁻¹ K⁻¹)",
     "options": {
-      "a": "490 s",
+      "a": "150 s",
       "b": "245 s",
-      "c": "150 s",
+      "c": "490 s",
       "d": "160 s"
     },
     "correctOption": "C",
-    "explanation": "No detailed explanation provided."
+    "explanation": " Identify Given Parameters\nHeat energy absorbed ($Q = mc\\Delta \\theta$): $588,000\\text{ J}$\nElectrical power input ($P = VI$): $1,200\\text{ W}$\nTime taken ($t$): $?$\n\nFrom the principle of conservation of energy (assuming $100\\%$ efficiency with no heat lost to the surroundings):$$\\text{Electrical Energy Supplied} = \\text{Heat Energy Absorbed}$$$$VI \\times t = mc\\Delta \\theta$$Making time ($t$) the subject of the formula:$$t = \\frac{mc\\Delta \\theta}{VI} = \\frac{Q}{P}$$\n$$t = \\frac{588000}{1200}$$\n$$t = \\frac{5880}{12}$$$$t = 490\\text{ s}$$"
   },
   {
     "id": 2217,
