@@ -1,12 +1,12 @@
 {
   "config": {
-    "examTitle": "HDA WEEKLY MOCK",
-    "curator": "Olayiwola",
     "durationMinutes": 20,
     "passingScore": 90,
     "maxSubjects": 1,
-    "isLocked": false,
-    "nextTestDate": "2026-10-05T13:12:00.000Z"
+    "isLocked": true,
+    "nextTestDate": "2026-10-05T13:12:00.000Z",
+    "examTitle": "HDA WEEKLY MOCK",
+    "curator": "Olayiwola"
   },
   "questions": [
     {
