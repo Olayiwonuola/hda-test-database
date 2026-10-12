@@ -31,11 +31,11 @@
     "options": {
       "a": "50 °C",
       "b": "25 °C",
-      "c": "20 °C",
-      "d": "30 °C"
+      "c": "30 °C",
+      "d": "20 °C"
     },
     "correctOption": "C",
-    "explanation": "No detailed explanation provided."
+    "explanation": "The volume expansivity is $\\gamma = 3\\alpha = 3 \\times (2.0 \\times 10^{-5}\\text{ K}^{-1}) = 6.0 \\times 10^{-5}\\text{ K}^{-1}$. \nUsing $\\Delta V = V_0 \\gamma \\theta$:\n$$\\theta = \\frac{\\Delta V}{V_0 \\gamma} = \\frac{0.0018\\text{ cm}^3}{1\\text{ cm}^3 \\times 6.0 \\times 10^{-5}\\text{ K}^{-1}} = 30\\text{ }^\\circ\\text{C}$$"
   },
   {
     "id": 2108,
@@ -92,7 +92,7 @@
       "d": "its density is less than that of water"
     },
     "correctOption": "A",
-    "explanation": "### Core Principle: Archimedes' Principle and the Law of Floatation\n\nAccording to the **Law of Floatation** and the principles of fluid statics, whether an object sinks or floats when immersed in a fluid depends on the relationship between its average density ($\\rho_{\\text{object}}$) and the density of the fluid ($\\rho_{\\text{fluid}}$), as well as the balance between its weight ($W$) and the maximum upthrust ($U_{\\text{max}}$) exerted by the fluid.\n\nFor a completely submerged object of volume $V$:\n\n1. **Weight of the object ($W$):**\n   $$W = m_{\\text{object}} g = \\rho_{\\text{object}} V g$$\n\n2. **Maximum Upthrust ($U_{\\text{max}}$):**\n   $$U_{\\text{max}} = m_{\\text{water displaced}} g = \\rho_{\\text{water}} V g$$\n\n3. **Condition for Sinking:**\n   An object sinks if its weight exceeds the maximum upthrust:\n   $$W > U_{\\text{max}}$$\n   $$\\rho_{\\text{object}} V g > \\rho_{\\text{water}} V g$$\n   $$\\rho_{\\text{object}} > \\rho_{\\text{water}}$$\n\n---\n\n### Detailed Analysis of Options\n\n* **Option A is CORRECT:** \n  When the density of the object is greater than that of water ($\\rho_{\\text{object}} > \\rho_{\\text{water}}$), the downward gravitational pull (weight) exceeds the maximum upward buoyant force (upthrust) that the displaced water can provide. Therefore, a downward resultant force acts on the body, causing it to sink to the bottom.\n\n* **Option B is INCORRECT:** \n  Pressure increases with depth according to $P = \\rho g h$. Pressure is a force per unit area ($\\text{N/m}^2$), whereas weight is a force ($\\text{N}$); dimensionally, they cannot be directly compared. Furthermore, fluid pressure causes the upward force (upthrust), not sinking.\n\n* **Option C is INCORRECT:** \n  If upthrust equals weight ($U = W$), the net vertical force is zero. According to the Law of Floatation, the body will float in equilibrium (either partially submerged or fully submerged neutrally buoyant), not sink.\n\n* **Option D is INCORRECT:** \n  If the object's density is less than that of water ($\\rho_{\\text{object}} < \\rho_{\\text{water}}$), the maximum upthrust exceeds the object's weight, causing it to rise to the surface and float partially submerged."
+    "explanation": ""
   },
   {
     "id": 2128,
