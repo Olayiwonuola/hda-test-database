@@ -12,11 +12,11 @@
     "options": {
       "a": "0.95 kg",
       "b": "8.24 kg",
-      "c": "2.06 kg",
-      "d": "1.84 kg"
+      "c": "1.84 kg ",
+      "d": "2.06 kg"
     },
     "correctOption": "D",
-    "explanation": "No detailed explanation provided."
+    "explanation": "1. Identify Given Parameters:\n\nTotal heat released ($Q$): $5400 \\times 10^3\\text{ J} = 5.4 \\times 10^6\\text{ J}$\nSpecific latent heat of vaporization ($L_v$): $2.26 \\times 10^6\\text{ J/kg}$\nSpecific heat capacity of water ($c_w$): $4200\\text{ J/(kg}\\cdot^\\circ\\text{C)}$\nTemperature drop ($\\Delta \\theta$): $100^\\circ\\text{C} - 15^\\circ\\text{C} = 85^\\circ\\text{C}$\n\n2. Heat Loss Formula:\nSteam condenses at 100°C into water, then cools to 15°C:\n$$Q_{\\text{lost}} = m L_v + m c_w \\Delta \\theta = m \\left( L_v + c_w \\Delta \\theta \\right)$$3. Substitute and Solve for Mass ($m$):$$5.4 \\times 10^6 = m \\left[ 2.26 \\times 10^6 + (4200 \\times 85) \\right]$$$$5.4 \\times 10^6 = m \\left[ 2.26 \\times 10^6 + 357{,}000 \\right]$$$$5.4 \\times 10^6 = m \\left[ 2.617 \\times 10^6 \\right]$$$$m = \\frac{5.4 \\times 10^6}{2.617 \\times 10^6} \\approx 2.06\\text{ kg}$$"
   },
   {
     "id": 2103,
@@ -48,13 +48,13 @@
     "image": "",
     "question": "When both the object and its image move together in the same direction relative to the observer, then there is",
     "options": {
-      "a": "blurred image",
-      "b": "no parallax error",
+      "a": "no parallax error ",
+      "b": "blurred image",
       "c": "mechanical error",
       "d": "parallax error"
     },
     "correctOption": "A",
-    "explanation": "No detailed explanation provided."
+    "explanation": "Parallax is the apparent relative displacement between an object and its image when viewed from different positions. When both move together in the same direction with zero relative motion between them as the observer shifts their position, parallax is completely eliminated, meaning there is **no parallax error**."
   },
   {
     "id": 2109,
