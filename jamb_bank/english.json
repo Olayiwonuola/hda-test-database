@@ -18324,7 +18324,7 @@
     "topic": "english-language",
     "instruction": "<b>Fill the gap with the most appropriate option from the list provided.</b>",
     "image": "",
-    "question": "Without our relentless campaigns we might ....... sure of victory in the race for the National Assembly?",
+    "question": "Without our relentless campaigns we might ....... sure of victory in the race for the National Assembly",
     "options": {
       "a": "never have been",
       "b": "have never be",
@@ -18332,7 +18332,7 @@
       "d": "be never"
     },
     "correctOption": "A",
-    "explanation": "No detailed explanation provided."
+    "explanation": "The complete sentence would be: \"Without our relentless campaigns, we might never have been sure of victory in the race for the National Assembly.\" This option uses the correct auxiliary verbs (\"never have been\") to convey the meaning that victory in the race for the National Assembly would not have been certain without the relentless campaigns."
   },
   {
     "id": 419,
