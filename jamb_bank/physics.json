@@ -452,8 +452,10 @@
       "c": "78.68 N",
       "d": "53.33 N"
     },
-    "correctOption": "B",
-    "explanation": "No detailed explanation provided."
+    "correctOption": "D",
+    "explanation": "For equilibrium, clockwise moment = anticlockwise moment about the pivot.\n\nclockwise distance from pivot: 50cm - 10cm = 40cm\n\nanticlockwise distance from pivot: 85cm - 10cm = 75cm\n\nApplying the principle of moments\n\nW x distance(w) = T x distance(T)\n\n100 x 40 = T x 75\n\nT = 4000 / 75\n ≈ 53.33N",
+    "correct_option": "D",
+    "answer": "D"
   },
   {
     "id": 2567,
@@ -547,8 +549,10 @@
       "c": "250J",
       "d": "120J"
     },
-    "correctOption": "B",
-    "explanation": "No detailed explanation provided."
+    "correctOption": "A",
+    "explanation": "Efficiency ($\\eta$): $80\\% = 0.8$\nWork input ($W_{\\text{in}}$): $200\\text{ J}$\nWork output ($W_{\\text{out}}$): $?$\nEfficiency is defined as the ratio of useful work output to total work input:$$\\eta = \\frac{W_{\\text{out}}}{W_{\\text{in}}}$$\n$$W_{\\text{out}} = 0.8 \\times 200$$$$W_{\\text{out}} = 160\\text{ J}$$",
+    "correct_option": "A",
+    "answer": "A"
   },
   {
     "id": 2765,
