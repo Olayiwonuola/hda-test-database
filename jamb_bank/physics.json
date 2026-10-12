@@ -92,7 +92,7 @@
       "d": "its density is less than that of water"
     },
     "correctOption": "A",
-    "explanation": ""
+    "explanation": "According to the law of floatation, an object sinks in a fluid if its weight is greater than the maximum upthrust exerted on it. \n\n$$\\rho_{\\text{object}} > \\rho_{\\text{water}} \\implies W > U$$\n\nBecause its average density exceeds that of water, the downward gravitational force overcomes the upward buoyant force, causing the object to sink to the bottom. "
   },
   {
     "id": 2128,
@@ -105,13 +105,13 @@
     "image": "",
     "question": "Some of the features of the human eye that greatly help to refract light entering the eyes are",
     "options": {
-      "a": "aqueous humor and lens",
+      "a": "cornea and lens ",
       "b": "cornea and aqueous humor",
-      "c": "cornea and lens",
+      "c": "aqueous humor and lens",
       "d": "lens and vitreous humor"
     },
     "correctOption": "A",
-    "explanation": "No detailed explanation provided."
+    "explanation": "Light undergoes the greatest refraction at the air-cornea interface due to the large refractive index difference, providing about two-thirds of the eye's total refractive power The crystalline lens provides the remaining adjustable focusing power, making the **cornea and lens** the two primary refracting components."
   },
   {
     "id": 2158,
@@ -149,7 +149,7 @@
       "d": "5 kg"
     },
     "correctOption": "B",
-    "explanation": "No detailed explanation provided."
+    "explanation": "By the principle of conservation of thermal energy, heat lost by the boiled water equals heat gained by the cold water:\n\n$$m_1 c (\\theta_1 - \\theta) = m_2 c (\\theta - \\theta_2)$$\n\n$$m_1 \\times (100 - 60) = 8 \\times (60 - 25)$$\n\n$$40m_1 = 280 \\implies m_1 = 7\\text{ kg}$$\n\nThus, the correct option is **B**."
   },
   {
     "id": 2253,
@@ -164,11 +164,11 @@
     "options": {
       "a": "257.48 °C",
       "b": "408.60 °C",
-      "c": "316.28 °C",
-      "d": "141.20 °C"
+      "c": "141.20 °C ",
+      "d": "316.28 °C"
     },
     "correctOption": "D",
-    "explanation": "No detailed explanation provided."
+    "explanation": "1. Identify Given Parameters\nLength of conductor ($L$): $0.2\\text{ m}$\nTemperature gradient: $416\\text{ K m}^{-1}$ (equivalent to $416\\text{ }^\\circ\\text{C m}^{-1}$)\nTemperature at specified end ($T_1$): $233\\text{ }^\\circ\\text{C}$\nTarget temperature ($T_2$): $?$\n\n2. Core Formula\nThe temperature gradient is defined as the rate of change of temperature with respect to distance along the conductor:$$\\text{Temperature Gradient} = \\frac{\\Delta T}{L} = \\frac{T_2 - T_1}{L}$$Rearranging to solve for the temperature change ($\\Delta T$):$$\\Delta T = \\text{Temperature Gradient} \\times L$$3. Substitution & Algebraic SolutionCalculate the total temperature drop/rise along the rod:$$\\Delta T = 416 \\times 0.2$$$$\\Delta T = 83.2\\text{ }^\\circ\\text{C}$$Determine the temperature at the other end ($T_2$):$$T_2 = T_1 + \\Delta T$$$$T_2 = 233 + 83.2$$$$T_2 = 316.2\\text{ }^\\circ\\text{C}$$4. "
   },
   {
     "id": 2260,
@@ -181,13 +181,13 @@
     "image": "",
     "question": "The volume of a fixed mass of gas at 0 °C is 200 m³. What is its volume at 273 °C at constant pressure?",
     "options": {
-      "a": "400 m³",
-      "b": "800 m³",
+      "a": "800 m³",
+      "b": "400 m³",
       "c": "200 m³",
       "d": "100 m³"
     },
     "correctOption": "B",
-    "explanation": "No detailed explanation provided."
+    "explanation": "\nBy Charles's Law, $\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$ at constant pressure. Converting temperatures to Kelvin gives $T_1 = 273\\text{ K}$ and $T_2 = 273 + 273 = 546\\text{ K}$. \n\n$$V_2 = V_1 \\times \\frac{T_2}{T_1} = 200\\text{ m}^3 \\times \\frac{546}{273} = 400\\text{ m}^3$$"
   },
   {
     "id": 2283,
@@ -201,12 +201,12 @@
     "question": "A wooden block of relative density 0.4 floats in a liquid of density 1600 kg m⁻³. What fraction of its volume is immersed?",
     "options": {
       "a": "0.1",
-      "b": "0.25",
-      "c": "0.2",
+      "b": "0.2",
+      "c": "0.25",
       "d": "0.15"
     },
     "correctOption": "C",
-    "explanation": "No detailed explanation provided."
+    "explanation": "By the principle of floatation, the fraction of volume immersed is:\n$$\\frac{V_{\\text{immersed}}}{V_{\\text{total}}} = \\frac{\\rho_{\\text{block}}}{\\rho_{\\text{liquid}}} = \\frac{0.4 \\times 1000\\text{ kg m}^{-3}}{1600\\text{ kg m}^{-3}} = \\frac{400}{1600} = 0.25$$"
   },
   {
     "id": 2310,
@@ -219,13 +219,13 @@
     "image": "",
     "question": "If the critical angle for a glass–air boundary is 45°, what is the refractive index of the glass?",
     "options": {
-      "a": "√3",
+      "a": "√2",
       "b": "2√2",
       "c": "√5",
-      "d": "√2"
+      "d": "√3"
     },
     "correctOption": "A",
-    "explanation": "No detailed explanation provided."
+    "explanation": "The refractive index $n$ is related to the critical angle $\\theta_c$ by the formula $n = \\frac{1}{\\sin \\theta_c}$. Substituting $\\theta_c = 45^\\circ$:\n\n$$n = \\frac{1}{\\sin 45^\\circ} = \\frac{1}{1/\\sqrt{2}} = \\sqrt{2}$$"
   },
   {
     "id": 2313,
@@ -244,7 +244,7 @@
       "d": "circular coil"
     },
     "correctOption": "C",
-    "explanation": "No detailed explanation provided."
+    "explanation": "A uniform magnetic field represented by parallel, equidistant, and straight field lines directed in a specific direction characterizes the magnetic field in the Earth's meridian over a localized region. In this region, local field variations are negligible, resulting in a uniform horizontal component:\n\n$$\\vec{B}_{\\text{H}} = \\text{constant}$$\n\nThus, the configuration represents the Earth's magnetic field along the magnetic meridian."
   },
   {
     "id": 2321,
@@ -257,13 +257,13 @@
     "image": "",
     "question": "What magnitude of electric current can store 2.5 J of energy in a 3 H induction coil?",
     "options": {
-      "a": "5.00 A",
+      "a": "1.29 A",
       "b": "3.66 A",
       "c": "2.48 A",
-      "d": "1.29 A"
+      "d": "5.00 A"
     },
     "correctOption": "A",
-    "explanation": "No detailed explanation provided."
+    "explanation": "The energy stored in an inductor is given by $E = \\frac{1}{2}LI^2$. Substituting the given values:\n$$2.5 = \\frac{1}{2}(3)I^2 \\implies I^2 = \\frac{5}{3} \\implies I = \\sqrt{1.667} \\approx 1.29\\text{ A}$$"
   },
   {
     "id": 2324,
@@ -282,7 +282,7 @@
       "d": "Rate of change of momentum imparted to the walls per second per unit area."
     },
     "correctOption": "D",
-    "explanation": "No detailed explanation provided."
+    "explanation": "According to the kinetic theory of gases and Newton's second law, force is the time rate of change of momentum: \n$$F = \\frac{\\Delta p}{\\Delta t}$$\nSince pressure is defined as force per unit area ($P = \\frac{F}{A}$), the pressure exerted by a gas on the walls of its container is equal to the rate of change of momentum imparted to the walls per unit area. Hence, **Option D** is correct."
   },
   {
     "id": 2338,
