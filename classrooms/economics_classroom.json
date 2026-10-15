@@ -92,6 +92,93 @@
               "correctAnswer": "B"
             }
           ]
+        },
+        {
+          "sectionId": "sec_1792073453887_lea2u",
+          "title": "1.2 Economic Problems of Society",
+          "content": "The Fundamental Economic Questions\n\nWhat to Produce? \n\n- Involves deciding which goods and services to produce and in what quantities, given limited land, labor, and capital.\n\n- Example: Should Nigeria allocate more fertile land in Benue State to produce food crops (like yam and cassava) or industrial cash crops (like cocoa and oil palm)?\n\n- In a market economy, this is determined by consumer demand and price mechanism; in a command economy, it is decided by government central planning.\n\nHow to Produce?\n\n- Refers to the technique or combination of factors of production used to manufacture goods.\n\n- Labor-Intensive Technique: Uses a larger proportion of labor relative to capital/machinery. Recommended for developing nations like Nigeria with abundant labor to generate employment.\n\n- Capital-Intensive Technique: Uses advanced machinery, automated technology, and equipment relative to labor. Offers high speed and precision but requires high capital investment.\n\nFor Whom to Produce?\n\n- Concerns the distribution of produced goods and services among individuals in society.\n\n- In a free market economy, goods are distributed based on purchasing power (effective demand) and income level. In a socialist system, distribution is directed by the state based on social needs.\n\nEfficiency of Resource Use\n\nResources are limited, so society must ensure they are utilized without waste to achieve maximum satisfaction.\n\n- Productive (Technical) Efficiency: Occurs when a society produces the maximum possible output from its available resources at the lowest average cost.\n\n- Allocative Efficiency: Occurs when resources are distributed to produce the specific mix of goods and services most preferred by consumers.\n\n- Production Possibility Curve (PPC): A graphical tool used to illustrate resource efficiency. Points on the curve represent efficient resource use; points inside the curve represent underutilization/inefficiency (e.g., high unemployment); points outside the curve are unattainable with current resources.\n\n$$ \\text{Scarcity of Resources} \\longrightarrow \\text{What, How, \\& For Whom to Produce} \\longrightarrow \\text{Efficient Allocation (PPC)} $$JAMB Exam Focus: UTME questions often test the choice of production techniques for developing countries like Nigeria (where labor-intensive methods help solve unemployment). Also expect questions asking how points on or inside the PPC reflect efficiency versus inefficiency.",
+          "quiz": [
+            {
+              "quizId": "quiz_1792074110278_albiu",
+              "question": "The fundamental economic question of \"How to produce\" primarily deals with the:",
+              "diagramUrl": "",
+              "optionA": "Distribution of income among factors of production",
+              "optionB": "Allocation of goods according to consumer demand",
+              "optionC": "Choice of technique and combination of production factors",
+              "optionD": "Determination of prices in the market",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "C"
+            },
+            {
+              "quizId": "quiz_1792074111057_5u9cn",
+              "question": "For a developing country like Nigeria with a high population and widespread unemployment, the most suitable production technique is generally:",
+              "diagramUrl": "",
+              "optionA": "Capital-intensive technique",
+              "optionB": "Capital-intensive technique",
+              "optionC": "Automated robotic production",
+              "optionD": "Mechanized capital technique",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "B"
+            },
+            {
+              "quizId": "quiz_1792074111708_5zqhl",
+              "question": "In a pure free market economy, the question of \"For whom to produce\" is determined by:",
+              "diagramUrl": "",
+              "optionA": "Government price control boards",
+              "optionB": " Equal distribution by local councils",
+              "optionC": "Consumer purchasing power and effective demand",
+              "optionD": "The central planning authority",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "C"
+            },
+            {
+              "quizId": "quiz_1792074329182_lq97n",
+              "question": "Productive efficiency is achieved when an economy is operating:",
+              "diagramUrl": "",
+              "optionA": "Inside its Production Possibility Curve",
+              "optionB": "Outside its Production Possibility Curve",
+              "optionC": "Along the boundary of its Production Possibility Curve",
+              "optionD": "At the origin of its Production Possibility Curve",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "C"
+            },
+            {
+              "quizId": "quiz_1792074330115_5jjj6",
+              "question": "A country that leaves a large proportion of its agricultural land uncultivated and its workforce unemployed is operating:",
+              "diagramUrl": "",
+              "optionA": " Efficiently on its PPC",
+              "optionB": "Inefficiently inside its PPC",
+              "optionC": "At an unattainable point beyond its PPC",
+              "optionD": "At maximum allocative efficiency",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "B"
+            }
+          ]
         }
       ]
     }
