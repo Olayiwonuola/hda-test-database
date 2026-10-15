@@ -16,13 +16,225 @@
           "sectionId": "sec_1791743614404_a19mi",
           "title": "1.2 Cell Structure and Functions of Cell Components",
           "content": "A cell is defined as the basic structural, functional, and organizational unit of all living organisms. All living organisms are made up of either a single cell (unicellular) or many cells (multicellular).\n\nGeneralized Structure of Plant and Animal Cells\n\nBoth plant and animal cells share basic protoplasmic components, but they possess distinct structural differences adapted to their modes of life.\n\nDetailed Comparison Between Plant and Animal Cells\n\n1. Cell Wall\nPlant Cell: Present (rigid outer wall composed of cellulose).\n\nAnimal Cell: Absent (bounded only by the flexible cell membrane).\n\n2. Cell Shape\nPlant Cell: Fixed, rigid, and definite rectangular shape.\n\nAnimal Cell: Flexible, irregular, and variable shape.\n\n3. Chloroplasts (Plastids)\nPlant Cell: Present (contains green chlorophyll pigment for photosynthesis).\n\nAnimal Cell: Completely absent.\n\n4. Vacuole\nPlant Cell: One single, large, central, and permanent vacuole.\n\nAnimal Cell: Small, numerous, temporary vacuoles (or completely absent).\n\n5. Centrosome / Centrioles\nPlant Cell: Absent (except in certain lower plant forms).\n\nAnimal Cell: Present (essential for spindle fiber formation during cell division).\n\n6. Carbohydrate Storage\nPlant Cell: Excess carbohydrates stored as Starch grains.\n\nAnimal Cell: Excess carbohydrates stored as Glycogen granules.\n\n7. Cytoplasm Distribution\nPlant Cell: Confined to a thin layer pushed to the periphery by the large central vacuole.\n\nAnimal Cell: Evenly distributed throughout the entire interior cavity of the cell.\n1. Cell Wall\n\nFound In: Plant Cells Only\n\nStructure: Rigid, non-living outer boundary composed of cellulose.\n\nFunction: Provides mechanical support, tensile strength, and rigidity to give plant cells a definite shape.\n\n2. Cell (Plasma) Membrane\n\nFound In: Both Plant and Animal Cells\n\nStructure: Selectively permeable, semi-fluid bilayer composed of phospholipids and proteins.\n\nFunction: Regulates the osmotic balance and controls the selective entry and exit of substances.\n\n3. Cytoplasm\n\nFound In: Both Plant and Animal Cells\n\nStructure: Jelly-like fluid matrix containing enzymes, mineral salts, and suspended organelles.\n\nFunction: Acts as the primary medium for metabolic chemical reactions and glycolysis.\n\n4. Nucleus\n\nFound In: Both Plant and Animal Cells\n\nStructure: Double-membrane organelle bounded by a porous nuclear envelope containing chromosomes (DNA).\n\nFunction: Directs cellular metabolic activities and carries hereditary genetic information.\n\n5. Nucleolus\n\nFound In: Both Plant and Animal Cells\n\nStructure: Dense, non-membrane spherical body located inside the nucleoplasm.\n\nFunction: Synthesizes ribosomal RNA (rRNA) and coordinates ribosome assembly.\n\n6. Mitochondrion\n\nFound In: Both Plant and Animal Cells\n\nStructure: Rod-shaped organelle with a smooth outer membrane and an inner membrane folded into cristae.\n\nFunction: The \"powerhouse of the cell\" — executes aerobic respiration to generate ATP energy.\n\n\n7. Chloroplast\n\nFound In: Plant Cells Only\n\nStructure: Double-membrane plastid containing stacked thylakoids (grana) embedded in stroma with green chlorophyll.\n\nFunction: Site of photosynthesis, trapping solar radiant energy to manufacture glucose.\n\n8. Ribosome\n\nFound In: Both Plant and Animal Cells\n\nStructure: Minute, non-membrane granules found freely suspended or attached to the rough endoplasmic reticulum.\n\nFunction: Responsible for cellular protein synthesis and polypeptide translation.\n\n9. Endoplasmic Reticulum \n\nFound In: Both Plant and Animal Cells\n\nStructure: Network of interconnected membranous tubules and sacs extending throughout the cytoplasm.\n\nFunction:\n\nRough ER (studded with ribosomes): Synthesizes and transports proteins.\n\nSmooth ER (lacks ribosomes): Synthesizes lipids, metabolizes carbohydrates, and detoxifies chemicals.\n\n10. Golgi Apparatus (Dictyosome)\n\nFound In: Both Plant and Animal Cells\n\nStructure: Stacks of parallel, flattened, membrane-bound sacs known as cisternae.\n\nFunction: Modifies, concentrates, packages, and secretes cellular proteins and glycoproteins.\n\n11. Vacuole\n\nFound In: Both (Distinct structural differences)\n\nStructure: Fluid-filled sac enclosed by a selectively permeable membrane (tonoplast).\n\nFunction:\n\nIn Plants: Single, large, and permanent; maintains cellular turgor pressure and stores sap.\n\nIn Animals: Small, temporary, and contractile/phagocytic (regulates excretion and pinocytosis).\n\n12. Lysosome\n\nFound In: Mainly Animal Cells\n\nStructure: Single membrane-bound vesicle containing concentrated hydrolytic and digestive enzymes.\n\nFunction: Acts as the \"suicide bag\" — breaks down damaged organelles, macromolecules, and ingested pathogens via autophagy.\n\n13. Centrosome (Centrioles)\n\nFound In: Animal Cells Only\n\nStructure: Pair of perpendicular, non-membrane cylindrical structures composed of nine microtubule triplets.\n\nFunction: Organizes spindle fibers to separate sister chromatids during mitotic and meiotic cell division.",
-          "quiz": []
+          "quiz": [
+            {
+              "quizId": "quiz_ai_1792049836896_0_m63yd",
+              "question": "Which of the following cellular components is responsible for the synthesis of steroid hormones in endocrine cells?",
+              "optionA": "Rough Endoplasmic Reticulum",
+              "optionB": "Smooth Endoplasmic Reticulum",
+              "optionC": "Golgi Apparatus",
+              "optionD": "Free Ribosomes",
+              "correctAnswer": "B",
+              "explanation": "Steroid and lipid synthesis occurs strictly in the Smooth Endoplasmic Reticulum (SER). RER synthesizes proteins.",
+              "diagramUrl": "",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              }
+            },
+            {
+              "quizId": "quiz_ai_1792049836896_1_i9awk",
+              "question": "Which of these organelles contains $70\\text{S}$ ribosomes within a eukaryotic cell?",
+              "optionA": "Mitochondrion",
+              "optionB": "Nucleolus",
+              "optionC": "Lysosome",
+              "optionD": "Golgi apparatus",
+              "correctAnswer": "A",
+              "explanation": "Mitochondria and chloroplasts contain prokaryotic-like $70\\text{S}$ ribosomes and circular DNA, supporting the endosymbiotic theory.",
+              "diagramUrl": "",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              }
+            },
+            {
+              "quizId": "quiz_ai_1792049836896_2_6ey8f",
+              "question": "An organelle rich in hydrolytic enzymes that ruptures during cellular autolysis is the:",
+              "optionA": "Peroxisome",
+              "optionB": "Centrosome",
+              "optionC": "Lysosome",
+              "optionD": "Vacuole",
+              "correctAnswer": "C",
+              "explanation": "Lysosomes are known as 'suicide bags' because they contain lytic/hydrolytic enzymes used for programmed cell destruction.",
+              "diagramUrl": "",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              }
+            },
+            {
+              "quizId": "quiz_ai_1792049836896_3_gx965",
+              "question": "Which structure is present in a cell of *Euglena* but entirely absent in an onion epidermal cell?",
+              "optionA": "Mitochondria",
+              "optionB": "Gullet and flagellum",
+              "optionC": "Cellulose cell wall",
+              "optionD": "Chloroplast",
+              "correctAnswer": "B",
+              "explanation": "*Euglena* possesses animal-like locomotory and feeding structures (flagellum and gullet/cytostome) which are absent in plant cells like the onion epidermis.",
+              "diagramUrl": "",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              }
+            },
+            {
+              "quizId": "quiz_ai_1792049836896_4_56bow",
+              "question": "The primary function of the cristae in the mitochondrion is to:",
+              "optionA": "Store hereditary genetic instructions",
+              "optionB": "Increase surface area for ATP-generating enzymes",
+              "optionC": "Synthesize cytoplasmic structural proteins",
+              "optionD": "Maintain osmotic stability within the matrix",
+              "correctAnswer": "B",
+              "explanation": "The inner mitochondrial membrane folds into cristae to maximize the surface area available for the electron transport chain and ATP synthase complexes.",
+              "diagramUrl": "",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              }
+            }
+          ]
         },
         {
           "sectionId": "sec_1791745744872_0fvli",
-          "title": "1.3 Levels of Organization of Life",
-          "content": "Living organisms display a spectrum of structural complexity ranging from simple single-celled microscopic forms to highly complex multicellular plants and animals.The five recognized levels of biological organization in logical increasing order are: $$\\text{Cell} \\longrightarrow \\text{Tissue} \\longrightarrow \\text{Organ} \\longrightarrow \\text{System} \\longrightarrow \\text{Organism}$$\n\nLevel 1: \n\nCell Level (Unicellular / Acellular Organisms)\nAt this level, a single independent cell carries out all fundamental life processes (nutrition, respiration, excretion, movement, reproduction) necessary for survival.\nExamples of unicellular organisms operating at the cell level:\nEuglena viridis: A microscopic photosynthetic flagellate that exhibits both plant-like features (possesses chloroplasts, pyrenoid for starch storage) and animal-like features (possesses flagellum for locomotion, eye-spot/stigma for light perception, pellicle instead of cell wall, contractile vacuole for osmoregulation).\nParamecium caudatum: A slipper-shaped freshwater ciliate with cilia for movement, micro- and macro-nuclei, oral groove for feeding, and contractile vacuoles for water regulation.\nAmoeba proteus: An irregular unicellular organism that moves and feeds using pseudopodia (false feet) via phagocytosis.\n\nLevel 2: Tissue Level\n\n\nA tissue is defined as a group or aggregation of similar cells performing a specific, common function.\nExamples of tissue-level organization:\nIn Animals (Hydra): Hydra is a diploblastic multicellular organism composed of two main cell layers — an outer ectoderm (protective/sensory tissue) and an inner endoderm (digestive tissue) separated by a non-cellular mesoglea. It operates primarily at the tissue level because it lacks distinct organs.\nEpithelial Tissue: Covers and protects body surfaces and internal cavities in animals.\nVascular Tissues in Plants:\n\n- Xylem Tissue: Transports water and mineral salts from roots to leaves.\n- Phloem Tissue: Translocates manufactured organic food (sucrose) from leaves to other plant parts.\n\nLevel 3: Organ Level\nAn organ is a structure composed of two or more different types of tissues combined together to perform one or more specific bodily functions.\nExamples of organs:\nPlant Organs:\nOnion Bulb: A specialized underground storage leaf organ made of fleshy scale leaves, dermal tissue, vascular tissue, and storage parenchymal tissue.\nRhizome, Tuber, Leaf, Stem, Root, Flower.\nAnimal Organs:\nHeart: Organ composed of muscular tissue, nervous tissue, epithelial tissue, and connective tissue designed to pump blood.\nKidney, Liver, Eye, Brain, Skin, Stomach.\n\nLevel 4: System Level\n\nA system is a group of interrelated organs working together in a coordinated manner to accomplish a major biological life process for the body.\nMajor examples of animal systems:\nDigestive System: Mouth, esophagus, stomach, small intestine, large intestine, liver, and pancreas working together to ingest, break down, and absorb food nutrients.\nReproductive System: Testes, ovaries, ducts, and accessory glands performing gamete production and offspring development.\nExcretory System: Kidneys, ureters, urinary bladder, urethra, lungs, and skin eliminating metabolic chemical wastes.\nCirculatory, Respiratory, Nervous, Skeletal, Endocrine Systems.\nMajor plant systems:\nShoot System: Stems, leaves, flowers, and fruits operating above ground.\nRoot System: Primary, secondary, and lateral roots anchoring the plant and absorbing nutrients below ground.\n",
-          "quiz": []
+          "title": "1.2 Cell Structure and Functions of Cell Components",
+          "content": "The cell is the basic structural, functional, and biological unit of all living organisms. In UTME, questions hinge on distinguishing organelle ultrastructures and specific metabolic roles.\n\n### Key Organelles & High-Yield Functions\n* **Mitochondria:** Powerhouse of the cell; site of aerobic respiration and ATP generation. Features inner foldings called *cristae* ($A_{\\text{surface}}$ booster) and contains its own circular DNA.\n* **Ribosomes:** Non-membrane-bound granular structures; site of translation (protein synthesis).\n* **Endoplasmic Reticulum (ER):** \n  - *Rough ER (RER):* Studded with ribosomes; synthesizes and transports proteins.\n  - *Smooth ER (SER):* Synthesizes lipids/steroids and detoxifies drugs.\n* **Golgi Apparatus:** Modifies, packages, and sorts macromolecules for secretion.\n* **Lysosomes:** Contain hydrolytic enzymes for intracellular digestion and autolysis (\"suicide bags\").\n* **Chloroplasts:** Double-membraned plastids containing chlorophyll, thylakoids, and stroma; site of photosynthesis.\n\n```text\n+-------------------------------------------------------+\n|                   GENERALIZED CELL                    |\n|  [Cell Wall]* -> (Only in Plants: Cellulose, Rigid)   |\n|  +-------------------------------------------------+  |\n|  | Plasma Membrane: Selectively Permeable Bilayer  |  |\n|  |   [Nucleus: Chromatin + Nucleolus]              |  |\n|  |   [Mitochondrion: Cristae -> ATP]               |  |\n|  |   [RER: Ribosomes] ---> [Golgi: Packaging]      |  |\n|  |   [Chloroplast]* / [Lysosome]**                 |  |\n|  +-------------------------------------------------+  |\n+-------------------------------------------------------+\n*Plant only   **Prominent in Animal\n```\n\n> **Examiner's Trap:** JAMB often asks about the permeability of the **cell wall** vs **cell membrane**. The cellulose cell wall is **completely permeable** to water and solutes, while the plasma membrane is **selectively/differentially permeable**.\n\n> **HDA Exam Shortcut / Speed Hack:** Apply the **\"N-M-C Rule\"** for double-membraned organelles with independent DNA: **N**ucleus, **M**itochondria, and **C**hloroplast. If an option asks for an autonomous organelle outside the nucleus, eliminate single-membraned structures immediately!",
+          "quiz": [
+            {
+              "quizId": "quiz_ai_1792056651392_0_wfclu",
+              "question": "Which of the following cellular components is completely permeable to dissolved solutes?",
+              "optionA": "Plasmalemma",
+              "optionB": "Tonoplast",
+              "optionC": "Cellulose cell wall",
+              "optionD": "Nuclear envelope",
+              "options": [
+                "Plasmalemma",
+                "Tonoplast",
+                "Cellulose cell wall",
+                "Nuclear envelope"
+              ],
+              "correct_option": "C",
+              "correctAnswer": "C",
+              "correctOptionIndex": 2,
+              "explanation": "The cellulose cell wall is fully permeable, allowing water and dissolved substances to pass freely. In contrast, the plasmalemma and tonoplast are selectively permeable.",
+              "diagramUrl": "",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              }
+            },
+            {
+              "quizId": "quiz_ai_1792056651392_1_k8zch",
+              "question": "An organelle isolated from a rat liver cell is found to contain acid hydrolases capable of breaking down foreign debris. This organelle is the:",
+              "optionA": "Ribosome",
+              "optionB": "Lysosome",
+              "optionC": "Peroxisome",
+              "optionD": "Centrosome",
+              "options": [
+                "Ribosome",
+                "Lysosome",
+                "Peroxisome",
+                "Centrosome"
+              ],
+              "correct_option": "B",
+              "correctAnswer": "B",
+              "correctOptionIndex": 1,
+              "explanation": "Lysosomes are the digestive units of the cell containing hydrolytic enzymes for autolysis and defense. Ribosomes lack membranes and catalyze protein synthesis.",
+              "diagramUrl": "",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              }
+            },
+            {
+              "quizId": "quiz_ai_1792056651392_2_5k2rs",
+              "question": "During an experiment, a drug selectively inhibits the synthesis of steroid hormones in an animal cell. Which organelle is directly affected?",
+              "optionA": "Rough Endoplasmic Reticulum",
+              "optionB": "Smooth Endoplasmic Reticulum",
+              "optionC": "Golgi apparatus",
+              "optionD": "Nucleolus",
+              "options": [
+                "Rough Endoplasmic Reticulum",
+                "Smooth Endoplasmic Reticulum",
+                "Golgi apparatus",
+                "Nucleolus"
+              ],
+              "correct_option": "B",
+              "correctAnswer": "B",
+              "correctOptionIndex": 1,
+              "explanation": "The Smooth ER is responsible for lipid and steroid biosynthesis as well as drug detoxification. The Rough ER focuses on protein synthesis.",
+              "diagramUrl": "",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              }
+            },
+            {
+              "quizId": "quiz_ai_1792056651392_3_1e1wr",
+              "question": "Which of the following organelles possesses a double membrane and its own circular genetic material?",
+              "optionA": "Mitochondrion",
+              "optionB": "Ribosome",
+              "optionC": "Golgi body",
+              "optionD": "Vacuole",
+              "options": [
+                "Mitochondrion",
+                "Ribosome",
+                "Golgi body",
+                "Vacuole"
+              ],
+              "correct_option": "A",
+              "correctAnswer": "A",
+              "correctOptionIndex": 0,
+              "explanation": "Remember the HDA 'N-M-C Rule': Nucleus, Mitochondria, and Chloroplasts have double membranes and their own DNA. Ribosomes, Golgi bodies, and vacuoles do not.",
+              "diagramUrl": "",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              }
+            },
+            {
+              "quizId": "quiz_ai_1792056651392_4_avnwx",
+              "question": "The primary structural advantage of the cristae in the mitochondrion is to:",
+              "optionA": "Store excess glycogen granules",
+              "optionB": "Prevent water entry via osmosis",
+              "optionC": "Increase the surface area for enzyme attachment",
+              "optionD": "Protect mitochondrial DNA from mutation",
+              "options": [
+                "Store excess glycogen granules",
+                "Prevent water entry via osmosis",
+                "Increase the surface area for enzyme attachment",
+                "Protect mitochondrial DNA from mutation"
+              ],
+              "correct_option": "C",
+              "correctAnswer": "C",
+              "correctOptionIndex": 2,
+              "explanation": "The extensive folding of the inner mitochondrial membrane into cristae maximizes the surface area for ATP synthase and electron transport chain complexes.",
+              "diagramUrl": "",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              }
+            }
+          ]
         }
       ]
     }
