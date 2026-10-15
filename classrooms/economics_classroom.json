@@ -1,0 +1,99 @@
+{
+  "subject": "Economics",
+  "syllabus": "JAMB",
+  "modules": [
+    {
+      "moduleId": "mod_1792069445900_1",
+      "title": "Module 1: Introduction To Economics as a Science",
+      "sections": [
+        {
+          "sectionId": "sec_1792069445900_1",
+          "title": "1.1 . Basic Concepts: Wants, Scarcity, choice, scale of preference, opportunity cost, Rationality, production, distribution, consumption.",
+          "content": "Economics is a social science that studies how human beings allocate scarce resources to satisfy unlimited wants. \n\nAccording to Lionel Robbins (1932), \"Economics is the science which studies human behavior as a relationship between ends and scarce means which have alternative uses.\"It is classified as a social science because it applies scientific methods (observation, hypothesis, data collection, and laws) to study dynamic human behavior under the assumption of Ceteris Paribus (all other things being equal).\n\nCore Economic Concepts\n\nWants: The unlimited, competitive, and recurring desires of human beings for goods and services (e.g., wanting a phone, mobile data, or new clothes).\n\nScarcity: The fundamental economic problem where resources are permanently limited relative to infinite human wants.\n\nChoice: Selecting specific wants out of many due to limited resources and income.\n\nScale of Preference: A list of an individual's unsatisfied wants arranged in order of priority or relative importance. It helps allocate limited income efficiently to maximize satisfaction.\n\nOpportunity Cost (Real Cost): The next best alternative forgone when a choice is made. It is the physical item sacrificed (e.g., foregoing a pair of shoes to buy a textbook), NOT the money spent.\n\nJAMB Exam Focus: Lionel Robbins' definition is the standard tested in UTME. Remember: Opportunity cost is always the item forgone, never the money spent or the item purchased!\n\nBasic Economic Activities\n\nProduction: The creation of utility to satisfy human wants. It is complete only when goods reach the final consumer.\n\nPrimary production: Extractive activities (e.g., farming, crude oil drilling).\n\nSecondary production: Manufacturing and processing (e.g., turning cassava into garri, refining crude oil).\n\nTertiary production: Commercial and personal services (e.g., banking, transport, teaching).\n\nDistribution: Moving goods from producers to final consumers through channel middlemen:\n$$\\text{Producer} \\longrightarrow \\text{Wholesaler} \\longrightarrow \\text{Retailer} \\longrightarrow \\text{Consumer}$$",
+          "quiz": [
+            {
+              "quizId": "quiz_1792072757030_2lv5n",
+              "question": "According to Lionel Robbins, the central economic problem facing society is:",
+              "diagramUrl": "",
+              "optionA": "The excess supply of goods",
+              "optionB": "Unlimited wants competing against scarce resources",
+              "optionC": "High inflation and unemployment",
+              "optionD": "The lack of paper currency",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "B"
+            },
+            {
+              "quizId": "quiz_1792072817288_4ooni",
+              "question": "An arrangement of an individual's unsatisfied wants in order of priority is called a:",
+              "diagramUrl": "",
+              "optionA": "Demand schedule",
+              "optionB": "Scale of preference",
+              "optionC": "Budget line",
+              "optionD": "Production possibility curve",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "B"
+            },
+            {
+              "quizId": "quiz_1792072817585_w70nt",
+              "question": "A student has $N5,000$ and buys a textbook instead of a pair of shoes. The opportunity cost of buying the textbook is:",
+              "diagramUrl": "",
+              "optionA": "The knowledge gained from the textbook",
+              "optionB": "The pair of shoes forgone",
+              "optionC": "The $N5,000$ cash spent",
+              "optionD": "The time spent at the bookstore",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "B"
+            },
+            {
+              "quizId": "quiz_1792073274290_f2wth",
+              "question": "In economics, production is considered complete only when goods and services:",
+              "diagramUrl": "",
+              "optionA": "Are manufactured in the factory",
+              "optionB": "Are stored safely in a warehouse",
+              "optionC": "Reach the final consumer",
+              "optionD": "Are advertised on television",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "C"
+            },
+            {
+              "quizId": "quiz_1792073275105_r9w5y",
+              "question": "A baker purchasing a bag of flour to bake bread for commercial sale is engaging in:",
+              "diagramUrl": "",
+              "optionA": "Direct consumption",
+              "optionB": "Productive (indirect) consumption",
+              "optionC": "Primary production",
+              "optionD": "Productive (indirect) consumption",
+              "optionImages": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "correctAnswer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
