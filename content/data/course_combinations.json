@@ -1,0 +1,107 @@
+[
+  {
+    "id": "course-medicine-surgery",
+    "courseName": "Medicine & Surgery",
+    "faculty": "Medical & Health Sciences",
+    "utmeSubjects": [
+      "Use of English",
+      "Biology",
+      "Chemistry",
+      "Physics"
+    ],
+    "oLevelCredits": [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics"
+    ],
+    "competitiveScore": "280+",
+    "maxSittings": 1,
+    "adviceTip": "Extremely competitive in top federal institutions (UI, UNILAG, UNN, OAU). Only 1 sitting accepted in UI and UNILAG. Candidates must attain 280+ in UTME and score high in Post-UTME screening."
+  },
+  {
+    "id": "course-computer-science",
+    "courseName": "Computer Science",
+    "faculty": "Sciences",
+    "utmeSubjects": [
+      "Use of English",
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ],
+    "oLevelCredits": [
+      "English Language",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology"
+    ],
+    "competitiveScore": "250+",
+    "maxSittings": 2,
+    "adviceTip": "UNILAG and FUTA require Further Mathematics in O'Level for credit consideration. Some federal universities accept Economics or Geography in place of Chemistry."
+  },
+  {
+    "id": "course-law",
+    "courseName": "Law / Common & Islamic Law",
+    "faculty": "Law",
+    "utmeSubjects": [
+      "Use of English",
+      "Literature in English",
+      "Government",
+      "CRS"
+    ],
+    "oLevelCredits": [
+      "English Language",
+      "Mathematics",
+      "Literature in English",
+      "Government",
+      "CRS"
+    ],
+    "competitiveScore": "270+",
+    "maxSittings": 1,
+    "adviceTip": "Credit pass in Literature in English and at least a pass/credit in Mathematics is mandatory at O'Level. UNILAG, UNN, and UI strictly demand 1 sitting for faculty of law admission."
+  },
+  {
+    "id": "course-accounting",
+    "courseName": "Accounting",
+    "faculty": "Social & Management Sciences",
+    "utmeSubjects": [
+      "Use of English",
+      "Mathematics",
+      "Economics",
+      "Principles of Accounts"
+    ],
+    "oLevelCredits": [
+      "English Language",
+      "Mathematics",
+      "Economics",
+      "Principles of Accounts",
+      "Commerce"
+    ],
+    "competitiveScore": "240+",
+    "maxSittings": 2,
+    "adviceTip": "Economics and Mathematics are compulsory for almost all universities. Commerce or Government may be substituted for Accounts in institutions where Financial Accounting is not strictly enforced."
+  },
+  {
+    "id": "course-nursing-science",
+    "courseName": "Nursing Science",
+    "faculty": "Medical & Health Sciences",
+    "utmeSubjects": [
+      "Use of English",
+      "Biology",
+      "Chemistry",
+      "Physics"
+    ],
+    "oLevelCredits": [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics"
+    ],
+    "competitiveScore": "260+",
+    "maxSittings": 1,
+    "adviceTip": "Most teaching hospitals and university faculties of nursing require all 5 science credits in one sitting (WAEC/NECO). NABTEB is not accepted in several federal universities."
+  }
+]
