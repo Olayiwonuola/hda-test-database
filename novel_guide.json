@@ -15,7 +15,8 @@
         "Mrs. Ibidun Gloss’s Reaction: The school Managing Director is bewildered because Bepo has never exhibited erratic conduct in his decades of stellar service.",
         "Symbolism of \"Dusk\": Represents the sudden encroaching darkness of exhaustion, unspoken personal distress, and psychological crisis.",
         "Key JAMB Detail: Note the exact sequence of events on the assembly ground and the immediate rumors sparked among the student body."
-      ]
+      ],
+      "quiz": []
     },
     {
       "chapterNumber": 2,
@@ -26,7 +27,8 @@
         "Economic Realities: Contrast between Bepo’s immense professional prestige in Lekki and the punishing macroeconomic cost of living in Lagos.",
         "The \"Japa\" Motif: Portrays migration not merely as ambition, but as an agonizing psychological rift between national loyalty and family survival.",
         "JAMB Exam Trap: Bepo does not want to leave because he despises Nigeria; he is emotionally coerced by external family demands."
-      ]
+      ],
+      "quiz": []
     },
     {
       "chapterNumber": 3,
@@ -37,7 +39,8 @@
         "Genesis of the Moniker: How community admiration and educational results cemented his identity as \"The Lekki Headmaster\".",
         "Pedagogical Philosophy: Mentorship and character molding take precedence over mere rote memorization.",
         "JAMB Question Target: Identify the historical educational values that shaped Bepo’s unyielding ethical stance."
-      ]
+      ],
+      "quiz": []
     },
     {
       "chapterNumber": 4,
@@ -48,7 +51,8 @@
         "Differing Perspectives: Spiritual warfare vs. socioeconomic exhaustion vs. psychological mental health crisis.",
         "Counselor’s Intervention: Mrs. Egbin highlights that leaders bear immense hidden emotional baggage without institutional outlets.",
         "JAMB Quote Focus: Pay attention to Mr. Wande’s statements on faith vs. resilience during staff meetings."
-      ]
+      ],
+      "quiz": []
     },
     {
       "chapterNumber": 5,
@@ -58,7 +62,8 @@
         "Mrs. Gloss’s Concessions: Offers higher remuneration, reduced administrative burdens, and flexible leave.",
         "Bepo’s Frank Confession: Clarifies that his existential crisis transcends salary—it concerns national respect and existential purpose.",
         "Institutional Fragility: Highlights how private school success often hinges entirely on the integrity of a single dedicated leader."
-      ]
+      ],
+      "quiz": []
     },
     {
       "chapterNumber": 6,
@@ -68,7 +73,8 @@
         "Symbolism of the Atlantic Coastline: Represents the geographic and emotional chasm separating Bepo from his overseas family.",
         "Trophies & Letters: Concrete tokens of the lives he touched, making his potential departure feel like a betrayal of his calling.",
         "Technological Tension: International phone calls and WhatsApp messages serve as instruments of domestic coercion."
-      ]
+      ],
+      "quiz": []
     },
     {
       "chapterNumber": 7,
@@ -78,7 +84,8 @@
         "Succession Plan: Bepo identifies Vice Principal Mrs. Grace Apeh as the most capable hand to take over Stardom Schools.",
         "The Locked Drawer: Represents his subconscious resistance to actually walking away from his lifelong mission.",
         "Irony of Mock Exam Planning: Bepo organizes exams for students preparing for their future while facing the dissolution of his own."
-      ]
+      ],
+      "quiz": []
     },
     {
       "chapterNumber": 8,
@@ -88,7 +95,8 @@
         "Inter-House Sports Festival: Serves as the emotional emotional climax where the community’s genuine love is on full display.",
         "Angel’s Testimony: How Bepo’s personal pastoral intervention preserved a vulnerable student’s academic future.",
         "The Turning Point: The contrast between being an esteemed builder of men in Nigeria vs. an anonymous foreign laborer abroad."
-      ]
+      ],
+      "quiz": []
     },
     {
       "chapterNumber": 9,
@@ -98,7 +106,8 @@
         "Setting: The Visa Application Center in Victoria Island, Lagos.",
         "Consular Official’s Observation: Surprised that a premier headmaster would abandon high status for foreign uncertainty.",
         "The Epiphany: Bepo recognizes that mass exodus leaves Nigeria’s youth vulnerable to intellectual abandonment."
-      ]
+      ],
+      "quiz": []
     },
     {
       "chapterNumber": 10,
@@ -108,7 +117,8 @@
         "Student Placards: Authentic slogans demonstrating students’ deep psychological attachment to Bepo.",
         "Examination Year Vulnerability: SSS 3 candidates feel orphaned at the threshold of their decisive transition.",
         "Peaceful Protest: Highlights the moral authority Bepo commanded across the school spectrum."
-      ]
+      ],
+      "quiz": []
     },
     {
       "chapterNumber": 11,
@@ -119,7 +129,8 @@
         "The Decisive Choice: Stepping out of the boarding line at the point of departure.",
         "Moral Distinction: Prioritizing existential calling and national duty over societal peer pressure.",
         "JAMB High-Probability Question: What happens at the airport? Bepo chooses not to board the flight."
-      ]
+      ],
+      "quiz": []
     },
     {
       "chapterNumber": 12,
@@ -130,7 +141,8 @@
         "The Return Speech: \"Dawn over Stardom: Standing Firm for the Future\"—a foundational text for JAMB reading comprehension.",
         "Resolution: Bepo’s recommitment to national development through youth empowerment and pedagogical excellence.",
         "Final Lesson: Character, sacrifice, and integrity are the ultimate bedrock of national transformation."
-      ]
+      ],
+      "quiz": []
     },
     {
       "chapterNumber": 13,
@@ -139,7 +151,8 @@
       "highYieldPoints": [
         "Wellness Curriculum: Introduction of emotional health counseling for high-achieving exam candidates.",
         "Island-Mainland Bridge: Scholarship initiative bringing mainland scholars to Stardom Schools."
-      ]
+      ],
+      "quiz": []
     },
     {
       "chapterNumber": 14,
@@ -148,7 +161,8 @@
       "highYieldPoints": [
         "Institutional Sustainability: Transitioning from personality-driven leadership to institutional culture.",
         "Teacher Welfare Advocacy: Advocating for fair compensation and dignity for secondary school educators."
-      ]
+      ],
+      "quiz": []
     },
     {
       "chapterNumber": 15,
@@ -157,7 +171,8 @@
       "highYieldPoints": [
         "Valedictory Triumph: Validation of Bepo’s decision through stellar national exam results.",
         "Ultimate Core Message: Dedication, resilience, and patriotism triumph over escapism and despair."
-      ]
+      ],
+      "quiz": []
     }
   ],
   "characters": [
@@ -210,39 +225,5 @@
       "significance": "The catalysts of Bepo’s crisis. Living abroad in the UK, they view remaining in Nigeria as foolishness and relentlessly urge him to abandon Stardom Schools for Western opportunities."
     }
   ],
-  "themes": [
-    {
-      "id": "theme-1",
-      "theme": "The \"Japa\" Syndrome & Brain Drain",
-      "analysis": "The novel provides a searing critique of the mass migration wave emptying Nigeria of its finest minds. Rather than demonizing those who leave, Garba explores the genuine economic despair driving them, while simultaneously showcasing the profound societal tragedy of intellectual abandonment."
-    },
-    {
-      "id": "theme-2",
-      "theme": "Leadership, Integrity & Pedagogical Vocation",
-      "analysis": "Teaching is depicted not just as a job, but as a sacred priesthood of character formation. Bepo exemplifies the ideal educator who shapes students’ moral compass and refuses to reduce education to a transactional enterprise."
-    },
-    {
-      "id": "theme-3",
-      "theme": "Mental Health & Vulnerability of Leaders",
-      "analysis": "The text courageously breaks the African cultural taboo surrounding men’s and leaders’ emotional vulnerability. Bepo’s public breakdown on the assembly ground highlights the crushing toll of suppressing personal anxiety while serving as an pillars of strength for others."
-    },
-    {
-      "id": "theme-4",
-      "theme": "Island vs. Mainland Socioeconomic Disparities",
-      "analysis": "Set in affluent Lekki, the novel constantly references the economic juxtaposition between the wealthy Island elites and the struggling mainland workers who commute daily, exposing the fragile social contract in contemporary Lagos."
-    },
-    {
-      "id": "theme-5",
-      "theme": "Patriotism vs. Personal Fulfillment",
-      "analysis": "The central philosophical question: Is it foolish to sacrifice foreign comfort for a struggling motherland? The novel answers with a resounding affirmation of rootedness, arguing that national rebirth depends on those willing to stay and build."
-    }
-  ],
-  "linkedQuestionIds": [
-    601,
-    20,
-    105,
-    302,
-    450
-  ],
-  "updatedAt": "2026-10-20T17:04:53.302Z"
+  "updatedAt": "2026-10-21T05:58:40.861Z"
 }
