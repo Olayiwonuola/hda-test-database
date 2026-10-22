@@ -2,7 +2,7 @@
   "config": {
     "durationMinutes": 20,
     "passingScore": 90,
-    "maxSubjects": 1,
+    "maxSubjects": 4,
     "isLocked": true,
     "nextTestDate": "2026-10-29T13:12:00.000Z",
     "examTitle": "HDA WEEKLY MOCK 01",
