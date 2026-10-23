@@ -2,7 +2,7 @@
   "config": {
     "durationMinutes": 45,
     "passingScore": 90,
-    "maxSubjects": 3,
+    "maxSubjects": 4,
     "isLocked": false,
     "nextTestDate": "",
     "examTitle": "HDA WEEKLY 01",
