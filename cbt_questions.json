@@ -3,7 +3,7 @@
     "durationMinutes": 5,
     "passingScore": 50,
     "maxSubjects": 4,
-    "isLocked": true,
+    "isLocked": false,
     "nextTestDate": "2026-10-24T09:22:00.000Z",
     "examTitle": "HDA WEEKLY 01",
     "curator": "Olayiwola"
