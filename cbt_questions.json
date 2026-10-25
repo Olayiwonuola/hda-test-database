@@ -75,30 +75,6 @@
       "createdAt": "2026-10-22T15:45:26.751Z"
     },
     {
-      "id": "cbt_1792751172442_fm553q",
-      "subject": "Economics",
-      "year": 2026,
-      "question": "A demand which gives rise to the reverse of the law of demand is__________",
-      "options": {
-        "A": "Derived demand",
-        "B": "Joint demand",
-        "C": "Abnormal demand",
-        "D": "Composite demand"
-      },
-      "option_a": "Derived demand",
-      "option_b": "Joint demand",
-      "option_c": "Abnormal demand",
-      "option_d": "Composite demand",
-      "correctOption": "C",
-      "correct_option": "C",
-      "instruction": "",
-      "diagramUrl": "",
-      "image": null,
-      "explanation": "",
-      "passage": null,
-      "createdAt": "2026-10-23T10:26:12.442Z"
-    },
-    {
       "id": "cbt_1792918278174_uzyi02",
       "subject": "Literature in English",
       "year": 2026,
