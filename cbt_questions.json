@@ -1,8 +1,8 @@
 {
   "config": {
-    "durationMinutes": 1,
+    "durationMinutes": 2,
     "passingScore": 50,
-    "maxSubjects": 1,
+    "maxSubjects": 2,
     "isLocked": false,
     "nextTestDate": "",
     "examTitle": "HDA WEEKLY 05",
@@ -28,6 +28,30 @@
       "passage": "Solve the following",
       "createdAt": "2026-10-05T16:53:26.215Z",
       "isLive": true
+    },
+    {
+      "id": "cbt_1792954547046_e46quq",
+      "subject": "Physics",
+      "year": 2026,
+      "question": "hello",
+      "options": {
+        "A": "hu",
+        "B": "hi",
+        "C": "hb",
+        "D": "hm"
+      },
+      "option_a": "hu",
+      "option_b": "hi",
+      "option_c": "hb",
+      "option_d": "hm",
+      "correctOption": "B",
+      "correct_option": "B",
+      "instruction": "",
+      "diagramUrl": "",
+      "image": null,
+      "explanation": "",
+      "passage": null,
+      "createdAt": "2026-10-25T18:55:47.046Z"
     }
   ]
 }
