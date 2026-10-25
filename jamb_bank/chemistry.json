@@ -1,5 +1,24 @@
 [
   {
+    "id": 1792956171236,
+    "alocId": null,
+    "subject": "chemistry",
+    "year": "HD model 1",
+    "category": "Model Exam",
+    "topic": "separation technique",
+    "instruction": "",
+    "image": "",
+    "question": "The components of universal indicator solution can best be\nseparated by?",
+    "options": {
+      "a": "chromatography",
+      "b": " filtration",
+      "c": "Fractional distillation",
+      "d": "crystallization"
+    },
+    "correctOption": "A",
+    "explanation": "Because chromatography separates the components of the universal indicator solution using a solvent moving over a porous, adsorbent medium e.g. paper or gel. (A)"
+  },
+  {
     "id": 3106,
     "alocId": null,
     "subject": "chemistry",
