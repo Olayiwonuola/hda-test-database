@@ -492,8 +492,10 @@
       "c": "Chemical",
       "d": "Potential"
     },
-    "correctOption": "D",
-    "explanation": "No detailed explanation provided."
+    "correctOption": "C",
+    "explanation": "Food stores energy within the chemical bonds of its constituent molecules (such as carbohydrates, fats, and proteins), which is released during metabolism. ",
+    "correct_option": "C",
+    "answer": "C"
   },
   {
     "id": 2622,
