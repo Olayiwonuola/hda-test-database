@@ -1,24 +1,5 @@
 [
   {
-    "id": 1792951897345,
-    "alocId": null,
-    "subject": "physics",
-    "year": "h",
-    "category": "Past Question",
-    "topic": "general",
-    "instruction": "",
-    "image": "",
-    "question": "",
-    "options": {
-      "a": "",
-      "b": "",
-      "c": "",
-      "d": ""
-    },
-    "correctOption": "A",
-    "explanation": ""
-  },
-  {
     "id": 2088,
     "alocId": null,
     "subject": "physics",
