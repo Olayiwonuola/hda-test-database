@@ -46,5 +46,13 @@
     "question_text": "The statement 'By 1910, the motor car was plainly conquering the highway' means that",
     "exam_mode": "JAMB Practice",
     "created_at": "2026-11-15T17:24:31.717Z"
+  },
+  {
+    "id": 7,
+    "question_id": "448",
+    "subject": "Use of English",
+    "question_text": "These job cuts are just the thin end of the wedge",
+    "exam_mode": "JAMB Practice",
+    "created_at": "2026-11-15T17:40:54.011Z"
   }
 ]
