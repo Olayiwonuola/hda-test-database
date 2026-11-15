@@ -1,5 +1,26 @@
 [
   {
+    "id": "course-1794773343124",
+    "courseName": "Chemical Engineering",
+    "faculty": "Engineering & Technology",
+    "utmeSubjects": [
+      "Use of English",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
+    ],
+    "oLevelCredits": [
+      "English Language",
+      "Mathematics",
+      "Chemistry",
+      "Physics",
+      "Further Mathematics"
+    ],
+    "competitiveScore": "280+",
+    "maxSittings": 1,
+    "adviceTip": "Some schools accept biology instead of further mathematics"
+  },
+  {
     "id": "course-medicine-surgery",
     "courseName": "Medicine & Surgery",
     "faculty": "Medical & Health Sciences",
