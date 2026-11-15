@@ -58,9 +58,8 @@
       "Chemistry",
       "Biology"
     ],
-    "competitiveScore": "250+",
-    "maxSittings": 2,
-    "adviceTip": "UNILAG and FUTA require Further Mathematics in O'Level for credit consideration. Some federal universities accept Economics or Geography in place of Chemistry."
+    "competitiveScore": "280+",
+    "maxSittings": 2
   },
   {
     "id": "course-law",
@@ -91,18 +90,18 @@
       "Use of English",
       "Mathematics",
       "Economics",
-      "Principles of Accounts"
+      "Government"
     ],
     "oLevelCredits": [
       "English Language",
       "Mathematics",
       "Economics",
       "Principles of Accounts",
-      "Commerce"
+      "Government"
     ],
-    "competitiveScore": "240+",
+    "competitiveScore": "270+",
     "maxSittings": 2,
-    "adviceTip": "Economics and Mathematics are compulsory for almost all universities. Commerce or Government may be substituted for Accounts in institutions where Financial Accounting is not strictly enforced."
+    "adviceTip": "Government or Accounting In JAMB"
   },
   {
     "id": "course-nursing-science",
@@ -122,7 +121,6 @@
       "Physics"
     ],
     "competitiveScore": "260+",
-    "maxSittings": 1,
-    "adviceTip": "Most teaching hospitals and university faculties of nursing require all 5 science credits in one sitting (WAEC/NECO). NABTEB is not accepted in several federal universities."
+    "maxSittings": 1
   }
 ]
