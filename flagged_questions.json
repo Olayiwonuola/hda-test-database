@@ -126,5 +126,13 @@
     "question_text": "He was underrated at the <u>preliminary</u> stage of the competition",
     "exam_mode": "JAMB Practice",
     "created_at": "2026-11-15T19:10:17.950Z"
+  },
+  {
+    "id": 17,
+    "question_id": "64",
+    "subject": "Use of English",
+    "question_text": "Select the correct option for the space numbered 22 in the above passage",
+    "exam_mode": "JAMB Practice",
+    "created_at": "2026-11-15T19:58:36.442Z"
   }
 ]
