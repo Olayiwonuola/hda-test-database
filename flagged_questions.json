@@ -142,5 +142,13 @@
     "question_text": "Issue of prospectus is an invitation to the Public to",
     "exam_mode": "JAMB Practice",
     "created_at": "2026-11-15T22:32:49.156Z"
+  },
+  {
+    "id": "1794782458963",
+    "question_id": "cbt_1792954547046_e46quq",
+    "subject": "Physics",
+    "question_text": "hello",
+    "exam_mode": "JAMB Practice Review",
+    "created_at": "2026-11-15T22:40:57.881Z"
   }
 ]
