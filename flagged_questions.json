@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "question_id": "86",
+    "subject": "Use of English",
+    "question_text": "Which of the following aptly describes the moral of the story?",
+    "exam_mode": "JAMB Practice",
+    "created_at": "2026-11-15T13:34:20.991Z"
+  },
+  {
+    "id": 2,
+    "question_id": "80",
+    "subject": "Use of English",
+    "question_text": "In question number 17 above choose the best option from letters A- E that best complete the gap",
+    "exam_mode": "JAMB Practice",
+    "created_at": "2026-11-15T13:34:25.950Z"
+  },
+  {
+    "id": 3,
+    "question_id": "704",
+    "subject": "Use of English",
+    "question_text": "own",
+    "exam_mode": "JAMB Practice",
+    "created_at": "2026-11-15T17:06:22.020Z"
+  },
+  {
+    "id": 4,
+    "question_id": "315",
+    "subject": "Use of English",
+    "question_text": "Valedictory.",
+    "exam_mode": "JAMB Practice",
+    "created_at": "2026-11-15T17:06:27.443Z"
+  },
+  {
+    "id": 5,
+    "question_id": "279",
+    "subject": "Use of English",
+    "question_text": "<u>Ch</u>urch?",
+    "exam_mode": "JAMB Practice",
+    "created_at": "2026-11-15T17:24:11.382Z"
+  },
+  {
+    "id": 6,
+    "question_id": "215",
+    "subject": "Use of English",
+    "question_text": "The statement 'By 1910, the motor car was plainly conquering the highway' means that",
+    "exam_mode": "JAMB Practice",
+    "created_at": "2026-11-15T17:24:31.717Z"
+  }
+]
