@@ -1,6 +1,6 @@
 {
   "config": {
-    "durationMinutes": 2,
+    "durationMinutes": 5,
     "passingScore": 50,
     "maxSubjects": 2,
     "isLocked": false,
