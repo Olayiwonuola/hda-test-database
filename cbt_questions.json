@@ -3,7 +3,7 @@
     "durationMinutes": 5,
     "passingScore": 50,
     "maxSubjects": 4,
-    "isLocked": false,
+    "isLocked": true,
     "nextTestDate": "2026-11-17T22:58:00.000Z",
     "examTitle": "HDA WEEKLY",
     "curator": "Adewale"
