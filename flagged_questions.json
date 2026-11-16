@@ -190,5 +190,13 @@
     "question_text": "We must not [foreclose] reconciliation as the purpose of his trip",
     "exam_mode": "JAMB Practice",
     "created_at": "2026-11-16T20:40:58.076Z"
+  },
+  {
+    "id": 3,
+    "question_id": "889",
+    "subject": "Use of English",
+    "question_text": "Many people would always find reasons to ... the law",
+    "exam_mode": "JAMB Practice",
+    "created_at": "2026-11-16T20:41:01.341Z"
   }
 ]
