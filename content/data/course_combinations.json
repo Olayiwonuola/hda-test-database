@@ -1,5 +1,26 @@
 [
   {
+    "id": "course-1794945171377",
+    "courseName": "Business Administration",
+    "faculty": "Social & Management Sciences",
+    "utmeSubjects": [
+      "Use of English",
+      "Mathematics",
+      "Government",
+      "Economics"
+    ],
+    "oLevelCredits": [
+      "English Language",
+      "Mathematics",
+      "Economics",
+      "Government",
+      "Principles of Accounts"
+    ],
+    "competitiveScore": "260+",
+    "maxSittings": 1,
+    "adviceTip": "Government or Accounting in UTME"
+  },
+  {
     "id": "course-1794773343124",
     "courseName": "Chemical Engineering",
     "faculty": "Engineering & Technology",
