@@ -3,654 +3,493 @@
   "syllabus": "JAMB",
   "modules": [
     {
-      "moduleId": "mod_1795123284768_vw83jy",
-      "id": "mod_1795123284768_vw83jy",
-      "title": "Module 1: Separation of Mixtures and Purification",
+      "moduleId": "chm_mod_1",
+      "id": "chm_mod_1",
+      "title": "Module 1: Separation Techniques, Stoichiometry, Gas Laws, and Atomic Structure",
       "sortOrder": 0,
       "sections": [
         {
-          "sectionId": "sec_1795123284768_c15bi5",
-          "id": "sec_1795123284768_c15bi5",
-          "title": "1.1 Methods of Separation",
+          "sectionId": "chm_sec_1_1",
+          "id": "chm_sec_1_1",
+          "title": "1. Separation of Mixtures and Purification of Chemical Substances",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "separation",
-            "mixtures"
+            "separation-techniques",
+            "mixtures",
+            "purification"
           ],
           "keywords": [
-            "filtration",
             "distillation",
+            "fractional distillation",
+            "sublimation",
             "chromatography",
-            "evaporation",
-            "crystallization"
+            "crystallization",
+            "filtration",
+            "decantation",
+            "boiling point",
+            "melting point"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284768_3fnh9m",
-          "id": "sec_1795123284768_3fnh9m",
-          "title": "1.2 Purity of Substances",
+          "sectionId": "chm_sec_1_2",
+          "id": "chm_sec_1_2",
+          "title": "2. Chemical Combination and Stoichiometry",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "purity",
-            "melting_point",
-            "boiling_point"
+            "stoichiometry",
+            "chemical-combination",
+            "mole-concept"
           ],
           "keywords": [
-            "pure substance",
-            "melting point",
-            "boiling point",
-            "impurity"
+            "definite proportions",
+            "multiple proportions",
+            "conservation of matter",
+            "Gay-Lussac",
+            "Avogadro",
+            "mole concept",
+            "molar mass",
+            "empirical formula"
           ],
           "sortOrder": 1
+        },
+        {
+          "sectionId": "chm_sec_1_3",
+          "id": "chm_sec_1_3",
+          "title": "3. Kinetic Theory of Matter and Gas Laws",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "gas-laws",
+            "kinetic-theory"
+          ],
+          "keywords": [
+            "Brownian movement",
+            "Boyle's law",
+            "Charles' law",
+            "Graham's law",
+            "Dalton's law",
+            "ideal gas equation",
+            "molar volume",
+            "vapour density"
+          ],
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "chm_sec_1_4",
+          "id": "chm_sec_1_4",
+          "title": "4. Atomic Structure, Periodic Table, Bonding, and Nuclear Chemistry",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "atomic-structure",
+            "periodic-table",
+            "chemical-bonding",
+            "nuclear-chemistry"
+          ],
+          "keywords": [
+            "isotopes",
+            "orbitals",
+            "ionization energy",
+            "electronegativity",
+            "electrovalency",
+            "covalency",
+            "hydrogen bonding",
+            "coordinate bond",
+            "van der Waals",
+            "tetrahedral",
+            "pyramidal",
+            "radioactivity",
+            "half-life"
+          ],
+          "sortOrder": 3
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284768_tuzah9",
-      "id": "mod_1795123284768_tuzah9",
-      "title": "Module 2: Atomic Structure",
+      "moduleId": "chm_mod_2",
+      "id": "chm_mod_2",
+      "title": "Module 2: Air, Water, Solubility, and Environmental Pollution",
       "sortOrder": 1,
       "sections": [
         {
-          "sectionId": "sec_1795123284768_3uxe02",
-          "id": "sec_1795123284768_3uxe02",
-          "title": "2.1 Atomic Theory and Structure",
+          "sectionId": "chm_sec_2_1",
+          "id": "chm_sec_2_1",
+          "title": "5. Air and Its Constituents",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "atomic_structure",
-            "atomic_theory"
+            "air",
+            "noble-gases"
           ],
           "keywords": [
-            "proton",
-            "neutron",
-            "electron",
-            "nucleus",
-            "atomic number",
-            "mass number"
+            "constituents of air",
+            "nitrogen",
+            "oxygen",
+            "noble gases",
+            "argon",
+            "neon",
+            "fractional distillation of liquid air"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284768_a2a78z",
-          "id": "sec_1795123284768_a2a78z",
-          "title": "2.2 Isotopes and Electronic Configuration",
+          "sectionId": "chm_sec_2_2",
+          "id": "chm_sec_2_2",
+          "title": "6. Water, Hardness, and Water of Crystallization",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "isotopes",
-            "electronic_configuration"
+            "water",
+            "hardness-of-water"
           ],
           "keywords": [
-            "isotope",
-            "nuclide",
-            "electron shells",
-            "subshells",
-            "orbitals"
+            "hard water",
+            "soft water",
+            "temporary hardness",
+            "permanent hardness",
+            "town water supply",
+            "water of crystallization",
+            "efflorescence",
+            "deliquescence",
+            "hygroscopy"
           ],
           "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284768_j9cak1",
-      "id": "mod_1795123284768_j9cak1",
-      "title": "Module 3: The Periodic Table",
-      "sortOrder": 2,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284768_r80nyw",
-          "id": "sec_1795123284768_r80nyw",
-          "title": "3.1 Groups and Periods",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "periodic_table",
-            "periods",
-            "groups"
-          ],
-          "keywords": [
-            "period",
-            "group",
-            "valence electrons",
-            "periodicity"
-          ],
-          "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284768_vu19xq",
-          "id": "sec_1795123284768_vu19xq",
-          "title": "3.2 Periodic Trends",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "periodic_trends",
-            "atomic_radius",
-            "electronegativity"
-          ],
-          "keywords": [
-            "atomic radius",
-            "ionization energy",
-            "electron affinity",
-            "electronegativity"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284768_wkrtkn",
-      "id": "mod_1795123284768_wkrtkn",
-      "title": "Module 4: Chemical Bonding",
-      "sortOrder": 3,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284768_1f1gfl",
-          "id": "sec_1795123284768_1f1gfl",
-          "title": "4.1 Ionic and Covalent Bonds",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "ionic_bond",
-            "covalent_bond"
-          ],
-          "keywords": [
-            "electrovalent",
-            "covalent",
-            "dative bond",
-            "Lewis structure"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284768_xulavz",
-          "id": "sec_1795123284768_xulavz",
-          "title": "4.2 Metallic Bonding and Intermolecular Forces",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "metallic_bond",
-            "intermolecular_forces"
-          ],
-          "keywords": [
-            "van der Waals",
-            "hydrogen bond",
-            "dipole",
-            "metallic lattice"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284768_p3h6mk",
-      "id": "mod_1795123284768_p3h6mk",
-      "title": "Module 5: Stoichiometry and Chemical Reactions",
-      "sortOrder": 4,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284768_dvtx0g",
-          "id": "sec_1795123284768_dvtx0g",
-          "title": "5.1 Chemical Equations and Mole Concept",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "mole_concept",
-            "chemical_equations"
-          ],
-          "keywords": [
-            "mole",
-            "Avogadro constant",
-            "molar mass",
-            "stoichiometry"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284768_vcds8r",
-          "id": "sec_1795123284768_vcds8r",
-          "title": "5.2 Limiting Reagent and Percentage Yield",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "limiting_reagent",
-            "percentage_yield"
-          ],
-          "keywords": [
-            "excess reagent",
-            "theoretical yield",
-            "actual yield"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284768_q2reou",
-      "id": "mod_1795123284768_q2reou",
-      "title": "Module 6: States of Matter and Gas Laws",
-      "sortOrder": 5,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284768_b0c7mf",
-          "id": "sec_1795123284768_b0c7mf",
-          "title": "6.1 Properties of Solids, Liquids and Gases",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "states_of_matter"
-          ],
-          "keywords": [
-            "kinetic theory",
-            "intermolecular spacing",
-            "phase change"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284768_9jtql1",
-          "id": "sec_1795123284768_9jtql1",
-          "title": "6.2 Gas Laws",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "gas_laws",
-            "ideal_gas"
-          ],
-          "keywords": [
-            "Boyle's law",
-            "Charles' law",
-            "ideal gas equation",
-            "molar volume"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284768_do6mjr",
-      "id": "mod_1795123284768_do6mjr",
-      "title": "Module 7: Solutions and Solubility",
-      "sortOrder": 6,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284768_d86qmu",
-          "id": "sec_1795123284768_d86qmu",
-          "title": "7.1 Types of Solutions and Concentration",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "solutions",
-            "concentration"
-          ],
-          "keywords": [
-            "solute",
-            "solvent",
-            "molarity",
-            "molality",
-            "mole fraction"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284768_5kij1q",
-          "id": "sec_1795123284768_5kij1q",
-          "title": "7.2 Solubility and Solubility Curves",
+          "sectionId": "chm_sec_2_3",
+          "id": "chm_sec_2_3",
+          "title": "7. Solubility, Suspensions, and Colloids",
           "content": "",
           "quiz": [],
           "question_tags": [
             "solubility",
-            "solubility_curve"
+            "colloids"
           ],
           "keywords": [
             "saturated solution",
-            "unsaturated solution",
             "supersaturated",
-            "solubility product"
+            "solubility curve",
+            "suspensions",
+            "colloids",
+            "solvents"
           ],
-          "sortOrder": 1
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "chm_sec_2_4",
+          "id": "chm_sec_2_4",
+          "title": "8. Environmental Pollution",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "environmental-pollution",
+            "pollution"
+          ],
+          "keywords": [
+            "air pollution",
+            "water pollution",
+            "soil pollution",
+            "CFCs",
+            "biodegradable",
+            "non-biodegradable",
+            "oil spillage",
+            "sewage"
+          ],
+          "sortOrder": 3
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284768_hvuzvo",
-      "id": "mod_1795123284768_hvuzvo",
-      "title": "Module 8: Acids, Bases and Salts",
-      "sortOrder": 7,
+      "moduleId": "chm_mod_3",
+      "id": "chm_mod_3",
+      "title": "Module 3: Acids/Bases/Salts, Redox, Electrochemistry, Energetics, and Equilibrium",
+      "sortOrder": 2,
       "sections": [
         {
-          "sectionId": "sec_1795123284768_fu8zr6",
-          "id": "sec_1795123284768_fu8zr6",
-          "title": "8.1 Theories of Acids and Bases",
+          "sectionId": "chm_sec_3_1",
+          "id": "chm_sec_3_1",
+          "title": "9. Acids, Bases, Salts, pH, Titrations, and Salt Hydrolysis",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "acids",
-            "bases",
-            "acid_base_theories"
+            "acids-bases-salts",
+            "titration",
+            "ph",
+            "hydrolysis"
           ],
           "keywords": [
-            "Arrhenius",
-            "Brønsted-Lowry",
-            "Lewis acid",
-            "Lewis base"
+            "basicity",
+            "double salts",
+            "alum",
+            "pH",
+            "pOH",
+            "acid-base titration",
+            "indicators",
+            "hydrolysis of salts"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284768_9o7wps",
-          "id": "sec_1795123284768_9o7wps",
-          "title": "8.2 pH and Neutralization",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "pH",
-            "neutralization"
-          ],
-          "keywords": [
-            "pH scale",
-            "indicator",
-            "titration",
-            "salt formation"
-          ],
-          "sortOrder": 1
-        },
-        {
-          "sectionId": "sec_1795123284768_gq5t1s",
-          "id": "sec_1795123284768_gq5t1s",
-          "title": "8.3 Preparation and Properties of Salts",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "salts",
-            "salt_preparation"
-          ],
-          "keywords": [
-            "normal salt",
-            "acid salt",
-            "double salt",
-            "hydration"
-          ],
-          "sortOrder": 2
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284768_057umi",
-      "id": "mod_1795123284768_057umi",
-      "title": "Module 9: Redox Reactions and Electrochemistry",
-      "sortOrder": 8,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284768_u6kgol",
-          "id": "sec_1795123284768_u6kgol",
-          "title": "9.1 Oxidation, Reduction and Oxidation States",
+          "sectionId": "chm_sec_3_2",
+          "id": "chm_sec_3_2",
+          "title": "10. Oxidation and Reduction (Redox)",
           "content": "",
           "quiz": [],
           "question_tags": [
             "redox",
-            "oxidation_states"
+            "oxidation-reduction"
           ],
           "keywords": [
+            "oxidation number",
+            "electron transfer",
             "oxidizing agent",
             "reducing agent",
-            "oxidation number",
-            "half-reaction"
+            "IUPAC nomenclature"
           ],
-          "sortOrder": 0
+          "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284768_8dth12",
-          "id": "sec_1795123284768_8dth12",
-          "title": "9.2 Electrolysis",
+          "sectionId": "chm_sec_3_3",
+          "id": "chm_sec_3_3",
+          "title": "11. Electrolysis, Electrochemical Cells, and Corrosion",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "electrolysis"
+            "electrolysis",
+            "electrochemistry",
+            "corrosion"
           ],
           "keywords": [
-            "electrolyte",
-            "anode",
-            "cathode",
+            "electrolytes",
             "Faraday's laws",
+            "preferential discharge",
+            "electrochemical series",
+            "electrode potential",
+            "cathodic protection",
             "electroplating"
           ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284768_4odgsw",
-      "id": "mod_1795123284768_4odgsw",
-      "title": "Module 10: Energy Changes in Chemical Reactions",
-      "sortOrder": 9,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284768_hgd5jo",
-          "id": "sec_1795123284768_hgd5jo",
-          "title": "10.1 Enthalpy Changes",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "enthalpy",
-            "thermochemistry"
-          ],
-          "keywords": [
-            "exothermic",
-            "endothermic",
-            "Hess's law",
-            "enthalpy of combustion"
-          ],
-          "sortOrder": 0
+          "sortOrder": 2
         },
         {
-          "sectionId": "sec_1795123284768_k79r0l",
-          "id": "sec_1795123284768_k79r0l",
-          "title": "10.2 Reaction Rates and Activation Energy",
+          "sectionId": "chm_sec_3_4",
+          "id": "chm_sec_3_4",
+          "title": "12. Energy Changes, Entropy, and Spontaneity",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "reaction_rate",
-            "activation_energy"
+            "energetics",
+            "thermodynamics",
+            "enthalpy"
           ],
           "keywords": [
-            "rate of reaction",
+            "endothermic",
+            "exothermic",
+            "enthalpy",
+            "entropy",
+            "spontaneity",
+            "Gibbs free energy"
+          ],
+          "sortOrder": 3
+        },
+        {
+          "sectionId": "chm_sec_3_5",
+          "id": "chm_sec_3_5",
+          "title": "13. Rates of Chemical Reaction and Activation Energy",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "rates-of-reaction",
+            "kinetics"
+          ],
+          "keywords": [
+            "reaction rate",
+            "surface area",
             "catalyst",
+            "reaction rate curves",
             "activation energy",
+            "Arrhenius law",
             "collision theory"
           ],
-          "sortOrder": 1
+          "sortOrder": 4
+        },
+        {
+          "sectionId": "chm_sec_3_6",
+          "id": "chm_sec_3_6",
+          "title": "14. Chemical Equilibrium",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "chemical-equilibrium"
+          ],
+          "keywords": [
+            "reversible reactions",
+            "dynamic equilibrium",
+            "Le Chatelier's principle",
+            "equilibrium constant"
+          ],
+          "sortOrder": 5
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284768_31xyyw",
-      "id": "mod_1795123284768_31xyyw",
-      "title": "Module 11: Chemical Equilibrium",
-      "sortOrder": 10,
+      "moduleId": "chm_mod_4",
+      "id": "chm_mod_4",
+      "title": "Module 4: Non-Metals, Metals, and Their Compounds",
+      "sortOrder": 3,
       "sections": [
         {
-          "sectionId": "sec_1795123284768_3l8op8",
-          "id": "sec_1795123284768_3l8op8",
-          "title": "11.1 Dynamic Equilibrium and Le Chatelier's Principle",
+          "sectionId": "chm_sec_4_1",
+          "id": "chm_sec_4_1",
+          "title": "15. Non-Metals and Their Compounds (H, Halogens, O, S, N, C)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "equilibrium",
-            "le_chateliers_principle"
+            "non-metals",
+            "halogens",
+            "sulphur",
+            "nitrogen",
+            "carbon"
           ],
           "keywords": [
-            "equilibrium constant",
-            "Le Chatelier",
-            "Kc",
-            "Kp",
-            "reversible reaction"
-          ],
-          "sortOrder": 0
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284768_xtndhy",
-      "id": "mod_1795123284768_xtndhy",
-      "title": "Module 12: Chemistry of Carbon Compounds",
-      "sortOrder": 11,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284768_x15jzo",
-          "id": "sec_1795123284768_x15jzo",
-          "title": "12.1 Hydrocarbons: Alkanes, Alkenes and Alkynes",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "hydrocarbons",
-            "alkanes",
-            "alkenes",
-            "alkynes"
-          ],
-          "keywords": [
-            "homologous series",
-            "saturation",
-            "addition reaction",
-            "substitution reaction"
+            "hydrogen",
+            "chlorine",
+            "ozone",
+            "Contact process",
+            "Haber process",
+            "ammonia",
+            "trioxonitrate(V) acid",
+            "allotropes of carbon",
+            "destructive distillation of coal"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284768_vx34fo",
-          "id": "sec_1795123284768_vx34fo",
-          "title": "12.2 Functional Groups and Organic Reactions",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "functional_groups",
-            "organic_reactions"
-          ],
-          "keywords": [
-            "alcohol",
-            "carboxylic acid",
-            "ester",
-            "amide",
-            "aldehyde",
-            "ketone"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284768_cp02gg",
-      "id": "mod_1795123284768_cp02gg",
-      "title": "Module 13: Chemistry of Metals",
-      "sortOrder": 12,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284768_jxaxg3",
-          "id": "sec_1795123284768_jxaxg3",
-          "title": "13.1 Extraction and Properties of Metals",
+          "sectionId": "chm_sec_4_2",
+          "id": "chm_sec_4_2",
+          "title": "16. Metals, Transition Metals, Extraction, and Alloys",
           "content": "",
           "quiz": [],
           "question_tags": [
             "metals",
-            "extraction_of_metals"
+            "transition-metals",
+            "alloys"
           ],
           "keywords": [
-            "ore",
-            "smelting",
-            "electrolysis",
+            "Solvay process",
+            "bauxite",
+            "aluminium",
+            "iron extraction",
             "blast furnace",
-            "reactivity series"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284768_kwsaf1",
-          "id": "sec_1795123284768_kwsaf1",
-          "title": "13.2 Alloys and Corrosion",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
+            "copper",
+            "tin",
+            "transition series",
             "alloys",
-            "corrosion"
-          ],
-          "keywords": [
-            "steel",
-            "bronze",
             "brass",
-            "rusting",
-            "galvanization",
-            "sacrificial protection"
+            "bronze",
+            "duralumin"
           ],
           "sortOrder": 1
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284768_99oqc6",
-      "id": "mod_1795123284768_99oqc6",
-      "title": "Module 14: Non-Metals and their Compounds",
-      "sortOrder": 13,
+      "moduleId": "chm_mod_5",
+      "id": "chm_mod_5",
+      "title": "Module 5: Organic Chemistry and Chemical Industry",
+      "sortOrder": 4,
       "sections": [
         {
-          "sectionId": "sec_1795123284768_5akwqd",
-          "id": "sec_1795123284768_5akwqd",
-          "title": "14.1 Hydrogen, Oxygen and Nitrogen",
+          "sectionId": "chm_sec_5_1",
+          "id": "chm_sec_5_1",
+          "title": "17a. Hydrocarbons (Alkanes, Alkenes, Alkynes, and Benzene)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "non_metals",
-            "hydrogen",
-            "oxygen",
-            "nitrogen"
+            "organic-chemistry",
+            "hydrocarbons"
           ],
           "keywords": [
-            "Haber process",
-            "Ostwald process",
-            "water test",
-            "combustion supporter"
+            "homologous series",
+            "isomerism",
+            "cracking",
+            "reforming",
+            "octane number",
+            "ethyne",
+            "benzene",
+            "vulcanization"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284768_zydtyy",
-          "id": "sec_1795123284768_zydtyy",
-          "title": "14.2 Halogens and their Compounds",
+          "sectionId": "chm_sec_5_2",
+          "id": "chm_sec_5_2",
+          "title": "17b. Alkanols, Alkanals/Alkanones, Alkanoic Acids, Alkanoates, and Amines",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "halogens",
-            "halides"
+            "organic-chemistry",
+            "alkanols",
+            "esters",
+            "alkanoic-acids"
           ],
           "keywords": [
-            "chlorine",
-            "fluorine",
-            "bromine",
-            "iodine",
-            "bleaching",
-            "displacement reaction"
+            "fermentation",
+            "Lucas test",
+            "alkanals",
+            "alkanones",
+            "esterification",
+            "saponification",
+            "soaps and detergents",
+            "amines"
           ],
           "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795153729453_ri3onk",
-      "id": "mod_1795153729453_ri3onk",
-      "title": "Module 15",
-      "sortOrder": 14,
-      "sections": [
+        },
         {
-          "sectionId": "sec_1795153737318_vkhg0n",
-          "id": "sec_1795153737318_vkhg0n",
-          "title": "Subtopic 15.1",
+          "sectionId": "chm_sec_5_3",
+          "id": "chm_sec_5_3",
+          "title": "17c. Carbohydrates, Proteins, Enzymes, and Polymers",
           "content": "",
           "quiz": [],
-          "question_tags": [],
-          "keywords": [],
-          "sortOrder": 0
+          "question_tags": [
+            "carbohydrates",
+            "proteins",
+            "polymers",
+            "organic-chemistry"
+          ],
+          "keywords": [
+            "monosaccharides",
+            "polysaccharides",
+            "Biuret test",
+            "Millon's test",
+            "xanthoproteic",
+            "addition polymerization",
+            "condensation polymerization",
+            "thermoplastics",
+            "thermosetting"
+          ],
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "chm_sec_5_4",
+          "id": "chm_sec_5_4",
+          "title": "18. Chemistry and Industry (Chemical Industries & Biotechnology)",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "chemical-industry",
+            "biotechnology"
+          ],
+          "keywords": [
+            "fine chemicals",
+            "heavy chemicals",
+            "raw materials",
+            "biotechnology",
+            "industrial processes"
+          ],
+          "sortOrder": 3
         }
       ]
     }
