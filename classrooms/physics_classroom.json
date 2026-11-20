@@ -3,388 +3,218 @@
   "syllabus": "JAMB",
   "modules": [
     {
-      "moduleId": "mod_1795123284756_g02xwy",
-      "id": "mod_1795123284756_g02xwy",
-      "title": "Module 1: Measurement and Units",
+      "moduleId": "phy_mod_1",
+      "id": "phy_mod_1",
+      "title": "Module 1: Measurements, Scalars/Vectors, and Mechanics",
       "sortOrder": 0,
       "sections": [
         {
-          "sectionId": "sec_1795123284756_8us9gy",
-          "id": "sec_1795123284756_8us9gy",
-          "title": "1.1 Fundamental and Derived Quantities",
+          "sectionId": "phy_sec_1_1",
+          "id": "phy_sec_1_1",
+          "title": "1. Measurements and Units",
           "content": "",
           "quiz": [],
           "question_tags": [
             "measurement",
-            "fundamental_quantities"
+            "units",
+            "dimensions"
           ],
           "keywords": [
-            "SI units",
-            "base quantities",
-            "derived quantities"
+            "vernier calipers",
+            "micrometer screw gauge",
+            "beam balance",
+            "dimensions",
+            "homogeneity",
+            "significant figures",
+            "standard form",
+            "displacement",
+            "frame of reference"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284756_qp0c7x",
-          "id": "sec_1795123284756_qp0c7x",
-          "title": "1.2 Dimensions and Dimensional Analysis",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "dimensions",
-            "dimensional_analysis"
-          ],
-          "keywords": [
-            "dimensional formula",
-            "homogeneity",
-            "derived units"
-          ],
-          "sortOrder": 1
-        },
-        {
-          "sectionId": "sec_1795123284756_hfauvw",
-          "id": "sec_1795123284756_hfauvw",
-          "title": "1.3 Measurement Errors and Accuracy",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "errors",
-            "accuracy",
-            "precision"
-          ],
-          "keywords": [
-            "systematic error",
-            "random error",
-            "significant figures"
-          ],
-          "sortOrder": 2
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284756_7i5vhv",
-      "id": "mod_1795123284756_7i5vhv",
-      "title": "Module 2: Scalars and Vectors",
-      "sortOrder": 1,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284756_1s6vbv",
-          "id": "sec_1795123284756_1s6vbv",
-          "title": "2.1 Scalar and Vector Quantities",
+          "sectionId": "phy_sec_1_2",
+          "id": "phy_sec_1_2",
+          "title": "2. Scalars and Vectors",
           "content": "",
           "quiz": [],
           "question_tags": [
             "scalars",
-            "vectors"
+            "vectors",
+            "relative-velocity"
           ],
           "keywords": [
-            "magnitude",
-            "direction",
-            "displacement",
-            "velocity"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284756_650324",
-          "id": "sec_1795123284756_650324",
-          "title": "2.2 Vector Addition and Resolution",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "vector_addition",
-            "resolution"
-          ],
-          "keywords": [
+            "scalar",
+            "vector",
             "resultant",
-            "components",
-            "parallelogram law",
-            "triangle law"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284756_ffye21",
-      "id": "mod_1795123284756_ffye21",
-      "title": "Module 3: Motion",
-      "sortOrder": 2,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284756_c51ho8",
-          "id": "sec_1795123284756_c51ho8",
-          "title": "3.1 Types of Motion",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "types_of_motion"
-          ],
-          "keywords": [
-            "translational",
-            "rotational",
-            "oscillatory",
-            "random motion"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284756_msdxwg",
-          "id": "sec_1795123284756_msdxwg",
-          "title": "3.2 Equations of Motion",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "equations_of_motion",
-            "kinematics"
-          ],
-          "keywords": [
-            "SUVAT equations",
-            "uniform acceleration",
-            "velocity-time graph"
+            "relative velocity",
+            "resolution of vectors"
           ],
           "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284756_irjmi5",
-          "id": "sec_1795123284756_irjmi5",
-          "title": "3.3 Projectile Motion",
+          "sectionId": "phy_sec_1_3",
+          "id": "phy_sec_1_3",
+          "title": "3. Motion (Linear, Projectiles, Newton's Laws, Circular & S.H.M)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "projectile_motion"
+            "motion",
+            "projectiles",
+            "newtons-laws",
+            "circular-motion",
+            "simple-harmonic-motion"
           ],
           "keywords": [
-            "trajectory",
+            "uniformly accelerated motion",
+            "projectiles",
             "range",
-            "maximum height",
-            "time of flight"
+            "time of flight",
+            "impulse",
+            "momentum",
+            "centripetal force",
+            "simple harmonic motion",
+            "resonance"
           ],
           "sortOrder": 2
         },
         {
-          "sectionId": "sec_1795123284756_ole1v0",
-          "id": "sec_1795123284756_ole1v0",
-          "title": "3.4 Newton's Laws of Motion",
+          "sectionId": "phy_sec_1_4",
+          "id": "phy_sec_1_4",
+          "title": "4. Gravitational Field",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "newtons_laws",
-            "force"
+            "gravitation",
+            "gravitational-field"
           ],
           "keywords": [
-            "inertia",
-            "momentum",
-            "action-reaction",
-            "net force"
+            "universal gravitation",
+            "gravitational potential",
+            "conservative field",
+            "escape velocity",
+            "parking orbit",
+            "weightlessness"
           ],
           "sortOrder": 3
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284756_fe7glr",
-      "id": "mod_1795123284756_fe7glr",
-      "title": "Module 4: Work, Energy and Power",
-      "sortOrder": 3,
-      "sections": [
+        },
         {
-          "sectionId": "sec_1795123284756_ns7n3w",
-          "id": "sec_1795123284756_ns7n3w",
-          "title": "4.1 Work and Energy",
+          "sectionId": "phy_sec_1_5",
+          "id": "phy_sec_1_5",
+          "title": "5. Equilibrium of Forces",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "equilibrium",
+            "moments",
+            "forces"
+          ],
+          "keywords": [
+            "coplanar forces",
+            "Lami's theorem",
+            "moment of a force",
+            "couple",
+            "torque",
+            "equilibrant",
+            "centre of gravity",
+            "stability"
+          ],
+          "sortOrder": 4
+        },
+        {
+          "sectionId": "phy_sec_1_6",
+          "id": "phy_sec_1_6",
+          "title": "6. Work, Energy, Power, and Energy in Society",
           "content": "",
           "quiz": [],
           "question_tags": [
             "work",
-            "energy"
-          ],
-          "keywords": [
-            "joule",
-            "kinetic energy",
-            "potential energy",
-            "work-energy theorem"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284756_uee8s2",
-          "id": "sec_1795123284756_uee8s2",
-          "title": "4.2 Conservation of Energy",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "conservation_of_energy"
-          ],
-          "keywords": [
-            "mechanical energy",
-            "energy transformation",
-            "isolated system"
-          ],
-          "sortOrder": 1
-        },
-        {
-          "sectionId": "sec_1795123284756_wd9b9l",
-          "id": "sec_1795123284756_wd9b9l",
-          "title": "4.3 Power",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
+            "energy",
             "power"
           ],
           "keywords": [
-            "watt",
-            "rate of work",
-            "efficiency",
-            "horsepower"
+            "conservation of energy",
+            "renewable energy",
+            "non-renewable energy",
+            "dams",
+            "nuclear energy",
+            "solar panel",
+            "greenhouse effect"
           ],
-          "sortOrder": 2
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284756_qd4tjw",
-      "id": "mod_1795123284756_qd4tjw",
-      "title": "Module 5: Friction",
-      "sortOrder": 4,
-      "sections": [
+          "sortOrder": 5
+        },
         {
-          "sectionId": "sec_1795123284756_hr87ou",
-          "id": "sec_1795123284756_hr87ou",
-          "title": "5.1 Types and Laws of Friction",
+          "sectionId": "phy_sec_1_7",
+          "id": "phy_sec_1_7",
+          "title": "7. Friction and Viscosity",
           "content": "",
           "quiz": [],
           "question_tags": [
             "friction",
-            "laws_of_friction"
+            "viscosity"
           ],
           "keywords": [
             "static friction",
-            "kinetic friction",
-            "coefficient of friction",
-            "normal reaction"
+            "dynamic friction",
+            "coefficient of limiting friction",
+            "viscosity",
+            "terminal velocity",
+            "Stoke's law"
           ],
-          "sortOrder": 0
+          "sortOrder": 6
         },
         {
-          "sectionId": "sec_1795123284756_7enoqj",
-          "id": "sec_1795123284756_7enoqj",
-          "title": "5.2 Advantages and Disadvantages of Friction",
+          "sectionId": "phy_sec_1_8",
+          "id": "phy_sec_1_8",
+          "title": "8. Simple Machines",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "friction_applications"
+            "simple-machines",
+            "machines"
           ],
           "keywords": [
-            "lubrication",
-            "bearing",
-            "brake",
-            "surface texture"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284756_aqgw65",
-      "id": "mod_1795123284756_aqgw65",
-      "title": "Module 6: Simple Machines",
-      "sortOrder": 5,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284756_u9nqog",
-          "id": "sec_1795123284756_u9nqog",
-          "title": "6.1 Types of Simple Machines",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "simple_machines"
-          ],
-          "keywords": [
-            "lever",
+            "mechanical advantage",
+            "velocity ratio",
+            "efficiency",
             "pulley",
             "inclined plane",
-            "wheel and axle",
-            "wedge",
-            "screw"
+            "lever"
           ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284756_hqkqct",
-          "id": "sec_1795123284756_hqkqct",
-          "title": "6.2 Mechanical Advantage, Velocity Ratio and Efficiency",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "mechanical_advantage",
-            "efficiency"
-          ],
-          "keywords": [
-            "MA",
-            "VR",
-            "efficiency",
-            "effort",
-            "load"
-          ],
-          "sortOrder": 1
+          "sortOrder": 7
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284756_qr3v1g",
-      "id": "mod_1795123284756_qr3v1g",
-      "title": "Module 7: Elasticity",
-      "sortOrder": 6,
+      "moduleId": "phy_mod_2",
+      "id": "phy_mod_2",
+      "title": "Module 2: Properties of Matter and Fluids",
+      "sortOrder": 1,
       "sections": [
         {
-          "sectionId": "sec_1795123284756_1i17cv",
-          "id": "sec_1795123284756_1i17cv",
-          "title": "7.1 Elastic Properties of Solids",
+          "sectionId": "phy_sec_2_1",
+          "id": "phy_sec_2_1",
+          "title": "9. Elasticity",
           "content": "",
           "quiz": [],
           "question_tags": [
             "elasticity",
-            "hookes_law"
+            "hookes-law"
           ],
           "keywords": [
             "Hooke's law",
-            "spring constant",
+            "Young's modulus",
             "elastic limit",
-            "Young's modulus"
+            "yield point",
+            "breaking point",
+            "spring balance"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284756_49iilm",
-          "id": "sec_1795123284756_49iilm",
-          "title": "7.2 Stress, Strain and Young's Modulus",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "stress",
-            "strain",
-            "youngs_modulus"
-          ],
-          "keywords": [
-            "tensile stress",
-            "compressive strain",
-            "elastic modulus"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284756_mfwi2v",
-      "id": "mod_1795123284756_mfwi2v",
-      "title": "Module 8: Pressure",
-      "sortOrder": 7,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284756_k0eoc3",
-          "id": "sec_1795123284756_k0eoc3",
-          "title": "8.1 Pressure in Solids and Fluids",
+          "sectionId": "phy_sec_2_2",
+          "id": "phy_sec_2_2",
+          "title": "10. Pressure (Atmospheric and in Liquids)",
           "content": "",
           "quiz": [],
           "question_tags": [
@@ -392,43 +222,48 @@
             "fluids"
           ],
           "keywords": [
-            "Pascal",
             "atmospheric pressure",
-            "mercury column",
-            "barometer"
+            "mercury barometer",
+            "aneroid barometer",
+            "manometer",
+            "altimeter",
+            "Pascal's principle"
           ],
-          "sortOrder": 0
+          "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284756_kdu0wm",
-          "id": "sec_1795123284756_kdu0wm",
-          "title": "8.2 Archimedes' Principle and Upthrust",
+          "sectionId": "phy_sec_2_3",
+          "id": "phy_sec_2_3",
+          "title": "11. Liquids at Rest (Archimedes' Principle & Floatation)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "archimedes_principle",
-            "upthrust"
+            "archimedes",
+            "floatation",
+            "density"
           ],
           "keywords": [
-            "buoyancy",
             "density",
             "relative density",
-            "flotation"
+            "upthrust",
+            "Archimedes' principle",
+            "law of floatation",
+            "hydrometer"
           ],
-          "sortOrder": 1
+          "sortOrder": 2
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284756_cjqqdu",
-      "id": "mod_1795123284756_cjqqdu",
-      "title": "Module 9: Temperature and Thermometry",
-      "sortOrder": 8,
+      "moduleId": "phy_mod_3",
+      "id": "phy_mod_3",
+      "title": "Module 3: Thermal Physics",
+      "sortOrder": 2,
       "sections": [
         {
-          "sectionId": "sec_1795123284756_oa7nxv",
-          "id": "sec_1795123284756_oa7nxv",
-          "title": "9.1 Temperature Scales and Measurement",
+          "sectionId": "phy_sec_3_1",
+          "id": "phy_sec_3_1",
+          "title": "12. Temperature and Its Measurement",
           "content": "",
           "quiz": [],
           "question_tags": [
@@ -436,506 +271,494 @@
             "thermometry"
           ],
           "keywords": [
+            "thermometric properties",
             "Celsius",
             "Kelvin",
-            "Fahrenheit",
             "thermometer",
-            "fixed points"
-          ],
-          "sortOrder": 0
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284756_uc7t6r",
-      "id": "mod_1795123284756_uc7t6r",
-      "title": "Module 10: Thermal Expansion",
-      "sortOrder": 9,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284756_cwkj0v",
-          "id": "sec_1795123284756_cwkj0v",
-          "title": "10.1 Linear, Area and Volume Expansion",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "thermal_expansion"
-          ],
-          "keywords": [
-            "coefficient of linear expansion",
-            "superficial expansion",
-            "cubical expansion"
-          ],
-          "sortOrder": 0
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284756_caxpex",
-      "id": "mod_1795123284756_caxpex",
-      "title": "Module 11: Gas Laws",
-      "sortOrder": 10,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284756_gkl9qo",
-          "id": "sec_1795123284756_gkl9qo",
-          "title": "11.1 Boyle's Law",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "boyles_law"
-          ],
-          "keywords": [
-            "pressure-volume",
-            "isothermal",
-            "constant temperature"
+            "calibration"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284756_4ggy8z",
-          "id": "sec_1795123284756_4ggy8z",
-          "title": "11.2 Charles' Law",
+          "sectionId": "phy_sec_3_2",
+          "id": "phy_sec_3_2",
+          "title": "13. Thermal Expansion (Solids and Liquids)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "charles_law"
+            "thermal-expansion",
+            "expansion"
           ],
           "keywords": [
-            "volume-temperature",
-            "isobaric",
-            "constant pressure"
+            "linear expansivity",
+            "area expansivity",
+            "volume expansivity",
+            "real and apparent expansivity",
+            "anomalous expansion of water"
           ],
           "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284756_n1cr3p",
-          "id": "sec_1795123284756_n1cr3p",
-          "title": "11.3 General Gas Law and Ideal Gas Equation",
+          "sectionId": "phy_sec_3_3",
+          "id": "phy_sec_3_3",
+          "title": "14. Gas Laws",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "ideal_gas_law",
-            "general_gas_law"
+            "gas-laws"
           ],
           "keywords": [
-            "PV=nRT",
-            "molar gas constant",
-            "Avogadro's number"
+            "Boyle's law",
+            "Charles' law",
+            "Pressure law",
+            "absolute zero",
+            "ideal gas equation",
+            "Van der Waals"
           ],
           "sortOrder": 2
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284756_pg4mz1",
-      "id": "mod_1795123284756_pg4mz1",
-      "title": "Module 12: Heat Transfer",
-      "sortOrder": 11,
-      "sections": [
+        },
         {
-          "sectionId": "sec_1795123284756_z9jts8",
-          "id": "sec_1795123284756_z9jts8",
-          "title": "12.1 Conduction, Convection and Radiation",
+          "sectionId": "phy_sec_3_4",
+          "id": "phy_sec_3_4",
+          "title": "15. Quantity of Heat",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "heat_transfer",
-            "conduction",
-            "convection",
-            "radiation"
+            "heat-capacity",
+            "calorimetry"
           ],
           "keywords": [
-            "thermal conductivity",
-            "convection current",
-            "infrared",
-            "black body"
+            "heat capacity",
+            "specific heat capacity",
+            "method of mixtures",
+            "Newton's law of cooling"
           ],
-          "sortOrder": 0
+          "sortOrder": 3
+        },
+        {
+          "sectionId": "phy_sec_3_5",
+          "id": "phy_sec_3_5",
+          "title": "16. Change of State",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "latent-heat",
+            "change-of-state"
+          ],
+          "keywords": [
+            "latent heat",
+            "specific latent heat of fusion",
+            "vaporization",
+            "melting",
+            "boiling point",
+            "evaporation"
+          ],
+          "sortOrder": 4
+        },
+        {
+          "sectionId": "phy_sec_3_6",
+          "id": "phy_sec_3_6",
+          "title": "17. Vapours and Hygrometry",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "vapours",
+            "humidity"
+          ],
+          "keywords": [
+            "saturated vapour pressure",
+            "dew point",
+            "relative humidity",
+            "hygrometer",
+            "mist",
+            "fog"
+          ],
+          "sortOrder": 5
+        },
+        {
+          "sectionId": "phy_sec_3_7",
+          "id": "phy_sec_3_7",
+          "title": "18. Structure of Matter and Kinetic Theory",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "kinetic-theory",
+            "surface-tension"
+          ],
+          "keywords": [
+            "Brownian motion",
+            "diffusion",
+            "surface tension",
+            "capillarity",
+            "adhesion",
+            "cohesion",
+            "angle of contact"
+          ],
+          "sortOrder": 6
+        },
+        {
+          "sectionId": "phy_sec_3_8",
+          "id": "phy_sec_3_8",
+          "title": "19. Heat Transfer",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "heat-transfer"
+          ],
+          "keywords": [
+            "conduction",
+            "convection",
+            "radiation",
+            "temperature gradient",
+            "thermal conductivity",
+            "thermos flask",
+            "land and sea breeze"
+          ],
+          "sortOrder": 7
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284756_n6bcd3",
-      "id": "mod_1795123284756_n6bcd3",
-      "title": "Module 13: Waves",
-      "sortOrder": 12,
+      "moduleId": "phy_mod_4",
+      "id": "phy_mod_4",
+      "title": "Module 4: Waves, Sound, and Optics",
+      "sortOrder": 3,
       "sections": [
         {
-          "sectionId": "sec_1795123284756_tjc2ba",
-          "id": "sec_1795123284756_tjc2ba",
-          "title": "13.1 Types of Waves and Wave Properties",
+          "sectionId": "phy_sec_4_1",
+          "id": "phy_sec_4_1",
+          "title": "20. Waves (Production, Classification, and Properties)",
           "content": "",
           "quiz": [],
           "question_tags": [
             "waves",
-            "wave_properties"
+            "wave-motion"
           ],
           "keywords": [
-            "transverse wave",
-            "longitudinal wave",
-            "amplitude",
-            "frequency",
             "wavelength",
-            "period"
+            "frequency",
+            "progressive wave",
+            "stationary wave",
+            "interference",
+            "diffraction",
+            "polarization",
+            "beats",
+            "Doppler effect"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284756_rrfhbf",
-          "id": "sec_1795123284756_rrfhbf",
-          "title": "13.2 Superposition, Interference and Diffraction",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "superposition",
-            "interference",
-            "diffraction"
-          ],
-          "keywords": [
-            "constructive interference",
-            "destructive interference",
-            "diffraction grating"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284756_cfek1q",
-      "id": "mod_1795123284756_cfek1q",
-      "title": "Module 14: Sound Waves",
-      "sortOrder": 13,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284756_43b5ti",
-          "id": "sec_1795123284756_43b5ti",
-          "title": "14.1 Properties and Speed of Sound",
+          "sectionId": "phy_sec_4_2",
+          "id": "phy_sec_4_2",
+          "title": "21 & 22. Propagation and Characteristics of Sound Waves",
           "content": "",
           "quiz": [],
           "question_tags": [
             "sound",
-            "speed_of_sound"
-          ],
-          "keywords": [
-            "longitudinal wave",
-            "echo",
-            "reverberation",
             "resonance"
           ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284756_q7hcy1",
-          "id": "sec_1795123284756_q7hcy1",
-          "title": "14.2 Musical Sound and Noise",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "musical_sound",
-            "noise"
-          ],
           "keywords": [
+            "echo",
+            "reverberation",
+            "speed of sound",
             "pitch",
-            "loudness",
             "quality",
-            "timbre",
-            "decibel"
+            "loudness",
+            "overtones",
+            "vibrating strings",
+            "closed and open pipes"
           ],
           "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284757_mxjxl9",
-      "id": "mod_1795123284757_mxjxl9",
-      "title": "Module 15: Light",
-      "sortOrder": 14,
-      "sections": [
+        },
         {
-          "sectionId": "sec_1795123284756_95d0gy",
-          "id": "sec_1795123284756_95d0gy",
-          "title": "15.1 Reflection of Light",
+          "sectionId": "phy_sec_4_3",
+          "id": "phy_sec_4_3",
+          "title": "23 & 24. Light Energy and Reflection at Plane and Curved Surfaces",
           "content": "",
           "quiz": [],
           "question_tags": [
+            "light",
             "reflection",
             "mirrors"
           ],
           "keywords": [
+            "luminous",
+            "pin-hole camera",
+            "eclipse",
             "plane mirror",
             "concave mirror",
             "convex mirror",
-            "image formation"
+            "mirror formula",
+            "magnification",
+            "periscope"
           ],
-          "sortOrder": 0
+          "sortOrder": 2
         },
         {
-          "sectionId": "sec_1795123284756_x9p8m5",
-          "id": "sec_1795123284756_x9p8m5",
-          "title": "15.2 Refraction of Light",
+          "sectionId": "phy_sec_4_4",
+          "id": "phy_sec_4_4",
+          "title": "25. Refraction of Light, Glass Prisms, and Lenses",
           "content": "",
           "quiz": [],
           "question_tags": [
             "refraction",
-            "lenses"
+            "lenses",
+            "optics"
           ],
           "keywords": [
             "Snell's law",
             "refractive index",
+            "real and apparent depth",
+            "total internal reflection",
             "critical angle",
-            "total internal reflection"
+            "minimum deviation",
+            "lens formula",
+            "Newton's formula"
           ],
-          "sortOrder": 1
+          "sortOrder": 3
         },
         {
-          "sectionId": "sec_1795123284757_jm5zdk",
-          "id": "sec_1795123284757_jm5zdk",
-          "title": "15.3 Optical Instruments",
+          "sectionId": "phy_sec_4_5",
+          "id": "phy_sec_4_5",
+          "title": "26. Optical Instruments",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "optical_instruments"
+            "optical-instruments",
+            "optics"
           ],
           "keywords": [
             "microscope",
             "telescope",
-            "periscope",
+            "projector",
             "camera",
-            "projector"
+            "human eye",
+            "power of a lens",
+            "myopia",
+            "hypermetropia",
+            "sight defects"
           ],
-          "sortOrder": 2
+          "sortOrder": 4
+        },
+        {
+          "sectionId": "phy_sec_4_6",
+          "id": "phy_sec_4_6",
+          "title": "27. Dispersion of Light, Colours, and Electromagnetic Spectrum",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "dispersion",
+            "electromagnetic-spectrum"
+          ],
+          "keywords": [
+            "pure spectrum",
+            "colour mixing",
+            "colour filters",
+            "rainbow",
+            "electromagnetic spectrum",
+            "wavelengths"
+          ],
+          "sortOrder": 5
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284757_28c0gu",
-      "id": "mod_1795123284757_28c0gu",
-      "title": "Module 16: Electrostatics",
-      "sortOrder": 15,
+      "moduleId": "phy_mod_5",
+      "id": "phy_mod_5",
+      "title": "Module 5: Electricity and Magnetism",
+      "sortOrder": 4,
       "sections": [
         {
-          "sectionId": "sec_1795123284757_qek79a",
-          "id": "sec_1795123284757_qek79a",
-          "title": "16.1 Electric Charges and Fields",
+          "sectionId": "phy_sec_5_1",
+          "id": "phy_sec_5_1",
+          "title": "28 & 29. Electrostatics and Capacitors",
           "content": "",
           "quiz": [],
           "question_tags": [
             "electrostatics",
-            "electric_field"
+            "capacitors"
           ],
           "keywords": [
+            "electroscope",
             "Coulomb's law",
-            "electric field lines",
-            "charge",
-            "conductor",
-            "insulator"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284757_wz1ji0",
-          "id": "sec_1795123284757_wz1ji0",
-          "title": "16.2 Electric Potential and Capacitance",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "electric_potential",
-            "capacitance"
-          ],
-          "keywords": [
+            "electric field intensity",
             "potential difference",
-            "capacitor",
-            "dielectric",
-            "farad"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284757_67ubr2",
-      "id": "mod_1795123284757_67ubr2",
-      "title": "Module 17: Current Electricity",
-      "sortOrder": 16,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284757_icytun",
-          "id": "sec_1795123284757_icytun",
-          "title": "17.1 Electric Current and Ohm's Law",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "current_electricity",
-            "ohms_law"
-          ],
-          "keywords": [
-            "current",
-            "resistance",
-            "voltage",
-            "ohm",
-            "ampere",
-            "volt"
+            "capacitance",
+            "series and parallel capacitors",
+            "energy stored in a capacitor"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284757_t8058u",
-          "id": "sec_1795123284757_t8058u",
-          "title": "17.2 Electrical Energy and Power",
+          "sectionId": "phy_sec_5_2",
+          "id": "phy_sec_5_2",
+          "title": "30, 31 & 32. Electric Cells, Current Electricity, and Electrical Energy/Power",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "electrical_energy",
-            "electrical_power"
+            "current-electricity",
+            "electric-cells",
+            "electrical-power"
           ],
           "keywords": [
-            "watt",
+            "emf",
+            "internal resistance",
+            "lost volt",
+            "Ohm's law",
+            "metre bridge",
+            "potentiometer",
+            "Kirchhoff's law",
             "kilowatt-hour",
-            "power dissipation"
+            "fuse rating"
           ],
           "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284757_s2gxnx",
-          "id": "sec_1795123284757_s2gxnx",
-          "title": "17.3 Series and Parallel Circuits",
+          "sectionId": "phy_sec_5_3",
+          "id": "phy_sec_5_3",
+          "title": "33 & 34. Magnets, Magnetic Fields, and Force on Current-Carrying Conductors",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "series_circuit",
-            "parallel_circuit"
+            "magnetism",
+            "magnetic-field"
           ],
           "keywords": [
-            "equivalent resistance",
-            "current divider",
-            "voltage divider"
+            "soft iron",
+            "steel",
+            "solenoid",
+            "angle of dip",
+            "declination",
+            "Fleming's left-hand rule",
+            "d.c. motor",
+            "galvanometer",
+            "shunt",
+            "multiplier"
           ],
           "sortOrder": 2
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284757_n0shea",
-      "id": "mod_1795123284757_n0shea",
-      "title": "Module 18: Magnetism and Electromagnetism",
-      "sortOrder": 17,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284757_bfkq9i",
-          "id": "sec_1795123284757_bfkq9i",
-          "title": "18.1 Magnets and Magnetic Fields",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "magnets",
-            "magnetic_field"
-          ],
-          "keywords": [
-            "magnetic flux",
-            "field lines",
-            "permanent magnet",
-            "electromagnet"
-          ],
-          "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284757_g5ilxw",
-          "id": "sec_1795123284757_g5ilxw",
-          "title": "18.2 Electromagnetic Induction",
+          "sectionId": "phy_sec_5_4",
+          "id": "phy_sec_5_4",
+          "title": "35. Electromagnetic Induction and Inductance",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "electromagnetic_induction",
-            "faraday"
+            "electromagnetic-induction",
+            "inductance"
           ],
           "keywords": [
             "Faraday's law",
             "Lenz's law",
-            "induced EMF",
-            "generator"
+            "A.C. and D.C. generators",
+            "transformer",
+            "induction coil",
+            "inductance",
+            "eddy current"
           ],
-          "sortOrder": 1
+          "sortOrder": 3
         },
         {
-          "sectionId": "sec_1795123284757_uesyc5",
-          "id": "sec_1795123284757_uesyc5",
-          "title": "18.3 Transformers and AC Circuits",
+          "sectionId": "phy_sec_5_5",
+          "id": "phy_sec_5_5",
+          "title": "36. Simple A.C. Circuits",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "transformer",
-            "ac_circuits"
+            "ac-circuits"
           ],
           "keywords": [
-            "step-up",
-            "step-down",
-            "turns ratio",
-            "alternating current"
+            "peak value",
+            "r.m.s. value",
+            "capacitive reactance",
+            "inductive reactance",
+            "R-L-C circuit",
+            "impedance",
+            "power factor",
+            "resonance frequency"
           ],
-          "sortOrder": 2
+          "sortOrder": 4
+        },
+        {
+          "sectionId": "phy_sec_5_6",
+          "id": "phy_sec_5_6",
+          "title": "37. Conduction of Electricity Through Liquids and Gases",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "electrolysis",
+            "conduction-in-gases"
+          ],
+          "keywords": [
+            "electrolytes",
+            "Faraday's laws of electrolysis",
+            "electroplating",
+            "discharge through gases"
+          ],
+          "sortOrder": 5
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284757_bxhp07",
-      "id": "mod_1795123284757_bxhp07",
-      "title": "Module 19: Modern Physics",
-      "sortOrder": 18,
+      "moduleId": "phy_mod_6",
+      "id": "phy_mod_6",
+      "title": "Module 6: Modern Physics and Electronics",
+      "sortOrder": 5,
       "sections": [
         {
-          "sectionId": "sec_1795123284757_gekhrg",
-          "id": "sec_1795123284757_gekhrg",
-          "title": "19.1 Photoelectric Effect and Photons",
+          "sectionId": "phy_sec_6_1",
+          "id": "phy_sec_6_1",
+          "title": "38. Elementary Modern Physics",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "photoelectric_effect",
-            "photon"
+            "modern-physics",
+            "radioactivity",
+            "photoelectric"
           ],
           "keywords": [
-            "work function",
-            "threshold frequency",
-            "quantum",
-            "Einstein"
+            "atomic models",
+            "energy levels",
+            "thermionic emission",
+            "photoelectric effect",
+            "stopping potential",
+            "X-rays",
+            "alpha",
+            "beta",
+            "gamma",
+            "half-life",
+            "decay constant",
+            "fission",
+            "fusion",
+            "mass defect",
+            "wave-particle duality",
+            "uncertainty principle"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284757_d3i1jf",
-          "id": "sec_1795123284757_d3i1jf",
-          "title": "19.2 Atomic Structure and Spectra",
+          "sectionId": "phy_sec_6_2",
+          "id": "phy_sec_6_2",
+          "title": "39. Introductory Electronics",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "atomic_structure",
-            "spectra"
+            "electronics",
+            "semiconductors"
           ],
           "keywords": [
-            "Bohr model",
-            "energy levels",
-            "emission spectrum",
-            "absorption spectrum"
+            "semiconductors",
+            "band gap",
+            "intrinsic",
+            "extrinsic",
+            "n-type",
+            "p-type",
+            "diodes",
+            "rectification",
+            "transistors",
+            "amplification"
           ],
           "sortOrder": 1
-        },
-        {
-          "sectionId": "sec_1795123284757_x0onpy",
-          "id": "sec_1795123284757_x0onpy",
-          "title": "19.3 Radioactivity",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "radioactivity"
-          ],
-          "keywords": [
-            "alpha decay",
-            "beta decay",
-            "gamma radiation",
-            "half-life",
-            "nuclear equation"
-          ],
-          "sortOrder": 2
         }
       ]
     }
