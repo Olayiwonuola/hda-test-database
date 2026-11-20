@@ -3,258 +3,325 @@
   "syllabus": "JAMB",
   "modules": [
     {
-      "moduleId": "mod_1795123284880_f86r1p",
-      "id": "mod_1795123284880_f86r1p",
-      "title": "Module 1: Introduction to Literature",
+      "moduleId": "lit_mod_1",
+      "id": "lit_mod_1",
+      "title": "Module 1: Drama and Prescribed Plays",
       "sortOrder": 0,
       "sections": [
         {
-          "sectionId": "sec_1795123284880_93j796",
-          "id": "sec_1795123284880_93j796",
-          "title": "1.1 Genres of Literature",
+          "sectionId": "lit_sec_1_1",
+          "id": "lit_sec_1_1",
+          "title": "1a & 1b. Types of Drama and Dramatic Techniques",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "genres",
-            "literature"
+            "drama",
+            "dramatic-techniques",
+            "types-of-drama"
           ],
           "keywords": [
-            "prose",
-            "poetry",
-            "drama",
-            "fiction",
-            "non-fiction",
-            "oral literature"
+            "tragedy",
+            "comedy",
+            "tragicomedy",
+            "melodrama",
+            "farce",
+            "opera",
+            "characterization",
+            "dialogue",
+            "flashback",
+            "mime",
+            "soliloquy",
+            "aside"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284880_plqu8i",
-          "id": "sec_1795123284880_plqu8i",
-          "title": "1.2 Literary Appreciation and Criticism",
+          "sectionId": "lit_sec_1_2",
+          "id": "lit_sec_1_2",
+          "title": "1c(i). Shakespearean Drama: Antony and Cleopatra (William Shakespeare)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "literary_appreciation",
-            "criticism"
+            "shakespeare",
+            "antony-and-cleopatra",
+            "drama"
           ],
           "keywords": [
-            "theme",
-            "setting",
-            "character",
-            "plot",
-            "point of view",
-            "style"
+            "Antony and Cleopatra",
+            "William Shakespeare",
+            "Mark Antony",
+            "Cleopatra",
+            "Octavius Caesar",
+            "Rome",
+            "Egypt"
           ],
           "sortOrder": 1
+        },
+        {
+          "sectionId": "lit_sec_1_3",
+          "id": "lit_sec_1_3",
+          "title": "1c(ii). African Drama: The Marriage of Anansewa & Once Upon an Elephant",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "african-drama",
+            "the-marriage-of-anansewa",
+            "once-upon-an-elephant"
+          ],
+          "keywords": [
+            "The Marriage of Anansewa",
+            "Efua Sutherland",
+            "Ananse",
+            "Anansewa",
+            "Once Upon an Elephant",
+            "Bosede Ademilua-Afolayan",
+            "Ajanaku"
+          ],
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "lit_sec_1_4",
+          "id": "lit_sec_1_4",
+          "title": "1c(iii). Non-African Drama: An Inspector Calls & A Man for All Seasons",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "non-african-drama",
+            "an-inspector-calls",
+            "a-man-for-all-seasons"
+          ],
+          "keywords": [
+            "An Inspector Calls",
+            "J.B. Priestley",
+            "Inspector Goole",
+            "Birling",
+            "A Man for All Seasons",
+            "Robert Bolt",
+            "Thomas More",
+            "Henry VIII"
+          ],
+          "sortOrder": 3
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284880_7afj8s",
-      "id": "mod_1795123284880_7afj8s",
-      "title": "Module 2: Prose Fiction",
+      "moduleId": "lit_mod_2",
+      "id": "lit_mod_2",
+      "title": "Module 2: Prose and Prescribed Novels",
       "sortOrder": 1,
       "sections": [
         {
-          "sectionId": "sec_1795123284880_89bquh",
-          "id": "sec_1795123284880_89bquh",
-          "title": "2.1 Elements of the Novel and Short Story",
+          "sectionId": "lit_sec_2_1",
+          "id": "lit_sec_2_1",
+          "title": "2a & 2b. Types of Prose and Narrative Techniques",
           "content": "",
           "quiz": [],
           "question_tags": [
+            "prose",
+            "narrative-techniques"
+          ],
+          "keywords": [
             "novel",
-            "short_story",
-            "prose"
-          ],
-          "keywords": [
-            "protagonist",
-            "antagonist",
-            "conflict",
-            "climax",
-            "resolution",
-            "narrative technique"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284880_1lmodg",
-          "id": "sec_1795123284880_1lmodg",
-          "title": "2.2 African Prose and Set Texts",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "african_prose",
-            "set_texts"
-          ],
-          "keywords": [
-            "Things Fall Apart",
-            "Weep Not Child",
-            "Arrow of God",
-            "The Beautyful Ones Are Not Yet Born"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284880_dp9w7x",
-      "id": "mod_1795123284880_dp9w7x",
-      "title": "Module 3: Poetry",
-      "sortOrder": 2,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284880_s0ap3y",
-          "id": "sec_1795123284880_s0ap3y",
-          "title": "3.1 Elements and Types of Poetry",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "poetry",
-            "elements_of_poetry"
-          ],
-          "keywords": [
-            "rhyme",
-            "rhythm",
-            "meter",
-            "stanza",
-            "imagery",
-            "symbolism",
-            "sonnet",
-            "ode",
-            "elegy"
+            "novella",
+            "short story",
+            "biography",
+            "autobiography",
+            "memoir",
+            "faction",
+            "point of view",
+            "omniscient",
+            "first person",
+            "round character",
+            "flat character",
+            "foil",
+            "antihero"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284880_p684g8",
-          "id": "sec_1795123284880_p684g8",
-          "title": "3.2 Figures of Speech in Poetry",
+          "sectionId": "lit_sec_2_2",
+          "id": "lit_sec_2_2",
+          "title": "2c(i). African Prose: So the Path Does Not Die & Redemption Road",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "figures_of_speech",
-            "poetic_devices"
+            "african-prose",
+            "so-the-path-does-not-die",
+            "redemption-road"
           ],
           "keywords": [
-            "metaphor",
-            "simile",
-            "personification",
-            "alliteration",
-            "assonance",
-            "irony",
-            "paradox"
+            "So the Path Does Not Die",
+            "Pede Hollist",
+            "Finaba",
+            "Redemption Road",
+            "Elma Shaw",
+            "Bendu",
+            "Liberia"
           ],
           "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284880_mnrbae",
-          "id": "sec_1795123284880_mnrbae",
-          "title": "3.3 African and World Poetry",
+          "sectionId": "lit_sec_2_3",
+          "id": "lit_sec_2_3",
+          "title": "2c(ii). Non-African Prose: To Kill a Mockingbird & Path of Lucas",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "african_poetry",
-            "world_poetry"
+            "non-african-prose",
+            "to-kill-a-mockingbird",
+            "path-of-lucas"
           ],
           "keywords": [
-            "Negritude",
-            "oral poetry",
-            "praise poetry",
-            "social commentary"
+            "To Kill a Mockingbird",
+            "Harper Lee",
+            "Atticus Finch",
+            "Scout",
+            "Tom Robinson",
+            "Path of Lucas",
+            "Susanne Bellefeuille",
+            "The Journey He Endured"
           ],
           "sortOrder": 2
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284880_y1icm3",
-      "id": "mod_1795123284880_y1icm3",
-      "title": "Module 4: Drama",
-      "sortOrder": 3,
+      "moduleId": "lit_mod_3",
+      "id": "lit_mod_3",
+      "title": "Module 3: Poetry and Prescribed Poems",
+      "sortOrder": 2,
       "sections": [
         {
-          "sectionId": "sec_1795123284880_whaafp",
-          "id": "sec_1795123284880_whaafp",
-          "title": "4.1 Elements of Drama",
+          "sectionId": "lit_sec_3_1",
+          "id": "lit_sec_3_1",
+          "title": "3a & 3b. Types of Poetry and Poetic Devices",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "drama",
-            "theatre"
+            "poetry",
+            "poetic-devices"
           ],
           "keywords": [
-            "act",
-            "scene",
-            "dialogue",
-            "monologue",
-            "stage directions",
-            "tragedy",
-            "comedy",
-            "tragicomedy"
+            "sonnet",
+            "ode",
+            "lyric",
+            "elegy",
+            "ballad",
+            "panegyric",
+            "epic",
+            "blank verse",
+            "imagery",
+            "rhyme",
+            "rhythm",
+            "onomatopoeia",
+            "diction",
+            "persona"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284880_i9qylr",
-          "id": "sec_1795123284880_i9qylr",
-          "title": "4.2 African Drama and Set Texts",
+          "sectionId": "lit_sec_3_2",
+          "id": "lit_sec_3_2",
+          "title": "3c(i). Prescribed African Poems (Okara, Kamara, Soyinka, Osundare, Afriyie-Vidza, Cheney-Coker)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "african_drama",
-            "drama_set_texts"
+            "african-poetry",
+            "prescribed-poems"
           ],
           "keywords": [
-            "Death and the King's Horseman",
-            "Lion and the Jewel",
-            "Sizwe Banzi is Dead"
+            "Once Upon a Time",
+            "Gabriel Okara",
+            "New Tongue",
+            "Elizabeth Kamara",
+            "Night",
+            "Wole Soyinka",
+            "Not My Business",
+            "Niyi Osundare",
+            "Hearty Garlands",
+            "Afriyie-Vidza",
+            "The Breasts of the Sea",
+            "Syl Cheney Coker"
           ],
           "sortOrder": 1
+        },
+        {
+          "sectionId": "lit_sec_3_3",
+          "id": "lit_sec_3_3",
+          "title": "3c(ii). Prescribed Non-African Poems (Byron, Gibson, Chaucer, Heaney, Angelou, Adcock)",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "non-african-poetry",
+            "prescribed-poems"
+          ],
+          "keywords": [
+            "She Walks in Beauty",
+            "Lord Byron",
+            "The Stone",
+            "Wilfred Wilson Gibson",
+            "The Nun's Priest's Tale",
+            "Geoffrey Chaucer",
+            "Digging",
+            "Seamus Heaney",
+            "Still I Rise",
+            "Maya Angelou",
+            "The Telephone Call",
+            "Fleur Adcock"
+          ],
+          "sortOrder": 2
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284880_0o4g4q",
-      "id": "mod_1795123284880_0o4g4q",
-      "title": "Module 5: Oral Literature",
-      "sortOrder": 4,
+      "moduleId": "lit_mod_4",
+      "id": "lit_mod_4",
+      "title": "Module 4: General Literary Principles and Literary Appreciation",
+      "sortOrder": 3,
       "sections": [
         {
-          "sectionId": "sec_1795123284880_dmt5eq",
-          "id": "sec_1795123284880_dmt5eq",
-          "title": "5.1 Oral Traditions and Forms",
+          "sectionId": "lit_sec_4_1",
+          "id": "lit_sec_4_1",
+          "title": "4. General Literary Principles and Literary Terms",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "oral_literature",
-            "oral_tradition"
+            "literary-terms",
+            "literary-principles",
+            "figures-of-speech"
           ],
           "keywords": [
-            "folktale",
-            "myth",
-            "legend",
-            "proverb",
-            "riddle",
-            "praise poetry",
-            "oral epic"
+            "foreshadowing",
+            "suspense",
+            "monologue",
+            "symbolism",
+            "protagonist",
+            "antagonist",
+            "satire",
+            "stream of consciousness",
+            "versification",
+            "figures of speech"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284880_sgyyd9",
-          "id": "sec_1795123284880_sgyyd9",
-          "title": "5.2 Characteristics of Oral Literature",
+          "sectionId": "lit_sec_4_2",
+          "id": "lit_sec_4_2",
+          "title": "5. Literary Appreciation (Unseen Prose, Poetry, and Drama)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "oral_characteristics"
+            "literary-appreciation",
+            "unseen-passages"
           ],
           "keywords": [
-            "performance",
-            "audience participation",
-            "cultural context",
-            "formulaic repetition"
+            "unseen passage",
+            "unseen poem",
+            "unseen prose",
+            "literary devices",
+            "tone",
+            "mood",
+            "theme"
           ],
           "sortOrder": 1
         }
