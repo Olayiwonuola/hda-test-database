@@ -3,182 +3,464 @@
   "syllabus": "JAMB",
   "modules": [
     {
-      "moduleId": "mod_1792069445900_1",
-      "title": "Module 1: Introduction To Economics as a Science",
+      "moduleId": "mod_1795123284868_8okxq7",
+      "id": "mod_1795123284868_8okxq7",
+      "title": "Module 1: Introduction to Economics",
+      "sortOrder": 0,
       "sections": [
         {
-          "sectionId": "sec_1792069445900_1",
-          "title": "1.1 . Basic Concepts: Wants, Scarcity, choice, scale of preference, opportunity cost, Rationality, production, distribution, consumption.",
-          "content": "Economics is a social science that studies how human beings allocate scarce resources to satisfy unlimited wants. \n\nAccording to Lionel Robbins (1932), \"Economics is the science which studies human behavior as a relationship between ends and scarce means which have alternative uses.\"It is classified as a social science because it applies scientific methods (observation, hypothesis, data collection, and laws) to study dynamic human behavior under the assumption of Ceteris Paribus (all other things being equal).\n\nCore Economic Concepts\n\nWants: The unlimited, competitive, and recurring desires of human beings for goods and services (e.g., wanting a phone, mobile data, or new clothes).\n\nScarcity: The fundamental economic problem where resources are permanently limited relative to infinite human wants.\n\nChoice: Selecting specific wants out of many due to limited resources and income.\n\nScale of Preference: A list of an individual's unsatisfied wants arranged in order of priority or relative importance. It helps allocate limited income efficiently to maximize satisfaction.\n\nOpportunity Cost (Real Cost): The next best alternative forgone when a choice is made. It is the physical item sacrificed (e.g., foregoing a pair of shoes to buy a textbook), NOT the money spent.\n\nJAMB Exam Focus: Lionel Robbins' definition is the standard tested in UTME. Remember: Opportunity cost is always the item forgone, never the money spent or the item purchased!\n\nBasic Economic Activities\n\nProduction: The creation of utility to satisfy human wants. It is complete only when goods reach the final consumer.\n\nPrimary production: Extractive activities (e.g., farming, crude oil drilling).\n\nSecondary production: Manufacturing and processing (e.g., turning cassava into garri, refining crude oil).\n\nTertiary production: Commercial and personal services (e.g., banking, transport, teaching).\n\nDistribution: Moving goods from producers to final consumers through channel middlemen:\n$$\\text{Producer} \\longrightarrow \\text{Wholesaler} \\longrightarrow \\text{Retailer} \\longrightarrow \\text{Consumer}$$",
-          "quiz": [
-            {
-              "quizId": "quiz_1792072757030_2lv5n",
-              "question": "According to Lionel Robbins, the central economic problem facing society is:",
-              "diagramUrl": "",
-              "optionA": "The excess supply of goods",
-              "optionB": "Unlimited wants competing against scarce resources",
-              "optionC": "High inflation and unemployment",
-              "optionD": "The lack of paper currency",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              },
-              "correctAnswer": "B"
-            },
-            {
-              "quizId": "quiz_1792072817288_4ooni",
-              "question": "An arrangement of an individual's unsatisfied wants in order of priority is called a:",
-              "diagramUrl": "",
-              "optionA": "Demand schedule",
-              "optionB": "Scale of preference",
-              "optionC": "Budget line",
-              "optionD": "Production possibility curve",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              },
-              "correctAnswer": "B"
-            },
-            {
-              "quizId": "quiz_1792072817585_w70nt",
-              "question": "A student has $N5,000$ and buys a textbook instead of a pair of shoes. The opportunity cost of buying the textbook is:",
-              "diagramUrl": "",
-              "optionA": "The knowledge gained from the textbook",
-              "optionB": "The pair of shoes forgone",
-              "optionC": "The $N5,000$ cash spent",
-              "optionD": "The time spent at the bookstore",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              },
-              "correctAnswer": "B"
-            },
-            {
-              "quizId": "quiz_1792073274290_f2wth",
-              "question": "In economics, production is considered complete only when goods and services:",
-              "diagramUrl": "",
-              "optionA": "Are manufactured in the factory",
-              "optionB": "Are stored safely in a warehouse",
-              "optionC": "Reach the final consumer",
-              "optionD": "Are advertised on television",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              },
-              "correctAnswer": "C"
-            },
-            {
-              "quizId": "quiz_1792073275105_r9w5y",
-              "question": "A baker purchasing a bag of flour to bake bread for commercial sale is engaging in:",
-              "diagramUrl": "",
-              "optionA": "Direct consumption",
-              "optionB": "Productive (indirect) consumption",
-              "optionC": "Primary production",
-              "optionD": "Productive (indirect) consumption",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              },
-              "correctAnswer": "B"
-            }
-          ]
+          "sectionId": "sec_1795123284868_es7hyn",
+          "id": "sec_1795123284868_es7hyn",
+          "title": "1.1 Basic Economic Concepts",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "basic_economics",
+            "scarcity"
+          ],
+          "keywords": [
+            "scarcity",
+            "choice",
+            "opportunity cost",
+            "scale of preference",
+            "basic economic problems"
+          ],
+          "sortOrder": 0
         },
         {
-          "sectionId": "sec_1792073453887_lea2u",
-          "title": "1.2 Economic Problems of Society",
-          "content": "The Fundamental Economic Questions\n\nWhat to Produce? \n\n- Involves deciding which goods and services to produce and in what quantities, given limited land, labor, and capital.\n\n- Example: Should Nigeria allocate more fertile land in Benue State to produce food crops (like yam and cassava) or industrial cash crops (like cocoa and oil palm)?\n\n- In a market economy, this is determined by consumer demand and price mechanism; in a command economy, it is decided by government central planning.\n\nHow to Produce?\n\n- Refers to the technique or combination of factors of production used to manufacture goods.\n\n- Labor-Intensive Technique: Uses a larger proportion of labor relative to capital/machinery. Recommended for developing nations like Nigeria with abundant labor to generate employment.\n\n- Capital-Intensive Technique: Uses advanced machinery, automated technology, and equipment relative to labor. Offers high speed and precision but requires high capital investment.\n\nFor Whom to Produce?\n\n- Concerns the distribution of produced goods and services among individuals in society.\n\n- In a free market economy, goods are distributed based on purchasing power (effective demand) and income level. In a socialist system, distribution is directed by the state based on social needs.\n\nEfficiency of Resource Use\n\nResources are limited, so society must ensure they are utilized without waste to achieve maximum satisfaction.\n\n- Productive (Technical) Efficiency: Occurs when a society produces the maximum possible output from its available resources at the lowest average cost.\n\n- Allocative Efficiency: Occurs when resources are distributed to produce the specific mix of goods and services most preferred by consumers.\n\n- Production Possibility Curve (PPC): A graphical tool used to illustrate resource efficiency. Points on the curve represent efficient resource use; points inside the curve represent underutilization/inefficiency (e.g., high unemployment); points outside the curve are unattainable with current resources.\n\n$$ \\text{Scarcity of Resources} \\longrightarrow \\text{What, How, \\& For Whom to Produce} \\longrightarrow \\text{Efficient Allocation (PPC)} $$JAMB Exam Focus: UTME questions often test the choice of production techniques for developing countries like Nigeria (where labor-intensive methods help solve unemployment). Also expect questions asking how points on or inside the PPC reflect efficiency versus inefficiency.",
-          "quiz": [
-            {
-              "quizId": "quiz_1792074110278_albiu",
-              "question": "The fundamental economic question of \"How to produce\" primarily deals with the:",
-              "diagramUrl": "",
-              "optionA": "Distribution of income among factors of production",
-              "optionB": "Allocation of goods according to consumer demand",
-              "optionC": "Choice of technique and combination of production factors",
-              "optionD": "Determination of prices in the market",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              },
-              "correctAnswer": "C"
-            },
-            {
-              "quizId": "quiz_1792074111057_5u9cn",
-              "question": "For a developing country like Nigeria with a high population and widespread unemployment, the most suitable production technique is generally:",
-              "diagramUrl": "",
-              "optionA": "Capital-intensive technique",
-              "optionB": "Capital-intensive technique",
-              "optionC": "Automated robotic production",
-              "optionD": "Mechanized capital technique",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              },
-              "correctAnswer": "B"
-            },
-            {
-              "quizId": "quiz_1792074111708_5zqhl",
-              "question": "In a pure free market economy, the question of \"For whom to produce\" is determined by:",
-              "diagramUrl": "",
-              "optionA": "Government price control boards",
-              "optionB": " Equal distribution by local councils",
-              "optionC": "Consumer purchasing power and effective demand",
-              "optionD": "The central planning authority",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              },
-              "correctAnswer": "C"
-            },
-            {
-              "quizId": "quiz_1792074329182_lq97n",
-              "question": "Productive efficiency is achieved when an economy is operating:",
-              "diagramUrl": "",
-              "optionA": "Inside its Production Possibility Curve",
-              "optionB": "Outside its Production Possibility Curve",
-              "optionC": "Along the boundary of its Production Possibility Curve",
-              "optionD": "At the origin of its Production Possibility Curve",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              },
-              "correctAnswer": "C"
-            },
-            {
-              "quizId": "quiz_1792074330115_5jjj6",
-              "question": "A country that leaves a large proportion of its agricultural land uncultivated and its workforce unemployed is operating:",
-              "diagramUrl": "",
-              "optionA": " Efficiently on its PPC",
-              "optionB": "Inefficiently inside its PPC",
-              "optionC": "At an unattainable point beyond its PPC",
-              "optionD": "At maximum allocative efficiency",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              },
-              "correctAnswer": "B"
-            }
-          ]
+          "sectionId": "sec_1795123284868_hfdwl8",
+          "id": "sec_1795123284868_hfdwl8",
+          "title": "1.2 Economic Systems",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "economic_systems"
+          ],
+          "keywords": [
+            "capitalism",
+            "socialism",
+            "mixed economy",
+            "free market",
+            "command economy"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284869_39sa1d",
+      "id": "mod_1795123284869_39sa1d",
+      "title": "Module 2: Demand, Supply and Market Equilibrium",
+      "sortOrder": 1,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284869_epifql",
+          "id": "sec_1795123284869_epifql",
+          "title": "2.1 Theory of Demand",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "demand",
+            "demand_theory"
+          ],
+          "keywords": [
+            "law of demand",
+            "demand schedule",
+            "demand curve",
+            "shifts in demand",
+            "price elasticity of demand"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284869_5rwgnq",
+          "id": "sec_1795123284869_5rwgnq",
+          "title": "2.2 Theory of Supply",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "supply",
+            "supply_theory"
+          ],
+          "keywords": [
+            "law of supply",
+            "supply schedule",
+            "supply curve",
+            "elasticity of supply",
+            "shifts in supply"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284869_3rqy07",
+          "id": "sec_1795123284869_3rqy07",
+          "title": "2.3 Market Equilibrium and Price Mechanism",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "market_equilibrium",
+            "price_mechanism"
+          ],
+          "keywords": [
+            "equilibrium price",
+            "equilibrium quantity",
+            "surplus",
+            "shortage",
+            "price ceiling",
+            "price floor"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284869_r8sf4z",
+      "id": "mod_1795123284869_r8sf4z",
+      "title": "Module 3: Theory of Production and Costs",
+      "sortOrder": 2,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284869_eizlv6",
+          "id": "sec_1795123284869_eizlv6",
+          "title": "3.1 Factors of Production",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "factors_of_production"
+          ],
+          "keywords": [
+            "land",
+            "labour",
+            "capital",
+            "entrepreneur",
+            "rewards of factors"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284869_2cuwr1",
+          "id": "sec_1795123284869_2cuwr1",
+          "title": "3.2 Production Functions and Returns to Scale",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "production_function",
+            "returns_to_scale"
+          ],
+          "keywords": [
+            "total product",
+            "average product",
+            "marginal product",
+            "law of diminishing returns"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284869_sop0ys",
+          "id": "sec_1795123284869_sop0ys",
+          "title": "3.3 Costs of Production",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "costs_of_production"
+          ],
+          "keywords": [
+            "fixed cost",
+            "variable cost",
+            "total cost",
+            "average cost",
+            "marginal cost"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284869_lpo3gz",
+      "id": "mod_1795123284869_lpo3gz",
+      "title": "Module 4: Market Structures",
+      "sortOrder": 3,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284869_x831ku",
+          "id": "sec_1795123284869_x831ku",
+          "title": "4.1 Perfect Competition",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "perfect_competition"
+          ],
+          "keywords": [
+            "price taker",
+            "homogeneous product",
+            "free entry",
+            "normal profit"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284869_mxdbrz",
+          "id": "sec_1795123284869_mxdbrz",
+          "title": "4.2 Monopoly and Monopolistic Competition",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "monopoly",
+            "monopolistic_competition"
+          ],
+          "keywords": [
+            "price maker",
+            "barriers to entry",
+            "product differentiation",
+            "excess profit"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284869_lvuf4k",
+          "id": "sec_1795123284869_lvuf4k",
+          "title": "4.3 Oligopoly",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "oligopoly"
+          ],
+          "keywords": [
+            "interdependence",
+            "cartels",
+            "price rigidity",
+            "collusion",
+            "kinked demand curve"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284869_x5xeaa",
+      "id": "mod_1795123284869_x5xeaa",
+      "title": "Module 5: National Income Accounting",
+      "sortOrder": 4,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284869_9877z0",
+          "id": "sec_1795123284869_9877z0",
+          "title": "5.1 Concepts of National Income",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "national_income",
+            "GDP",
+            "GNP"
+          ],
+          "keywords": [
+            "GDP",
+            "GNP",
+            "NNP",
+            "per capita income",
+            "net national income"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284869_19y4oa",
+          "id": "sec_1795123284869_19y4oa",
+          "title": "5.2 Methods of Measuring National Income",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "national_income_measurement"
+          ],
+          "keywords": [
+            "expenditure method",
+            "income method",
+            "output method",
+            "value added"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284869_8yaj8m",
+      "id": "mod_1795123284869_8yaj8m",
+      "title": "Module 6: Money and Banking",
+      "sortOrder": 5,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284869_8r1pcy",
+          "id": "sec_1795123284869_8r1pcy",
+          "title": "6.1 Functions and Types of Money",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "money",
+            "functions_of_money"
+          ],
+          "keywords": [
+            "medium of exchange",
+            "store of value",
+            "unit of account",
+            "commodity money",
+            "fiat money"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284869_j92g6z",
+          "id": "sec_1795123284869_j92g6z",
+          "title": "6.2 Commercial Banks and Central Bank",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "commercial_banks",
+            "central_bank"
+          ],
+          "keywords": [
+            "deposit",
+            "credit creation",
+            "monetary policy",
+            "bank rate",
+            "cash reserve ratio"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284869_2hu2eh",
+      "id": "mod_1795123284869_2hu2eh",
+      "title": "Module 7: Fiscal and Monetary Policy",
+      "sortOrder": 6,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284869_bp1x5h",
+          "id": "sec_1795123284869_bp1x5h",
+          "title": "7.1 Fiscal Policy",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "fiscal_policy",
+            "government_expenditure"
+          ],
+          "keywords": [
+            "taxation",
+            "government expenditure",
+            "budget",
+            "deficit spending",
+            "public debt"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284869_q6bkk1",
+          "id": "sec_1795123284869_q6bkk1",
+          "title": "7.2 Monetary Policy",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "monetary_policy",
+            "inflation"
+          ],
+          "keywords": [
+            "open market operations",
+            "interest rate",
+            "inflation control",
+            "money supply"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284870_yj2fpx",
+      "id": "mod_1795123284870_yj2fpx",
+      "title": "Module 8: International Trade and Finance",
+      "sortOrder": 7,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284870_fcga6d",
+          "id": "sec_1795123284870_fcga6d",
+          "title": "8.1 Theories of International Trade",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "international_trade",
+            "comparative_advantage"
+          ],
+          "keywords": [
+            "absolute advantage",
+            "comparative advantage",
+            "terms of trade",
+            "balance of payments"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284870_qpzkz8",
+          "id": "sec_1795123284870_qpzkz8",
+          "title": "8.2 Exchange Rate and Trade Policies",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "exchange_rate",
+            "trade_policies"
+          ],
+          "keywords": [
+            "fixed exchange rate",
+            "floating exchange rate",
+            "tariff",
+            "quota",
+            "trade barriers"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284870_qfrf6q",
+      "id": "mod_1795123284870_qfrf6q",
+      "title": "Module 9: Economic Development",
+      "sortOrder": 8,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284870_8p3pzg",
+          "id": "sec_1795123284870_8p3pzg",
+          "title": "9.1 Development vs Growth",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "economic_development",
+            "economic_growth"
+          ],
+          "keywords": [
+            "HDI",
+            "per capita income",
+            "poverty",
+            "inequality",
+            "sustainable development"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284870_vvsr59",
+          "id": "sec_1795123284870_vvsr59",
+          "title": "9.2 Agriculture and Industry in Nigeria",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "nigerian_economy",
+            "agriculture",
+            "industry"
+          ],
+          "keywords": [
+            "cash crops",
+            "food crops",
+            "industrialization",
+            "oil revenue",
+            "structural transformation"
+          ],
+          "sortOrder": 1
         }
       ]
     }
