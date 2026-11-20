@@ -1,0 +1,379 @@
+{
+  "subject": "Use of English",
+  "syllabus": "JAMB",
+  "modules": [
+    {
+      "moduleId": "mod_1795123284789_xyu8nk",
+      "id": "mod_1795123284789_xyu8nk",
+      "title": "Module 1: Comprehension",
+      "sortOrder": 0,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284789_4ko32q",
+          "id": "sec_1795123284789_4ko32q",
+          "title": "1.1 Reading Comprehension Strategies",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "comprehension",
+            "reading_strategies"
+          ],
+          "keywords": [
+            "skimming",
+            "scanning",
+            "inference",
+            "main idea",
+            "tone"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284789_11t59q",
+          "id": "sec_1795123284789_11t59q",
+          "title": "1.2 Summary Writing",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "summary_writing"
+          ],
+          "keywords": [
+            "précis",
+            "key points",
+            "paraphrasing",
+            "conciseness"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284789_ope8dg",
+      "id": "mod_1795123284789_ope8dg",
+      "title": "Module 2: Vocabulary Development",
+      "sortOrder": 1,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284789_1wdf3k",
+          "id": "sec_1795123284789_1wdf3k",
+          "title": "2.1 Word Formation and Word Classes",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "vocabulary",
+            "word_formation"
+          ],
+          "keywords": [
+            "prefix",
+            "suffix",
+            "root word",
+            "noun",
+            "verb",
+            "adjective",
+            "adverb"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284789_dp660f",
+          "id": "sec_1795123284789_dp660f",
+          "title": "2.2 Synonyms, Antonyms and Homonyms",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "synonyms",
+            "antonyms",
+            "homonyms"
+          ],
+          "keywords": [
+            "word relationships",
+            "context clues",
+            "connotation",
+            "denotation"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284789_3a9nau",
+          "id": "sec_1795123284789_3a9nau",
+          "title": "2.3 Idiomatic Expressions and Proverbs",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "idioms",
+            "proverbs"
+          ],
+          "keywords": [
+            "figurative language",
+            "set phrases",
+            "cultural expressions"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284790_jgiuni",
+      "id": "mod_1795123284790_jgiuni",
+      "title": "Module 3: Grammar and Usage",
+      "sortOrder": 2,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284789_djzaky",
+          "id": "sec_1795123284789_djzaky",
+          "title": "3.1 Parts of Speech",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "parts_of_speech",
+            "grammar"
+          ],
+          "keywords": [
+            "noun",
+            "pronoun",
+            "verb",
+            "adjective",
+            "adverb",
+            "preposition",
+            "conjunction",
+            "interjection"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284789_orx13s",
+          "id": "sec_1795123284789_orx13s",
+          "title": "3.2 Tenses and Verb Forms",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "tenses",
+            "verb_forms"
+          ],
+          "keywords": [
+            "simple present",
+            "past perfect",
+            "future continuous",
+            "participle",
+            "gerund",
+            "infinitive"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284790_cixstf",
+          "id": "sec_1795123284790_cixstf",
+          "title": "3.3 Sentence Structure and Types",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "sentence_structure"
+          ],
+          "keywords": [
+            "simple sentence",
+            "compound sentence",
+            "complex sentence",
+            "phrase",
+            "clause"
+          ],
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "sec_1795123284790_kpn21r",
+          "id": "sec_1795123284790_kpn21r",
+          "title": "3.4 Subject-Verb Agreement",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "subject_verb_agreement"
+          ],
+          "keywords": [
+            "concord",
+            "collective noun",
+            "indefinite pronoun",
+            "compound subject"
+          ],
+          "sortOrder": 3
+        },
+        {
+          "sectionId": "sec_1795123284790_livlds",
+          "id": "sec_1795123284790_livlds",
+          "title": "3.5 Punctuation and Spelling",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "punctuation",
+            "spelling"
+          ],
+          "keywords": [
+            "comma",
+            "colon",
+            "semicolon",
+            "apostrophe",
+            "hyphen",
+            "commonly misspelled words"
+          ],
+          "sortOrder": 4
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284790_aidugz",
+      "id": "mod_1795123284790_aidugz",
+      "title": "Module 4: Oral English and Phonology",
+      "sortOrder": 3,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284790_jn4lvu",
+          "id": "sec_1795123284790_jn4lvu",
+          "title": "4.1 Vowels and Consonant Sounds",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "phonology",
+            "vowels",
+            "consonants"
+          ],
+          "keywords": [
+            "phoneme",
+            "IPA",
+            "pure vowel",
+            "diphthong",
+            "plosive",
+            "fricative"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284790_3swye6",
+          "id": "sec_1795123284790_3swye6",
+          "title": "4.2 Stress, Intonation and Rhythm",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "stress",
+            "intonation",
+            "rhythm"
+          ],
+          "keywords": [
+            "word stress",
+            "sentence stress",
+            "rising intonation",
+            "falling intonation",
+            "syllable"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284790_johslx",
+          "id": "sec_1795123284790_johslx",
+          "title": "4.3 Rhymes and Syllabification",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "rhymes",
+            "syllabification"
+          ],
+          "keywords": [
+            "syllable count",
+            "minimal pairs",
+            "rhyme scheme"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284790_qcxhr7",
+      "id": "mod_1795123284790_qcxhr7",
+      "title": "Module 5: Register and Style",
+      "sortOrder": 4,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284790_gg2eiq",
+          "id": "sec_1795123284790_gg2eiq",
+          "title": "5.1 Formal and Informal Register",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "register",
+            "formal",
+            "informal"
+          ],
+          "keywords": [
+            "formal English",
+            "colloquial",
+            "slang",
+            "technical language",
+            "register shift"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284790_bsg26e",
+          "id": "sec_1795123284790_bsg26e",
+          "title": "5.2 Figures of Speech and Literary Devices",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "figures_of_speech",
+            "literary_devices"
+          ],
+          "keywords": [
+            "metaphor",
+            "simile",
+            "personification",
+            "hyperbole",
+            "irony",
+            "alliteration"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284790_5wkai1",
+      "id": "mod_1795123284790_5wkai1",
+      "title": "Module 6: Essay Writing",
+      "sortOrder": 5,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284790_r6xz4s",
+          "id": "sec_1795123284790_r6xz4s",
+          "title": "6.1 Types of Essays",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "essay_types",
+            "essay_writing"
+          ],
+          "keywords": [
+            "narrative essay",
+            "descriptive essay",
+            "expository essay",
+            "argumentative essay",
+            "letter writing"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284790_1v57a0",
+          "id": "sec_1795123284790_1v57a0",
+          "title": "6.2 Paragraph Development and Coherence",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "paragraph_development",
+            "coherence"
+          ],
+          "keywords": [
+            "topic sentence",
+            "supporting details",
+            "transition words",
+            "conclusion"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    }
+  ]
+}
