@@ -1,0 +1,329 @@
+{
+  "subject": "IRS",
+  "syllabus": "JAMB",
+  "modules": [
+    {
+      "moduleId": "mod_1795123284956_nzz25t",
+      "id": "mod_1795123284956_nzz25t",
+      "title": "Module 1: Sources of Islamic Knowledge",
+      "sortOrder": 0,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284956_uk64as",
+          "id": "sec_1795123284956_uk64as",
+          "title": "1.1 The Qur'an",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "quran",
+            "islamic_knowledge"
+          ],
+          "keywords": [
+            "revelation",
+            "compilation",
+            "memorization",
+            "interpretation",
+            "tafsir",
+            "chapters and verses"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284956_zdlrqe",
+          "id": "sec_1795123284956_zdlrqe",
+          "title": "1.2 Hadith and Sunnah",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "hadith",
+            "sunnah"
+          ],
+          "keywords": [
+            "Prophet's sayings",
+            "Prophet's actions",
+            "isnad",
+            "matn",
+            "sahih hadith",
+            "collections"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284956_ojs6ru",
+          "id": "sec_1795123284956_ojs6ru",
+          "title": "1.3 Ijma and Qiyas",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "ijma",
+            "qiyas",
+            "islamic_jurisprudence"
+          ],
+          "keywords": [
+            "consensus of scholars",
+            "analogical reasoning",
+            "fiqh",
+            "ijtihad"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284956_pfdave",
+      "id": "mod_1795123284956_pfdave",
+      "title": "Module 2: Islamic Beliefs (Aqeedah)",
+      "sortOrder": 1,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284956_9hm12u",
+          "id": "sec_1795123284956_9hm12u",
+          "title": "2.1 Articles of Faith",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "articles_of_faith",
+            "aqeedah"
+          ],
+          "keywords": [
+            "belief in Allah",
+            "angels",
+            "revealed books",
+            "prophets",
+            "day of judgment",
+            "divine decree"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284956_ujmt5e",
+          "id": "sec_1795123284956_ujmt5e",
+          "title": "2.2 Tawhid: Oneness of Allah",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "tawhid",
+            "monotheism"
+          ],
+          "keywords": [
+            "Tawhid Rububiyyah",
+            "Tawhid Uluhiyyah",
+            "Tawhid Asma wa Sifat",
+            "shirk",
+            "attributes of Allah"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284956_umki96",
+      "id": "mod_1795123284956_umki96",
+      "title": "Module 3: Pillars of Islam (Ibadah)",
+      "sortOrder": 2,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284956_hwryvv",
+          "id": "sec_1795123284956_hwryvv",
+          "title": "3.1 Shahadah and Salat",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "shahadah",
+            "salat",
+            "prayer"
+          ],
+          "keywords": [
+            "declaration of faith",
+            "five daily prayers",
+            "wudu",
+            "qibla",
+            "Jumu'ah",
+            "congregational prayer"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284956_ahid36",
+          "id": "sec_1795123284956_ahid36",
+          "title": "3.2 Zakat and Sawm",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "zakat",
+            "sawm",
+            "fasting"
+          ],
+          "keywords": [
+            "almsgiving",
+            "nisab",
+            "Ramadan fasting",
+            "Eid ul-Fitr",
+            "exemptions",
+            "Laylat al-Qadr"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284956_8g2ecm",
+          "id": "sec_1795123284956_8g2ecm",
+          "title": "3.3 Hajj and Umrah",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "hajj",
+            "umrah"
+          ],
+          "keywords": [
+            "Mecca",
+            "Kaaba",
+            "ihram",
+            "tawaf",
+            "sa'i",
+            "Arafat",
+            "Mina",
+            "stoning of Shaytan"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284956_0k3yma",
+      "id": "mod_1795123284956_0k3yma",
+      "title": "Module 4: Islamic History",
+      "sortOrder": 3,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284956_cum327",
+          "id": "sec_1795123284956_cum327",
+          "title": "4.1 Life of Prophet Muhammad (SAW)",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "prophet_muhammad",
+            "seerah"
+          ],
+          "keywords": [
+            "birth in Mecca",
+            "first revelation",
+            "Hijra",
+            "Medina",
+            "battles",
+            "conquest of Mecca",
+            "farewell sermon"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284956_k3sv0f",
+          "id": "sec_1795123284956_k3sv0f",
+          "title": "4.2 The Rightly Guided Caliphs",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "caliphate",
+            "khulafa_ar_rashidun"
+          ],
+          "keywords": [
+            "Abu Bakr",
+            "Umar",
+            "Uthman",
+            "Ali",
+            "expansion of Islam",
+            "compilation of Qur'an"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284956_9db5xq",
+          "id": "sec_1795123284956_9db5xq",
+          "title": "4.3 Spread of Islam in West Africa and Nigeria",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "islam_in_nigeria",
+            "west_africa"
+          ],
+          "keywords": [
+            "Usman dan Fodio",
+            "Sokoto Caliphate",
+            "jihad",
+            "Islamic education",
+            "Tijaniyya",
+            "Qadiriyya"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284956_w0p2q7",
+      "id": "mod_1795123284956_w0p2q7",
+      "title": "Module 5: Islamic Ethics and Social Life",
+      "sortOrder": 4,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284956_ut5ahr",
+          "id": "sec_1795123284956_ut5ahr",
+          "title": "5.1 Akhlaq: Islamic Character and Conduct",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "akhlaq",
+            "islamic_ethics"
+          ],
+          "keywords": [
+            "honesty",
+            "patience",
+            "modesty",
+            "justice",
+            "generosity",
+            "forbearance"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284956_ikfcv8",
+          "id": "sec_1795123284956_ikfcv8",
+          "title": "5.2 Family Law and Social Issues",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "islamic_family_law",
+            "social_issues"
+          ],
+          "keywords": [
+            "marriage",
+            "talaq",
+            "mahr",
+            "inheritance",
+            "rights of women",
+            "parent-child relations"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284956_re8bq1",
+          "id": "sec_1795123284956_re8bq1",
+          "title": "5.3 Contemporary Issues in Islam",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "contemporary_issues",
+            "islam"
+          ],
+          "keywords": [
+            "corruption",
+            "drug abuse",
+            "extremism",
+            "interfaith dialogue",
+            "Islamic banking",
+            "Muslims in modern society"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    }
+  ]
+}
