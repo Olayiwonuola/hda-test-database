@@ -3,14 +3,260 @@
   "syllabus": "JAMB",
   "modules": [
     {
-      "moduleId": "mod_1791570382728_1",
-      "title": "Module 1: Introduction",
+      "moduleId": "mod_1795123284880_f86r1p",
+      "id": "mod_1795123284880_f86r1p",
+      "title": "Module 1: Introduction to Literature",
+      "sortOrder": 0,
       "sections": [
         {
-          "sectionId": "sec_1791570382728_1",
-          "title": "1.1 Overview",
+          "sectionId": "sec_1795123284880_93j796",
+          "id": "sec_1795123284880_93j796",
+          "title": "1.1 Genres of Literature",
           "content": "",
-          "quiz": []
+          "quiz": [],
+          "question_tags": [
+            "genres",
+            "literature"
+          ],
+          "keywords": [
+            "prose",
+            "poetry",
+            "drama",
+            "fiction",
+            "non-fiction",
+            "oral literature"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284880_plqu8i",
+          "id": "sec_1795123284880_plqu8i",
+          "title": "1.2 Literary Appreciation and Criticism",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "literary_appreciation",
+            "criticism"
+          ],
+          "keywords": [
+            "theme",
+            "setting",
+            "character",
+            "plot",
+            "point of view",
+            "style"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284880_7afj8s",
+      "id": "mod_1795123284880_7afj8s",
+      "title": "Module 2: Prose Fiction",
+      "sortOrder": 1,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284880_89bquh",
+          "id": "sec_1795123284880_89bquh",
+          "title": "2.1 Elements of the Novel and Short Story",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "novel",
+            "short_story",
+            "prose"
+          ],
+          "keywords": [
+            "protagonist",
+            "antagonist",
+            "conflict",
+            "climax",
+            "resolution",
+            "narrative technique"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284880_1lmodg",
+          "id": "sec_1795123284880_1lmodg",
+          "title": "2.2 African Prose and Set Texts",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "african_prose",
+            "set_texts"
+          ],
+          "keywords": [
+            "Things Fall Apart",
+            "Weep Not Child",
+            "Arrow of God",
+            "The Beautyful Ones Are Not Yet Born"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284880_dp9w7x",
+      "id": "mod_1795123284880_dp9w7x",
+      "title": "Module 3: Poetry",
+      "sortOrder": 2,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284880_s0ap3y",
+          "id": "sec_1795123284880_s0ap3y",
+          "title": "3.1 Elements and Types of Poetry",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "poetry",
+            "elements_of_poetry"
+          ],
+          "keywords": [
+            "rhyme",
+            "rhythm",
+            "meter",
+            "stanza",
+            "imagery",
+            "symbolism",
+            "sonnet",
+            "ode",
+            "elegy"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284880_p684g8",
+          "id": "sec_1795123284880_p684g8",
+          "title": "3.2 Figures of Speech in Poetry",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "figures_of_speech",
+            "poetic_devices"
+          ],
+          "keywords": [
+            "metaphor",
+            "simile",
+            "personification",
+            "alliteration",
+            "assonance",
+            "irony",
+            "paradox"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284880_mnrbae",
+          "id": "sec_1795123284880_mnrbae",
+          "title": "3.3 African and World Poetry",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "african_poetry",
+            "world_poetry"
+          ],
+          "keywords": [
+            "Negritude",
+            "oral poetry",
+            "praise poetry",
+            "social commentary"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284880_y1icm3",
+      "id": "mod_1795123284880_y1icm3",
+      "title": "Module 4: Drama",
+      "sortOrder": 3,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284880_whaafp",
+          "id": "sec_1795123284880_whaafp",
+          "title": "4.1 Elements of Drama",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "drama",
+            "theatre"
+          ],
+          "keywords": [
+            "act",
+            "scene",
+            "dialogue",
+            "monologue",
+            "stage directions",
+            "tragedy",
+            "comedy",
+            "tragicomedy"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284880_i9qylr",
+          "id": "sec_1795123284880_i9qylr",
+          "title": "4.2 African Drama and Set Texts",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "african_drama",
+            "drama_set_texts"
+          ],
+          "keywords": [
+            "Death and the King's Horseman",
+            "Lion and the Jewel",
+            "Sizwe Banzi is Dead"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284880_0o4g4q",
+      "id": "mod_1795123284880_0o4g4q",
+      "title": "Module 5: Oral Literature",
+      "sortOrder": 4,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284880_dmt5eq",
+          "id": "sec_1795123284880_dmt5eq",
+          "title": "5.1 Oral Traditions and Forms",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "oral_literature",
+            "oral_tradition"
+          ],
+          "keywords": [
+            "folktale",
+            "myth",
+            "legend",
+            "proverb",
+            "riddle",
+            "praise poetry",
+            "oral epic"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284880_sgyyd9",
+          "id": "sec_1795123284880_sgyyd9",
+          "title": "5.2 Characteristics of Oral Literature",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "oral_characteristics"
+          ],
+          "keywords": [
+            "performance",
+            "audience participation",
+            "cultural context",
+            "formulaic repetition"
+          ],
+          "sortOrder": 1
         }
       ]
     }
