@@ -3,14 +3,362 @@
   "syllabus": "JAMB",
   "modules": [
     {
-      "moduleId": "mod_1791570350024_1",
-      "title": "Module 1: Introduction",
+      "moduleId": "mod_1795123284875_40nata",
+      "id": "mod_1795123284875_40nata",
+      "title": "Module 1: Basic Concepts in Government",
+      "sortOrder": 0,
       "sections": [
         {
-          "sectionId": "sec_1791570350024_1",
-          "title": "1.1 Overview",
+          "sectionId": "sec_1795123284875_9o58oh",
+          "id": "sec_1795123284875_9o58oh",
+          "title": "1.1 Government, State and Nation",
           "content": "",
-          "quiz": []
+          "quiz": [],
+          "question_tags": [
+            "government_concepts",
+            "state",
+            "nation"
+          ],
+          "keywords": [
+            "government",
+            "state",
+            "nation",
+            "sovereignty",
+            "legitimacy",
+            "authority"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284875_770rt6",
+          "id": "sec_1795123284875_770rt6",
+          "title": "1.2 Political Power and Authority",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "political_power",
+            "authority"
+          ],
+          "keywords": [
+            "power",
+            "coercion",
+            "influence",
+            "political authority",
+            "legitimacy"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284875_0iosw9",
+      "id": "mod_1795123284875_0iosw9",
+      "title": "Module 2: Political Systems and Ideologies",
+      "sortOrder": 1,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284875_bvdchf",
+          "id": "sec_1795123284875_bvdchf",
+          "title": "2.1 Democracy, Capitalism and Socialism",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "political_systems",
+            "democracy",
+            "socialism"
+          ],
+          "keywords": [
+            "liberal democracy",
+            "capitalism",
+            "socialism",
+            "communism",
+            "fascism"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284875_s4i1l6",
+          "id": "sec_1795123284875_s4i1l6",
+          "title": "2.2 Constitutionalism and Rule of Law",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "constitutionalism",
+            "rule_of_law"
+          ],
+          "keywords": [
+            "constitution",
+            "supremacy of law",
+            "separation of powers",
+            "checks and balances"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284875_0kwfee",
+      "id": "mod_1795123284875_0kwfee",
+      "title": "Module 3: Arms of Government",
+      "sortOrder": 2,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284875_k0n4f2",
+          "id": "sec_1795123284875_k0n4f2",
+          "title": "3.1 The Legislature",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "legislature",
+            "parliament"
+          ],
+          "keywords": [
+            "bicameral",
+            "unicameral",
+            "bill",
+            "legislative process",
+            "Senate",
+            "House of Representatives"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284875_bq5wsx",
+          "id": "sec_1795123284875_bq5wsx",
+          "title": "3.2 The Executive",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "executive",
+            "president"
+          ],
+          "keywords": [
+            "president",
+            "prime minister",
+            "cabinet",
+            "executive power",
+            "veto power"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284875_nb0vez",
+          "id": "sec_1795123284875_nb0vez",
+          "title": "3.3 The Judiciary",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "judiciary",
+            "courts"
+          ],
+          "keywords": [
+            "Supreme Court",
+            "judicial review",
+            "independence of judiciary",
+            "hierarchy of courts"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284875_6o4jxc",
+      "id": "mod_1795123284875_6o4jxc",
+      "title": "Module 4: Political Parties and Electoral Systems",
+      "sortOrder": 3,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284875_zpzyzh",
+          "id": "sec_1795123284875_zpzyzh",
+          "title": "4.1 Political Parties: Functions and Types",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "political_parties"
+          ],
+          "keywords": [
+            "one-party system",
+            "two-party system",
+            "multi-party system",
+            "party manifesto"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284875_dr7kp5",
+          "id": "sec_1795123284875_dr7kp5",
+          "title": "4.2 Electoral Systems and Elections",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "electoral_systems",
+            "elections"
+          ],
+          "keywords": [
+            "FPTP",
+            "proportional representation",
+            "franchise",
+            "suffrage",
+            "electoral commission"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284875_zlk76q",
+      "id": "mod_1795123284875_zlk76q",
+      "title": "Module 5: Federalism and Local Government",
+      "sortOrder": 4,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284875_y3cjpw",
+          "id": "sec_1795123284875_y3cjpw",
+          "title": "5.1 Federalism",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "federalism"
+          ],
+          "keywords": [
+            "federal system",
+            "unitary system",
+            "concurrent list",
+            "exclusive list",
+            "residual powers"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284875_fxzdks",
+          "id": "sec_1795123284875_fxzdks",
+          "title": "5.2 Local Government Administration",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "local_government"
+          ],
+          "keywords": [
+            "third tier",
+            "councils",
+            "decentralization",
+            "grassroots administration"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284875_kyrhse",
+      "id": "mod_1795123284875_kyrhse",
+      "title": "Module 6: Nigerian Government and Politics",
+      "sortOrder": 5,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284875_9zqc7i",
+          "id": "sec_1795123284875_9zqc7i",
+          "title": "6.1 Pre-Colonial and Colonial Nigeria",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "colonial_nigeria",
+            "pre_colonial"
+          ],
+          "keywords": [
+            "Hausa-Fulani",
+            "Yoruba kingdoms",
+            "Igbo societies",
+            "colonial administration",
+            "amalgamation 1914"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284875_85q3zn",
+          "id": "sec_1795123284875_85q3zn",
+          "title": "6.2 Constitutional Development in Nigeria",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "nigerian_constitution",
+            "constitutional_development"
+          ],
+          "keywords": [
+            "Clifford Constitution 1922",
+            "Richards 1946",
+            "Macpherson 1951",
+            "Lyttleton 1954",
+            "independence 1960",
+            "republic 1963"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284875_fk2y35",
+          "id": "sec_1795123284875_fk2y35",
+          "title": "6.3 Military Rule and Return to Democracy",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "military_rule",
+            "nigerian_democracy"
+          ],
+          "keywords": [
+            "military coup",
+            "AFRC",
+            "PRC",
+            "1999 Constitution",
+            "Fourth Republic"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284875_45stud",
+      "id": "mod_1795123284875_45stud",
+      "title": "Module 7: International Relations and Organizations",
+      "sortOrder": 6,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284875_8w64m6",
+          "id": "sec_1795123284875_8w64m6",
+          "title": "7.1 Foreign Policy and Diplomacy",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "foreign_policy",
+            "diplomacy"
+          ],
+          "keywords": [
+            "national interest",
+            "bilateral relations",
+            "multilateral relations",
+            "ambassadors"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284875_ht1n9w",
+          "id": "sec_1795123284875_ht1n9w",
+          "title": "7.2 International Organizations",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "international_organizations",
+            "UN",
+            "AU",
+            "ECOWAS"
+          ],
+          "keywords": [
+            "United Nations",
+            "African Union",
+            "ECOWAS",
+            "Commonwealth",
+            "WHO",
+            "UNESCO"
+          ],
+          "sortOrder": 1
         }
       ]
     }
