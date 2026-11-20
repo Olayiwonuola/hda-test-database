@@ -3,151 +3,208 @@
   "syllabus": "JAMB",
   "modules": [
     {
-      "moduleId": "mod_1795123284783_008cif",
-      "id": "mod_1795123284783_008cif",
-      "title": "Module 1: Number and Numeration",
+      "moduleId": "mth_mod_1",
+      "id": "mth_mod_1",
+      "title": "Section I: Number and Numeration",
       "sortOrder": 0,
       "sections": [
         {
-          "sectionId": "sec_1795123284783_6ds8ic",
-          "id": "sec_1795123284783_6ds8ic",
-          "title": "1.1 Number Bases and Conversions",
+          "sectionId": "mth_sec_1_1",
+          "id": "mth_sec_1_1",
+          "title": "1. Number Bases",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "number_bases",
-            "conversion"
+            "number-bases",
+            "number-and-numeration"
           ],
           "keywords": [
+            "number bases",
+            "base 2",
+            "base 10",
             "binary",
-            "octal",
-            "decimal",
-            "hexadecimal",
-            "base conversion"
+            "conversion",
+            "fractional parts"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284783_a5ly9v",
-          "id": "sec_1795123284783_a5ly9v",
-          "title": "1.2 Fractions, Decimals and Percentages",
+          "sectionId": "mth_sec_1_2",
+          "id": "mth_sec_1_2",
+          "title": "2. Fractions, Decimals, Approximations, and Percentages",
           "content": "",
           "quiz": [],
           "question_tags": [
             "fractions",
             "decimals",
-            "percentages"
+            "percentages",
+            "approximations"
           ],
           "keywords": [
-            "LCM",
-            "HCF",
+            "significant figures",
+            "decimal places",
+            "percentage error",
+            "simple interest",
+            "profit and loss percent",
             "ratio",
             "proportion",
-            "percentage change"
+            "rate",
+            "shares",
+            "VAT"
           ],
           "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284783_t46sc6",
-          "id": "sec_1795123284783_t46sc6",
-          "title": "1.3 Indices and Logarithms",
+          "sectionId": "mth_sec_1_3",
+          "id": "mth_sec_1_3",
+          "title": "3. Indices, Logarithms, and Surds",
           "content": "",
           "quiz": [],
           "question_tags": [
             "indices",
-            "logarithms"
+            "logarithms",
+            "surds"
           ],
           "keywords": [
             "laws of indices",
-            "log rules",
-            "natural log",
-            "antilogarithm"
+            "standard form",
+            "laws of logarithm",
+            "change of base",
+            "surds",
+            "rationalize"
           ],
           "sortOrder": 2
         },
         {
-          "sectionId": "sec_1795123284783_v6n6k4",
-          "id": "sec_1795123284783_v6n6k4",
-          "title": "1.4 Surds and Irrational Numbers",
+          "sectionId": "mth_sec_1_4",
+          "id": "mth_sec_1_4",
+          "title": "4. Sets and Venn Diagrams",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "surds",
-            "irrational_numbers"
+            "sets",
+            "venn-diagrams"
           ],
           "keywords": [
-            "rationalization",
-            "conjugate surds",
-            "simplifying surds"
+            "empty set",
+            "universal set",
+            "complement",
+            "subsets",
+            "disjoint sets",
+            "cardinality",
+            "Venn diagram"
           ],
           "sortOrder": 3
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284784_lrbgsn",
-      "id": "mod_1795123284784_lrbgsn",
-      "title": "Module 2: Algebra",
+      "moduleId": "mth_mod_2",
+      "id": "mth_mod_2",
+      "title": "Section II: Algebra",
       "sortOrder": 1,
       "sections": [
         {
-          "sectionId": "sec_1795123284783_mkwsgl",
-          "id": "sec_1795123284783_mkwsgl",
-          "title": "2.1 Polynomials and Factorization",
+          "sectionId": "mth_sec_2_1",
+          "id": "mth_sec_2_1",
+          "title": "1. Polynomials and Simultaneous Equations",
           "content": "",
           "quiz": [],
           "question_tags": [
             "polynomials",
-            "factorization"
+            "algebra",
+            "simultaneous-equations"
           ],
           "keywords": [
+            "change of subject",
             "factor theorem",
             "remainder theorem",
-            "degree",
-            "factorizing quadratics"
+            "factorization",
+            "roots of polynomials",
+            "simultaneous equations",
+            "quadratic"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284783_yclyew",
-          "id": "sec_1795123284783_yclyew",
-          "title": "2.2 Equations and Inequalities",
+          "sectionId": "mth_sec_2_2",
+          "id": "mth_sec_2_2",
+          "title": "2. Variation",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "equations",
-            "inequalities"
+            "variation",
+            "algebra"
           ],
           "keywords": [
-            "linear equation",
-            "quadratic equation",
-            "simultaneous equations",
-            "linear inequality"
+            "direct variation",
+            "inverse variation",
+            "joint variation",
+            "partial variation",
+            "percentage increase and decrease"
           ],
           "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284783_815u2x",
-          "id": "sec_1795123284783_815u2x",
-          "title": "2.3 Progressions: AP and GP",
+          "sectionId": "mth_sec_2_3",
+          "id": "mth_sec_2_3",
+          "title": "3. Inequalities",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "arithmetic_progression",
-            "geometric_progression"
+            "inequalities",
+            "algebra"
           ],
           "keywords": [
-            "common difference",
-            "common ratio",
-            "sum of series",
-            "nth term"
+            "linear inequalities",
+            "quadratic inequalities",
+            "integral roots",
+            "graphs of inequalities"
           ],
           "sortOrder": 2
         },
         {
-          "sectionId": "sec_1795123284783_ix1gxk",
-          "id": "sec_1795123284783_ix1gxk",
-          "title": "2.4 Matrices and Determinants",
+          "sectionId": "mth_sec_2_4",
+          "id": "mth_sec_2_4",
+          "title": "4. Progression (A.P. and G.P.)",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "progression",
+            "sequences-and-series"
+          ],
+          "keywords": [
+            "nth term",
+            "arithmetic progression",
+            "geometric progression",
+            "sum to infinity"
+          ],
+          "sortOrder": 3
+        },
+        {
+          "sectionId": "mth_sec_2_5",
+          "id": "mth_sec_2_5",
+          "title": "5. Binary Operations",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "binary-operations",
+            "algebra"
+          ],
+          "keywords": [
+            "closure",
+            "commutativity",
+            "associativity",
+            "distributivity",
+            "identity element",
+            "inverse element"
+          ],
+          "sortOrder": 4
+        },
+        {
+          "sectionId": "mth_sec_2_6",
+          "id": "mth_sec_2_6",
+          "title": "6. Matrices and Determinants",
           "content": "",
           "quiz": [],
           "question_tags": [
@@ -155,327 +212,292 @@
             "determinants"
           ],
           "keywords": [
-            "matrix multiplication",
+            "algebra of matrices",
+            "determinants",
             "inverse matrix",
-            "determinant",
-            "Cramer's rule"
+            "3x3 matrix",
+            "2x2 matrix"
           ],
-          "sortOrder": 3
+          "sortOrder": 5
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284784_nh7kna",
-      "id": "mod_1795123284784_nh7kna",
-      "title": "Module 3: Functions and Graphs",
+      "moduleId": "mth_mod_3",
+      "id": "mth_mod_3",
+      "title": "Section III: Geometry and Trigonometry",
       "sortOrder": 2,
       "sections": [
         {
-          "sectionId": "sec_1795123284784_pjp15y",
-          "id": "sec_1795123284784_pjp15y",
-          "title": "3.1 Functions, Domain and Range",
+          "sectionId": "mth_sec_3_1",
+          "id": "mth_sec_3_1",
+          "title": "1. Euclidean Geometry and Circle Theorems",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "functions",
-            "domain",
-            "range"
+            "euclidean-geometry",
+            "circle-theorems",
+            "polygons"
           ],
           "keywords": [
-            "mapping",
-            "one-to-one",
-            "onto",
-            "composite function",
-            "inverse function"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284784_5nhcbx",
-          "id": "sec_1795123284784_5nhcbx",
-          "title": "3.2 Graphical Interpretation",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "graphs",
-            "graphical_interpretation"
-          ],
-          "keywords": [
-            "gradient",
-            "intercept",
-            "turning point",
-            "roots from graph"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284784_ulfqfq",
-      "id": "mod_1795123284784_ulfqfq",
-      "title": "Module 4: Geometry and Trigonometry",
-      "sortOrder": 3,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284784_v29edy",
-          "id": "sec_1795123284784_v29edy",
-          "title": "4.1 Plane Geometry",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "plane_geometry",
+            "angles and lines",
+            "polygons",
             "triangles",
-            "circles"
-          ],
-          "keywords": [
-            "similar triangles",
-            "congruent triangles",
-            "circle theorems",
-            "polygon angles"
+            "quadrilaterals",
+            "cyclic quadrilaterals",
+            "intersecting chords",
+            "construction"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284784_n2g50b",
-          "id": "sec_1795123284784_n2g50b",
-          "title": "4.2 Trigonometric Ratios and Identities",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "trigonometry",
-            "trig_ratios"
-          ],
-          "keywords": [
-            "sine",
-            "cosine",
-            "tangent",
-            "SOHCAHTOA",
-            "compound angles",
-            "special angles"
-          ],
-          "sortOrder": 1
-        },
-        {
-          "sectionId": "sec_1795123284784_r41hue",
-          "id": "sec_1795123284784_r41hue",
-          "title": "4.3 Bearings and Angles of Elevation/Depression",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "bearings",
-            "elevation",
-            "depression"
-          ],
-          "keywords": [
-            "true bearing",
-            "compass bearing",
-            "angle of elevation",
-            "angle of depression"
-          ],
-          "sortOrder": 2
-        },
-        {
-          "sectionId": "sec_1795123284784_a2q3x4",
-          "id": "sec_1795123284784_a2q3x4",
-          "title": "4.4 Mensuration",
+          "sectionId": "mth_sec_3_2",
+          "id": "mth_sec_3_2",
+          "title": "2. Mensuration and Earth as a Sphere",
           "content": "",
           "quiz": [],
           "question_tags": [
             "mensuration",
-            "area",
-            "volume"
+            "longitude-and-latitude"
           ],
           "keywords": [
-            "area of circle",
-            "volume of cone",
-            "volume of cylinder",
+            "arc",
+            "chord",
+            "sector",
+            "segment",
             "surface area",
-            "sector area"
-          ],
-          "sortOrder": 3
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284784_tmwqab",
-      "id": "mod_1795123284784_tmwqab",
-      "title": "Module 5: Calculus",
-      "sortOrder": 4,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284784_ft3332",
-          "id": "sec_1795123284784_ft3332",
-          "title": "5.1 Limits and Differentiation",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "differentiation",
-            "limits"
-          ],
-          "keywords": [
-            "limit",
-            "derivative",
-            "power rule",
-            "product rule",
-            "quotient rule",
-            "chain rule"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284784_6hzy4e",
-          "id": "sec_1795123284784_6hzy4e",
-          "title": "5.2 Application of Differentiation",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "application_of_differentiation"
-          ],
-          "keywords": [
-            "maximum",
-            "minimum",
-            "rate of change",
-            "turning point",
-            "gradient of tangent"
+            "volume",
+            "cylinder",
+            "cone",
+            "pyramid",
+            "sphere",
+            "longitudes and latitudes"
           ],
           "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284784_trebxx",
-          "id": "sec_1795123284784_trebxx",
-          "title": "5.3 Integration",
+          "sectionId": "mth_sec_3_3",
+          "id": "mth_sec_3_3",
+          "title": "3. Loci in Two Dimensions",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "integration"
+            "loci",
+            "geometry"
           ],
           "keywords": [
-            "indefinite integral",
+            "locus",
+            "parallel lines",
+            "perpendicular bisector",
+            "angle bisector",
+            "circles"
+          ],
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "mth_sec_3_4",
+          "id": "mth_sec_3_4",
+          "title": "4. Coordinate Geometry",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "coordinate-geometry"
+          ],
+          "keywords": [
+            "midpoint",
+            "gradient",
+            "distance between two points",
+            "parallel lines",
+            "perpendicular lines",
+            "equation of a line"
+          ],
+          "sortOrder": 3
+        },
+        {
+          "sectionId": "mth_sec_3_5",
+          "id": "mth_sec_3_5",
+          "title": "5. Trigonometry, Bearings, and Angles of Elevation/Depression",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "trigonometry",
+            "bearings"
+          ],
+          "keywords": [
+            "trigonometrical ratios",
+            "angles of elevation and depression",
+            "bearings",
+            "sine formula",
+            "cosine formula",
+            "area of triangle"
+          ],
+          "sortOrder": 4
+        }
+      ]
+    },
+    {
+      "moduleId": "mth_mod_4",
+      "id": "mth_mod_4",
+      "title": "Section IV: Calculus",
+      "sortOrder": 3,
+      "sections": [
+        {
+          "sectionId": "mth_sec_4_1",
+          "id": "mth_sec_4_1",
+          "title": "1. Differentiation and Limits",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "differentiation",
+            "calculus"
+          ],
+          "keywords": [
+            "limit of a function",
+            "differentiation",
+            "algebraic functions",
+            "trigonometrical functions"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "mth_sec_4_2",
+          "id": "mth_sec_4_2",
+          "title": "2. Application of Differentiation (Rate of Change, Maxima & Minima)",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "application-of-differentiation",
+            "differentiation",
+            "calculus"
+          ],
+          "keywords": [
+            "rate of change",
+            "maxima",
+            "minima",
+            "turning points"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "mth_sec_4_3",
+          "id": "mth_sec_4_3",
+          "title": "3. Integration and Area Under the Curve",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "integration",
+            "calculus"
+          ],
+          "keywords": [
+            "integration",
+            "area under the curve",
             "definite integral",
-            "area under curve",
-            "integration by substitution"
+            "indefinite integral"
           ],
           "sortOrder": 2
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284784_wyefrr",
-      "id": "mod_1795123284784_wyefrr",
-      "title": "Module 6: Statistics and Probability",
-      "sortOrder": 5,
+      "moduleId": "mth_mod_5",
+      "id": "mth_mod_5",
+      "title": "Section V: Statistics and Probability",
+      "sortOrder": 4,
       "sections": [
         {
-          "sectionId": "sec_1795123284784_dv9tgq",
-          "id": "sec_1795123284784_dv9tgq",
-          "title": "6.1 Data Representation",
+          "sectionId": "mth_sec_5_1",
+          "id": "mth_sec_5_1",
+          "title": "1. Representation of Data",
           "content": "",
           "quiz": [],
           "question_tags": [
             "statistics",
-            "data_representation"
+            "representation-of-data"
           ],
           "keywords": [
+            "frequency distribution",
             "histogram",
             "bar chart",
-            "pie chart",
-            "frequency table",
-            "ogive",
-            "stem-and-leaf"
+            "pie chart"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284784_11371n",
-          "id": "sec_1795123284784_11371n",
-          "title": "6.2 Measures of Central Tendency and Dispersion",
+          "sectionId": "mth_sec_5_2",
+          "id": "mth_sec_5_2",
+          "title": "2. Measures of Location (Mean, Mode, Median & Cumulative Frequency)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "central_tendency",
-            "dispersion"
+            "measures-of-location",
+            "statistics"
           ],
           "keywords": [
             "mean",
-            "median",
             "mode",
-            "range",
-            "variance",
-            "standard deviation"
+            "median",
+            "grouped data",
+            "cumulative frequency",
+            "ogive",
+            "quartiles",
+            "percentiles"
           ],
           "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284784_zeexgc",
-          "id": "sec_1795123284784_zeexgc",
-          "title": "6.3 Probability",
+          "sectionId": "mth_sec_5_3",
+          "id": "mth_sec_5_3",
+          "title": "3. Measures of Dispersion",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "measures-of-dispersion",
+            "statistics"
+          ],
+          "keywords": [
+            "range",
+            "mean deviation",
+            "variance",
+            "standard deviation"
+          ],
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "mth_sec_5_4",
+          "id": "mth_sec_5_4",
+          "title": "4. Permutation and Combination",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "permutation-and-combination",
+            "permutation-combination"
+          ],
+          "keywords": [
+            "permutation",
+            "combination",
+            "linear arrangements",
+            "circular arrangements",
+            "repeated objects"
+          ],
+          "sortOrder": 3
+        },
+        {
+          "sectionId": "mth_sec_5_5",
+          "id": "mth_sec_5_5",
+          "title": "5. Probability",
           "content": "",
           "quiz": [],
           "question_tags": [
             "probability"
           ],
           "keywords": [
-            "event",
-            "sample space",
-            "P(A)",
+            "experimental probability",
+            "addition of probabilities",
+            "multiplication of probabilities",
             "mutually exclusive",
-            "independent events",
-            "conditional probability"
+            "independent events"
           ],
-          "sortOrder": 2
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284784_ggmmic",
-      "id": "mod_1795123284784_ggmmic",
-      "title": "Module 7: Coordinate Geometry",
-      "sortOrder": 6,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284784_r9adtz",
-          "id": "sec_1795123284784_r9adtz",
-          "title": "7.1 Lines and Circles in Coordinate Geometry",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "coordinate_geometry",
-            "straight_line"
-          ],
-          "keywords": [
-            "gradient",
-            "midpoint",
-            "distance formula",
-            "equation of line",
-            "equation of circle"
-          ],
-          "sortOrder": 0
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284784_oy86s8",
-      "id": "mod_1795123284784_oy86s8",
-      "title": "Module 8: Vectors in Two Dimensions",
-      "sortOrder": 7,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284784_2m4fr6",
-          "id": "sec_1795123284784_2m4fr6",
-          "title": "8.1 Vector Operations and Dot Product",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "vectors_2d",
-            "dot_product"
-          ],
-          "keywords": [
-            "position vector",
-            "unit vector",
-            "resultant vector",
-            "scalar product"
-          ],
-          "sortOrder": 0
+          "sortOrder": 4
         }
       ]
     }
