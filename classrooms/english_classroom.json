@@ -3,201 +3,175 @@
   "syllabus": "JAMB",
   "modules": [
     {
-      "moduleId": "mod_1795123284789_xyu8nk",
-      "id": "mod_1795123284789_xyu8nk",
-      "title": "Module 1: Comprehension",
+      "moduleId": "eng_mod_1",
+      "id": "eng_mod_1",
+      "title": "Section A: Comprehension and Summary",
       "sortOrder": 0,
       "sections": [
         {
-          "sectionId": "sec_1795123284789_4ko32q",
-          "id": "sec_1795123284789_4ko32q",
-          "title": "1.1 Reading Comprehension Strategies",
+          "sectionId": "eng_sec_1_1",
+          "id": "eng_sec_1_1",
+          "title": "A1. Comprehension Passages (Description, Narration, Exposition, Argumentation)",
           "content": "",
           "quiz": [],
           "question_tags": [
             "comprehension",
-            "reading_strategies"
+            "reading-comprehension",
+            "passages"
           ],
           "keywords": [
-            "skimming",
-            "scanning",
+            "description",
+            "narration",
+            "exposition",
+            "argumentation",
+            "persuasion",
+            "topic sentence",
+            "implied meaning",
             "inference",
-            "main idea",
-            "tone"
+            "mood",
+            "attitude",
+            "synthesis of ideas"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284789_11t59q",
-          "id": "sec_1795123284789_11t59q",
-          "title": "1.2 Summary Writing",
+          "sectionId": "eng_sec_1_2",
+          "id": "eng_sec_1_2",
+          "title": "A2. Cloze Test and Register",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "summary_writing"
+            "cloze-test",
+            "register",
+            "comprehension"
           ],
           "keywords": [
-            "précis",
-            "key points",
-            "paraphrasing",
-            "conciseness"
+            "cloze passage",
+            "register",
+            "coherence",
+            "logical reasoning",
+            "context clues"
           ],
           "sortOrder": 1
+        },
+        {
+          "sectionId": "eng_sec_1_3",
+          "id": "eng_sec_1_3",
+          "title": "A3. Reading Text: The Lekki Headmaster (Kabir Alabi Garba)",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "the-lekki-headmaster",
+            "reading-text",
+            "novel"
+          ],
+          "keywords": [
+            "The Lekki Headmaster",
+            "Kabir Alabi Garba",
+            "Lekki",
+            "Mr. Bepo",
+            "Stardom Schools"
+          ],
+          "sortOrder": 2
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284789_ope8dg",
-      "id": "mod_1795123284789_ope8dg",
-      "title": "Module 2: Vocabulary Development",
+      "moduleId": "eng_mod_2",
+      "id": "eng_mod_2",
+      "title": "Section B: Lexis and Structure",
       "sortOrder": 1,
       "sections": [
         {
-          "sectionId": "sec_1795123284789_1wdf3k",
-          "id": "sec_1795123284789_1wdf3k",
-          "title": "2.1 Word Formation and Word Classes",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "vocabulary",
-            "word_formation"
-          ],
-          "keywords": [
-            "prefix",
-            "suffix",
-            "root word",
-            "noun",
-            "verb",
-            "adjective",
-            "adverb"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284789_dp660f",
-          "id": "sec_1795123284789_dp660f",
-          "title": "2.2 Synonyms, Antonyms and Homonyms",
+          "sectionId": "eng_sec_2_1",
+          "id": "eng_sec_2_1",
+          "title": "B1. Synonyms, Antonyms, and Homonyms",
           "content": "",
           "quiz": [],
           "question_tags": [
             "synonyms",
             "antonyms",
+            "homonyms",
+            "lexis"
+          ],
+          "keywords": [
+            "nearest in meaning",
+            "opposite in meaning",
+            "synonyms",
+            "antonyms",
             "homonyms"
-          ],
-          "keywords": [
-            "word relationships",
-            "context clues",
-            "connotation",
-            "denotation"
-          ],
-          "sortOrder": 1
-        },
-        {
-          "sectionId": "sec_1795123284789_3a9nau",
-          "id": "sec_1795123284789_3a9nau",
-          "title": "2.3 Idiomatic Expressions and Proverbs",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "idioms",
-            "proverbs"
-          ],
-          "keywords": [
-            "figurative language",
-            "set phrases",
-            "cultural expressions"
-          ],
-          "sortOrder": 2
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284790_jgiuni",
-      "id": "mod_1795123284790_jgiuni",
-      "title": "Module 3: Grammar and Usage",
-      "sortOrder": 2,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284789_djzaky",
-          "id": "sec_1795123284789_djzaky",
-          "title": "3.1 Parts of Speech",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "parts_of_speech",
-            "grammar"
-          ],
-          "keywords": [
-            "noun",
-            "pronoun",
-            "verb",
-            "adjective",
-            "adverb",
-            "preposition",
-            "conjunction",
-            "interjection"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284789_orx13s",
-          "id": "sec_1795123284789_orx13s",
-          "title": "3.2 Tenses and Verb Forms",
+          "sectionId": "eng_sec_2_2",
+          "id": "eng_sec_2_2",
+          "title": "B2. Ordinary, Figurative, and Idiomatic Usage (Sentence Interpretation)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "tenses",
-            "verb_forms"
+            "idioms",
+            "figurative-usage",
+            "sentence-interpretation"
           ],
           "keywords": [
-            "simple present",
-            "past perfect",
-            "future continuous",
-            "participle",
-            "gerund",
-            "infinitive"
+            "idioms",
+            "figurative usage",
+            "ordinary usage",
+            "sentence interpretation",
+            "British English idioms"
           ],
           "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284790_cixstf",
-          "id": "sec_1795123284790_cixstf",
-          "title": "3.3 Sentence Structure and Types",
+          "sectionId": "eng_sec_2_3",
+          "id": "eng_sec_2_3",
+          "title": "B3. Clause, Sentence Patterns, and Word Classes",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "sentence_structure"
+            "clause-patterns",
+            "word-classes",
+            "sentence-completion"
           ],
           "keywords": [
-            "simple sentence",
-            "compound sentence",
-            "complex sentence",
-            "phrase",
-            "clause"
+            "clause",
+            "sentence patterns",
+            "word classes",
+            "grammatical functions",
+            "sentence completion"
           ],
           "sortOrder": 2
         },
         {
-          "sectionId": "sec_1795123284790_kpn21r",
-          "id": "sec_1795123284790_kpn21r",
-          "title": "3.4 Subject-Verb Agreement",
+          "sectionId": "eng_sec_2_4",
+          "id": "eng_sec_2_4",
+          "title": "B4. Mood, Tense, Aspect, Concord, Degree, and Question Tags",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "subject_verb_agreement"
+            "concord",
+            "tenses",
+            "question-tags",
+            "grammar"
           ],
           "keywords": [
+            "mood",
+            "tense",
+            "aspect",
+            "number",
+            "agreement",
             "concord",
-            "collective noun",
-            "indefinite pronoun",
-            "compound subject"
+            "comparative",
+            "superlative",
+            "question tags"
           ],
           "sortOrder": 3
         },
         {
-          "sectionId": "sec_1795123284790_livlds",
-          "id": "sec_1795123284790_livlds",
-          "title": "3.5 Punctuation and Spelling",
+          "sectionId": "eng_sec_2_5",
+          "id": "eng_sec_2_5",
+          "title": "B5. Punctuation and Spelling",
           "content": "",
           "quiz": [],
           "question_tags": [
@@ -205,173 +179,114 @@
             "spelling"
           ],
           "keywords": [
-            "comma",
-            "colon",
-            "semicolon",
-            "apostrophe",
-            "hyphen",
-            "commonly misspelled words"
+            "punctuation",
+            "spelling",
+            "mechanics"
           ],
           "sortOrder": 4
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284790_aidugz",
-      "id": "mod_1795123284790_aidugz",
-      "title": "Module 4: Oral English and Phonology",
-      "sortOrder": 3,
+      "moduleId": "eng_mod_3",
+      "id": "eng_mod_3",
+      "title": "Section C: Oral Forms",
+      "sortOrder": 2,
       "sections": [
         {
-          "sectionId": "sec_1795123284790_jn4lvu",
-          "id": "sec_1795123284790_jn4lvu",
-          "title": "4.1 Vowels and Consonant Sounds",
+          "sectionId": "eng_sec_3_1",
+          "id": "eng_sec_3_1",
+          "title": "C1. Vowels (Monophthongs and Diphthongs)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "phonology",
             "vowels",
-            "consonants"
+            "oral-english",
+            "oral-forms"
           ],
           "keywords": [
-            "phoneme",
-            "IPA",
-            "pure vowel",
-            "diphthong",
-            "plosive",
-            "fricative"
+            "monophthongs",
+            "diphthongs",
+            "vowel sounds",
+            "phonetic symbols"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284790_3swye6",
-          "id": "sec_1795123284790_3swye6",
-          "title": "4.2 Stress, Intonation and Rhythm",
+          "sectionId": "eng_sec_3_2",
+          "id": "eng_sec_3_2",
+          "title": "C2. Consonants and Consonant Clusters",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "stress",
-            "intonation",
-            "rhythm"
+            "consonants",
+            "oral-english",
+            "oral-forms"
           ],
           "keywords": [
-            "word stress",
-            "sentence stress",
-            "rising intonation",
-            "falling intonation",
-            "syllable"
+            "consonants",
+            "consonant clusters",
+            "voiced",
+            "voiceless"
           ],
           "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284790_johslx",
-          "id": "sec_1795123284790_johslx",
-          "title": "4.3 Rhymes and Syllabification",
+          "sectionId": "eng_sec_3_3",
+          "id": "eng_sec_3_3",
+          "title": "C3. Rhymes and Homophones",
           "content": "",
           "quiz": [],
           "question_tags": [
             "rhymes",
-            "syllabification"
+            "homophones",
+            "oral-english"
           ],
           "keywords": [
-            "syllable count",
-            "minimal pairs",
-            "rhyme scheme"
+            "rhymes",
+            "homophones",
+            "same sound"
           ],
           "sortOrder": 2
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284790_qcxhr7",
-      "id": "mod_1795123284790_qcxhr7",
-      "title": "Module 5: Register and Style",
-      "sortOrder": 4,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284790_gg2eiq",
-          "id": "sec_1795123284790_gg2eiq",
-          "title": "5.1 Formal and Informal Register",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "register",
-            "formal",
-            "informal"
-          ],
-          "keywords": [
-            "formal English",
-            "colloquial",
-            "slang",
-            "technical language",
-            "register shift"
-          ],
-          "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284790_bsg26e",
-          "id": "sec_1795123284790_bsg26e",
-          "title": "5.2 Figures of Speech and Literary Devices",
+          "sectionId": "eng_sec_3_4",
+          "id": "eng_sec_3_4",
+          "title": "C4. Word Stress (Monosyllabic and Polysyllabic)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "figures_of_speech",
-            "literary_devices"
+            "word-stress",
+            "stress",
+            "oral-english"
           ],
           "keywords": [
-            "metaphor",
-            "simile",
-            "personification",
-            "hyperbole",
-            "irony",
-            "alliteration"
+            "word stress",
+            "monosyllabic",
+            "polysyllabic",
+            "primary stress",
+            "accentuation"
           ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284790_5wkai1",
-      "id": "mod_1795123284790_5wkai1",
-      "title": "Module 6: Essay Writing",
-      "sortOrder": 5,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284790_r6xz4s",
-          "id": "sec_1795123284790_r6xz4s",
-          "title": "6.1 Types of Essays",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "essay_types",
-            "essay_writing"
-          ],
-          "keywords": [
-            "narrative essay",
-            "descriptive essay",
-            "expository essay",
-            "argumentative essay",
-            "letter writing"
-          ],
-          "sortOrder": 0
+          "sortOrder": 3
         },
         {
-          "sectionId": "sec_1795123284790_1v57a0",
-          "id": "sec_1795123284790_1v57a0",
-          "title": "6.2 Paragraph Development and Coherence",
+          "sectionId": "eng_sec_3_5",
+          "id": "eng_sec_3_5",
+          "title": "C5. Intonation and Emphatic Stress",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "paragraph_development",
-            "coherence"
+            "emphatic-stress",
+            "intonation",
+            "oral-english"
           ],
           "keywords": [
-            "topic sentence",
-            "supporting details",
-            "transition words",
-            "conclusion"
+            "intonation",
+            "emphatic stress",
+            "connected speech",
+            "utterance stress"
           ],
-          "sortOrder": 1
+          "sortOrder": 4
         }
       ]
     }
