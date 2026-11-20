@@ -3,360 +3,367 @@
   "syllabus": "JAMB",
   "modules": [
     {
-      "moduleId": "mod_1795123284875_40nata",
-      "id": "mod_1795123284875_40nata",
-      "title": "Module 1: Basic Concepts in Government",
+      "moduleId": "gov_mod_1",
+      "id": "gov_mod_1",
+      "title": "Part I: Elements of Government",
       "sortOrder": 0,
       "sections": [
         {
-          "sectionId": "sec_1795123284875_9o58oh",
-          "id": "sec_1795123284875_9o58oh",
-          "title": "1.1 Government, State and Nation",
+          "sectionId": "gov_sec_1_1",
+          "id": "gov_sec_1_1",
+          "title": "1 & 2. Basic Concepts and Forms of Government",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "government_concepts",
-            "state",
-            "nation"
-          ],
-          "keywords": [
-            "government",
-            "state",
-            "nation",
-            "sovereignty",
-            "legitimacy",
-            "authority"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284875_770rt6",
-          "id": "sec_1795123284875_770rt6",
-          "title": "1.2 Political Power and Authority",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "political_power",
-            "authority"
+            "basic-concepts-in-government",
+            "forms-of-government"
           ],
           "keywords": [
             "power",
-            "coercion",
-            "influence",
-            "political authority",
-            "legitimacy"
+            "authority",
+            "legitimacy",
+            "sovereignty",
+            "state",
+            "nation",
+            "political socialization",
+            "political culture",
+            "monarchy",
+            "aristocracy",
+            "oligarchy",
+            "autocracy",
+            "republicanism",
+            "democracy"
           ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284875_0iosw9",
-      "id": "mod_1795123284875_0iosw9",
-      "title": "Module 2: Political Systems and Ideologies",
-      "sortOrder": 1,
-      "sections": [
+          "sortOrder": 0
+        },
         {
-          "sectionId": "sec_1795123284875_bvdchf",
-          "id": "sec_1795123284875_bvdchf",
-          "title": "2.1 Democracy, Capitalism and Socialism",
+          "sectionId": "gov_sec_1_2",
+          "id": "gov_sec_1_2",
+          "title": "3, 4 & 5. Arms, Structures, and Systems of Governance",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "political_systems",
-            "democracy",
-            "socialism"
+            "arms-of-government",
+            "structures-of-governance",
+            "systems-of-governance"
           ],
           "keywords": [
-            "liberal democracy",
+            "legislature",
+            "executive",
+            "judiciary",
+            "unitary",
+            "federal",
+            "confederal",
+            "presidential system",
+            "parliamentary system",
+            "monarchical"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "gov_sec_1_3",
+          "id": "gov_sec_1_3",
+          "title": "6 & 7. Political Ideologies and Constitutions",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "political-ideologies",
+            "constitution"
+          ],
+          "keywords": [
+            "communalism",
+            "feudalism",
             "capitalism",
             "socialism",
             "communism",
-            "fascism"
+            "totalitarianism",
+            "fascism",
+            "nazism",
+            "written constitution",
+            "unwritten",
+            "rigid",
+            "flexible"
           ],
-          "sortOrder": 0
+          "sortOrder": 2
         },
         {
-          "sectionId": "sec_1795123284875_s4i1l6",
-          "id": "sec_1795123284875_s4i1l6",
-          "title": "2.2 Constitutionalism and Rule of Law",
+          "sectionId": "gov_sec_1_4",
+          "id": "gov_sec_1_4",
+          "title": "8, 9 & 10. Principles of Democratic Government, Legislation, and Citizenship",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "constitutionalism",
-            "rule_of_law"
+            "democratic-principles",
+            "legislation",
+            "citizenship"
           ],
           "keywords": [
-            "constitution",
-            "supremacy of law",
             "separation of powers",
-            "checks and balances"
+            "checks and balances",
+            "collective responsibility",
+            "constitutionalism",
+            "rule of law",
+            "acts",
+            "edicts",
+            "bye-laws",
+            "delegated legislation",
+            "decrees",
+            "citizenship",
+            "naturalization",
+            "dual citizenship"
           ],
-          "sortOrder": 1
+          "sortOrder": 3
+        },
+        {
+          "sectionId": "gov_sec_1_5",
+          "id": "gov_sec_1_5",
+          "title": "11, 12 & 13. Electoral Process, Political Parties, and Pressure Groups",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "electoral-process",
+            "political-parties",
+            "pressure-groups"
+          ],
+          "keywords": [
+            "suffrage",
+            "franchise",
+            "free and fair election",
+            "electoral system",
+            "electoral commission",
+            "party systems",
+            "one-party",
+            "two-party",
+            "multi-party",
+            "pressure groups"
+          ],
+          "sortOrder": 4
+        },
+        {
+          "sectionId": "gov_sec_1_6",
+          "id": "gov_sec_1_6",
+          "title": "14 & 15. Public Opinion and The Civil Service",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "public-opinion",
+            "civil-service"
+          ],
+          "keywords": [
+            "public opinion",
+            "opinion polls",
+            "civil service",
+            "anonymity",
+            "neutrality",
+            "permanence",
+            "bureaucracy",
+            "Ombudsman"
+          ],
+          "sortOrder": 5
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284875_0kwfee",
-      "id": "mod_1795123284875_0kwfee",
-      "title": "Module 3: Arms of Government",
+      "moduleId": "gov_mod_2",
+      "id": "gov_mod_2",
+      "title": "Part II: Political Development in Nigeria",
+      "sortOrder": 1,
+      "sections": [
+        {
+          "sectionId": "gov_sec_2_1",
+          "id": "gov_sec_2_1",
+          "title": "1 & 2. Pre-Colonial Polities and Imperialist Penetration (British & French Policies)",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "pre-colonial-administration",
+            "colonial-administration"
+          ],
+          "keywords": [
+            "Hausa-Fulani Emirate",
+            "Tiv",
+            "Igbo",
+            "Yoruba",
+            "Oyo Empire",
+            "crown colony",
+            "protectorate",
+            "indirect rule",
+            "direct rule",
+            "assimilation",
+            "association"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "gov_sec_2_2",
+          "id": "gov_sec_2_2",
+          "title": "3. Process of Decolonization and Nigerian Nationalism",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "nationalism",
+            "decolonization"
+          ],
+          "keywords": [
+            "nationalism",
+            "Herbert Macaulay",
+            "Nnamdi Azikiwe",
+            "Obafemi Awolowo",
+            "Ahmadu Bello",
+            "Ladipo Solanke",
+            "Aminu Kano",
+            "J.S. Tarka",
+            "Tafawa Balewa",
+            "Pan-Africanism",
+            "WASU"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "gov_sec_2_3",
+          "id": "gov_sec_2_3",
+          "title": "4 & 5. Constitutional Development in Nigeria (1922–1999)",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "constitutional-development",
+            "nigerian-constitutions"
+          ],
+          "keywords": [
+            "Clifford Constitution",
+            "Richards Constitution",
+            "Macpherson Constitution",
+            "Lyttleton Constitution",
+            "Independence Constitution 1960",
+            "1963 Republican Constitution",
+            "1979 Constitution",
+            "1989 Constitution",
+            "1999 Constitution"
+          ],
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "gov_sec_2_4",
+          "id": "gov_sec_2_4",
+          "title": "6, 7 & 8. Post-Independence Institutions, Public Commissions, and Party Politics (1st–4th Republics)",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "post-independence-nigeria",
+            "public-commissions",
+            "nigerian-political-parties"
+          ],
+          "keywords": [
+            "Civil Service Commission",
+            "Public Complaints Commission",
+            "National Boundary Commission",
+            "First Republic",
+            "Second Republic",
+            "Third Republic",
+            "Fourth Republic",
+            "NCNC",
+            "NPC",
+            "AG",
+            "NPN",
+            "UPN",
+            "SDP",
+            "NRC"
+          ],
+          "sortOrder": 3
+        },
+        {
+          "sectionId": "gov_sec_2_5",
+          "id": "gov_sec_2_5",
+          "title": "9, 10 & 11. Nigerian Federalism, Public Corporations, and Local Government Reforms",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "nigerian-federalism",
+            "public-corporations",
+            "local-government"
+          ],
+          "keywords": [
+            "creation of states",
+            "revenue allocation",
+            "Federal Character",
+            "public corporations",
+            "parastatals",
+            "privatization",
+            "commercialization",
+            "1976 Local Government Reform",
+            "traditional rulers"
+          ],
+          "sortOrder": 4
+        },
+        {
+          "sectionId": "gov_sec_2_6",
+          "id": "gov_sec_2_6",
+          "title": "12. The Military in Nigerian Politics",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "military-rule",
+            "military-in-politics"
+          ],
+          "keywords": [
+            "military intervention",
+            "Unification Decree No. 34",
+            "SAP",
+            "military disengagement",
+            "coups in Nigeria"
+          ],
+          "sortOrder": 5
+        }
+      ]
+    },
+    {
+      "moduleId": "gov_mod_3",
+      "id": "gov_mod_3",
+      "title": "Part III & IV: Foreign Policy and International Organizations",
       "sortOrder": 2,
       "sections": [
         {
-          "sectionId": "sec_1795123284875_k0n4f2",
-          "id": "sec_1795123284875_k0n4f2",
-          "title": "3.1 The Legislature",
+          "sectionId": "gov_sec_3_1",
+          "id": "gov_sec_3_1",
+          "title": "Part III (1–3). Foreign Policy, Non-Alignment, Africa as Centrepiece, and NEPAD",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "legislature",
-            "parliament"
+            "foreign-policy",
+            "nigerias-foreign-policy"
           ],
           "keywords": [
-            "bicameral",
-            "unicameral",
-            "bill",
-            "legislative process",
-            "Senate",
-            "House of Representatives"
+            "foreign policy determinants",
+            "Technical Aid Corps",
+            "TAC",
+            "Non-Alignment Policy",
+            "Africa centrepiece",
+            "NEPAD"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284875_bq5wsx",
-          "id": "sec_1795123284875_bq5wsx",
-          "title": "3.2 The Executive",
+          "sectionId": "gov_sec_3_2",
+          "id": "gov_sec_3_2",
+          "title": "Part III (4) & Part IV. Nigeria in International Organizations (UN, Commonwealth, AU, ECOWAS, OPEC, APPA)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "executive",
-            "president"
-          ],
-          "keywords": [
-            "president",
-            "prime minister",
-            "cabinet",
-            "executive power",
-            "veto power"
-          ],
-          "sortOrder": 1
-        },
-        {
-          "sectionId": "sec_1795123284875_nb0vez",
-          "id": "sec_1795123284875_nb0vez",
-          "title": "3.3 The Judiciary",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "judiciary",
-            "courts"
-          ],
-          "keywords": [
-            "Supreme Court",
-            "judicial review",
-            "independence of judiciary",
-            "hierarchy of courts"
-          ],
-          "sortOrder": 2
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284875_6o4jxc",
-      "id": "mod_1795123284875_6o4jxc",
-      "title": "Module 4: Political Parties and Electoral Systems",
-      "sortOrder": 3,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284875_zpzyzh",
-          "id": "sec_1795123284875_zpzyzh",
-          "title": "4.1 Political Parties: Functions and Types",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "political_parties"
-          ],
-          "keywords": [
-            "one-party system",
-            "two-party system",
-            "multi-party system",
-            "party manifesto"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284875_dr7kp5",
-          "id": "sec_1795123284875_dr7kp5",
-          "title": "4.2 Electoral Systems and Elections",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "electoral_systems",
-            "elections"
-          ],
-          "keywords": [
-            "FPTP",
-            "proportional representation",
-            "franchise",
-            "suffrage",
-            "electoral commission"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284875_zlk76q",
-      "id": "mod_1795123284875_zlk76q",
-      "title": "Module 5: Federalism and Local Government",
-      "sortOrder": 4,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284875_y3cjpw",
-          "id": "sec_1795123284875_y3cjpw",
-          "title": "5.1 Federalism",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "federalism"
-          ],
-          "keywords": [
-            "federal system",
-            "unitary system",
-            "concurrent list",
-            "exclusive list",
-            "residual powers"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284875_fxzdks",
-          "id": "sec_1795123284875_fxzdks",
-          "title": "5.2 Local Government Administration",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "local_government"
-          ],
-          "keywords": [
-            "third tier",
-            "councils",
-            "decentralization",
-            "grassroots administration"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284875_kyrhse",
-      "id": "mod_1795123284875_kyrhse",
-      "title": "Module 6: Nigerian Government and Politics",
-      "sortOrder": 5,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284875_9zqc7i",
-          "id": "sec_1795123284875_9zqc7i",
-          "title": "6.1 Pre-Colonial and Colonial Nigeria",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "colonial_nigeria",
-            "pre_colonial"
-          ],
-          "keywords": [
-            "Hausa-Fulani",
-            "Yoruba kingdoms",
-            "Igbo societies",
-            "colonial administration",
-            "amalgamation 1914"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284875_85q3zn",
-          "id": "sec_1795123284875_85q3zn",
-          "title": "6.2 Constitutional Development in Nigeria",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "nigerian_constitution",
-            "constitutional_development"
-          ],
-          "keywords": [
-            "Clifford Constitution 1922",
-            "Richards 1946",
-            "Macpherson 1951",
-            "Lyttleton 1954",
-            "independence 1960",
-            "republic 1963"
-          ],
-          "sortOrder": 1
-        },
-        {
-          "sectionId": "sec_1795123284875_fk2y35",
-          "id": "sec_1795123284875_fk2y35",
-          "title": "6.3 Military Rule and Return to Democracy",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "military_rule",
-            "nigerian_democracy"
-          ],
-          "keywords": [
-            "military coup",
-            "AFRC",
-            "PRC",
-            "1999 Constitution",
-            "Fourth Republic"
-          ],
-          "sortOrder": 2
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284875_45stud",
-      "id": "mod_1795123284875_45stud",
-      "title": "Module 7: International Relations and Organizations",
-      "sortOrder": 6,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284875_8w64m6",
-          "id": "sec_1795123284875_8w64m6",
-          "title": "7.1 Foreign Policy and Diplomacy",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "foreign_policy",
-            "diplomacy"
-          ],
-          "keywords": [
-            "national interest",
-            "bilateral relations",
-            "multilateral relations",
-            "ambassadors"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284875_ht1n9w",
-          "id": "sec_1795123284875_ht1n9w",
-          "title": "7.2 International Organizations",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "international_organizations",
-            "UN",
-            "AU",
-            "ECOWAS"
+            "international-organizations",
+            "ecowas",
+            "au",
+            "uno"
           ],
           "keywords": [
             "United Nations",
-            "African Union",
-            "ECOWAS",
+            "UNO",
             "Commonwealth",
-            "WHO",
-            "UNESCO"
+            "OAU",
+            "African Union",
+            "AU",
+            "ECOWAS",
+            "OPEC",
+            "African Petroleum Producers Association"
           ],
           "sortOrder": 1
         }
