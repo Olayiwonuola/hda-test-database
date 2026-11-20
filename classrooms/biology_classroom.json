@@ -3,364 +3,613 @@
   "syllabus": "JAMB",
   "modules": [
     {
-      "moduleId": "mod_1791566814443_1",
-      "title": "Variety of Organisms — Living Organisms",
+      "moduleId": "mod_1795123284776_bjqt70",
+      "id": "mod_1795123284776_bjqt70",
+      "title": "Module 1: Cell Biology",
+      "sortOrder": 0,
       "sections": [
         {
-          "sectionId": "sec_1791566814443_1",
-          "title": "1.1 Characteristics of Living Organisms",
-          "content": "Biology is the study of life and living organisms. To distinguish between a living entity (like a goat, a mango tree, or a bacterium) and a non-living object (like a stone or a smartphone), biologists use a specific set of life processes known as the characteristics of living organisms.\nAn easy mnemonic widely used by Nigerian students to remember these characteristics is MR NIGER D:\nM — Movement\nR — Respiration\nN — Nutrition\nI — Irritability (Sensitivity)\nG — Growth\nE — Excretion\nR — Reproduction\nD — Death / Adaptation\n\n1. Movement\n\nMovement is the ability of an organism to change its position or the position of parts of its body.Animals: Move their entire body from one place to another (known as locomotion) in search of food, mates, or shelter, or to escape predators (e.g., a dog running or a fish swimming in the Niger River).Plants: Do not show locomotion; instead, they display curvature movements or growth movements in response to stimuli (e.g., roots growing toward water or shoot tips bending toward sunlight).\n\n2. Respiration\n\nRespiration is the chemical breakdown of organic food molecules (usually glucose) inside living cells to release energy stored in the form of Adenosine Triphosphate ($ATP$). $$\\text{Glucose} + \\text{Oxygen} \\longrightarrow \\text{Carbon Dioxide} + \\text{Water} + \\text{Energy } (ATP)$$Energy released is used for all cellular activities such as growth, active transport, and movement.\n\n3. Nutrition\n\nNutrition is the process by which living organisms obtain and assimilate food nutrients required for energy, growth, and tissue repair.Autotrophic Nutrition: Organisms synthesize their own organic food from simple inorganic substances using light energy (e.g., green plants via photosynthesis).Heterotrophic Nutrition: Organisms obtain ready-made organic food by feeding on other organisms (e.g., humans eating eba and egusi soup, fungi absorbing nutrients from decaying cassava).\n\n4. Irritability (Sensitivity)\n\nIrritability is the ability of an organism to detect changes in its internal or external environment (called stimuli) and respond appropriately to them.Example: A person quickly pulling their hand away from a hot pot, or the leaves of the \"touch-me-not\" plant (Mimosa pudica) folding when touched.\n\n5. Growth\n\nGrowth is an irreversible, permanent increase in the size, dry mass, complexity, and number of cells of an organism. Growth in animals is limited/determinate (stops at maturity), whereas growth in plants is unlimited/indeterminate (continues throughout life at apical meristems).\n\n6. Excretion\n\nExcretion is the removal of metabolic waste products, toxic substances, and substances in excess of requirements from the body of an organism.Metabolic wastes in humans include urea, carbon dioxide, and uric acid.Crucial JAMB Distinction: Excretion is NOT egestive defecation! Defecation is the removal of undigested, unabsorbed food matter through the anus, whereas excretion involves chemical wastes produced inside cells during metabolism.\n\n7. Reproduction\n\nReproduction is the biological process by which living organisms produce new offspring of their own kind, ensuring the continuity of the species and preventing extinction.Asexual Reproduction: Involves a single parent without gamete fusion (e.g., binary fission in Amoeba).Sexual Reproduction: Involves two parents producing male and female gametes that fuse during fertilization (e.g., flowering plants and mammals).8. Adaptation and DeathAdaptation: The possession of special structural, physiological, or behavioral features that enable an organism to survive and reproduce successfully in its specific environment (e.g., cactus spines reducing water loss in arid Northern Nigeria).Death: The ultimate termination of all biological functions and metabolic activities sustaining a living organism.\n\n<mark> JAMB Exam Focus:\n\nJAMB frequently tests the distinction between excretion (removal of metabolic waste like urea and $CO_2$) and egestion/defecation (removal of undigested food feces).Questions often ask candidates to identify features that prove a entity is living or non-living (e.g., viruses act as non-living crystals outside host cells, but reproduce as living entities inside host cells). </mark>",
-          "quiz": [
-            {
-              "quizId": "quiz_ai_1792058028890_0_5c6xi",
-              "question": "Which of the following processes is an example of excretion in mammals?",
-              "optionA": "Elimination of undigested fiber via the anus",
-              "optionB": "Removal of urea and excess salts through the kidney",
-              "optionC": "Release of unabsorbed bile salts in feces",
-              "optionD": "Passage of swallowed air through belching",
-              "options": [
-                "Elimination of undigested fiber via the anus",
-                "Removal of urea and excess salts through the kidney",
-                "Release of unabsorbed bile salts in feces",
-                "Passage of swallowed air through belching"
-              ],
-              "correct_option": "B",
-              "correctAnswer": "B",
-              "correctOptionIndex": 1,
-              "explanation": "Excretion involves eliminating metabolic waste products formed inside cells. Urea produced in the liver and filtered by the kidney is a true metabolic waste, unlike undigested matter (egestion).",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            },
-            {
-              "quizId": "quiz_ai_1792058028890_1_8gljw",
-              "question": "Biologically, growth in multicellular organisms is strictly defined as an irreversible increase in:",
-              "optionA": "Fresh weight due to water intake",
-              "optionB": "Dry mass and size of protoplasm",
-              "optionC": "Cellular hydration level",
-              "optionD": "Turgor pressure inside storage vacuoles",
-              "options": [
-                "Fresh weight due to water intake",
-                "Dry mass and size of protoplasm",
-                "Cellular hydration level",
-                "Turgor pressure inside storage vacuoles"
-              ],
-              "correct_option": "B",
-              "correctAnswer": "B",
-              "correctOptionIndex": 1,
-              "explanation": "True biological growth requires permanent synthesis of new protoplasm, measured accurately as dry mass. Fluctuation in water content represents temporary reversible mass change.",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            },
-            {
-              "quizId": "quiz_ai_1792058028890_2_985lb",
-              "question": "Which characteristic of living organisms is vital for the survival of the species but NOT necessary for the survival of an individual?",
-              "optionA": "Irritability",
-              "optionB": "Respiration",
-              "optionC": "Reproduction",
-              "optionD": "Nutrition",
-              "options": [
-                "Irritability",
-                "Respiration",
-                "Reproduction",
-                "Nutrition"
-              ],
-              "correct_option": "C",
-              "correctAnswer": "C",
-              "correctOptionIndex": 2,
-              "explanation": "Apply the HDA Shortcut: An individual organism can live a complete, healthy lifespan without generating offspring. Reproduction exclusively prevents species extinction.",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            },
-            {
-              "quizId": "quiz_ai_1792058028890_3_ovxei",
-              "question": "Plant movement differs predominantly from animal movement because plant movement:",
-              "optionA": "Involves total displacement of the entire body",
-              "optionB": "Is typically limited to growth curvatures of fixed organs",
-              "optionC": "Does not require energy in the form of ATP",
-              "optionD": "Occurs only during daylight hours",
-              "options": [
-                "Involves total displacement of the entire body",
-                "Is typically limited to growth curvatures of fixed organs",
-                "Does not require energy in the form of ATP",
-                "Occurs only during daylight hours"
-              ],
-              "correct_option": "B",
-              "correctAnswer": "B",
-              "correctOptionIndex": 1,
-              "explanation": "Most plants are rooted and exhibit localized movements (tropisms/nastic responses) involving curvature toward or away from stimuli, unlike animals that display locomotion.",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            },
-            {
-              "quizId": "quiz_ai_1792058028890_4_e47va",
-              "question": "The biochemical equation $C_6H_{12}O_6 + 6O_2 \\rightarrow 6CO_2 + 6H_2O + \\text{ATP}$ directly represents which characteristic of living things?",
-              "optionA": "Nutrition",
-              "optionB": "Internal Excretion",
-              "optionC": "Cellular Respiration",
-              "optionD": "Chemosynthesis",
-              "options": [
-                "Nutrition",
-                "Internal Excretion",
-                "Cellular Respiration",
-                "Chemosynthesis"
-              ],
-              "correct_option": "C",
-              "correctAnswer": "C",
-              "correctOptionIndex": 2,
-              "explanation": "The equation shows the oxidative breakdown of glucose to generate ATP energy, which defines aerobic cellular respiration.",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            }
-          ]
+          "sectionId": "sec_1795123284776_ebiq0v",
+          "id": "sec_1795123284776_ebiq0v",
+          "title": "1.1 Cell Structure and Organisation",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "cell_structure",
+            "organelles"
+          ],
+          "keywords": [
+            "cell membrane",
+            "nucleus",
+            "cytoplasm",
+            "mitochondria",
+            "chloroplast",
+            "ribosome"
+          ],
+          "sortOrder": 0
         },
         {
-          "sectionId": "sec_1791743614404_a19mi",
-          "title": "1.2 Cell Structure and Functions of Cell Components",
-          "content": "A cell is defined as the basic structural, functional, and organizational unit of all living organisms. All living organisms are made up of either a single cell (unicellular) or many cells (multicellular).\n\nGeneralized Structure of Plant and Animal Cells\n\nBoth plant and animal cells share basic protoplasmic components, but they possess distinct structural differences adapted to their modes of life.\n\nDetailed Comparison Between Plant and Animal Cells\n\n1. Cell Wall\nPlant Cell: Present (rigid outer wall composed of cellulose).\n\nAnimal Cell: Absent (bounded only by the flexible cell membrane).\n\n2. Cell Shape\nPlant Cell: Fixed, rigid, and definite rectangular shape.\n\nAnimal Cell: Flexible, irregular, and variable shape.\n\n3. Chloroplasts (Plastids)\nPlant Cell: Present (contains green chlorophyll pigment for photosynthesis).\n\nAnimal Cell: Completely absent.\n\n4. Vacuole\nPlant Cell: One single, large, central, and permanent vacuole.\n\nAnimal Cell: Small, numerous, temporary vacuoles (or completely absent).\n\n5. Centrosome / Centrioles\nPlant Cell: Absent (except in certain lower plant forms).\n\nAnimal Cell: Present (essential for spindle fiber formation during cell division).\n\n6. Carbohydrate Storage\nPlant Cell: Excess carbohydrates stored as Starch grains.\n\nAnimal Cell: Excess carbohydrates stored as Glycogen granules.\n\n7. Cytoplasm Distribution\nPlant Cell: Confined to a thin layer pushed to the periphery by the large central vacuole.\n\nAnimal Cell: Evenly distributed throughout the entire interior cavity of the cell.\n1. Cell Wall\n\nFound In: Plant Cells Only\n\nStructure: Rigid, non-living outer boundary composed of cellulose.\n\nFunction: Provides mechanical support, tensile strength, and rigidity to give plant cells a definite shape.\n\n2. Cell (Plasma) Membrane\n\nFound In: Both Plant and Animal Cells\n\nStructure: Selectively permeable, semi-fluid bilayer composed of phospholipids and proteins.\n\nFunction: Regulates the osmotic balance and controls the selective entry and exit of substances.\n\n3. Cytoplasm\n\nFound In: Both Plant and Animal Cells\n\nStructure: Jelly-like fluid matrix containing enzymes, mineral salts, and suspended organelles.\n\nFunction: Acts as the primary medium for metabolic chemical reactions and glycolysis.\n\n4. Nucleus\n\nFound In: Both Plant and Animal Cells\n\nStructure: Double-membrane organelle bounded by a porous nuclear envelope containing chromosomes (DNA).\n\nFunction: Directs cellular metabolic activities and carries hereditary genetic information.\n\n5. Nucleolus\n\nFound In: Both Plant and Animal Cells\n\nStructure: Dense, non-membrane spherical body located inside the nucleoplasm.\n\nFunction: Synthesizes ribosomal RNA (rRNA) and coordinates ribosome assembly.\n\n6. Mitochondrion\n\nFound In: Both Plant and Animal Cells\n\nStructure: Rod-shaped organelle with a smooth outer membrane and an inner membrane folded into cristae.\n\nFunction: The \"powerhouse of the cell\" — executes aerobic respiration to generate ATP energy.\n\n\n7. Chloroplast\n\nFound In: Plant Cells Only\n\nStructure: Double-membrane plastid containing stacked thylakoids (grana) embedded in stroma with green chlorophyll.\n\nFunction: Site of photosynthesis, trapping solar radiant energy to manufacture glucose.\n\n8. Ribosome\n\nFound In: Both Plant and Animal Cells\n\nStructure: Minute, non-membrane granules found freely suspended or attached to the rough endoplasmic reticulum.\n\nFunction: Responsible for cellular protein synthesis and polypeptide translation.\n\n9. Endoplasmic Reticulum \n\nFound In: Both Plant and Animal Cells\n\nStructure: Network of interconnected membranous tubules and sacs extending throughout the cytoplasm.\n\nFunction:\n\nRough ER (studded with ribosomes): Synthesizes and transports proteins.\n\nSmooth ER (lacks ribosomes): Synthesizes lipids, metabolizes carbohydrates, and detoxifies chemicals.\n\n10. Golgi Apparatus (Dictyosome)\n\nFound In: Both Plant and Animal Cells\n\nStructure: Stacks of parallel, flattened, membrane-bound sacs known as cisternae.\n\nFunction: Modifies, concentrates, packages, and secretes cellular proteins and glycoproteins.\n\n11. Vacuole\n\nFound In: Both (Distinct structural differences)\n\nStructure: Fluid-filled sac enclosed by a selectively permeable membrane (tonoplast).\n\nFunction:\n\nIn Plants: Single, large, and permanent; maintains cellular turgor pressure and stores sap.\n\nIn Animals: Small, temporary, and contractile/phagocytic (regulates excretion and pinocytosis).\n\n12. Lysosome\n\nFound In: Mainly Animal Cells\n\nStructure: Single membrane-bound vesicle containing concentrated hydrolytic and digestive enzymes.\n\nFunction: Acts as the \"suicide bag\" — breaks down damaged organelles, macromolecules, and ingested pathogens via autophagy.\n\n13. Centrosome (Centrioles)\n\nFound In: Animal Cells Only\n\nStructure: Pair of perpendicular, non-membrane cylindrical structures composed of nine microtubule triplets.\n\nFunction: Organizes spindle fibers to separate sister chromatids during mitotic and meiotic cell division.",
-          "quiz": [
-            {
-              "quizId": "quiz_ai_1792049836896_0_m63yd",
-              "question": "Which of the following cellular components is responsible for the synthesis of steroid hormones in endocrine cells?",
-              "optionA": "Rough Endoplasmic Reticulum",
-              "optionB": "Smooth Endoplasmic Reticulum",
-              "optionC": "Golgi Apparatus",
-              "optionD": "Free Ribosomes",
-              "correctAnswer": "B",
-              "explanation": "Steroid and lipid synthesis occurs strictly in the Smooth Endoplasmic Reticulum (SER). RER synthesizes proteins.",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            },
-            {
-              "quizId": "quiz_ai_1792049836896_1_i9awk",
-              "question": "Which of these organelles contains $70\\text{S}$ ribosomes within a eukaryotic cell?",
-              "optionA": "Mitochondrion",
-              "optionB": "Nucleolus",
-              "optionC": "Lysosome",
-              "optionD": "Golgi apparatus",
-              "correctAnswer": "A",
-              "explanation": "Mitochondria and chloroplasts contain prokaryotic-like $70\\text{S}$ ribosomes and circular DNA, supporting the endosymbiotic theory.",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            },
-            {
-              "quizId": "quiz_ai_1792049836896_2_6ey8f",
-              "question": "An organelle rich in hydrolytic enzymes that ruptures during cellular autolysis is the:",
-              "optionA": "Peroxisome",
-              "optionB": "Centrosome",
-              "optionC": "Lysosome",
-              "optionD": "Vacuole",
-              "correctAnswer": "C",
-              "explanation": "Lysosomes are known as 'suicide bags' because they contain lytic/hydrolytic enzymes used for programmed cell destruction.",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            },
-            {
-              "quizId": "quiz_ai_1792049836896_3_gx965",
-              "question": "Which structure is present in a cell of *Euglena* but entirely absent in an onion epidermal cell?",
-              "optionA": "Mitochondria",
-              "optionB": "Gullet and flagellum",
-              "optionC": "Cellulose cell wall",
-              "optionD": "Chloroplast",
-              "correctAnswer": "B",
-              "explanation": "*Euglena* possesses animal-like locomotory and feeding structures (flagellum and gullet/cytostome) which are absent in plant cells like the onion epidermis.",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            },
-            {
-              "quizId": "quiz_ai_1792049836896_4_56bow",
-              "question": "The primary function of the cristae in the mitochondrion is to:",
-              "optionA": "Store hereditary genetic instructions",
-              "optionB": "Increase surface area for ATP-generating enzymes",
-              "optionC": "Synthesize cytoplasmic structural proteins",
-              "optionD": "Maintain osmotic stability within the matrix",
-              "correctAnswer": "B",
-              "explanation": "The inner mitochondrial membrane folds into cristae to maximize the surface area available for the electron transport chain and ATP synthase complexes.",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            }
-          ]
+          "sectionId": "sec_1795123284776_9iamd9",
+          "id": "sec_1795123284776_9iamd9",
+          "title": "1.2 Cell Division: Mitosis and Meiosis",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "mitosis",
+            "meiosis",
+            "cell_division"
+          ],
+          "keywords": [
+            "prophase",
+            "metaphase",
+            "anaphase",
+            "telophase",
+            "gamete formation"
+          ],
+          "sortOrder": 1
         },
         {
-          "sectionId": "sec_1791745744872_0fvli",
-          "title": "1.2 Cell Structure and Functions of Cell Components",
-          "content": "The cell is the basic structural, functional, and biological unit of all living organisms. In UTME, questions hinge on distinguishing organelle ultrastructures and specific metabolic roles.\n\n### Key Organelles & High-Yield Functions\n* **Mitochondria:** Powerhouse of the cell; site of aerobic respiration and ATP generation. Features inner foldings called *cristae* ($A_{\\text{surface}}$ booster) and contains its own circular DNA.\n* **Ribosomes:** Non-membrane-bound granular structures; site of translation (protein synthesis).\n* **Endoplasmic Reticulum (ER):** \n  - *Rough ER (RER):* Studded with ribosomes; synthesizes and transports proteins.\n  - *Smooth ER (SER):* Synthesizes lipids/steroids and detoxifies drugs.\n* **Golgi Apparatus:** Modifies, packages, and sorts macromolecules for secretion.\n* **Lysosomes:** Contain hydrolytic enzymes for intracellular digestion and autolysis (\"suicide bags\").\n* **Chloroplasts:** Double-membraned plastids containing chlorophyll, thylakoids, and stroma; site of photosynthesis.\n\n```text\n+-------------------------------------------------------+\n|                   GENERALIZED CELL                    |\n|  [Cell Wall]* -> (Only in Plants: Cellulose, Rigid)   |\n|  +-------------------------------------------------+  |\n|  | Plasma Membrane: Selectively Permeable Bilayer  |  |\n|  |   [Nucleus: Chromatin + Nucleolus]              |  |\n|  |   [Mitochondrion: Cristae -> ATP]               |  |\n|  |   [RER: Ribosomes] ---> [Golgi: Packaging]      |  |\n|  |   [Chloroplast]* / [Lysosome]**                 |  |\n|  +-------------------------------------------------+  |\n+-------------------------------------------------------+\n*Plant only   **Prominent in Animal\n```\n\n> **Examiner's Trap:** JAMB often asks about the permeability of the **cell wall** vs **cell membrane**. The cellulose cell wall is **completely permeable** to water and solutes, while the plasma membrane is **selectively/differentially permeable**.\n\n> **HDA Exam Shortcut / Speed Hack:** Apply the **\"N-M-C Rule\"** for double-membraned organelles with independent DNA: **N**ucleus, **M**itochondria, and **C**hloroplast. If an option asks for an autonomous organelle outside the nucleus, eliminate single-membraned structures immediately!",
-          "quiz": [
-            {
-              "quizId": "quiz_ai_1792056651392_0_wfclu",
-              "question": "Which of the following cellular components is completely permeable to dissolved solutes?",
-              "optionA": "Plasmalemma",
-              "optionB": "Tonoplast",
-              "optionC": "Cellulose cell wall",
-              "optionD": "Nuclear envelope",
-              "options": [
-                "Plasmalemma",
-                "Tonoplast",
-                "Cellulose cell wall",
-                "Nuclear envelope"
-              ],
-              "correct_option": "C",
-              "correctAnswer": "C",
-              "correctOptionIndex": 2,
-              "explanation": "The cellulose cell wall is fully permeable, allowing water and dissolved substances to pass freely. In contrast, the plasmalemma and tonoplast are selectively permeable.",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            },
-            {
-              "quizId": "quiz_ai_1792056651392_1_k8zch",
-              "question": "An organelle isolated from a rat liver cell is found to contain acid hydrolases capable of breaking down foreign debris. This organelle is the:",
-              "optionA": "Ribosome",
-              "optionB": "Lysosome",
-              "optionC": "Peroxisome",
-              "optionD": "Centrosome",
-              "options": [
-                "Ribosome",
-                "Lysosome",
-                "Peroxisome",
-                "Centrosome"
-              ],
-              "correct_option": "B",
-              "correctAnswer": "B",
-              "correctOptionIndex": 1,
-              "explanation": "Lysosomes are the digestive units of the cell containing hydrolytic enzymes for autolysis and defense. Ribosomes lack membranes and catalyze protein synthesis.",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            },
-            {
-              "quizId": "quiz_ai_1792056651392_2_5k2rs",
-              "question": "During an experiment, a drug selectively inhibits the synthesis of steroid hormones in an animal cell. Which organelle is directly affected?",
-              "optionA": "Rough Endoplasmic Reticulum",
-              "optionB": "Smooth Endoplasmic Reticulum",
-              "optionC": "Golgi apparatus",
-              "optionD": "Nucleolus",
-              "options": [
-                "Rough Endoplasmic Reticulum",
-                "Smooth Endoplasmic Reticulum",
-                "Golgi apparatus",
-                "Nucleolus"
-              ],
-              "correct_option": "B",
-              "correctAnswer": "B",
-              "correctOptionIndex": 1,
-              "explanation": "The Smooth ER is responsible for lipid and steroid biosynthesis as well as drug detoxification. The Rough ER focuses on protein synthesis.",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            },
-            {
-              "quizId": "quiz_ai_1792056651392_3_1e1wr",
-              "question": "Which of the following organelles possesses a double membrane and its own circular genetic material?",
-              "optionA": "Mitochondrion",
-              "optionB": "Ribosome",
-              "optionC": "Golgi body",
-              "optionD": "Vacuole",
-              "options": [
-                "Mitochondrion",
-                "Ribosome",
-                "Golgi body",
-                "Vacuole"
-              ],
-              "correct_option": "A",
-              "correctAnswer": "A",
-              "correctOptionIndex": 0,
-              "explanation": "Remember the HDA 'N-M-C Rule': Nucleus, Mitochondria, and Chloroplasts have double membranes and their own DNA. Ribosomes, Golgi bodies, and vacuoles do not.",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            },
-            {
-              "quizId": "quiz_ai_1792056651392_4_avnwx",
-              "question": "The primary structural advantage of the cristae in the mitochondrion is to:",
-              "optionA": "Store excess glycogen granules",
-              "optionB": "Prevent water entry via osmosis",
-              "optionC": "Increase the surface area for enzyme attachment",
-              "optionD": "Protect mitochondrial DNA from mutation",
-              "options": [
-                "Store excess glycogen granules",
-                "Prevent water entry via osmosis",
-                "Increase the surface area for enzyme attachment",
-                "Protect mitochondrial DNA from mutation"
-              ],
-              "correct_option": "C",
-              "correctAnswer": "C",
-              "correctOptionIndex": 2,
-              "explanation": "The extensive folding of the inner mitochondrial membrane into cristae maximizes the surface area for ATP synthase and electron transport chain complexes.",
-              "diagramUrl": "",
-              "optionImages": {
-                "A": "",
-                "B": "",
-                "C": "",
-                "D": ""
-              }
-            }
-          ]
+          "sectionId": "sec_1795123284776_ribu3q",
+          "id": "sec_1795123284776_ribu3q",
+          "title": "1.3 Diffusion, Osmosis and Active Transport",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "diffusion",
+            "osmosis",
+            "active_transport"
+          ],
+          "keywords": [
+            "concentration gradient",
+            "semi-permeable membrane",
+            "plasmolysis",
+            "turgidity"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284776_dqxdyr",
+      "id": "mod_1795123284776_dqxdyr",
+      "title": "Module 2: Classification of Living Things",
+      "sortOrder": 1,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284776_i2n6qr",
+          "id": "sec_1795123284776_i2n6qr",
+          "title": "2.1 Kingdom Classification",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "classification",
+            "taxonomy"
+          ],
+          "keywords": [
+            "Monera",
+            "Protista",
+            "Fungi",
+            "Plantae",
+            "Animalia",
+            "binomial nomenclature"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284776_z6q6e5",
+          "id": "sec_1795123284776_z6q6e5",
+          "title": "2.2 Characteristics of Major Groups",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "vertebrates",
+            "invertebrates",
+            "plants"
+          ],
+          "keywords": [
+            "Arthropoda",
+            "Chordata",
+            "Angiosperm",
+            "Gymnosperm",
+            "Pteridophyta"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284776_npxqqn",
+      "id": "mod_1795123284776_npxqqn",
+      "title": "Module 3: Nutrition",
+      "sortOrder": 2,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284776_kkv1pl",
+          "id": "sec_1795123284776_kkv1pl",
+          "title": "3.1 Autotrophic Nutrition and Photosynthesis",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "photosynthesis",
+            "autotrophic"
+          ],
+          "keywords": [
+            "chlorophyll",
+            "light reaction",
+            "dark reaction",
+            "Calvin cycle",
+            "carbon dioxide fixation"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284776_3vu9wt",
+          "id": "sec_1795123284776_3vu9wt",
+          "title": "3.2 Heterotrophic Nutrition and Digestion",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "heterotrophic",
+            "digestion"
+          ],
+          "keywords": [
+            "enzymes",
+            "amylase",
+            "protease",
+            "lipase",
+            "alimentary canal",
+            "absorption"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284776_5bp9do",
+          "id": "sec_1795123284776_5bp9do",
+          "title": "3.3 Mineral Salts and Vitamins",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "mineral_salts",
+            "vitamins",
+            "deficiency_diseases"
+          ],
+          "keywords": [
+            "iron",
+            "calcium",
+            "vitamin A",
+            "vitamin C",
+            "vitamin D",
+            "deficiency disease"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284776_wgqcal",
+      "id": "mod_1795123284776_wgqcal",
+      "title": "Module 4: Transport Systems",
+      "sortOrder": 3,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284776_njhh5m",
+          "id": "sec_1795123284776_njhh5m",
+          "title": "4.1 Blood and Blood Groups",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "blood",
+            "blood_groups"
+          ],
+          "keywords": [
+            "red blood cells",
+            "white blood cells",
+            "platelets",
+            "plasma",
+            "ABO blood group",
+            "Rhesus factor"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284776_v0c2so",
+          "id": "sec_1795123284776_v0c2so",
+          "title": "4.2 Heart and Circulatory System",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "heart",
+            "circulatory_system"
+          ],
+          "keywords": [
+            "chambers",
+            "valves",
+            "arteries",
+            "veins",
+            "capillaries",
+            "pulmonary circulation"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284776_dgapdv",
+          "id": "sec_1795123284776_dgapdv",
+          "title": "4.3 Transport in Plants",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "transport_in_plants",
+            "xylem",
+            "phloem"
+          ],
+          "keywords": [
+            "xylem",
+            "phloem",
+            "transpiration",
+            "translocation",
+            "root pressure"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284776_hqdr69",
+      "id": "mod_1795123284776_hqdr69",
+      "title": "Module 5: Respiration",
+      "sortOrder": 4,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284776_t3j714",
+          "id": "sec_1795123284776_t3j714",
+          "title": "5.1 Aerobic and Anaerobic Respiration",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "respiration",
+            "aerobic",
+            "anaerobic"
+          ],
+          "keywords": [
+            "glycolysis",
+            "Krebs cycle",
+            "ATP",
+            "lactic acid",
+            "fermentation"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284776_4r9msn",
+          "id": "sec_1795123284776_4r9msn",
+          "title": "5.2 Respiratory Organs and Gas Exchange",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "gas_exchange",
+            "respiratory_organs"
+          ],
+          "keywords": [
+            "lungs",
+            "alveoli",
+            "trachea",
+            "gills",
+            "stomata",
+            "breathing mechanism"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284776_f4u8tm",
+      "id": "mod_1795123284776_f4u8tm",
+      "title": "Module 6: Excretion",
+      "sortOrder": 5,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284776_iw7sv6",
+          "id": "sec_1795123284776_iw7sv6",
+          "title": "6.1 Excretory Products and Organs",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "excretion",
+            "excretory_organs"
+          ],
+          "keywords": [
+            "urea",
+            "uric acid",
+            "kidney",
+            "nephron",
+            "glomerulus",
+            "Bowman's capsule"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284776_i4nmu9",
+          "id": "sec_1795123284776_i4nmu9",
+          "title": "6.2 Osmoregulation",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "osmoregulation"
+          ],
+          "keywords": [
+            "ADH",
+            "reabsorption",
+            "collecting duct",
+            "loop of Henle"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284776_42jwk3",
+      "id": "mod_1795123284776_42jwk3",
+      "title": "Module 7: Reproduction",
+      "sortOrder": 6,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284776_iftlwc",
+          "id": "sec_1795123284776_iftlwc",
+          "title": "7.1 Sexual and Asexual Reproduction",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "reproduction",
+            "sexual",
+            "asexual"
+          ],
+          "keywords": [
+            "budding",
+            "fragmentation",
+            "spore formation",
+            "vegetative propagation",
+            "fertilization"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284776_n68gmw",
+          "id": "sec_1795123284776_n68gmw",
+          "title": "7.2 Reproductive Systems in Humans",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "human_reproduction"
+          ],
+          "keywords": [
+            "testes",
+            "ovary",
+            "menstrual cycle",
+            "pregnancy",
+            "fertilization",
+            "implantation"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284776_llmk4j",
+          "id": "sec_1795123284776_llmk4j",
+          "title": "7.3 Reproduction in Flowering Plants",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "plant_reproduction",
+            "pollination"
+          ],
+          "keywords": [
+            "stamen",
+            "pistil",
+            "pollination",
+            "fertilization",
+            "seed dispersal",
+            "fruit formation"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284776_5h68i6",
+      "id": "mod_1795123284776_5h68i6",
+      "title": "Module 8: Genetics and Evolution",
+      "sortOrder": 7,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284776_9b5qdl",
+          "id": "sec_1795123284776_9b5qdl",
+          "title": "8.1 Mendelian Genetics",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "genetics",
+            "mendelian"
+          ],
+          "keywords": [
+            "dominant",
+            "recessive",
+            "genotype",
+            "phenotype",
+            "Punnett square",
+            "monohybrid cross"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284776_7c2v32",
+          "id": "sec_1795123284776_7c2v32",
+          "title": "8.2 DNA, RNA and Protein Synthesis",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "DNA",
+            "RNA",
+            "protein_synthesis"
+          ],
+          "keywords": [
+            "nucleotide",
+            "double helix",
+            "transcription",
+            "translation",
+            "codon"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284776_es1r4v",
+          "id": "sec_1795123284776_es1r4v",
+          "title": "8.3 Evolution and Natural Selection",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "evolution",
+            "natural_selection"
+          ],
+          "keywords": [
+            "Darwin",
+            "variation",
+            "survival of the fittest",
+            "adaptation",
+            "speciation"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284776_2k5t03",
+      "id": "mod_1795123284776_2k5t03",
+      "title": "Module 9: Ecology and Environment",
+      "sortOrder": 8,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284776_0prc6s",
+          "id": "sec_1795123284776_0prc6s",
+          "title": "9.1 Ecosystems and Food Chains",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "ecology",
+            "food_chain",
+            "ecosystem"
+          ],
+          "keywords": [
+            "producer",
+            "consumer",
+            "decomposer",
+            "trophic level",
+            "energy flow"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284776_2sx82k",
+          "id": "sec_1795123284776_2sx82k",
+          "title": "9.2 Population and Community",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "population",
+            "community"
+          ],
+          "keywords": [
+            "density",
+            "natality",
+            "mortality",
+            "competition",
+            "predation",
+            "symbiosis"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284776_03hn5a",
+          "id": "sec_1795123284776_03hn5a",
+          "title": "9.3 Environmental Pollution and Conservation",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "pollution",
+            "conservation"
+          ],
+          "keywords": [
+            "water pollution",
+            "air pollution",
+            "soil pollution",
+            "deforestation",
+            "endangered species"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284776_y3oqye",
+      "id": "mod_1795123284776_y3oqye",
+      "title": "Module 10: Coordination and Control",
+      "sortOrder": 9,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284776_pysro6",
+          "id": "sec_1795123284776_pysro6",
+          "title": "10.1 The Nervous System",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "nervous_system"
+          ],
+          "keywords": [
+            "neuron",
+            "CNS",
+            "PNS",
+            "synapse",
+            "reflex action",
+            "conditioned reflex"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284776_yfe1a6",
+          "id": "sec_1795123284776_yfe1a6",
+          "title": "10.2 The Endocrine System and Hormones",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "endocrine_system",
+            "hormones"
+          ],
+          "keywords": [
+            "insulin",
+            "glucagon",
+            "adrenaline",
+            "thyroxine",
+            "testosterone",
+            "oestrogen"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284776_gw2ytj",
+          "id": "sec_1795123284776_gw2ytj",
+          "title": "10.3 Sense Organs",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "sense_organs"
+          ],
+          "keywords": [
+            "retina",
+            "cochlea",
+            "taste buds",
+            "receptor",
+            "stimulus",
+            "effector"
+          ],
+          "sortOrder": 2
         }
       ]
     }
