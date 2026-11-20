@@ -1,0 +1,366 @@
+{
+  "subject": "Accounting",
+  "syllabus": "JAMB",
+  "modules": [
+    {
+      "moduleId": "mod_1795123284890_i3lafq",
+      "id": "mod_1795123284890_i3lafq",
+      "title": "Module 1: Introduction to Accounting",
+      "sortOrder": 0,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284890_2d1jys",
+          "id": "sec_1795123284890_2d1jys",
+          "title": "1.1 Meaning, Purpose and Branches of Accounting",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "accounting_introduction"
+          ],
+          "keywords": [
+            "bookkeeping",
+            "financial accounting",
+            "management accounting",
+            "auditing",
+            "accounting equation"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284890_n6ufu5",
+          "id": "sec_1795123284890_n6ufu5",
+          "title": "1.2 Accounting Concepts and Conventions",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "accounting_concepts",
+            "conventions"
+          ],
+          "keywords": [
+            "going concern",
+            "accruals",
+            "consistency",
+            "prudence",
+            "entity concept",
+            "money measurement"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284890_qw1s6c",
+      "id": "mod_1795123284890_qw1s6c",
+      "title": "Module 2: Double Entry Bookkeeping",
+      "sortOrder": 1,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284890_lvm8cx",
+          "id": "sec_1795123284890_lvm8cx",
+          "title": "2.1 Ledger Accounts and Double Entry",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "double_entry",
+            "ledger"
+          ],
+          "keywords": [
+            "debit",
+            "credit",
+            "T-account",
+            "ledger",
+            "journal",
+            "posting"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284890_1xe0lz",
+          "id": "sec_1795123284890_1xe0lz",
+          "title": "2.2 Books of Original Entry",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "books_of_original_entry"
+          ],
+          "keywords": [
+            "sales day book",
+            "purchases day book",
+            "cash book",
+            "petty cash",
+            "journal proper"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284890_fq1zrc",
+          "id": "sec_1795123284890_fq1zrc",
+          "title": "2.3 Trial Balance",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "trial_balance"
+          ],
+          "keywords": [
+            "balancing ledger",
+            "errors in trial balance",
+            "suspense account",
+            "debit side",
+            "credit side"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284891_rz5lte",
+      "id": "mod_1795123284891_rz5lte",
+      "title": "Module 3: Final Accounts",
+      "sortOrder": 2,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284891_fr6h4m",
+          "id": "sec_1795123284891_fr6h4m",
+          "title": "3.1 Trading Account and Profit & Loss Account",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "trading_account",
+            "profit_loss_account"
+          ],
+          "keywords": [
+            "gross profit",
+            "net profit",
+            "cost of goods sold",
+            "opening stock",
+            "closing stock"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284891_vwi6io",
+          "id": "sec_1795123284891_vwi6io",
+          "title": "3.2 Balance Sheet",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "balance_sheet"
+          ],
+          "keywords": [
+            "assets",
+            "liabilities",
+            "capital",
+            "current assets",
+            "fixed assets",
+            "current liabilities",
+            "long-term liabilities"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795123284891_asgmq9",
+          "id": "sec_1795123284891_asgmq9",
+          "title": "3.3 Adjustments to Final Accounts",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "final_accounts_adjustments"
+          ],
+          "keywords": [
+            "accruals",
+            "prepayments",
+            "depreciation",
+            "bad debts",
+            "provision for doubtful debts"
+          ],
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284891_tjxdhh",
+      "id": "mod_1795123284891_tjxdhh",
+      "title": "Module 4: Depreciation and Asset Disposal",
+      "sortOrder": 3,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284891_riw919",
+          "id": "sec_1795123284891_riw919",
+          "title": "4.1 Methods of Depreciation",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "depreciation"
+          ],
+          "keywords": [
+            "straight-line method",
+            "reducing balance method",
+            "sum of years digits",
+            "revaluation method"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284891_050ccg",
+          "id": "sec_1795123284891_050ccg",
+          "title": "4.2 Disposal of Fixed Assets",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "asset_disposal"
+          ],
+          "keywords": [
+            "asset disposal account",
+            "gain on disposal",
+            "loss on disposal",
+            "book value"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284891_2iey88",
+      "id": "mod_1795123284891_2iey88",
+      "title": "Module 5: Partnership Accounts",
+      "sortOrder": 4,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284891_scjdn9",
+          "id": "sec_1795123284891_scjdn9",
+          "title": "5.1 Partnership Formation and Appropriation Account",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "partnership_accounts"
+          ],
+          "keywords": [
+            "capital account",
+            "current account",
+            "salary to partner",
+            "interest on capital",
+            "profit sharing ratio"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284891_fj0swt",
+          "id": "sec_1795123284891_fj0swt",
+          "title": "5.2 Admission, Retirement and Dissolution",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "partnership_changes"
+          ],
+          "keywords": [
+            "goodwill",
+            "revaluation account",
+            "new partner",
+            "retirement of partner",
+            "dissolution of partnership"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284891_qmhw04",
+      "id": "mod_1795123284891_qmhw04",
+      "title": "Module 6: Company Accounts",
+      "sortOrder": 5,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284891_b46izy",
+          "id": "sec_1795123284891_b46izy",
+          "title": "6.1 Share Capital and Debentures",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "company_accounts",
+            "share_capital"
+          ],
+          "keywords": [
+            "ordinary shares",
+            "preference shares",
+            "debenture",
+            "calls in arrears",
+            "share premium"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "sec_1795123284891_1b3wmj",
+          "id": "sec_1795123284891_1b3wmj",
+          "title": "6.2 Published Accounts and Ratios",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "published_accounts",
+            "financial_ratios"
+          ],
+          "keywords": [
+            "income statement",
+            "balance sheet",
+            "liquidity ratio",
+            "profitability ratio",
+            "gearing ratio"
+          ],
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284891_dw1nbx",
+      "id": "mod_1795123284891_dw1nbx",
+      "title": "Module 7: Public Sector Accounting",
+      "sortOrder": 6,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284891_x6osoz",
+          "id": "sec_1795123284891_x6osoz",
+          "title": "7.1 Government Accounting Principles",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "public_sector_accounting",
+            "government_accounts"
+          ],
+          "keywords": [
+            "fund accounting",
+            "appropriation accounts",
+            "Consolidated Revenue Fund",
+            "Auditor-General"
+          ],
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "moduleId": "mod_1795123284891_9areht",
+      "id": "mod_1795123284891_9areht",
+      "title": "Module 8: Computerized Accounting",
+      "sortOrder": 7,
+      "sections": [
+        {
+          "sectionId": "sec_1795123284891_q2kd3j",
+          "id": "sec_1795123284891_q2kd3j",
+          "title": "8.1 Introduction to Accounting Software",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "computerized_accounting",
+            "accounting_software"
+          ],
+          "keywords": [
+            "spreadsheet",
+            "accounting packages",
+            "data entry",
+            "automated trial balance",
+            "cloud accounting"
+          ],
+          "sortOrder": 0
+        }
+      ]
+    }
+  ]
+}
