@@ -3,291 +3,433 @@
   "syllabus": "JAMB",
   "modules": [
     {
-      "moduleId": "mod_1795123284951_i53gc7",
-      "id": "mod_1795123284951_i53gc7",
-      "title": "Module 1: The Old Testament",
+      "moduleId": "crs_mod_1",
+      "id": "crs_mod_1",
+      "title": "Section A: Themes from Creation to the Division of the Kingdom",
       "sortOrder": 0,
       "sections": [
         {
-          "sectionId": "sec_1795123284951_2s25p2",
-          "id": "sec_1795123284951_2s25p2",
-          "title": "1.1 Creation and the Fall",
+          "sectionId": "crs_sec_1_1",
+          "id": "crs_sec_1_1",
+          "title": "A1 & A2. The Sovereignty of God and The Covenant",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "creation",
-            "fall_of_man"
+            "sovereignty-of-god",
+            "covenant",
+            "creation"
           ],
           "keywords": [
-            "creation narrative",
-            "Adam and Eve",
-            "garden of Eden",
-            "original sin",
-            "disobedience"
+            "Creation",
+            "Genesis",
+            "sovereignty",
+            "Noah",
+            "flood",
+            "Abraham",
+            "Sinai covenant",
+            "Ten Commandments",
+            "New Covenant",
+            "Jeremiah",
+            "Ezekiel"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284951_7ky2b4",
-          "id": "sec_1795123284951_7ky2b4",
-          "title": "1.2 The Patriarchs: Abraham, Isaac and Jacob",
+          "sectionId": "crs_sec_1_2",
+          "id": "crs_sec_1_2",
+          "title": "A3. Leadership Qualities (Joseph, Moses, Joshua, and the Judges)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "patriarchs",
-            "abraham",
-            "isaac",
-            "jacob"
+            "leadership-qualities",
+            "judges"
           ],
           "keywords": [
-            "covenant",
-            "promised land",
-            "faith of Abraham",
-            "Jacob's ladder",
-            "twelve tribes"
+            "Joseph",
+            "Moses",
+            "Joshua",
+            "Judges",
+            "Deborah",
+            "Gideon",
+            "Samson"
           ],
           "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284951_cgii8o",
-          "id": "sec_1795123284951_cgii8o",
-          "title": "1.3 Moses and the Exodus",
+          "sectionId": "crs_sec_1_3",
+          "id": "crs_sec_1_3",
+          "title": "A4 & A5. Divine Providence, Guidance, Protection, and Parental Responsibility",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "moses",
-            "exodus"
+            "divine-providence",
+            "parental-responsibility"
           ],
           "keywords": [
-            "burning bush",
-            "ten plagues",
-            "Passover",
-            "Red Sea crossing",
-            "Ten Commandments",
-            "wilderness journey"
+            "divine guidance",
+            "manna",
+            "water from the rock",
+            "Elijah",
+            "Eli",
+            "Samuel",
+            "David",
+            "Asa",
+            "parental responsibility"
           ],
           "sortOrder": 2
         },
         {
-          "sectionId": "sec_1795123284951_z36vot",
-          "id": "sec_1795123284951_z36vot",
-          "title": "1.4 The Judges and Kings",
+          "sectionId": "crs_sec_1_4",
+          "id": "crs_sec_1_4",
+          "title": "A6. Obedience and Disobedience (Rewards and Consequences)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "judges",
-            "kings_of_israel"
+            "obedience-and-disobedience"
           ],
           "keywords": [
-            "Samson",
-            "Deborah",
-            "Gideon",
-            "Samuel",
-            "Saul",
+            "Abraham",
+            "Hebrew midwives",
             "David",
-            "Solomon",
-            "temple"
+            "Adam",
+            "manna",
+            "Golden Calf",
+            "Moses",
+            "Saul",
+            "obedience",
+            "disobedience"
           ],
           "sortOrder": 3
         },
         {
-          "sectionId": "sec_1795123284951_jusrdf",
-          "id": "sec_1795123284951_jusrdf",
-          "title": "1.5 The Prophets",
+          "sectionId": "crs_sec_1_5",
+          "id": "crs_sec_1_5",
+          "title": "A7 & A8. David (A Man After God's Own Heart) and Decision-Making",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "old_testament_prophets"
+            "life-of-david",
+            "decision-making",
+            "solomon"
           ],
           "keywords": [
-            "Isaiah",
-            "Jeremiah",
-            "Ezekiel",
-            "Daniel",
-            "Amos",
-            "Hosea",
-            "prophetic messages"
+            "David",
+            "Goliath",
+            "Bathsheba",
+            "Uriah",
+            "Psalm 51",
+            "repentance",
+            "Saul",
+            "medium of Endor",
+            "Solomon",
+            "wisdom",
+            "Rehoboam",
+            "division of the kingdom"
           ],
           "sortOrder": 4
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284951_aa9fgv",
-      "id": "mod_1795123284951_aa9fgv",
-      "title": "Module 2: The New Testament",
+      "moduleId": "crs_mod_2",
+      "id": "crs_mod_2",
+      "title": "Section B: Division of the Kingdom to Return from Exile and the Prophets",
       "sortOrder": 1,
       "sections": [
         {
-          "sectionId": "sec_1795123284951_xbd6x9",
-          "id": "sec_1795123284951_xbd6x9",
-          "title": "2.1 Birth and Early Life of Jesus",
+          "sectionId": "crs_sec_2_1",
+          "id": "crs_sec_2_1",
+          "title": "B1, B2 & B3. Greed (Ahab & Gehazi), Supremacy of God (Elijah), and Josiah's Reforms",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "birth_of_jesus",
-            "early_life"
+            "greed",
+            "supremacy-of-god",
+            "religious-reforms"
           ],
           "keywords": [
-            "virgin birth",
-            "Bethlehem",
-            "wise men",
-            "Herod",
-            "baptism",
-            "temptation"
+            "Ahab",
+            "Naboth's vineyard",
+            "Jezebel",
+            "Gehazi",
+            "Naaman",
+            "Elijah",
+            "Mount Carmel",
+            "Baal",
+            "Josiah",
+            "cleansing of the Temple"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284951_1pphe6",
-          "id": "sec_1795123284951_1pphe6",
-          "title": "2.2 Ministry and Teachings of Jesus",
+          "sectionId": "crs_sec_2_2",
+          "id": "crs_sec_2_2",
+          "title": "B4, B5 & B6. Concern for Judah (Nehemiah & Ezra), Faith in Exile (Daniel), and Jonah",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "ministry_of_jesus",
-            "teachings"
+            "concern-for-judah",
+            "daniel",
+            "jonah"
           ],
           "keywords": [
-            "Sermon on the Mount",
-            "parables",
-            "miracles",
-            "beatitudes",
-            "Lord's Prayer"
+            "fall of Jerusalem",
+            "Nehemiah",
+            "Ezra",
+            "Sanballat",
+            "Daniel",
+            "Shadrach",
+            "Meshach",
+            "Abednego",
+            "fiery furnace",
+            "lions' den",
+            "Jonah",
+            "Nineveh"
           ],
           "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284951_0aoszt",
-          "id": "sec_1795123284951_0aoszt",
-          "title": "2.3 Death, Resurrection and Ascension",
+          "sectionId": "crs_sec_2_3",
+          "id": "crs_sec_2_3",
+          "title": "B7, B8 & B9. Prophets (Amos, Hosea, Isaiah, Jeremiah, and Ezekiel)",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "crucifixion",
-            "resurrection",
-            "ascension"
+            "prophets",
+            "social-justice",
+            "divine-call"
           ],
           "keywords": [
-            "Palm Sunday",
-            "Last Supper",
-            "betrayal",
-            "crucifixion",
-            "empty tomb",
-            "great commission"
+            "Amos",
+            "social justice",
+            "true religion",
+            "Hosea",
+            "divine love",
+            "Gomer",
+            "Isaiah",
+            "Jeremiah",
+            "Ezekiel",
+            "dry bones",
+            "punishment and hope"
           ],
           "sortOrder": 2
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284951_mxbxec",
-      "id": "mod_1795123284951_mxbxec",
-      "title": "Module 3: The Early Church",
+      "moduleId": "crs_mod_3",
+      "id": "crs_mod_3",
+      "title": "Section C: Themes from the Four Gospels and the Acts of the Apostles",
       "sortOrder": 2,
       "sections": [
         {
-          "sectionId": "sec_1795123284951_ofmv6w",
-          "id": "sec_1795123284951_ofmv6w",
-          "title": "3.1 Pentecost and Growth of the Church",
+          "sectionId": "crs_sec_3_1",
+          "id": "crs_sec_3_1",
+          "title": "C1, C2 & C3. Birth of Jesus, John the Baptist, Baptism, Temptation, and Discipleship",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "pentecost",
-            "early_church"
+            "birth-of-jesus",
+            "baptism-and-temptation",
+            "discipleship"
           ],
           "keywords": [
-            "Holy Spirit",
-            "Acts of the Apostles",
-            "Peter's sermon",
-            "church growth",
-            "persecution"
+            "John the Baptist",
+            "birth of Jesus",
+            "baptism",
+            "temptation of Jesus",
+            "call of the disciples",
+            "demands of discipleship"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284951_qlwk8w",
-          "id": "sec_1795123284951_qlwk8w",
-          "title": "3.2 Paul's Missionary Journeys",
+          "sectionId": "crs_sec_3_2",
+          "id": "crs_sec_3_2",
+          "title": "C4 & C5. Miracles and Parables of Jesus",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "paul",
-            "missionary_journeys"
+            "miracles",
+            "parables"
           ],
           "keywords": [
-            "Damascus road experience",
-            "Barnabas",
-            "Silas",
-            "church planting",
-            "epistles"
+            "nature miracles",
+            "resuscitation",
+            "Lazarus",
+            "Jairus",
+            "healing miracles",
+            "exorcism",
+            "parables of the kingdom",
+            "Sower",
+            "Prodigal Son",
+            "Good Samaritan",
+            "Rich Fool"
           ],
           "sortOrder": 1
+        },
+        {
+          "sectionId": "crs_sec_3_3",
+          "id": "crs_sec_3_3",
+          "title": "C6, C7, C8 & C9. Sermon on the Mount, Mission of Disciples, Great Confession & Transfiguration",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "sermon-on-the-mount",
+            "mission-of-disciples",
+            "transfiguration"
+          ],
+          "keywords": [
+            "Sermon on the Mount",
+            "Beatitudes",
+            "mission of the twelve",
+            "mission of the seventy",
+            "Great Confession",
+            "Peter",
+            "Transfiguration"
+          ],
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "crs_sec_3_4",
+          "id": "crs_sec_3_4",
+          "title": "C10, C11, C12 & C13. Triumphal Entry, Last Supper, Trials, Crucifixion, and Resurrection",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "passion-and-resurrection",
+            "trials-of-jesus"
+          ],
+          "keywords": [
+            "Triumphal Entry",
+            "cleansing of the Temple",
+            "Last Supper",
+            "High Priest",
+            "Pilate",
+            "Herod",
+            "crucifixion",
+            "resurrection",
+            "ascension"
+          ],
+          "sortOrder": 3
+        },
+        {
+          "sectionId": "crs_sec_3_5",
+          "id": "crs_sec_3_5",
+          "title": "C14 & C15. Jesus' Teachings About Himself and Love",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "teachings-of-jesus",
+            "love"
+          ],
+          "keywords": [
+            "Bread of Life",
+            "Living Water",
+            "Light of the World",
+            "Good Shepherd",
+            "True Vine",
+            "God's love",
+            "love for one another"
+          ],
+          "sortOrder": 4
+        },
+        {
+          "sectionId": "crs_sec_3_6",
+          "id": "crs_sec_3_6",
+          "title": "C16, C17, C18 & C19. The Early Church, Pentecost, Persecution, and Mission to the Gentiles",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "early-church",
+            "acts-of-apostles",
+            "mission-to-gentiles"
+          ],
+          "keywords": [
+            "communal living",
+            "Ananias and Sapphira",
+            "seven deacons",
+            "Pentecost",
+            "Holy Spirit",
+            "Stephen",
+            "Saul",
+            "Cornelius",
+            "Paul's missionary journeys",
+            "Council of Jerusalem"
+          ],
+          "sortOrder": 5
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284951_9chgbl",
-      "id": "mod_1795123284951_9chgbl",
-      "title": "Module 4: Christian Ethics and Living",
+      "moduleId": "crs_mod_4",
+      "id": "crs_mod_4",
+      "title": "Section D: Themes from Selected Epistles",
       "sortOrder": 3,
       "sections": [
         {
-          "sectionId": "sec_1795123284951_u7oqaf",
-          "id": "sec_1795123284951_u7oqaf",
-          "title": "4.1 Christian Family Life and Values",
+          "sectionId": "crs_sec_4_1",
+          "id": "crs_sec_4_1",
+          "title": "D1–D6. Justification by Faith, Law and Grace, New Life in Christ, Joint Heirs, Humility & Forgiveness",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "christian_family",
-            "christian_values"
+            "epistles",
+            "justification-by-faith",
+            "new-life-in-christ"
           ],
           "keywords": [
-            "marriage",
-            "divorce",
-            "parenting",
-            "love",
+            "justification by faith",
+            "law and grace",
+            "new life in Christ",
+            "joint heirs",
+            "humility",
             "forgiveness",
-            "humility"
+            "Philemon"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284951_qf08ad",
-          "id": "sec_1795123284951_qf08ad",
-          "title": "4.2 Social Issues and Christian Response",
+          "sectionId": "crs_sec_4_2",
+          "id": "crs_sec_4_2",
+          "title": "D7–D11. Spiritual Gifts, Christian Giving, Civic Responsibility, Dignity of Labour & Second Coming",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "social_issues",
-            "christian_response"
+            "spiritual-gifts",
+            "civic-responsibility",
+            "second-coming"
           ],
           "keywords": [
-            "corruption",
-            "poverty",
-            "drug abuse",
-            "violence",
-            "justice",
-            "peace"
+            "spiritual gifts",
+            "Christian giving",
+            "civic responsibility",
+            "obedience to authority",
+            "dignity of labour",
+            "Second Coming of Christ"
           ],
           "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284951_ozc9um",
-          "id": "sec_1795123284951_ozc9um",
-          "title": "4.3 Stewardship and Community Service",
+          "sectionId": "crs_sec_4_3",
+          "id": "crs_sec_4_3",
+          "title": "D12–D16. Impartiality, Effective Prayer, Christian Living, Corruption, and Sexual Immorality",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "stewardship",
-            "service"
+            "christian-living",
+            "effective-prayer",
+            "social-vices"
           ],
           "keywords": [
-            "tithe",
-            "offering",
-            "talent",
-            "community development",
-            "volunteerism"
+            "impartiality",
+            "effective prayer",
+            "James",
+            "Christian community",
+            "Christian family",
+            "persecution",
+            "corruption",
+            "sexual immorality"
           ],
           "sortOrder": 2
         }
