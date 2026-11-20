@@ -3,350 +3,391 @@
   "syllabus": "JAMB",
   "modules": [
     {
-      "moduleId": "mod_1795123284885_ifbjmt",
-      "id": "mod_1795123284885_ifbjmt",
-      "title": "Module 1: Introduction to Commerce",
+      "moduleId": "com_mod_1",
+      "id": "com_mod_1",
+      "title": "Module 1: Commerce, Occupation, Production, and Trade",
       "sortOrder": 0,
       "sections": [
         {
-          "sectionId": "sec_1795123284885_rk1xno",
-          "id": "sec_1795123284885_rk1xno",
-          "title": "1.1 Meaning and Functions of Commerce",
+          "sectionId": "com_sec_1_1",
+          "id": "com_sec_1_1",
+          "title": "1 & 2. Commerce and Occupation",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "commerce_introduction",
-            "trade"
+            "commerce",
+            "occupation"
           ],
           "keywords": [
-            "commerce",
-            "trade",
-            "aids to trade",
-            "home trade",
-            "foreign trade"
+            "scope of commerce",
+            "functions of commerce",
+            "industrial occupation",
+            "commercial occupation",
+            "direct services",
+            "choice of occupation"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284885_ytulud",
-          "id": "sec_1795123284885_ytulud",
-          "title": "1.2 Types of Trade and Chain of Distribution",
+          "sectionId": "com_sec_1_2",
+          "id": "com_sec_1_2",
+          "title": "3. Production, Division of Labour, and Specialization",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "types_of_trade",
-            "distribution"
+            "production",
+            "division-of-labour"
           ],
           "keywords": [
-            "wholesale",
-            "retail",
-            "entrepôt trade",
-            "middlemen",
-            "distribution channels"
+            "land",
+            "labour",
+            "capital",
+            "entrepreneur",
+            "division of labour",
+            "specialization",
+            "primary production",
+            "secondary production",
+            "tertiary production"
           ],
           "sortOrder": 1
+        },
+        {
+          "sectionId": "com_sec_1_3",
+          "id": "com_sec_1_3",
+          "title": "4a. Home Trade (Retail and Wholesale Trade)",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "home-trade",
+            "retail-trade",
+            "wholesale"
+          ],
+          "keywords": [
+            "retailers",
+            "branding",
+            "self-service",
+            "vending machines",
+            "wholesalers",
+            "merchant wholesaler",
+            "middleman"
+          ],
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "com_sec_1_4",
+          "id": "com_sec_1_4",
+          "title": "4b. Foreign Trade and Customs/Ports Authorities",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "foreign-trade",
+            "international-trade"
+          ],
+          "keywords": [
+            "balance of trade",
+            "balance of payments",
+            "counter trade",
+            "export",
+            "import",
+            "entrepot",
+            "barriers to international trade",
+            "Customs and Excise",
+            "Ports Authority"
+          ],
+          "sortOrder": 3
+        },
+        {
+          "sectionId": "com_sec_1_5",
+          "id": "com_sec_1_5",
+          "title": "5. Purchase and Sale of Goods (Documents & Terms of Trade/Payment)",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "purchase-and-sale",
+            "trade-documents",
+            "terms-of-trade"
+          ],
+          "keywords": [
+            "enquiry",
+            "quotation",
+            "order",
+            "invoice",
+            "proforma invoice",
+            "statement of accounts",
+            "indent",
+            "consular invoice",
+            "bill of lading",
+            "certificate of origin",
+            "consignment note",
+            "trade discount",
+            "cash discount",
+            "CIF",
+            "FOB",
+            "COD",
+            "EOE",
+            "credit"
+          ],
+          "sortOrder": 4
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284885_7prm6m",
-      "id": "mod_1795123284885_7prm6m",
-      "title": "Module 2: Business Units and Organizations",
+      "moduleId": "com_mod_2",
+      "id": "com_mod_2",
+      "title": "Module 2: Aids to Trade",
       "sortOrder": 1,
       "sections": [
         {
-          "sectionId": "sec_1795123284885_5f8m0m",
-          "id": "sec_1795123284885_5f8m0m",
-          "title": "2.1 Sole Proprietorship and Partnership",
+          "sectionId": "com_sec_2_1",
+          "id": "com_sec_2_1",
+          "title": "6a & 6c. Advertising and Communication",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "sole_proprietorship",
-            "partnership"
+            "advertising",
+            "communication"
           ],
           "keywords": [
-            "unlimited liability",
-            "sole trader",
-            "deed of partnership",
-            "general partner",
-            "sleeping partner"
+            "types of advertising",
+            "advertising media",
+            "communication process",
+            "courier services",
+            "GSM",
+            "barriers to communication"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284885_dauqhq",
-          "id": "sec_1795123284885_dauqhq",
-          "title": "2.2 Joint Stock Companies",
+          "sectionId": "com_sec_2_2",
+          "id": "com_sec_2_2",
+          "title": "6b & 10. Money and Banking",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "companies",
-            "shares"
+            "banking",
+            "money"
           ],
           "keywords": [
-            "private limited company",
-            "public limited company",
-            "shareholders",
-            "debenture",
-            "dividend",
-            "AGM"
+            "evolution of money",
+            "qualities of money",
+            "functions of money",
+            "commercial banks",
+            "central bank",
+            "merchant banks",
+            "banking services",
+            "cheques"
           ],
           "sortOrder": 1
         },
         {
-          "sectionId": "sec_1795123284885_oo4fkn",
-          "id": "sec_1795123284885_oo4fkn",
-          "title": "2.3 Co-operatives and Public Enterprises",
+          "sectionId": "com_sec_2_3",
+          "id": "com_sec_2_3",
+          "title": "6d & 6e. Insurance and Tourism",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "cooperative",
-            "public_enterprise"
+            "insurance",
+            "tourism"
           ],
           "keywords": [
-            "cooperative society",
-            "consumer cooperative",
-            "producer cooperative",
-            "statutory corporation",
-            "nationalization"
+            "principles of insurance",
+            "indemnity",
+            "utmost good faith",
+            "insurable interest",
+            "subrogation",
+            "proximate cause",
+            "marine insurance",
+            "assurance",
+            "tourism in Nigeria"
+          ],
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "com_sec_2_4",
+          "id": "com_sec_2_4",
+          "title": "6f & 6g. Transportation and Warehousing",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "transportation",
+            "warehousing"
+          ],
+          "keywords": [
+            "modes of transportation",
+            "containerization",
+            "charter party",
+            "bonded warehouse",
+            "public warehouse",
+            "siting a warehouse"
+          ],
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "moduleId": "com_mod_3",
+      "id": "com_mod_3",
+      "title": "Module 3: Business Units, Financing, Trade Associations, and Stock Exchange",
+      "sortOrder": 2,
+      "sections": [
+        {
+          "sectionId": "com_sec_3_1",
+          "id": "com_sec_3_1",
+          "title": "7. Business Units, Registration, Mergers, and Liquidation",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "business-units",
+            "companies"
+          ],
+          "keywords": [
+            "sole proprietorship",
+            "partnership",
+            "limited liability companies",
+            "public corporations",
+            "cooperative societies",
+            "registration of businesses",
+            "mergers",
+            "dissolution",
+            "liquidation"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "com_sec_3_2",
+          "id": "com_sec_3_2",
+          "title": "8. Financing Business, Types of Capital, and Bureau de Change",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "financing-business",
+            "business-capital"
+          ],
+          "keywords": [
+            "shares",
+            "bonds",
+            "debentures",
+            "bank overdraft",
+            "ploughing back of profit",
+            "leasing",
+            "authorized capital",
+            "issued capital",
+            "paid-up capital",
+            "working capital",
+            "gross profit",
+            "net profit",
+            "turnover",
+            "bureau de change"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "com_sec_3_3",
+          "id": "com_sec_3_3",
+          "title": "9 & 11. Trade Associations, Chambers of Commerce, and Stock Exchange",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "trade-associations",
+            "stock-exchange"
+          ],
+          "keywords": [
+            "trade associations",
+            "Chambers of Commerce",
+            "Stock Exchange",
+            "securities",
+            "speculations",
+            "bull",
+            "bear",
+            "stag",
+            "Second-Tier Securities Market"
           ],
           "sortOrder": 2
         }
       ]
     },
     {
-      "moduleId": "mod_1795123284885_q9gviw",
-      "id": "mod_1795123284885_q9gviw",
-      "title": "Module 3: Marketing and Advertising",
-      "sortOrder": 2,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284885_0am928",
-          "id": "sec_1795123284885_0am928",
-          "title": "3.1 Functions of Marketing",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "marketing"
-          ],
-          "keywords": [
-            "market research",
-            "product development",
-            "pricing",
-            "distribution",
-            "promotion"
-          ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284885_5bzlur",
-          "id": "sec_1795123284885_5bzlur",
-          "title": "3.2 Advertising and Sales Promotion",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "advertising",
-            "sales_promotion"
-          ],
-          "keywords": [
-            "media of advertising",
-            "sales promotion techniques",
-            "public relations",
-            "branding"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284886_rhjalz",
-      "id": "mod_1795123284886_rhjalz",
-      "title": "Module 4: Banking and Finance",
+      "moduleId": "com_mod_4",
+      "id": "com_mod_4",
+      "title": "Module 4: Management, Marketing, Business Law, ICT, and Environment",
       "sortOrder": 3,
       "sections": [
         {
-          "sectionId": "sec_1795123284886_bk0c4j",
-          "id": "sec_1795123284886_bk0c4j",
-          "title": "4.1 Types of Banks and their Functions",
+          "sectionId": "com_sec_4_1",
+          "id": "com_sec_4_1",
+          "title": "12 & 13. Elements of Business Management and Marketing",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "banking",
-            "types_of_banks"
+            "management",
+            "marketing"
           ],
           "keywords": [
-            "central bank",
-            "commercial bank",
-            "merchant bank",
-            "mortgage bank",
-            "development bank"
+            "planning",
+            "organizing",
+            "staffing",
+            "controlling",
+            "span of control",
+            "unity of command",
+            "delegation of authority",
+            "organizational structure",
+            "marketing concept",
+            "marketing mix",
+            "market segmentation",
+            "customer service"
           ],
           "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284886_vsrtu0",
-          "id": "sec_1795123284886_vsrtu0",
-          "title": "4.2 Financial Instruments and Credit",
+          "sectionId": "com_sec_4_2",
+          "id": "com_sec_4_2",
+          "title": "14. Legal Aspects of Business and Consumer Protection",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "financial_instruments",
-            "credit"
+            "business-law",
+            "consumer-protection"
           ],
           "keywords": [
-            "cheque",
-            "bill of exchange",
-            "promissory note",
-            "letter of credit",
-            "overdraft"
+            "simple contract",
+            "agency",
+            "Sale of Goods Act",
+            "Hire Purchase Act",
+            "contract of employment",
+            "patents",
+            "trademarks",
+            "copyrights",
+            "consumer protection",
+            "SON",
+            "NAFDAC",
+            "NDLEA",
+            "FCCPC"
           ],
           "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284886_xgle4t",
-      "id": "mod_1795123284886_xgle4t",
-      "title": "Module 5: Insurance",
-      "sortOrder": 4,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284886_l6ti26",
-          "id": "sec_1795123284886_l6ti26",
-          "title": "5.1 Principles and Types of Insurance",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "insurance"
-          ],
-          "keywords": [
-            "insurable interest",
-            "indemnity",
-            "subrogation",
-            "contribution",
-            "life insurance",
-            "fire insurance",
-            "marine insurance"
-          ],
-          "sortOrder": 0
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284886_nsixae",
-      "id": "mod_1795123284886_nsixae",
-      "title": "Module 6: Transportation and Communication",
-      "sortOrder": 5,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284886_1cc6vt",
-          "id": "sec_1795123284886_1cc6vt",
-          "title": "6.1 Modes of Transportation",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "transportation"
-          ],
-          "keywords": [
-            "road transport",
-            "rail transport",
-            "water transport",
-            "air transport",
-            "pipelines",
-            "containerization"
-          ],
-          "sortOrder": 0
         },
         {
-          "sectionId": "sec_1795123284886_wo7le2",
-          "id": "sec_1795123284886_wo7le2",
-          "title": "6.2 Communication in Commerce",
+          "sectionId": "com_sec_4_3",
+          "id": "com_sec_4_3",
+          "title": "15 & 16. ICT in Commerce, Business Environment, and Social Responsibility",
           "content": "",
           "quiz": [],
           "question_tags": [
-            "communication"
-          ],
-          "keywords": [
-            "postal services",
-            "telephone",
-            "internet",
+            "ict",
             "e-commerce",
-            "EDI",
-            "effective communication"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284886_ebxhjg",
-      "id": "mod_1795123284886_ebxhjg",
-      "title": "Module 7: Warehousing and Commodity Exchange",
-      "sortOrder": 6,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284886_54u12e",
-          "id": "sec_1795123284886_54u12e",
-          "title": "7.1 Functions and Types of Warehouses",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "warehousing"
+            "business-environment"
           ],
           "keywords": [
-            "bonded warehouse",
-            "public warehouse",
-            "private warehouse",
-            "cold storage",
-            "entrepôt"
+            "internet",
+            "intranet",
+            "LAN",
+            "e-commerce",
+            "e-banking",
+            "e-business",
+            "business environment",
+            "social responsibility",
+            "pollution"
           ],
-          "sortOrder": 0
-        },
-        {
-          "sectionId": "sec_1795123284886_1au5l4",
-          "id": "sec_1795123284886_1au5l4",
-          "title": "7.2 Commodity Markets and Stock Exchange",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "stock_exchange",
-            "commodity_market"
-          ],
-          "keywords": [
-            "Nigerian Stock Exchange",
-            "shares",
-            "bonds",
-            "stock broker",
-            "bull",
-            "bear market"
-          ],
-          "sortOrder": 1
-        }
-      ]
-    },
-    {
-      "moduleId": "mod_1795123284886_xbg78g",
-      "id": "mod_1795123284886_xbg78g",
-      "title": "Module 8: Tourism and Hospitality",
-      "sortOrder": 7,
-      "sections": [
-        {
-          "sectionId": "sec_1795123284886_c88fl0",
-          "id": "sec_1795123284886_c88fl0",
-          "title": "8.1 Tourism and its Importance",
-          "content": "",
-          "quiz": [],
-          "question_tags": [
-            "tourism"
-          ],
-          "keywords": [
-            "domestic tourism",
-            "international tourism",
-            "hotel industry",
-            "NTDC",
-            "foreign exchange earnings"
-          ],
-          "sortOrder": 0
+          "sortOrder": 2
         }
       ]
     }
