@@ -55,21 +55,17 @@
         {
           "sectionId": "phy_sec_1_3",
           "id": "phy_sec_1_3",
-          "title": "3. Motion (Linear, Projectiles, Newton's Laws, Circular & S.H.M)",
+          "title": "3. Motion (Linear,  Newton's Laws, Circular & S.H.M)",
           "content": "",
           "quiz": [],
           "question_tags": [
             "motion",
-            "projectiles",
             "newtons-laws",
             "circular-motion",
             "simple-harmonic-motion"
           ],
           "keywords": [
             "uniformly accelerated motion",
-            "projectiles",
-            "range",
-            "time of flight",
             "impulse",
             "momentum",
             "centripetal force",
@@ -759,6 +755,25 @@
             "amplification"
           ],
           "sortOrder": 1
+        },
+        {
+          "sectionId": "sec_1795247342406_zx7yon",
+          "id": "sec_1795247342406_zx7yon",
+          "title": "Projectiles",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "projectiles"
+          ],
+          "keywords": [
+            "range",
+            "time of flight",
+            "projected",
+            "parabolic",
+            "maximum height",
+            "projectle"
+          ],
+          "sortOrder": 2
         }
       ]
     }
