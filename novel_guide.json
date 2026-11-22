@@ -848,14 +848,316 @@
       "title": "Ritualists",
       "summary": "This chapter looks back at Bepo's past.   He had worked at Beesway Group of Schools where he had a disagreement with the school director over a grammar mistake in the school's name.   \n\nBut the real reason he left Beesway was far more frightening – Bepo saw the director and some men trying to bury a cow alive on the school grounds late one night.   \n\nWhen Bepo tried to stop them, he was attacked and injured.   \n\nHe also remembers an earlier experience when he and a friend ran a small school called Fruitful Future, where a parent offered to perform “magic” (using grains of corn) to attract more students — an offer Bepo refused.   \n\nHe later hears that that same man was arrested for murdering a woman using a similar ritual trick",
       "highYieldPoints": [],
-      "quiz": []
+      "quiz": [
+        {
+          "id": "q_lekki_7_1795389017561_1",
+          "question": "What is the title of Chapter 7 in The Lekki Headmaster?",
+          "optionA": "Missions Unaccomplished",
+          "optionB": "Ritualists",
+          "optionC": "Snake in the Roof",
+          "optionD": "Laughing Waterfalls",
+          "correctOption": "B",
+          "explanation": "Chapter 7 is titled \"Ritualists,\" examining Principal Bepo's unsettling past encounters with ritual practices in private schools[cite: 5]."
+        },
+        {
+          "id": "q_lekki_7_1795389017561_2",
+          "question": "Which school did Bepo work at earlier in his career before joining Stardom Schools?",
+          "optionA": "Royal Crown College",
+          "optionB": "Beesway Group of Schools",
+          "optionC": "Lekki International Academy",
+          "optionD": "Gracefield High School",
+          "correctOption": "B",
+          "explanation": "Chapter 7 flashes back to Bepo's time working at Beesway Group of Schools[cite: 5]."
+        },
+        {
+          "id": "q_lekki_7_1795389017561_3",
+          "question": "What initial professional disagreement did Bepo have with the director of Beesway Group of Schools?",
+          "optionA": "Over unpaid overtime allowances",
+          "optionB": "Over a grammatical error in the school's name",
+          "optionC": "Over the choice of school uniform colors",
+          "optionD": "Over admitting underage students",
+          "correctOption": "B",
+          "explanation": "Bepo initially clashed with the Beesway director regarding a grammar mistake in the school's official name[cite: 5]."
+        },
+        {
+          "id": "q_lekki_7_1795389017561_4",
+          "question": "What horrifying ritual activity did Bepo witness late one night at Beesway Group of Schools?",
+          "optionA": "Burning students' textbooks in a shrine",
+          "optionB": "The school director and some men attempting to bury a cow alive on the school grounds",
+          "optionC": "Slaughtering goats inside the principal's office",
+          "optionD": "Pouring animal blood on the assembly podium",
+          "correctOption": "B",
+          "explanation": "Late one night, Bepo caught the director and several men trying to bury a live cow on the school compound[cite: 5]."
+        },
+        {
+          "id": "q_lekki_7_1795389017561_5",
+          "question": "What happened to Bepo when he tried to stop the men from burying the cow alive?",
+          "optionA": "He was promoted to vice principal to keep him quiet",
+          "optionB": "He was attacked and injured",
+          "optionC": "He called the police and had the director jailed immediately",
+          "optionD": "He fainted and woke up in London",
+          "correctOption": "B",
+          "explanation": "When Bepo intervened to stop the ritual, the men attacked and injured him, prompting his departure from Beesway[cite: 5]."
+        },
+        {
+          "id": "q_lekki_7_1795389017561_6",
+          "question": "What was the name of the small school Bepo and a friend previously ran together?",
+          "optionA": "Bright Tomorrow Academy",
+          "optionB": "Fruitful Future",
+          "optionC": "Stardom Junior School",
+          "optionD": "Rising Sun College",
+          "correctOption": "B",
+          "explanation": "Earlier in his career, Bepo and a friend co-ran a small school named Fruitful Future[cite: 5]."
+        },
+        {
+          "id": "q_lekki_7_1795389017561_7",
+          "question": "What dubious offer did a parent make to Bepo at Fruitful Future to boost student enrollment?",
+          "optionA": "To pay for radio advertisements across Lagos",
+          "optionB": "To perform \"magic\" using grains of corn to attract more students",
+          "optionC": "To bribe government education inspectors",
+          "optionD": "To donate a fleet of school buses",
+          "correctOption": "B",
+          "explanation": "A parent offered to use ritual \"magic\" involving grains of corn to magnetically draw more pupils to Fruitful Future[cite: 5]."
+        },
+        {
+          "id": "q_lekki_7_1795389017561_8",
+          "question": "How did Bepo respond to the parent's offer to use corn-grain magic at Fruitful Future?",
+          "optionA": "He accepted it secretly without telling his friend",
+          "optionB": "He firmly refused the offer",
+          "optionC": "He asked the parent to test it for one term first",
+          "optionD": "He reported the parent to the Managing Director of Stardom Schools",
+          "correctOption": "B",
+          "explanation": "True to his moral principles, Bepo rejected the ritual shortcut outright[cite: 5]."
+        },
+        {
+          "id": "q_lekki_7_1795389017561_9",
+          "question": "What later happened to the man who offered to perform the corn ritual for Fruitful Future?",
+          "optionA": "He became a wealthy school proprietor in Lekki",
+          "optionB": "He was arrested for murdering a woman using a similar ritual trick",
+          "optionC": "He relocated to Canada with his family",
+          "optionD": "He became the chairman of the Stardom Schools PTA",
+          "correctOption": "B",
+          "explanation": "Bepo later learned that the same man was arrested for killing a woman through a similar ritual scheme[cite: 5]."
+        },
+        {
+          "id": "q_lekki_7_1795389017561_10",
+          "question": "What core character trait of Bepo does Chapter 7 highlight through his past experiences?",
+          "optionA": "Ambition at any moral cost",
+          "optionB": "Uncompromising integrity and rejection of diabolical shortcuts",
+          "optionC": "Naivety about Nigerian society",
+          "optionD": "Desire for vengeance against former employers",
+          "correctOption": "B",
+          "explanation": "Both at Beesway and Fruitful Future, Bepo chose ethical uprightness and personal safety over ritualistic shortcuts to success[cite: 5]."
+        },
+        {
+          "id": "q_lekki_7_1795389017561_11",
+          "question": "Which narrative technique dominates Chapter 7?",
+          "optionA": "Epistolary letter writing",
+          "optionB": "Flashback into Bepo's earlier teaching and administrative career",
+          "optionC": "Stream-of-consciousness dream sequence",
+          "optionD": "Dramatic dialogue between students",
+          "correctOption": "B",
+          "explanation": "Chapter 7 looks backward into Bepo's experiences at Beesway Group of Schools and Fruitful Future[cite: 5]."
+        },
+        {
+          "id": "q_lekki_7_1795389017561_12",
+          "question": "Why did Bepo ultimately leave Beesway Group of Schools?",
+          "optionA": "Because the school went bankrupt",
+          "optionB": "Because he could not remain in an environment practicing dark rituals after being attacked for intervening",
+          "optionC": "Because his wife Seri asked him to move to Lekki",
+          "optionD": "Because he was sacked for correcting the director's grammar",
+          "correctOption": "B",
+          "explanation": "While he disagreed with the director over the school's name, the terrifying live-cow ritual and physical attack drove him to leave[cite: 5]."
+        },
+        {
+          "id": "q_lekki_7_1795389017561_13",
+          "question": "What social issue in Nigeria's private education sector does Chapter 7 expose?",
+          "optionA": "Over-reliance on foreign textbooks",
+          "optionB": "Desperate proprietors and individuals resorting to fetish rituals to attract enrollment and wealth",
+          "optionC": "Lack of qualified mathematics teachers",
+          "optionD": "Excessive taxation by local governments",
+          "correctOption": "B",
+          "explanation": "The chapter critiques the superstition and moral corruption of seeking institutional growth through occult rituals[cite: 5]."
+        },
+        {
+          "id": "q_lekki_7_1795389017561_14",
+          "question": "How does Bepo's refusal of the corn-grain ritual contrast with the Beesway director's behavior?",
+          "optionA": "Bepo relied on integrity and hard work, whereas the Beesway director pursued success through occult means",
+          "optionB": "Both men practiced rituals in secret",
+          "optionC": "The Beesway director refused rituals while Bepo encouraged them",
+          "optionD": "Neither man cared about student enrollment",
+          "correctOption": "A",
+          "explanation": "The contrast underscores why Bepo commands genuine respect as an educator while unethical proprietors rely on fear and superstition[cite: 5]."
+        },
+        {
+          "id": "q_lekki_7_1795389017561_15",
+          "question": "What validates Bepo's decision to reject the parent's ritual offer at Fruitful Future?",
+          "optionA": "Fruitful Future immediately became the largest school in Lagos",
+          "optionB": "The man's subsequent arrest for ritual murder proved how dangerous and evil he was",
+          "optionC": "The parent apologized and donated money to the school",
+          "optionD": "Bepo's friend praised him on national television",
+          "correctOption": "B",
+          "explanation": "Hearing of the man's arrest for murdering a woman with a similar trick confirmed Bepo's wisdom in refusing him[cite: 5]."
+        }
+      ]
     },
     {
       "chapterNumber": 8,
       "title": "Missions Unaccomplished",
       "summary": "As Bepo prepares to leave Nigeria, he thinks about problems he has not yet solve at Stardom Schools.   \n\nOne big issue is a prolonged quarrel between two families of Banky and Tosh.   \n\nIt started from a dance competition and grew into political and legal conflict.   \n\nDuring a school prefect election speech, Banky insults Tosh by calling his father “an ex-convict,” causing outrage.   \n\nBepo tried to make peace between the families, but the matter is still unresolved as he leaves.   \n\nHe is also sad about leaving the school's Invention Club, which was building a phone from recycled parts.   \n\nBut he vows to return for its launch if it succeeds.",
       "highYieldPoints": [],
-      "quiz": []
+      "quiz": [
+        {
+          "id": "q_lekki_8_1795389017561_16",
+          "question": "What is the title of Chapter 8 in The Lekki Headmaster?",
+          "optionA": "Passport Pains",
+          "optionB": "Missions Unaccomplished",
+          "optionC": "A Case of Visa Denied",
+          "optionD": "Point of No Return",
+          "correctOption": "B",
+          "explanation": "Chapter 8 is titled \"Missions Unaccomplished,\" focusing on unresolved issues at Stardom Schools as Bepo prepares to leave[cite: 5]."
+        },
+        {
+          "id": "q_lekki_8_1795389017561_17",
+          "question": "Which two families at Stardom Schools are locked in a prolonged quarrel in Chapter 8?",
+          "optionA": "The Adewale and Gloss families",
+          "optionB": "The Banky and Tosh families",
+          "optionC": "The Ignatius and Guta families",
+          "optionD": "The Fafore and Audu families",
+          "correctOption": "B",
+          "explanation": "One of the major unresolved conflicts weighing on Bepo is the bitter feud between the families of Banky and Tosh[cite: 5]."
+        },
+        {
+          "id": "q_lekki_8_1795389017561_18",
+          "question": "How did the quarrel between the Banky and Tosh families originally begin?",
+          "optionA": "Over unpaid school bus fees",
+          "optionB": "From a school dance competition",
+          "optionC": "Over a car collision at the school gate",
+          "optionD": "Over the Cooperative Society elections",
+          "correctOption": "B",
+          "explanation": "What began as a dispute over a dance competition escalated into a serious political and legal battle between the two families[cite: 5]."
+        },
+        {
+          "id": "q_lekki_8_1795389017561_19",
+          "question": "Into what broader arenas did the Banky–Tosh dispute escalate?",
+          "optionA": "International sports and business",
+          "optionB": "Political and legal conflict",
+          "optionC": "Religious and tribal warfare",
+          "optionD": "Social media giveaways",
+          "correctOption": "B",
+          "explanation": "The dance competition quarrel grew far beyond the school into political and legal confrontations[cite: 5]."
+        },
+        {
+          "id": "q_lekki_8_1795389017561_20",
+          "question": "What insulting remark did Banky make against Tosh during a school prefect election speech?",
+          "optionA": "He called Tosh an academic failure",
+          "optionB": "He called Tosh's father \"an ex-convict\"",
+          "optionC": "He accused Tosh of stealing from the Invention Club",
+          "optionD": "He mocked Tosh's family for being denied a visa",
+          "correctOption": "B",
+          "explanation": "During a prefect election speech, Banky publicly insulted Tosh by referring to Tosh's father as \"an ex-convict,\" sparking outrage[cite: 5]."
+        },
+        {
+          "id": "q_lekki_8_1795389017561_21",
+          "question": "What was the status of the Banky–Tosh reconciliation efforts as Bepo prepared to leave Nigeria?",
+          "optionA": "Both families signed a peace treaty at the assembly",
+          "optionB": "The matter remained unresolved despite Bepo's peace efforts",
+          "optionC": "Banky was expelled and Tosh withdrew from the school",
+          "optionD": "The Managing Director settled the dispute in court",
+          "correctOption": "B",
+          "explanation": "Although Bepo tried to mediate peace between the two families, the conflict was still unresolved as he prepared to depart[cite: 5]."
+        },
+        {
+          "id": "q_lekki_8_1795389017561_22",
+          "question": "Which student group is Bepo particularly sad about leaving behind in Chapter 8?",
+          "optionA": "The Dramatic and Cultural Society",
+          "optionB": "The school's Invention Club",
+          "optionC": "The Junior Press Club",
+          "optionD": "The Young Farmers Club",
+          "correctOption": "B",
+          "explanation": "Bepo feels deep regret leaving Stardom Schools' Invention Club before seeing their flagship project completed[cite: 5]."
+        },
+        {
+          "id": "q_lekki_8_1795389017561_23",
+          "question": "What innovative project was Stardom Schools' Invention Club working on in Chapter 8?",
+          "optionA": "A solar-powered school bus",
+          "optionB": "Building a phone from recycled parts",
+          "optionC": "An automated attendance robot",
+          "optionD": "A water purification drone",
+          "correctOption": "B",
+          "explanation": "The Invention Club was building a functional mobile phone from recycled components[cite: 5]."
+        },
+        {
+          "id": "q_lekki_8_1795389017561_24",
+          "question": "What promise does Bepo make regarding the Invention Club's project?",
+          "optionA": "To send them brand-new iPhones from London",
+          "optionB": "To return to Nigeria for its launch if the project succeeds",
+          "optionC": "To patent the phone under his own name in the UK",
+          "optionD": "To ask the Managing Director to disband the club",
+          "correctOption": "B",
+          "explanation": "Bepo vows that if the students succeed in building the recycled-parts phone, he will come back for its official launch[cite: 5]."
+        },
+        {
+          "id": "q_lekki_8_1795389017561_25",
+          "question": "Why does Chapter 8 portray Bepo's departure as emotionally incomplete?",
+          "optionA": "Because he had not collected his final month's salary",
+          "optionB": "Because he was leaving behind unfinished reconciliations and promising student innovations",
+          "optionC": "Because he failed to renew his driver's license",
+          "optionD": "Because Mrs. Grace Apeh refused to take over his duties",
+          "correctOption": "B",
+          "explanation": "Both the unresolved Banky–Tosh feud and the Invention Club's unfinished phone make Bepo feel he is leaving vital missions behind[cite: 5]."
+        },
+        {
+          "id": "q_lekki_8_1795389017561_26",
+          "question": "What does the Banky–Tosh feud illustrate about adult behavior affecting school life?",
+          "optionA": "Children always start fights that parents try to stop",
+          "optionB": "Petty parental rivalries can spill into students' conduct, such as prefect election speeches",
+          "optionC": "School competitions should be banned permanently",
+          "optionD": "Students never pay attention to their parents' legal battles",
+          "correctOption": "B",
+          "explanation": "The adults' political and legal feud directly poisoned student relations, culminating in Banky's public insult during a school election[cite: 5]."
+        },
+        {
+          "id": "q_lekki_8_1795389017561_27",
+          "question": "How does Bepo's interest in the Invention Club characterize his educational philosophy?",
+          "optionA": "He cares only about rote memorization for exams",
+          "optionB": "He champions practical creativity, innovation, and student-led problem solving",
+          "optionC": "He believes technology distracts students from literature",
+          "optionD": "He prefers foreign imported gadgets over local ingenuity",
+          "correctOption": "B",
+          "explanation": "Bepo's emotional attachment to the Invention Club shows his passion for nurturing hands-on creativity among Nigerian youth[cite: 5]."
+        },
+        {
+          "id": "q_lekki_8_1795389017561_28",
+          "question": "What caused immediate outrage during the school prefect election in Chapter 8?",
+          "optionA": "Rigging of ballot boxes by teachers",
+          "optionB": "Banky calling Tosh's father \"an ex-convict\" in a public speech",
+          "optionC": "The cancellation of the dance competition",
+          "optionD": "Bepo's refusal to allow senior students to vote",
+          "correctOption": "B",
+          "explanation": "Banky's personal attack on Tosh's father during a formal school election speech provoked widespread outrage[cite: 5]."
+        },
+        {
+          "id": "q_lekki_8_1795389017561_29",
+          "question": "Which of the following best summarizes Bepo's emotional state in Chapter 8?",
+          "optionA": "Indifferent and eager to forget Stardom Schools",
+          "optionB": "Torn by unfinished responsibilities toward both warring families and talented students",
+          "optionC": "Angry at the Invention Club for wasting school resources",
+          "optionD": "Relieved that the Banky–Tosh feud is no longer his concern",
+          "correctOption": "B",
+          "explanation": "Even while preparing to relocate, Bepo remains deeply invested in the peace and progress of his school community[cite: 5]."
+        },
+        {
+          "id": "q_lekki_8_1795389017561_30",
+          "question": "What promise links Bepo's future to Stardom Schools in Chapter 8?",
+          "optionA": "His pledge to return for the Invention Club's phone launch",
+          "optionB": "His plan to buy Stardom Schools from Mrs. Gloss",
+          "optionC": "His agreement to teach English online from London",
+          "optionD": "His vow to testify in the Banky–Tosh lawsuit",
+          "correctOption": "A",
+          "explanation": "Bepo promises to return for the launch of the recycled-parts phone if the Invention Club succeeds[cite: 5]."
+        }
+      ]
     },
     {
       "chapterNumber": 9,
@@ -872,6 +1174,156 @@
           "optionD": "The trans-Saharan gold trade",
           "correctOption": "B",
           "explanation": "Through the Badagry excursion and Bepo's nightmare at the airport, the novel parallels desperate modern migration with the historic slave trade."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_31",
+          "question": "What is the title of Chapter 9 in The Lekki Headmaster?",
+          "optionA": "Point of No Return",
+          "optionB": "Laughing Waterfalls",
+          "optionC": "Dusk...",
+          "optionD": "The Enticement",
+          "correctOption": "B",
+          "explanation": "Chapter 9 is titled \"Laughing Waterfalls,\" highlighting Stardom Schools' tradition of educational excursions across Nigeria[cite: 5]."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_32",
+          "question": "What longstanding school tradition does Chapter 9 describe?",
+          "optionA": "Annual inter-school debate championships",
+          "optionB": "Taking Stardom Schools students on educational excursions around Nigeria",
+          "optionC": "Hosting foreign diplomats every Independence Day",
+          "optionD": "Organizing midnight prayer vigils before exams",
+          "correctOption": "B",
+          "explanation": "Stardom Schools regularly organizes excursions across Nigeria to broaden students' historical and cultural awareness[cite: 5]."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_33",
+          "question": "Which historic coastal town in Lagos State do the students visit in Chapter 9?",
+          "optionA": "Epe",
+          "optionB": "Badagry",
+          "optionC": "Ikorodu",
+          "optionD": "Victoria Island",
+          "correctOption": "B",
+          "explanation": "The students go on an excursion to Badagry, renowned for its central role in the transatlantic slave trade[cite: 5]."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_34",
+          "question": "What historic landmark and concept do the students learn about in Badagry?",
+          "optionA": "The Olumo Rock fortress",
+          "optionB": "The \"Point of No Return,\" where captured Africans were loaded onto ships and taken away forever",
+          "optionC": "The ancient walls of Benin Kingdom",
+          "optionD": "The Lord Lugard bridge in Kaduna",
+          "correctOption": "B",
+          "explanation": "In Badagry, students learn about the transatlantic slave trade and the \"Point of No Return\" through which captives were shipped away[cite: 5]."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_35",
+          "question": "What contemporary trend does the Badagry slave-trade history remind Bepo of?",
+          "optionA": "Rural-urban migration to Abuja",
+          "optionB": "The modern \"japa\" wave of Nigerians rushing to emigrate abroad",
+          "optionC": "Illegal oil bunkering in the creeks",
+          "optionD": "Youth addiction to social media",
+          "correctOption": "B",
+          "explanation": "Observing the relics of slavery in Badagry triggers Bepo's reflection on the modern \"japa\" phenomenon[cite: 5]."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_36",
+          "question": "How does Bepo sadly describe the modern \"japa\" trend in Chapter 9?",
+          "optionA": "As a triumphant conquest of Europe",
+          "optionB": "As a \"new form of slavery\"",
+          "optionC": "As a temporary holiday for wealthy families",
+          "optionD": "As the best solution to Nigeria's economy",
+          "correctOption": "B",
+          "explanation": "Bepo sorrowfully compares modern desperate emigration to a \"new form of slavery\"[cite: 5]."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_37",
+          "question": "Why does Bepo compare \"japa\" to a \"new form of slavery\"?",
+          "optionA": "Because foreign embassies arrest all Nigerian travelers at airports",
+          "optionB": "Because Nigerians are willingly rushing abroad into harsh, exploitative lives, much like ancestors forced onto ships centuries ago",
+          "optionC": "Because airlines chain passengers to their seats",
+          "optionD": "Because Nigerian schools force graduates to leave the country",
+          "correctOption": "B",
+          "explanation": "Bepo sees tragic irony in people eagerly paying and struggling to enter grueling conditions abroad where ancestors were once taken in chains[cite: 5]."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_38",
+          "question": "What educational purpose do Stardom Schools' excursions serve in Chapter 9?",
+          "optionA": "Giving teachers a break from classroom teaching",
+          "optionB": "Connecting students directly with Nigerian history, heritage, and critical reflection",
+          "optionC": "Advertising the school to wealthy tourists",
+          "optionD": "Raising money for the staff cooperative",
+          "correctOption": "B",
+          "explanation": "The excursions expose students to real historical sites like Badagry so they understand their heritage firsthand[cite: 5]."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_39",
+          "question": "How does the Badagry trip affect Bepo's own feelings about relocating to the UK?",
+          "optionA": "It makes him excited to board a plane immediately",
+          "optionB": "It deepens his internal conflict and sorrow over leaving his homeland",
+          "optionC": "It convinces him to move to the United States instead",
+          "optionD": "It has no emotional impact on him whatsoever",
+          "correctOption": "B",
+          "explanation": "Seeing the \"Point of No Return\" intensifies Bepo's unease about abandoning Nigeria, foreshadowing his nightmare at the airport[cite: 5]."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_40",
+          "question": "Which historical trade is Badagry famous for in Chapter 9?",
+          "optionA": "The trans-Saharan salt trade",
+          "optionB": "The transatlantic slave trade",
+          "optionC": "The spice trade with Asia",
+          "optionD": "The rubber trade with Belgium",
+          "correctOption": "B",
+          "explanation": "Badagry is historically famous as a major port in the transatlantic slave trade[cite: 5]."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_41",
+          "question": "What contrast does Bepo draw between historic slavery and modern migration in Chapter 9?",
+          "optionA": "Historic slaves traveled by air, while modern migrants travel by sea",
+          "optionB": "Historic captives were forced onto ships against their will, whereas modern migrants rush voluntarily toward hard lives abroad",
+          "optionC": "Historic slaves were paid hourly wages, while modern migrants work for free",
+          "optionD": "There is no difference between the two in Bepo's mind",
+          "correctOption": "B",
+          "explanation": "Bepo notes the poignant irony that while ancestors were forcibly taken away, modern youths desperately rush into difficult lives overseas[cite: 5]."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_42",
+          "question": "How does Chapter 9 foreshadow the climax of the novel in Chapters 11 and 12?",
+          "optionA": "By introducing the Badagry slave history that later triggers Bepo's emotional outburst at his farewell and his nightmare at the airport",
+          "optionB": "By showing Bepo buying a house in Badagry",
+          "optionC": "By introducing the passport agent Tai",
+          "optionD": "By revealing that Seri is visiting Badagry",
+          "correctOption": "A",
+          "explanation": "The imagery of Badagry's slave history and the \"Point of No Return\" directly resurfaces during the farewell dance (Ch. 11) and Bepo's airport dream (Ch. 12)[cite: 5, 6]."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_43",
+          "question": "What mood surrounds Bepo's reflections during the Badagry excursion?",
+          "optionA": "Boastful and celebratory",
+          "optionB": "Somber, reflective, and melancholic",
+          "optionC": "Angry and aggressive",
+          "optionD": "Carefree and comical",
+          "correctOption": "B",
+          "explanation": "Bepo is deeply sobered and saddened as he connects Badagry's painful past with Nigeria's current brain drain[cite: 5]."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_44",
+          "question": "What does the phrase \"Point of No Return\" symbolize in Chapter 9?",
+          "optionA": "A bus stop along the Lagos-Ibadan Expressway",
+          "optionB": "The irreversible separation of Africans from their homeland, paralleled with permanent emigration",
+          "optionC": "The deadline for paying WAEC registration fees",
+          "optionD": "The entrance to Stardom Schools' administrative block",
+          "correctOption": "B",
+          "explanation": "Historically marking the final departure of enslaved Africans, the phrase symbolizes the finality and loss associated with leaving one's homeland[cite: 5]."
+        },
+        {
+          "id": "q_lekki_9_1795389017561_45",
+          "question": "What role does Stardom Schools' excursion culture play in Bepo's reputation as a headmaster?",
+          "optionA": "It shows he prioritizes holistic, experiential learning beyond classroom walls",
+          "optionB": "It proves he dislikes staying in Lekki",
+          "optionC": "It shows he uses school funds for personal vacations",
+          "optionD": "It alienates parents who dislike travel",
+          "correctOption": "A",
+          "explanation": "Organizing meaningful excursions across Nigeria reflects Bepo's commitment to well-rounded education[cite: 5]."
         }
       ]
     },
@@ -2474,6 +2926,816 @@
       "optionC": "Parents are always right about English grammar",
       "optionD": "Online dictionaries should never be trusted in school",
       "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_1",
+      "chapter": 7,
+      "question": "What is the title of Chapter 7 in The Lekki Headmaster?",
+      "options": {
+        "A": "Missions Unaccomplished",
+        "B": "Ritualists",
+        "C": "Snake in the Roof",
+        "D": "Laughing Waterfalls"
+      },
+      "answer": "B",
+      "explanation": "Chapter 7 is titled \"Ritualists,\" examining Principal Bepo's unsettling past encounters with ritual practices in private schools[cite: 5].",
+      "optionA": "Missions Unaccomplished",
+      "optionB": "Ritualists",
+      "optionC": "Snake in the Roof",
+      "optionD": "Laughing Waterfalls",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_2",
+      "chapter": 7,
+      "question": "Which school did Bepo work at earlier in his career before joining Stardom Schools?",
+      "options": {
+        "A": "Royal Crown College",
+        "B": "Beesway Group of Schools",
+        "C": "Lekki International Academy",
+        "D": "Gracefield High School"
+      },
+      "answer": "B",
+      "explanation": "Chapter 7 flashes back to Bepo's time working at Beesway Group of Schools[cite: 5].",
+      "optionA": "Royal Crown College",
+      "optionB": "Beesway Group of Schools",
+      "optionC": "Lekki International Academy",
+      "optionD": "Gracefield High School",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_3",
+      "chapter": 7,
+      "question": "What initial professional disagreement did Bepo have with the director of Beesway Group of Schools?",
+      "options": {
+        "A": "Over unpaid overtime allowances",
+        "B": "Over a grammatical error in the school's name",
+        "C": "Over the choice of school uniform colors",
+        "D": "Over admitting underage students"
+      },
+      "answer": "B",
+      "explanation": "Bepo initially clashed with the Beesway director regarding a grammar mistake in the school's official name[cite: 5].",
+      "optionA": "Over unpaid overtime allowances",
+      "optionB": "Over a grammatical error in the school's name",
+      "optionC": "Over the choice of school uniform colors",
+      "optionD": "Over admitting underage students",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_4",
+      "chapter": 7,
+      "question": "What horrifying ritual activity did Bepo witness late one night at Beesway Group of Schools?",
+      "options": {
+        "A": "Burning students' textbooks in a shrine",
+        "B": "The school director and some men attempting to bury a cow alive on the school grounds",
+        "C": "Slaughtering goats inside the principal's office",
+        "D": "Pouring animal blood on the assembly podium"
+      },
+      "answer": "B",
+      "explanation": "Late one night, Bepo caught the director and several men trying to bury a live cow on the school compound[cite: 5].",
+      "optionA": "Burning students' textbooks in a shrine",
+      "optionB": "The school director and some men attempting to bury a cow alive on the school grounds",
+      "optionC": "Slaughtering goats inside the principal's office",
+      "optionD": "Pouring animal blood on the assembly podium",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_5",
+      "chapter": 7,
+      "question": "What happened to Bepo when he tried to stop the men from burying the cow alive?",
+      "options": {
+        "A": "He was promoted to vice principal to keep him quiet",
+        "B": "He was attacked and injured",
+        "C": "He called the police and had the director jailed immediately",
+        "D": "He fainted and woke up in London"
+      },
+      "answer": "B",
+      "explanation": "When Bepo intervened to stop the ritual, the men attacked and injured him, prompting his departure from Beesway[cite: 5].",
+      "optionA": "He was promoted to vice principal to keep him quiet",
+      "optionB": "He was attacked and injured",
+      "optionC": "He called the police and had the director jailed immediately",
+      "optionD": "He fainted and woke up in London",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_6",
+      "chapter": 7,
+      "question": "What was the name of the small school Bepo and a friend previously ran together?",
+      "options": {
+        "A": "Bright Tomorrow Academy",
+        "B": "Fruitful Future",
+        "C": "Stardom Junior School",
+        "D": "Rising Sun College"
+      },
+      "answer": "B",
+      "explanation": "Earlier in his career, Bepo and a friend co-ran a small school named Fruitful Future[cite: 5].",
+      "optionA": "Bright Tomorrow Academy",
+      "optionB": "Fruitful Future",
+      "optionC": "Stardom Junior School",
+      "optionD": "Rising Sun College",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_7",
+      "chapter": 7,
+      "question": "What dubious offer did a parent make to Bepo at Fruitful Future to boost student enrollment?",
+      "options": {
+        "A": "To pay for radio advertisements across Lagos",
+        "B": "To perform \"magic\" using grains of corn to attract more students",
+        "C": "To bribe government education inspectors",
+        "D": "To donate a fleet of school buses"
+      },
+      "answer": "B",
+      "explanation": "A parent offered to use ritual \"magic\" involving grains of corn to magnetically draw more pupils to Fruitful Future[cite: 5].",
+      "optionA": "To pay for radio advertisements across Lagos",
+      "optionB": "To perform \"magic\" using grains of corn to attract more students",
+      "optionC": "To bribe government education inspectors",
+      "optionD": "To donate a fleet of school buses",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_8",
+      "chapter": 7,
+      "question": "How did Bepo respond to the parent's offer to use corn-grain magic at Fruitful Future?",
+      "options": {
+        "A": "He accepted it secretly without telling his friend",
+        "B": "He firmly refused the offer",
+        "C": "He asked the parent to test it for one term first",
+        "D": "He reported the parent to the Managing Director of Stardom Schools"
+      },
+      "answer": "B",
+      "explanation": "True to his moral principles, Bepo rejected the ritual shortcut outright[cite: 5].",
+      "optionA": "He accepted it secretly without telling his friend",
+      "optionB": "He firmly refused the offer",
+      "optionC": "He asked the parent to test it for one term first",
+      "optionD": "He reported the parent to the Managing Director of Stardom Schools",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_9",
+      "chapter": 7,
+      "question": "What later happened to the man who offered to perform the corn ritual for Fruitful Future?",
+      "options": {
+        "A": "He became a wealthy school proprietor in Lekki",
+        "B": "He was arrested for murdering a woman using a similar ritual trick",
+        "C": "He relocated to Canada with his family",
+        "D": "He became the chairman of the Stardom Schools PTA"
+      },
+      "answer": "B",
+      "explanation": "Bepo later learned that the same man was arrested for killing a woman through a similar ritual scheme[cite: 5].",
+      "optionA": "He became a wealthy school proprietor in Lekki",
+      "optionB": "He was arrested for murdering a woman using a similar ritual trick",
+      "optionC": "He relocated to Canada with his family",
+      "optionD": "He became the chairman of the Stardom Schools PTA",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_10",
+      "chapter": 7,
+      "question": "What core character trait of Bepo does Chapter 7 highlight through his past experiences?",
+      "options": {
+        "A": "Ambition at any moral cost",
+        "B": "Uncompromising integrity and rejection of diabolical shortcuts",
+        "C": "Naivety about Nigerian society",
+        "D": "Desire for vengeance against former employers"
+      },
+      "answer": "B",
+      "explanation": "Both at Beesway and Fruitful Future, Bepo chose ethical uprightness and personal safety over ritualistic shortcuts to success[cite: 5].",
+      "optionA": "Ambition at any moral cost",
+      "optionB": "Uncompromising integrity and rejection of diabolical shortcuts",
+      "optionC": "Naivety about Nigerian society",
+      "optionD": "Desire for vengeance against former employers",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_11",
+      "chapter": 7,
+      "question": "Which narrative technique dominates Chapter 7?",
+      "options": {
+        "A": "Epistolary letter writing",
+        "B": "Flashback into Bepo's earlier teaching and administrative career",
+        "C": "Stream-of-consciousness dream sequence",
+        "D": "Dramatic dialogue between students"
+      },
+      "answer": "B",
+      "explanation": "Chapter 7 looks backward into Bepo's experiences at Beesway Group of Schools and Fruitful Future[cite: 5].",
+      "optionA": "Epistolary letter writing",
+      "optionB": "Flashback into Bepo's earlier teaching and administrative career",
+      "optionC": "Stream-of-consciousness dream sequence",
+      "optionD": "Dramatic dialogue between students",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_12",
+      "chapter": 7,
+      "question": "Why did Bepo ultimately leave Beesway Group of Schools?",
+      "options": {
+        "A": "Because the school went bankrupt",
+        "B": "Because he could not remain in an environment practicing dark rituals after being attacked for intervening",
+        "C": "Because his wife Seri asked him to move to Lekki",
+        "D": "Because he was sacked for correcting the director's grammar"
+      },
+      "answer": "B",
+      "explanation": "While he disagreed with the director over the school's name, the terrifying live-cow ritual and physical attack drove him to leave[cite: 5].",
+      "optionA": "Because the school went bankrupt",
+      "optionB": "Because he could not remain in an environment practicing dark rituals after being attacked for intervening",
+      "optionC": "Because his wife Seri asked him to move to Lekki",
+      "optionD": "Because he was sacked for correcting the director's grammar",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_13",
+      "chapter": 7,
+      "question": "What social issue in Nigeria's private education sector does Chapter 7 expose?",
+      "options": {
+        "A": "Over-reliance on foreign textbooks",
+        "B": "Desperate proprietors and individuals resorting to fetish rituals to attract enrollment and wealth",
+        "C": "Lack of qualified mathematics teachers",
+        "D": "Excessive taxation by local governments"
+      },
+      "answer": "B",
+      "explanation": "The chapter critiques the superstition and moral corruption of seeking institutional growth through occult rituals[cite: 5].",
+      "optionA": "Over-reliance on foreign textbooks",
+      "optionB": "Desperate proprietors and individuals resorting to fetish rituals to attract enrollment and wealth",
+      "optionC": "Lack of qualified mathematics teachers",
+      "optionD": "Excessive taxation by local governments",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_14",
+      "chapter": 7,
+      "question": "How does Bepo's refusal of the corn-grain ritual contrast with the Beesway director's behavior?",
+      "options": {
+        "A": "Bepo relied on integrity and hard work, whereas the Beesway director pursued success through occult means",
+        "B": "Both men practiced rituals in secret",
+        "C": "The Beesway director refused rituals while Bepo encouraged them",
+        "D": "Neither man cared about student enrollment"
+      },
+      "answer": "A",
+      "explanation": "The contrast underscores why Bepo commands genuine respect as an educator while unethical proprietors rely on fear and superstition[cite: 5].",
+      "optionA": "Bepo relied on integrity and hard work, whereas the Beesway director pursued success through occult means",
+      "optionB": "Both men practiced rituals in secret",
+      "optionC": "The Beesway director refused rituals while Bepo encouraged them",
+      "optionD": "Neither man cared about student enrollment",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_7_1795389017561_15",
+      "chapter": 7,
+      "question": "What validates Bepo's decision to reject the parent's ritual offer at Fruitful Future?",
+      "options": {
+        "A": "Fruitful Future immediately became the largest school in Lagos",
+        "B": "The man's subsequent arrest for ritual murder proved how dangerous and evil he was",
+        "C": "The parent apologized and donated money to the school",
+        "D": "Bepo's friend praised him on national television"
+      },
+      "answer": "B",
+      "explanation": "Hearing of the man's arrest for murdering a woman with a similar trick confirmed Bepo's wisdom in refusing him[cite: 5].",
+      "optionA": "Fruitful Future immediately became the largest school in Lagos",
+      "optionB": "The man's subsequent arrest for ritual murder proved how dangerous and evil he was",
+      "optionC": "The parent apologized and donated money to the school",
+      "optionD": "Bepo's friend praised him on national television",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_16",
+      "chapter": 8,
+      "question": "What is the title of Chapter 8 in The Lekki Headmaster?",
+      "options": {
+        "A": "Passport Pains",
+        "B": "Missions Unaccomplished",
+        "C": "A Case of Visa Denied",
+        "D": "Point of No Return"
+      },
+      "answer": "B",
+      "explanation": "Chapter 8 is titled \"Missions Unaccomplished,\" focusing on unresolved issues at Stardom Schools as Bepo prepares to leave[cite: 5].",
+      "optionA": "Passport Pains",
+      "optionB": "Missions Unaccomplished",
+      "optionC": "A Case of Visa Denied",
+      "optionD": "Point of No Return",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_17",
+      "chapter": 8,
+      "question": "Which two families at Stardom Schools are locked in a prolonged quarrel in Chapter 8?",
+      "options": {
+        "A": "The Adewale and Gloss families",
+        "B": "The Banky and Tosh families",
+        "C": "The Ignatius and Guta families",
+        "D": "The Fafore and Audu families"
+      },
+      "answer": "B",
+      "explanation": "One of the major unresolved conflicts weighing on Bepo is the bitter feud between the families of Banky and Tosh[cite: 5].",
+      "optionA": "The Adewale and Gloss families",
+      "optionB": "The Banky and Tosh families",
+      "optionC": "The Ignatius and Guta families",
+      "optionD": "The Fafore and Audu families",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_18",
+      "chapter": 8,
+      "question": "How did the quarrel between the Banky and Tosh families originally begin?",
+      "options": {
+        "A": "Over unpaid school bus fees",
+        "B": "From a school dance competition",
+        "C": "Over a car collision at the school gate",
+        "D": "Over the Cooperative Society elections"
+      },
+      "answer": "B",
+      "explanation": "What began as a dispute over a dance competition escalated into a serious political and legal battle between the two families[cite: 5].",
+      "optionA": "Over unpaid school bus fees",
+      "optionB": "From a school dance competition",
+      "optionC": "Over a car collision at the school gate",
+      "optionD": "Over the Cooperative Society elections",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_19",
+      "chapter": 8,
+      "question": "Into what broader arenas did the Banky–Tosh dispute escalate?",
+      "options": {
+        "A": "International sports and business",
+        "B": "Political and legal conflict",
+        "C": "Religious and tribal warfare",
+        "D": "Social media giveaways"
+      },
+      "answer": "B",
+      "explanation": "The dance competition quarrel grew far beyond the school into political and legal confrontations[cite: 5].",
+      "optionA": "International sports and business",
+      "optionB": "Political and legal conflict",
+      "optionC": "Religious and tribal warfare",
+      "optionD": "Social media giveaways",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_20",
+      "chapter": 8,
+      "question": "What insulting remark did Banky make against Tosh during a school prefect election speech?",
+      "options": {
+        "A": "He called Tosh an academic failure",
+        "B": "He called Tosh's father \"an ex-convict\"",
+        "C": "He accused Tosh of stealing from the Invention Club",
+        "D": "He mocked Tosh's family for being denied a visa"
+      },
+      "answer": "B",
+      "explanation": "During a prefect election speech, Banky publicly insulted Tosh by referring to Tosh's father as \"an ex-convict,\" sparking outrage[cite: 5].",
+      "optionA": "He called Tosh an academic failure",
+      "optionB": "He called Tosh's father \"an ex-convict\"",
+      "optionC": "He accused Tosh of stealing from the Invention Club",
+      "optionD": "He mocked Tosh's family for being denied a visa",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_21",
+      "chapter": 8,
+      "question": "What was the status of the Banky–Tosh reconciliation efforts as Bepo prepared to leave Nigeria?",
+      "options": {
+        "A": "Both families signed a peace treaty at the assembly",
+        "B": "The matter remained unresolved despite Bepo's peace efforts",
+        "C": "Banky was expelled and Tosh withdrew from the school",
+        "D": "The Managing Director settled the dispute in court"
+      },
+      "answer": "B",
+      "explanation": "Although Bepo tried to mediate peace between the two families, the conflict was still unresolved as he prepared to depart[cite: 5].",
+      "optionA": "Both families signed a peace treaty at the assembly",
+      "optionB": "The matter remained unresolved despite Bepo's peace efforts",
+      "optionC": "Banky was expelled and Tosh withdrew from the school",
+      "optionD": "The Managing Director settled the dispute in court",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_22",
+      "chapter": 8,
+      "question": "Which student group is Bepo particularly sad about leaving behind in Chapter 8?",
+      "options": {
+        "A": "The Dramatic and Cultural Society",
+        "B": "The school's Invention Club",
+        "C": "The Junior Press Club",
+        "D": "The Young Farmers Club"
+      },
+      "answer": "B",
+      "explanation": "Bepo feels deep regret leaving Stardom Schools' Invention Club before seeing their flagship project completed[cite: 5].",
+      "optionA": "The Dramatic and Cultural Society",
+      "optionB": "The school's Invention Club",
+      "optionC": "The Junior Press Club",
+      "optionD": "The Young Farmers Club",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_23",
+      "chapter": 8,
+      "question": "What innovative project was Stardom Schools' Invention Club working on in Chapter 8?",
+      "options": {
+        "A": "A solar-powered school bus",
+        "B": "Building a phone from recycled parts",
+        "C": "An automated attendance robot",
+        "D": "A water purification drone"
+      },
+      "answer": "B",
+      "explanation": "The Invention Club was building a functional mobile phone from recycled components[cite: 5].",
+      "optionA": "A solar-powered school bus",
+      "optionB": "Building a phone from recycled parts",
+      "optionC": "An automated attendance robot",
+      "optionD": "A water purification drone",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_24",
+      "chapter": 8,
+      "question": "What promise does Bepo make regarding the Invention Club's project?",
+      "options": {
+        "A": "To send them brand-new iPhones from London",
+        "B": "To return to Nigeria for its launch if the project succeeds",
+        "C": "To patent the phone under his own name in the UK",
+        "D": "To ask the Managing Director to disband the club"
+      },
+      "answer": "B",
+      "explanation": "Bepo vows that if the students succeed in building the recycled-parts phone, he will come back for its official launch[cite: 5].",
+      "optionA": "To send them brand-new iPhones from London",
+      "optionB": "To return to Nigeria for its launch if the project succeeds",
+      "optionC": "To patent the phone under his own name in the UK",
+      "optionD": "To ask the Managing Director to disband the club",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_25",
+      "chapter": 8,
+      "question": "Why does Chapter 8 portray Bepo's departure as emotionally incomplete?",
+      "options": {
+        "A": "Because he had not collected his final month's salary",
+        "B": "Because he was leaving behind unfinished reconciliations and promising student innovations",
+        "C": "Because he failed to renew his driver's license",
+        "D": "Because Mrs. Grace Apeh refused to take over his duties"
+      },
+      "answer": "B",
+      "explanation": "Both the unresolved Banky–Tosh feud and the Invention Club's unfinished phone make Bepo feel he is leaving vital missions behind[cite: 5].",
+      "optionA": "Because he had not collected his final month's salary",
+      "optionB": "Because he was leaving behind unfinished reconciliations and promising student innovations",
+      "optionC": "Because he failed to renew his driver's license",
+      "optionD": "Because Mrs. Grace Apeh refused to take over his duties",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_26",
+      "chapter": 8,
+      "question": "What does the Banky–Tosh feud illustrate about adult behavior affecting school life?",
+      "options": {
+        "A": "Children always start fights that parents try to stop",
+        "B": "Petty parental rivalries can spill into students' conduct, such as prefect election speeches",
+        "C": "School competitions should be banned permanently",
+        "D": "Students never pay attention to their parents' legal battles"
+      },
+      "answer": "B",
+      "explanation": "The adults' political and legal feud directly poisoned student relations, culminating in Banky's public insult during a school election[cite: 5].",
+      "optionA": "Children always start fights that parents try to stop",
+      "optionB": "Petty parental rivalries can spill into students' conduct, such as prefect election speeches",
+      "optionC": "School competitions should be banned permanently",
+      "optionD": "Students never pay attention to their parents' legal battles",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_27",
+      "chapter": 8,
+      "question": "How does Bepo's interest in the Invention Club characterize his educational philosophy?",
+      "options": {
+        "A": "He cares only about rote memorization for exams",
+        "B": "He champions practical creativity, innovation, and student-led problem solving",
+        "C": "He believes technology distracts students from literature",
+        "D": "He prefers foreign imported gadgets over local ingenuity"
+      },
+      "answer": "B",
+      "explanation": "Bepo's emotional attachment to the Invention Club shows his passion for nurturing hands-on creativity among Nigerian youth[cite: 5].",
+      "optionA": "He cares only about rote memorization for exams",
+      "optionB": "He champions practical creativity, innovation, and student-led problem solving",
+      "optionC": "He believes technology distracts students from literature",
+      "optionD": "He prefers foreign imported gadgets over local ingenuity",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_28",
+      "chapter": 8,
+      "question": "What caused immediate outrage during the school prefect election in Chapter 8?",
+      "options": {
+        "A": "Rigging of ballot boxes by teachers",
+        "B": "Banky calling Tosh's father \"an ex-convict\" in a public speech",
+        "C": "The cancellation of the dance competition",
+        "D": "Bepo's refusal to allow senior students to vote"
+      },
+      "answer": "B",
+      "explanation": "Banky's personal attack on Tosh's father during a formal school election speech provoked widespread outrage[cite: 5].",
+      "optionA": "Rigging of ballot boxes by teachers",
+      "optionB": "Banky calling Tosh's father \"an ex-convict\" in a public speech",
+      "optionC": "The cancellation of the dance competition",
+      "optionD": "Bepo's refusal to allow senior students to vote",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_29",
+      "chapter": 8,
+      "question": "Which of the following best summarizes Bepo's emotional state in Chapter 8?",
+      "options": {
+        "A": "Indifferent and eager to forget Stardom Schools",
+        "B": "Torn by unfinished responsibilities toward both warring families and talented students",
+        "C": "Angry at the Invention Club for wasting school resources",
+        "D": "Relieved that the Banky–Tosh feud is no longer his concern"
+      },
+      "answer": "B",
+      "explanation": "Even while preparing to relocate, Bepo remains deeply invested in the peace and progress of his school community[cite: 5].",
+      "optionA": "Indifferent and eager to forget Stardom Schools",
+      "optionB": "Torn by unfinished responsibilities toward both warring families and talented students",
+      "optionC": "Angry at the Invention Club for wasting school resources",
+      "optionD": "Relieved that the Banky–Tosh feud is no longer his concern",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_8_1795389017561_30",
+      "chapter": 8,
+      "question": "What promise links Bepo's future to Stardom Schools in Chapter 8?",
+      "options": {
+        "A": "His pledge to return for the Invention Club's phone launch",
+        "B": "His plan to buy Stardom Schools from Mrs. Gloss",
+        "C": "His agreement to teach English online from London",
+        "D": "His vow to testify in the Banky–Tosh lawsuit"
+      },
+      "answer": "A",
+      "explanation": "Bepo promises to return for the launch of the recycled-parts phone if the Invention Club succeeds[cite: 5].",
+      "optionA": "His pledge to return for the Invention Club's phone launch",
+      "optionB": "His plan to buy Stardom Schools from Mrs. Gloss",
+      "optionC": "His agreement to teach English online from London",
+      "optionD": "His vow to testify in the Banky–Tosh lawsuit",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_31",
+      "chapter": 9,
+      "question": "What is the title of Chapter 9 in The Lekki Headmaster?",
+      "options": {
+        "A": "Point of No Return",
+        "B": "Laughing Waterfalls",
+        "C": "Dusk...",
+        "D": "The Enticement"
+      },
+      "answer": "B",
+      "explanation": "Chapter 9 is titled \"Laughing Waterfalls,\" highlighting Stardom Schools' tradition of educational excursions across Nigeria[cite: 5].",
+      "optionA": "Point of No Return",
+      "optionB": "Laughing Waterfalls",
+      "optionC": "Dusk...",
+      "optionD": "The Enticement",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_32",
+      "chapter": 9,
+      "question": "What longstanding school tradition does Chapter 9 describe?",
+      "options": {
+        "A": "Annual inter-school debate championships",
+        "B": "Taking Stardom Schools students on educational excursions around Nigeria",
+        "C": "Hosting foreign diplomats every Independence Day",
+        "D": "Organizing midnight prayer vigils before exams"
+      },
+      "answer": "B",
+      "explanation": "Stardom Schools regularly organizes excursions across Nigeria to broaden students' historical and cultural awareness[cite: 5].",
+      "optionA": "Annual inter-school debate championships",
+      "optionB": "Taking Stardom Schools students on educational excursions around Nigeria",
+      "optionC": "Hosting foreign diplomats every Independence Day",
+      "optionD": "Organizing midnight prayer vigils before exams",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_33",
+      "chapter": 9,
+      "question": "Which historic coastal town in Lagos State do the students visit in Chapter 9?",
+      "options": {
+        "A": "Epe",
+        "B": "Badagry",
+        "C": "Ikorodu",
+        "D": "Victoria Island"
+      },
+      "answer": "B",
+      "explanation": "The students go on an excursion to Badagry, renowned for its central role in the transatlantic slave trade[cite: 5].",
+      "optionA": "Epe",
+      "optionB": "Badagry",
+      "optionC": "Ikorodu",
+      "optionD": "Victoria Island",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_34",
+      "chapter": 9,
+      "question": "What historic landmark and concept do the students learn about in Badagry?",
+      "options": {
+        "A": "The Olumo Rock fortress",
+        "B": "The \"Point of No Return,\" where captured Africans were loaded onto ships and taken away forever",
+        "C": "The ancient walls of Benin Kingdom",
+        "D": "The Lord Lugard bridge in Kaduna"
+      },
+      "answer": "B",
+      "explanation": "In Badagry, students learn about the transatlantic slave trade and the \"Point of No Return\" through which captives were shipped away[cite: 5].",
+      "optionA": "The Olumo Rock fortress",
+      "optionB": "The \"Point of No Return,\" where captured Africans were loaded onto ships and taken away forever",
+      "optionC": "The ancient walls of Benin Kingdom",
+      "optionD": "The Lord Lugard bridge in Kaduna",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_35",
+      "chapter": 9,
+      "question": "What contemporary trend does the Badagry slave-trade history remind Bepo of?",
+      "options": {
+        "A": "Rural-urban migration to Abuja",
+        "B": "The modern \"japa\" wave of Nigerians rushing to emigrate abroad",
+        "C": "Illegal oil bunkering in the creeks",
+        "D": "Youth addiction to social media"
+      },
+      "answer": "B",
+      "explanation": "Observing the relics of slavery in Badagry triggers Bepo's reflection on the modern \"japa\" phenomenon[cite: 5].",
+      "optionA": "Rural-urban migration to Abuja",
+      "optionB": "The modern \"japa\" wave of Nigerians rushing to emigrate abroad",
+      "optionC": "Illegal oil bunkering in the creeks",
+      "optionD": "Youth addiction to social media",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_36",
+      "chapter": 9,
+      "question": "How does Bepo sadly describe the modern \"japa\" trend in Chapter 9?",
+      "options": {
+        "A": "As a triumphant conquest of Europe",
+        "B": "As a \"new form of slavery\"",
+        "C": "As a temporary holiday for wealthy families",
+        "D": "As the best solution to Nigeria's economy"
+      },
+      "answer": "B",
+      "explanation": "Bepo sorrowfully compares modern desperate emigration to a \"new form of slavery\"[cite: 5].",
+      "optionA": "As a triumphant conquest of Europe",
+      "optionB": "As a \"new form of slavery\"",
+      "optionC": "As a temporary holiday for wealthy families",
+      "optionD": "As the best solution to Nigeria's economy",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_37",
+      "chapter": 9,
+      "question": "Why does Bepo compare \"japa\" to a \"new form of slavery\"?",
+      "options": {
+        "A": "Because foreign embassies arrest all Nigerian travelers at airports",
+        "B": "Because Nigerians are willingly rushing abroad into harsh, exploitative lives, much like ancestors forced onto ships centuries ago",
+        "C": "Because airlines chain passengers to their seats",
+        "D": "Because Nigerian schools force graduates to leave the country"
+      },
+      "answer": "B",
+      "explanation": "Bepo sees tragic irony in people eagerly paying and struggling to enter grueling conditions abroad where ancestors were once taken in chains[cite: 5].",
+      "optionA": "Because foreign embassies arrest all Nigerian travelers at airports",
+      "optionB": "Because Nigerians are willingly rushing abroad into harsh, exploitative lives, much like ancestors forced onto ships centuries ago",
+      "optionC": "Because airlines chain passengers to their seats",
+      "optionD": "Because Nigerian schools force graduates to leave the country",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_38",
+      "chapter": 9,
+      "question": "What educational purpose do Stardom Schools' excursions serve in Chapter 9?",
+      "options": {
+        "A": "Giving teachers a break from classroom teaching",
+        "B": "Connecting students directly with Nigerian history, heritage, and critical reflection",
+        "C": "Advertising the school to wealthy tourists",
+        "D": "Raising money for the staff cooperative"
+      },
+      "answer": "B",
+      "explanation": "The excursions expose students to real historical sites like Badagry so they understand their heritage firsthand[cite: 5].",
+      "optionA": "Giving teachers a break from classroom teaching",
+      "optionB": "Connecting students directly with Nigerian history, heritage, and critical reflection",
+      "optionC": "Advertising the school to wealthy tourists",
+      "optionD": "Raising money for the staff cooperative",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_39",
+      "chapter": 9,
+      "question": "How does the Badagry trip affect Bepo's own feelings about relocating to the UK?",
+      "options": {
+        "A": "It makes him excited to board a plane immediately",
+        "B": "It deepens his internal conflict and sorrow over leaving his homeland",
+        "C": "It convinces him to move to the United States instead",
+        "D": "It has no emotional impact on him whatsoever"
+      },
+      "answer": "B",
+      "explanation": "Seeing the \"Point of No Return\" intensifies Bepo's unease about abandoning Nigeria, foreshadowing his nightmare at the airport[cite: 5].",
+      "optionA": "It makes him excited to board a plane immediately",
+      "optionB": "It deepens his internal conflict and sorrow over leaving his homeland",
+      "optionC": "It convinces him to move to the United States instead",
+      "optionD": "It has no emotional impact on him whatsoever",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_40",
+      "chapter": 9,
+      "question": "Which historical trade is Badagry famous for in Chapter 9?",
+      "options": {
+        "A": "The trans-Saharan salt trade",
+        "B": "The transatlantic slave trade",
+        "C": "The spice trade with Asia",
+        "D": "The rubber trade with Belgium"
+      },
+      "answer": "B",
+      "explanation": "Badagry is historically famous as a major port in the transatlantic slave trade[cite: 5].",
+      "optionA": "The trans-Saharan salt trade",
+      "optionB": "The transatlantic slave trade",
+      "optionC": "The spice trade with Asia",
+      "optionD": "The rubber trade with Belgium",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_41",
+      "chapter": 9,
+      "question": "What contrast does Bepo draw between historic slavery and modern migration in Chapter 9?",
+      "options": {
+        "A": "Historic slaves traveled by air, while modern migrants travel by sea",
+        "B": "Historic captives were forced onto ships against their will, whereas modern migrants rush voluntarily toward hard lives abroad",
+        "C": "Historic slaves were paid hourly wages, while modern migrants work for free",
+        "D": "There is no difference between the two in Bepo's mind"
+      },
+      "answer": "B",
+      "explanation": "Bepo notes the poignant irony that while ancestors were forcibly taken away, modern youths desperately rush into difficult lives overseas[cite: 5].",
+      "optionA": "Historic slaves traveled by air, while modern migrants travel by sea",
+      "optionB": "Historic captives were forced onto ships against their will, whereas modern migrants rush voluntarily toward hard lives abroad",
+      "optionC": "Historic slaves were paid hourly wages, while modern migrants work for free",
+      "optionD": "There is no difference between the two in Bepo's mind",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_42",
+      "chapter": 9,
+      "question": "How does Chapter 9 foreshadow the climax of the novel in Chapters 11 and 12?",
+      "options": {
+        "A": "By introducing the Badagry slave history that later triggers Bepo's emotional outburst at his farewell and his nightmare at the airport",
+        "B": "By showing Bepo buying a house in Badagry",
+        "C": "By introducing the passport agent Tai",
+        "D": "By revealing that Seri is visiting Badagry"
+      },
+      "answer": "A",
+      "explanation": "The imagery of Badagry's slave history and the \"Point of No Return\" directly resurfaces during the farewell dance (Ch. 11) and Bepo's airport dream (Ch. 12)[cite: 5, 6].",
+      "optionA": "By introducing the Badagry slave history that later triggers Bepo's emotional outburst at his farewell and his nightmare at the airport",
+      "optionB": "By showing Bepo buying a house in Badagry",
+      "optionC": "By introducing the passport agent Tai",
+      "optionD": "By revealing that Seri is visiting Badagry",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_43",
+      "chapter": 9,
+      "question": "What mood surrounds Bepo's reflections during the Badagry excursion?",
+      "options": {
+        "A": "Boastful and celebratory",
+        "B": "Somber, reflective, and melancholic",
+        "C": "Angry and aggressive",
+        "D": "Carefree and comical"
+      },
+      "answer": "B",
+      "explanation": "Bepo is deeply sobered and saddened as he connects Badagry's painful past with Nigeria's current brain drain[cite: 5].",
+      "optionA": "Boastful and celebratory",
+      "optionB": "Somber, reflective, and melancholic",
+      "optionC": "Angry and aggressive",
+      "optionD": "Carefree and comical",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_44",
+      "chapter": 9,
+      "question": "What does the phrase \"Point of No Return\" symbolize in Chapter 9?",
+      "options": {
+        "A": "A bus stop along the Lagos-Ibadan Expressway",
+        "B": "The irreversible separation of Africans from their homeland, paralleled with permanent emigration",
+        "C": "The deadline for paying WAEC registration fees",
+        "D": "The entrance to Stardom Schools' administrative block"
+      },
+      "answer": "B",
+      "explanation": "Historically marking the final departure of enslaved Africans, the phrase symbolizes the finality and loss associated with leaving one's homeland[cite: 5].",
+      "optionA": "A bus stop along the Lagos-Ibadan Expressway",
+      "optionB": "The irreversible separation of Africans from their homeland, paralleled with permanent emigration",
+      "optionC": "The deadline for paying WAEC registration fees",
+      "optionD": "The entrance to Stardom Schools' administrative block",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_9_1795389017561_45",
+      "chapter": 9,
+      "question": "What role does Stardom Schools' excursion culture play in Bepo's reputation as a headmaster?",
+      "options": {
+        "A": "It shows he prioritizes holistic, experiential learning beyond classroom walls",
+        "B": "It proves he dislikes staying in Lekki",
+        "C": "It shows he uses school funds for personal vacations",
+        "D": "It alienates parents who dislike travel"
+      },
+      "answer": "A",
+      "explanation": "Organizing meaningful excursions across Nigeria reflects Bepo's commitment to well-rounded education[cite: 5].",
+      "optionA": "It shows he prioritizes holistic, experiential learning beyond classroom walls",
+      "optionB": "It proves he dislikes staying in Lekki",
+      "optionC": "It shows he uses school funds for personal vacations",
+      "optionD": "It alienates parents who dislike travel",
+      "correctOption": "A"
     }
   ],
   "characters": [
@@ -2533,5 +3795,5 @@
     "Student Empowerment, Moral Mentorship & Institutional Legacy",
     "Faith, Hope and Ethical Integrity in Contemporary Nigeria"
   ],
-  "updatedAt": "2026-11-22T23:09:04.562Z"
+  "updatedAt": "2026-11-22T23:10:21.652Z"
 }
