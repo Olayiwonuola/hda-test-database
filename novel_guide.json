@@ -1,5 +1,5 @@
 {
-  "novelId": "lekki_headmaster",
+  "novelId": "the_lekki_headmaster",
   "title": "The Lekki Headmaster",
   "author": "Kabir Alabi Garba",
   "examYear": "2027",
@@ -30,6 +30,106 @@
           "optionD": "Financial crisis",
           "correctOption": "B",
           "explanation": ""
+        },
+        {
+          "id": "q_lekki_1_1795388813312_10",
+          "question": "Which literary device is prominent in the chapter title \"Snake in the Roof\"?",
+          "optionA": "Hyperbole",
+          "optionB": "Metaphor / Idiom",
+          "optionC": "Onomatopoeia",
+          "optionD": "Oxymoron",
+          "correctOption": "B",
+          "explanation": "\"Snake in the Roof\" is a metaphor/idiom used by the Managing Director to describe a hidden internal threat—the staff cooperative growing beyond management's control. Chapter 1"
+        },
+        {
+          "id": "q_lekki_1_1795388813312_11",
+          "question": "Where does Principal Bepo Adewale's sudden emotional breakdown occur in Chapter 1?",
+          "optionA": "Inside the Managing Director's boardroom",
+          "optionB": "On the podium during the morning assembly",
+          "optionC": "At the Murtala Muhammed International Airport",
+          "optionD": "During an Open Day meeting with parents",
+          "correctOption": "B",
+          "explanation": "At the morning assembly, Bepo walks to the podium looking sad, loses his speech, and begins weeping in front of staff and students."
+        },
+        {
+          "id": "q_lekki_1_1795388813312_12",
+          "question": "Who is the Vice Principal of Stardom Schools who tries to comfort Bepo during the assembly breakdown?",
+          "optionA": "Mrs. Ibidun Gloss",
+          "optionB": "Mrs. Grace Apeh",
+          "optionC": "Mrs. Ignatius",
+          "optionD": "Miss Sola",
+          "correctOption": "B",
+          "explanation": "Vice Principal Mrs. Grace Apeh and other staff members step in to find out what is wrong and escort Bepo to his office."
+        },
+        {
+          "id": "q_lekki_1_1795388813312_13",
+          "question": "How does Bepo respond when questioned about why he is crying in his office?",
+          "optionA": "He immediately announces his resignation to the staff",
+          "optionB": "He blames the Managing Director for overworking him",
+          "optionC": "He refuses to explain and repeatedly says, \"I will be all right\"",
+          "optionD": "He reveals that he has lost a close relative in London",
+          "correctOption": "C",
+          "explanation": "Despite persistent questioning from colleagues and management, Bepo keeps his pain private, only repeating, \"I will be all right.\""
+        },
+        {
+          "id": "q_lekki_1_1795388813312_14",
+          "question": "Who is the Managing Director (MD) of Stardom Schools summoned to the school after Bepo's breakdown?",
+          "optionA": "Mrs. Grace Apeh",
+          "optionB": "Mrs. Ibidun Gloss",
+          "optionC": "Mrs. Seri Adewale",
+          "optionD": "Mrs. Ignatius",
+          "correctOption": "B",
+          "explanation": "News of Bepo's unusual weeping reaches parents and prompts the Managing Director, Mrs. Ibidun Gloss, to come to the school."
+        },
+        {
+          "id": "q_lekki_1_1795388813312_15",
+          "question": "Which staff member, described as a pastor-teacher, is invited to counsel Bepo in Chapter 1?",
+          "optionA": "Mr. Audu",
+          "optionB": "Mr. Fafore",
+          "optionC": "Mr. Ope Wonde",
+          "optionD": "Mr. Guta",
+          "correctOption": "C",
+          "explanation": "Mr. Ope Wonde, a pastor-teacher at Stardom Schools, is brought in to speak with Bepo, though Bepo still does not disclose his problem."
+        },
+        {
+          "id": "q_lekki_1_1795388813312_16",
+          "question": "What crucial clue about Bepo's personal life does the Managing Director later uncover in Chapter 1?",
+          "optionA": "Bepo has secretly bought a rival school in Lekki",
+          "optionB": "Bepo's wife now lives in London",
+          "optionC": "Bepo is facing bankruptcy from a failed transport business",
+          "optionD": "Bepo has been offered a job at Beesway Group of Schools",
+          "correctOption": "B",
+          "explanation": "Mrs. Ibidun Gloss eventually learns that Bepo's wife has relocated to London, hinting at the source of his distress."
+        },
+        {
+          "id": "q_lekki_1_1795388813312_17",
+          "question": "What action does the school management take at the end of Chapter 1 regarding Bepo?",
+          "optionA": "They suspend him for disrupting the assembly",
+          "optionB": "They ask him to go home and rest",
+          "optionC": "They immediately appoint Mrs. Grace Apeh as substantive principal",
+          "optionD": "They organize an emergency PTA meeting",
+          "correctOption": "B",
+          "explanation": "Out of concern for his emotional state, Bepo is asked to go home for the day to rest."
+        },
+        {
+          "id": "q_lekki_1_1795388813312_18",
+          "question": "Why does Bepo's crying at assembly shock the Stardom Schools community so deeply?",
+          "optionA": "He had never missed a single day of school in thirty years",
+          "optionB": "He is normally cheerful, composed, and energetic at morning assemblies",
+          "optionC": "He had just won a national teacher award the previous day",
+          "optionD": "Students had never seen a male principal before",
+          "correctOption": "B",
+          "explanation": "Bepo's sudden silence and tears starkly contrast with his usual lively and inspiring presence on the assembly podium."
+        },
+        {
+          "id": "q_lekki_1_1795388813312_19",
+          "question": "How did news of Bepo's breakdown spread beyond the school compound in Chapter 1?",
+          "optionA": "Through a live television broadcast",
+          "optionB": "Through students and bystanders who informed some parents",
+          "optionC": "Through an official press release from the MD",
+          "optionD": "Through a post on the school's website",
+          "correctOption": "B",
+          "explanation": "Word of the principal's unexplained weeping quickly reached several parents, escalating concern and bringing the MD to the school."
         }
       ]
     },
@@ -38,14 +138,226 @@
       "title": "The Enticement",
       "summary": "We learn why Bepo was crying: he has decided to relocate (japa) to the United Kingdom.   \n\nHis wife (Seri) and their two children (Nike and Kike) are already in the UK, and Seri has been pressuring him to join them.   \n\nBut Bepo loves his job and his students at Stardom Schools, where he has worked for over 20 years and earned the nickname \"The Lekki Headmaster\".  \n\n His colleagues think he is foolish to be sad about such a \"golden opportunity\".   \n\nPeople compare his Nigerian salary to what he could earn in pounds in the UK.   But Bepo had wanted to start his own transport or private school business when he retired.   ",
       "highYieldPoints": [],
-      "quiz": []
+      "quiz": [
+        {
+          "id": "q_lekki_2_1795388813312_20",
+          "question": "What narrative technique does the author use in Chapter 1 by withholding the reason for Bepo's tears?",
+          "optionA": "Flashback",
+          "optionB": "Suspense",
+          "optionC": "Foreshadowing through prophecy",
+          "optionD": "Dramatic monologue",
+          "correctOption": "B",
+          "explanation": "Keeping the cause of Bepo's tears hidden until Chapter 2 builds suspense and draws the reader into his internal conflict. Chapter 2"
+        },
+        {
+          "id": "q_lekki_2_1795388813312_21",
+          "question": "What is the real reason behind Principal Bepo's tears in Chapter 1, as revealed in Chapter 2?",
+          "optionA": "He has been diagnosed with a terminal illness",
+          "optionB": "He has reluctantly decided to relocate (\"japa\") to the United Kingdom",
+          "optionC": "The Managing Director has reduced his salary",
+          "optionD": "His retirement pension was embezzled",
+          "correctOption": "B",
+          "explanation": "Chapter 2 reveals that Bepo is heartbroken over his decision to leave Stardom Schools and relocate to the UK."
+        },
+        {
+          "id": "q_lekki_2_1795388813312_22",
+          "question": "Who are the members of Bepo's immediate family already living in the United Kingdom?",
+          "optionA": "His wife Seri and their two children, Nike and Kike",
+          "optionB": "His wife Grace and their son Tosh",
+          "optionC": "His sister Sola and her husband Ibe",
+          "optionD": "His mother and two brothers",
+          "correctOption": "A",
+          "explanation": "Bepo's wife, Seri, along with their two children, Nike and Kike, are already settled in the UK and pressuring him to join them."
+        },
+        {
+          "id": "q_lekki_2_1795388813312_23",
+          "question": "For how long had Bepo worked at Stardom Schools before deciding to relocate?",
+          "optionA": "Over 10 years",
+          "optionB": "Over 20 years",
+          "optionC": "Exactly 5 years",
+          "optionD": "35 years",
+          "correctOption": "B",
+          "explanation": "Bepo had dedicated over 20 years (24 years by his farewell) to building Stardom Schools, making departure deeply painful."
+        },
+        {
+          "id": "q_lekki_2_1795388813312_24",
+          "question": "How do Bepo's colleagues react when they learn he is sad about relocating to the UK?",
+          "optionA": "They beg him not to abandon the students",
+          "optionB": "They think he is foolish to grieve over what they consider a \"golden opportunity\"",
+          "optionC": "They report him to the Managing Director for disloyalty",
+          "optionD": "They immediately apply to take over his position",
+          "correctOption": "B",
+          "explanation": "Most colleagues view relocation to the UK as a dream come true and cannot understand why Bepo is mourning it."
+        },
+        {
+          "id": "q_lekki_2_1795388813312_25",
+          "question": "What economic comparison do people around Bepo make to justify his move to the UK?",
+          "optionA": "Comparing Lagos traffic to London underground trains",
+          "optionB": "Comparing his Nigerian Naira salary to what he could earn in British pounds",
+          "optionC": "Comparing Nigerian weather to British winter",
+          "optionD": "Comparing school fees in Lekki to Oxford University",
+          "correctOption": "B",
+          "explanation": "People emphasize the exchange-rate gap, arguing that earning in pounds in the UK far outweighs his Nigerian salary."
+        },
+        {
+          "id": "q_lekki_2_1795388813312_26",
+          "question": "What had been Bepo's original retirement plan before Seri pressured him to relocate?",
+          "optionA": "To enter partisan politics in Lagos State",
+          "optionB": "To start his own transport or private school business in Nigeria",
+          "optionC": "To become a full-time pastor",
+          "optionD": "To relocate to Canada as a lecturer",
+          "correctOption": "B",
+          "explanation": "Bepo had envisioned retiring in Nigeria and establishing either a transport business or his own private school."
+        },
+        {
+          "id": "q_lekki_2_1795388813312_27",
+          "question": "What role does Seri play in Bepo's decision to relocate in Chapter 2?",
+          "optionA": "She advises him to stay in Nigeria until retirement",
+          "optionB": "She persistently pressures him to join her and the children in the UK",
+          "optionC": "She threatens to return to Nigeria if he does not resign",
+          "optionD": "She refuses to send him travel documents",
+          "correctOption": "B",
+          "explanation": "Seri wants the family reunited in the UK and continually urges Bepo to leave his job in Lagos."
+        },
+        {
+          "id": "q_lekki_2_1795388813312_28",
+          "question": "What internal conflict defines Bepo in Chapter 2?",
+          "optionA": "Choosing between two private schools in Lekki",
+          "optionB": "Duty to his family abroad versus love for his vocation, students, and homeland",
+          "optionC": "Fear of flying versus fear of losing his pension",
+          "optionD": "Loyalty to Mr. Fafore versus loyalty to Mrs. Gloss",
+          "correctOption": "B",
+          "explanation": "Bepo is torn between fulfilling his wife's wish for family reunification in the UK and abandoning the school community he loves."
+        },
+        {
+          "id": "q_lekki_2_1795388813312_29",
+          "question": "Why does the chapter bear the title \"The Enticement\"?",
+          "optionA": "Bepo is offered a huge bribe by a parent",
+          "optionB": "The allure of earning British pounds and joining his family in the UK pulls Bepo away from his true passion",
+          "optionC": "The MD offers Bepo a brand-new SUV to stay",
+          "optionD": "A rival school tries to poach Bepo with double pay",
+          "correctOption": "B",
+          "explanation": "\"The Enticement\" refers to the powerful pull of foreign currency, UK residency, and family pressure tempting Bepo away from his calling."
+        }
+      ]
     },
     {
       "chapterNumber": 3,
       "title": "Migration Tales",
       "summary": "Bepo starts researching what life is like for Nigerians who have moved abroad.   \n\nHe learns about hourly wages in the UK, USA and Canada, and how much people can earn compared to Nigeria.   \n\nHe hears stories of Nigerians selling everything to relocate.   Some borrowing money and never paying back.   And even people who stole to fund their travel.   \n\nHis former colleague (Sola) who now lives in the UK, tells him about her experience — the good side like free healthcare and schools, and the opposite like low-paying jobs and expensive rent.   \n\nNot every migration story is a success; some people abroad struggle badly",
       "highYieldPoints": [],
-      "quiz": []
+      "quiz": [
+        {
+          "id": "q_lekki_3_1795388813312_30",
+          "question": "How does Bepo view his work at Stardom Schools compared to how his peers view it?",
+          "optionA": "As a temporary stepping stone before leaving Nigeria",
+          "optionB": "As a lifelong calling and family rather than a mere paycheck",
+          "optionC": "As an ungrateful burden imposed by Mrs. Gloss",
+          "optionD": "As a failed career that kept him in poverty",
+          "correctOption": "B",
+          "explanation": "While colleagues measure success by foreign currency, Bepo values impact, relationships, and his bond with his students. Chapter 3"
+        },
+        {
+          "id": "q_lekki_3_1795388813312_31",
+          "question": "What action does Bepo take in Chapter 3 after deciding to relocate to the UK?",
+          "optionA": "He immediately resigns without notice",
+          "optionB": "He researches the realities of life for Nigerians living abroad",
+          "optionC": "He sells his house in Lekki to Mr. Guta",
+          "optionD": "He enrolls in a nursing school in Ibadan",
+          "correctOption": "B",
+          "explanation": "Bepo begins investigating what daily life, wages, and living conditions are truly like for Nigerian immigrants abroad."
+        },
+        {
+          "id": "q_lekki_3_1795388813312_32",
+          "question": "Which three destination countries does Bepo examine while researching hourly wages abroad?",
+          "optionA": "UK, USA, and Canada",
+          "optionB": "Germany, France, and Spain",
+          "optionC": "Australia, South Africa, and Ghana",
+          "optionD": "UK, Ireland, and Dubai",
+          "correctOption": "A",
+          "explanation": "Bepo compares hourly wages and earning potential in the UK, USA, and Canada against salaries in Nigeria."
+        },
+        {
+          "id": "q_lekki_3_1795388813312_33",
+          "question": "What extreme measures does Bepo learn some Nigerians take to fund their relocation (\"japa\")?",
+          "optionA": "Selling all their possessions, borrowing without repaying, and even stealing",
+          "optionB": "Winning government scholarships and sports lotteries",
+          "optionC": "Working as diplomats for the Ministry of Foreign Affairs",
+          "optionD": "Farming cocoa and exporting timber",
+          "correctOption": "A",
+          "explanation": "Bepo hears disturbing accounts of people liquidating everything, defaulting on loans, and committing theft just to finance travel abroad."
+        },
+        {
+          "id": "q_lekki_3_1795388813312_34",
+          "question": "Who is Sola in Chapter 3, and how is she connected to Bepo?",
+          "optionA": "Bepo's elder sister living in Manchester",
+          "optionB": "Bepo's former colleague at Stardom Schools who relocated to the UK",
+          "optionC": "A travel agent at the Ibadan passport office",
+          "optionD": "The mother of a Stardom Schools prefect",
+          "correctOption": "B",
+          "explanation": "Sola is a former colleague of Bepo's who moved to the UK and shares her firsthand immigrant experience with him."
+        },
+        {
+          "id": "q_lekki_3_1795388813312_35",
+          "question": "According to Sola's account in Chapter 3, what are the major benefits of living in the UK?",
+          "optionA": "High-paying executive jobs and cheap housing",
+          "optionB": "Free healthcare and free public schooling for children",
+          "optionC": "Zero taxes and warm weather year-round",
+          "optionD": "Easy promotion for Nigerian teachers",
+          "correctOption": "B",
+          "explanation": "Sola highlights social benefits such as access to free healthcare (NHS) and free schooling for children."
+        },
+        {
+          "id": "q_lekki_3_1795388813312_36",
+          "question": "What harsh realities of UK life does Sola warn Bepo about?",
+          "optionA": "Constant civil unrest and lack of electricity",
+          "optionB": "Low-paying menial jobs and very expensive house rent",
+          "optionC": "Inability to speak English with locals",
+          "optionD": "Ban on Nigerians owning bank accounts",
+          "correctOption": "B",
+          "explanation": "Sola balances the positive aspects with the truth about high rent costs and immigrants often settling for low-paying jobs."
+        },
+        {
+          "id": "q_lekki_3_1795388813312_37",
+          "question": "What key lesson does Bepo draw from the migration stories he gathers in Chapter 3?",
+          "optionA": "Every Nigerian who travels abroad becomes wealthy within a year",
+          "optionB": "Not every migration story is a success; many people struggle severely abroad",
+          "optionC": "Canada is the only country where Nigerians succeed",
+          "optionD": "Only single people should relocate abroad",
+          "correctOption": "B",
+          "explanation": "Bepo realizes that the \"japa\" dream is often romanticized and that many migrants endure quiet hardship and downward social mobility."
+        },
+        {
+          "id": "q_lekki_3_1795388813312_38",
+          "question": "How does Chapter 3 contribute to the overall message of The Lekki Headmaster?",
+          "optionA": "It proves that staying in Nigeria is impossible",
+          "optionB": "It presents a balanced, realistic view of emigration rather than one-sided hype",
+          "optionC": "It encourages teachers to borrow money from school cooperatives to travel",
+          "optionD": "It shows that Sola regrets having children",
+          "correctOption": "B",
+          "explanation": "Through Sola's balanced testimony and stories of desperate migrants, the chapter exposes both the pros and the hidden costs of relocation."
+        },
+        {
+          "id": "q_lekki_3_1795388813312_39",
+          "question": "Why do many Nigerians in Bepo's findings borrow money without paying back when relocating?",
+          "optionA": "Foreign banks cancel all Nigerian debts upon arrival",
+          "optionB": "They view relocation as a desperate escape and burn bridges behind them",
+          "optionC": "The Nigerian government pays off migrants' loans",
+          "optionD": "Their employers in London settle their local debts",
+          "correctOption": "B",
+          "explanation": "Desperation to leave at any cost leads some migrants to borrow recklessly with no intention or capacity to repay."
+        },
+        {
+          "id": "q_lekki_3_1795388813312_40",
+          "question": "What contrast does Sola's experience illustrate for Bepo?",
+          "optionA": "The contrast between public and private schools in Lekki",
+          "optionB": "The gap between glamorous social-media perceptions of abroad and actual day-to-day survival",
+          "optionC": "The difference between Nigerian and British wedding customs",
+          "optionD": "The rivalry between Lagos and Abuja landlords",
+          "correctOption": "B",
+          "explanation": "Sola's candid account strips away the illusion of easy wealth abroad, showing Bepo the trade-offs behind relocating."
+        }
+      ]
     },
     {
       "chapterNumber": 4,
@@ -66,7 +378,18 @@
       "title": "Ade as well as Jide — COMES vs. COME",
       "summary": "On the school's Open Day, a parent (Mr. Guta), is angry after reading a note by the English teacher (Mr. Fafore) that says \"Ade as well as Jide comes early.\"   \n\nThe MD believes this is bad grammar and orders that Fafore be sacked immediately, without checking the fact first.   \n\nPrincipal Bepo defends Fafore, explaining that the sentence is actually correct English grammar.   \n\nEveryone checks online and finds that Bepo and Fafore are right, and the MD was wrong.   \n\nThe comic teacher (Mr. Audu) jokes about the matter and helps ease the embarrassment.   \n\nFafore is not sacked after all",
       "highYieldPoints": [],
-      "quiz": []
+      "quiz": [
+        {
+          "id": "q_lekki_6_1795388813312_7",
+          "question": "Which of the following best describes the relationship between Bepo and his colleagues at Stardom Schools?",
+          "optionA": "Hostile and suspicious",
+          "optionB": "Cordial, respectful, and supportive",
+          "optionC": "Strictly formal with zero personal interaction",
+          "optionD": "Competitive and bitter",
+          "correctOption": "B",
+          "explanation": "Staff members—including the Vice Principal, Mr. Fafore, and Mr. Audu—respect Bepo deeply and accompany him to the airport to see him off."
+        }
+      ]
     },
     {
       "chapterNumber": 7,
@@ -87,7 +410,18 @@
       "title": "Laughing Waterfalls",
       "summary": "This chapter describes Stardom Schools' tradition of taking students on excursions around Nigeria.   \n\nOn their trip to Badagry (a town famous for its role in the transatlantic slave trade) students learn about the history of slavery, including the “Point of No Return”, where captured Africans were put on ships and taken away forever.   \n\nWatching this history reminds Bepo of the modern “japa” trend.   And he sadly compares it to a “new form of slavery” — Nigerians rushing to leave their country for hard lives abroad, just as slaves were once forced away long ago.   \n\nSend the remaining screenshots (Chapters 10–12 and the Characters list at the top) whenever you're ready!",
       "highYieldPoints": [],
-      "quiz": []
+      "quiz": [
+        {
+          "id": "q_lekki_9_1795388813312_8",
+          "question": "What recurring historical motif does the author use to critique modern emigration (\"japa\")?",
+          "optionA": "The Nigerian Civil War",
+          "optionB": "The transatlantic slave trade and Badagry's \"Point of No Return\"",
+          "optionC": "The colonial amalgamation of 1914",
+          "optionD": "The trans-Saharan gold trade",
+          "correctOption": "B",
+          "explanation": "Through the Badagry excursion and Bepo's nightmare at the airport, the novel parallels desperate modern migration with the historic slave trade."
+        }
+      ]
     },
     {
       "chapterNumber": 10,
@@ -108,7 +442,776 @@
       "title": "Dawn: Return of the Master",
       "summary": "Bepo prepares to travel to the UK, remembering an earlier time he missed a flight by misreading his ticket.   \n\nThis time, he is very careful.   His landlord's family comes to say goodbye, and his colleagues (the VP, accountant and other teachers) follow him to the airport.   \n\nAt the airport, Bepo checks in and later falls asleep while waiting to board.   \n\nHe has a frightening dream about the slave museum in Badagry, where he sees himself being forced onto a slave ship, and he wakes up screaming \"Nooo!\" just before the flight takes off.   \n\nOn the following Monday, students at Stardom Schools are sad that Bepo is gone — until, suddenly, he appears at the school gate!   \n\nBepo has decided not to leave Nigeria after all.   He tells everyone, \"My heart is here!\" and the students celebrate his return with joy.   ",
       "highYieldPoints": [],
-      "quiz": []
+      "quiz": [
+        {
+          "id": "q_lekki_12_1795388813312_9",
+          "question": "What does Bepo's ultimate decision at the end of the novel suggest about national development?",
+          "optionA": "Everyone should stay in Nigeria regardless of their circumstances",
+          "optionB": "True fulfillment and nation-building require dedicated citizens who choose to invest their talents at home",
+          "optionC": "Foreign education has no value for Nigerians",
+          "optionD": "Private schools pay better than jobs in the United Kingdom",
+          "correctOption": "B",
+          "explanation": "Bepo's return (\"My heart is here!\") underscores the theme of patriotism and finding purpose in building one's home country."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_1_1795380897445",
+      "chapter": 1,
+      "question": "Who is the main protagonist in The Lekki Headmaster?",
+      "options": {
+        "A": "The school principal",
+        "B": "The headmaster",
+        "C": "The teacher",
+        "D": "The student"
+      },
+      "answer": "B",
+      "explanation": "",
+      "optionA": "The school principal",
+      "optionB": "The headmaster",
+      "optionC": "The teacher",
+      "optionD": "The student",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_1_1795380944283",
+      "chapter": 1,
+      "question": "What challenges does the headmaster face in the story?",
+      "options": {
+        "A": "Lack of students to teach",
+        "B": "Resistance from staff",
+        "C": "Overcrowded classrooms",
+        "D": "Financial crisis"
+      },
+      "answer": "B",
+      "explanation": "",
+      "optionA": "Lack of students to teach",
+      "optionB": "Resistance from staff",
+      "optionC": "Overcrowded classrooms",
+      "optionD": "Financial crisis",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_0_1795388813312_1",
+      "chapter": 0,
+      "question": "Who is the author of the JAMB recommended text The Lekki Headmaster?",
+      "options": {
+        "A": "Khadija Abubakar Jalli",
+        "B": "Kabir Alabi Garba",
+        "C": "Chimeka Garricks",
+        "D": "Helon Habila"
+      },
+      "answer": "B",
+      "explanation": "The Lekki Headmaster is written by Kabir Alabi Garba and serves as the compulsory 2027 UTME Use of English literature text.",
+      "optionA": "Khadija Abubakar Jalli",
+      "optionB": "Kabir Alabi Garba",
+      "optionC": "Chimeka Garricks",
+      "optionD": "Helon Habila",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_0_1795388813312_2",
+      "chapter": 0,
+      "question": "What is the primary setting of The Lekki Headmaster?",
+      "options": {
+        "A": "Beesway Group of Schools, Ikeja",
+        "B": "Fruitful Future Academy, Ibadan",
+        "C": "Stardom Schools, Lekki, Lagos",
+        "D": "Royal Crown College, Abuja"
+      },
+      "answer": "C",
+      "explanation": "The central events of the novel revolve around Stardom Schools located in Lekki, Lagos.",
+      "optionA": "Beesway Group of Schools, Ikeja",
+      "optionB": "Fruitful Future Academy, Ibadan",
+      "optionC": "Stardom Schools, Lekki, Lagos",
+      "optionD": "Royal Crown College, Abuja",
+      "correctOption": "C"
+    },
+    {
+      "id": "q_lekki_0_1795388813312_3",
+      "chapter": 0,
+      "question": "What central contemporary Nigerian social issue does The Lekki Headmaster explore?",
+      "options": {
+        "A": "Banditry and rural-urban migration",
+        "B": "The \"japa\" syndrome (emigration of skilled professionals abroad)",
+        "C": "Oil spillage in the Niger Delta",
+        "D": "University cultism and examination malpractice"
+      },
+      "answer": "B",
+      "explanation": "The novel examines the emotional, family, financial, and ethical dilemmas surrounding Nigerians relocating abroad (\"japa\").",
+      "optionA": "Banditry and rural-urban migration",
+      "optionB": "The \"japa\" syndrome (emigration of skilled professionals abroad)",
+      "optionC": "Oil spillage in the Niger Delta",
+      "optionD": "University cultism and examination malpractice",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_0_1795388813312_4",
+      "chapter": 0,
+      "question": "Why is Principal Bepo Adewale popularly known as \"The Lekki Headmaster\"?",
+      "options": {
+        "A": "He is the richest school owner in Lekki",
+        "B": "He has dedicated over two decades of exemplary leadership and service to Stardom Schools in Lekki",
+        "C": "He heads the association of all private schools in Lagos State",
+        "D": "He founded the first secondary school in Lekki"
+      },
+      "answer": "B",
+      "explanation": "Bepo earned the nickname through more than 20 years of passionate service, moral integrity, and devotion to Stardom Schools and its students.",
+      "optionA": "He is the richest school owner in Lekki",
+      "optionB": "He has dedicated over two decades of exemplary leadership and service to Stardom Schools in Lekki",
+      "optionC": "He heads the association of all private schools in Lagos State",
+      "optionD": "He founded the first secondary school in Lekki",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_0_1795388813312_5",
+      "chapter": 0,
+      "question": "What is the symbolic significance of the opening chapter title \"Dusk...\" and the closing chapter title \"...Dawn\"?",
+      "options": {
+        "A": "They mark the beginning and end of a single school term",
+        "B": "\"Dusk\" represents Bepo's sorrowful farewell to his calling, while \"Dawn\" signifies his renewal and decision to remain in Nigeria",
+        "C": "They highlight the poor electricity supply in Lekki",
+        "D": "They refer to the flight departure and arrival times between Lagos and London"
+      },
+      "answer": "B",
+      "explanation": "The book opens at \"Dusk\" with Bepo weeping over leaving his life's work and ends at \"Dawn\" when he returns to Stardom Schools with renewed purpose.",
+      "optionA": "They mark the beginning and end of a single school term",
+      "optionB": "\"Dusk\" represents Bepo's sorrowful farewell to his calling, while \"Dawn\" signifies his renewal and decision to remain in Nigeria",
+      "optionC": "They highlight the poor electricity supply in Lekki",
+      "optionD": "They refer to the flight departure and arrival times between Lagos and London",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_0_1795388813312_6",
+      "chapter": 0,
+      "question": "How is Principal Bepo Adewale primarily characterized throughout the novel?",
+      "options": {
+        "A": "Opportunistic, greedy, and authoritarian",
+        "B": "Indecisive, timid, and easily manipulated",
+        "C": "Principled, empathetic, humorous, and deeply committed to education",
+        "D": "Cynical, detached, and resentful of his employers"
+      },
+      "answer": "C",
+      "explanation": "Bepo consistently demonstrates integrity, humor, deep care for students and staff, and dedication to educational standards.",
+      "optionA": "Opportunistic, greedy, and authoritarian",
+      "optionB": "Indecisive, timid, and easily manipulated",
+      "optionC": "Principled, empathetic, humorous, and deeply committed to education",
+      "optionD": "Cynical, detached, and resentful of his employers",
+      "correctOption": "C"
+    },
+    {
+      "id": "q_lekki_6_1795388813312_7",
+      "chapter": 6,
+      "question": "Which of the following best describes the relationship between Bepo and his colleagues at Stardom Schools?",
+      "options": {
+        "A": "Hostile and suspicious",
+        "B": "Cordial, respectful, and supportive",
+        "C": "Strictly formal with zero personal interaction",
+        "D": "Competitive and bitter"
+      },
+      "answer": "B",
+      "explanation": "Staff members—including the Vice Principal, Mr. Fafore, and Mr. Audu—respect Bepo deeply and accompany him to the airport to see him off.",
+      "optionA": "Hostile and suspicious",
+      "optionB": "Cordial, respectful, and supportive",
+      "optionC": "Strictly formal with zero personal interaction",
+      "optionD": "Competitive and bitter",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_9_1795388813312_8",
+      "chapter": 9,
+      "question": "What recurring historical motif does the author use to critique modern emigration (\"japa\")?",
+      "options": {
+        "A": "The Nigerian Civil War",
+        "B": "The transatlantic slave trade and Badagry's \"Point of No Return\"",
+        "C": "The colonial amalgamation of 1914",
+        "D": "The trans-Saharan gold trade"
+      },
+      "answer": "B",
+      "explanation": "Through the Badagry excursion and Bepo's nightmare at the airport, the novel parallels desperate modern migration with the historic slave trade.",
+      "optionA": "The Nigerian Civil War",
+      "optionB": "The transatlantic slave trade and Badagry's \"Point of No Return\"",
+      "optionC": "The colonial amalgamation of 1914",
+      "optionD": "The trans-Saharan gold trade",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795388813312_9",
+      "chapter": 12,
+      "question": "What does Bepo's ultimate decision at the end of the novel suggest about national development?",
+      "options": {
+        "A": "Everyone should stay in Nigeria regardless of their circumstances",
+        "B": "True fulfillment and nation-building require dedicated citizens who choose to invest their talents at home",
+        "C": "Foreign education has no value for Nigerians",
+        "D": "Private schools pay better than jobs in the United Kingdom"
+      },
+      "answer": "B",
+      "explanation": "Bepo's return (\"My heart is here!\") underscores the theme of patriotism and finding purpose in building one's home country.",
+      "optionA": "Everyone should stay in Nigeria regardless of their circumstances",
+      "optionB": "True fulfillment and nation-building require dedicated citizens who choose to invest their talents at home",
+      "optionC": "Foreign education has no value for Nigerians",
+      "optionD": "Private schools pay better than jobs in the United Kingdom",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_1_1795388813312_10",
+      "chapter": 1,
+      "question": "Which literary device is prominent in the chapter title \"Snake in the Roof\"?",
+      "options": {
+        "A": "Hyperbole",
+        "B": "Metaphor / Idiom",
+        "C": "Onomatopoeia",
+        "D": "Oxymoron"
+      },
+      "answer": "B",
+      "explanation": "\"Snake in the Roof\" is a metaphor/idiom used by the Managing Director to describe a hidden internal threat—the staff cooperative growing beyond management's control. Chapter 1",
+      "optionA": "Hyperbole",
+      "optionB": "Metaphor / Idiom",
+      "optionC": "Onomatopoeia",
+      "optionD": "Oxymoron",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_1_1795388813312_11",
+      "chapter": 1,
+      "question": "Where does Principal Bepo Adewale's sudden emotional breakdown occur in Chapter 1?",
+      "options": {
+        "A": "Inside the Managing Director's boardroom",
+        "B": "On the podium during the morning assembly",
+        "C": "At the Murtala Muhammed International Airport",
+        "D": "During an Open Day meeting with parents"
+      },
+      "answer": "B",
+      "explanation": "At the morning assembly, Bepo walks to the podium looking sad, loses his speech, and begins weeping in front of staff and students.",
+      "optionA": "Inside the Managing Director's boardroom",
+      "optionB": "On the podium during the morning assembly",
+      "optionC": "At the Murtala Muhammed International Airport",
+      "optionD": "During an Open Day meeting with parents",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_1_1795388813312_12",
+      "chapter": 1,
+      "question": "Who is the Vice Principal of Stardom Schools who tries to comfort Bepo during the assembly breakdown?",
+      "options": {
+        "A": "Mrs. Ibidun Gloss",
+        "B": "Mrs. Grace Apeh",
+        "C": "Mrs. Ignatius",
+        "D": "Miss Sola"
+      },
+      "answer": "B",
+      "explanation": "Vice Principal Mrs. Grace Apeh and other staff members step in to find out what is wrong and escort Bepo to his office.",
+      "optionA": "Mrs. Ibidun Gloss",
+      "optionB": "Mrs. Grace Apeh",
+      "optionC": "Mrs. Ignatius",
+      "optionD": "Miss Sola",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_1_1795388813312_13",
+      "chapter": 1,
+      "question": "How does Bepo respond when questioned about why he is crying in his office?",
+      "options": {
+        "A": "He immediately announces his resignation to the staff",
+        "B": "He blames the Managing Director for overworking him",
+        "C": "He refuses to explain and repeatedly says, \"I will be all right\"",
+        "D": "He reveals that he has lost a close relative in London"
+      },
+      "answer": "C",
+      "explanation": "Despite persistent questioning from colleagues and management, Bepo keeps his pain private, only repeating, \"I will be all right.\"",
+      "optionA": "He immediately announces his resignation to the staff",
+      "optionB": "He blames the Managing Director for overworking him",
+      "optionC": "He refuses to explain and repeatedly says, \"I will be all right\"",
+      "optionD": "He reveals that he has lost a close relative in London",
+      "correctOption": "C"
+    },
+    {
+      "id": "q_lekki_1_1795388813312_14",
+      "chapter": 1,
+      "question": "Who is the Managing Director (MD) of Stardom Schools summoned to the school after Bepo's breakdown?",
+      "options": {
+        "A": "Mrs. Grace Apeh",
+        "B": "Mrs. Ibidun Gloss",
+        "C": "Mrs. Seri Adewale",
+        "D": "Mrs. Ignatius"
+      },
+      "answer": "B",
+      "explanation": "News of Bepo's unusual weeping reaches parents and prompts the Managing Director, Mrs. Ibidun Gloss, to come to the school.",
+      "optionA": "Mrs. Grace Apeh",
+      "optionB": "Mrs. Ibidun Gloss",
+      "optionC": "Mrs. Seri Adewale",
+      "optionD": "Mrs. Ignatius",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_1_1795388813312_15",
+      "chapter": 1,
+      "question": "Which staff member, described as a pastor-teacher, is invited to counsel Bepo in Chapter 1?",
+      "options": {
+        "A": "Mr. Audu",
+        "B": "Mr. Fafore",
+        "C": "Mr. Ope Wonde",
+        "D": "Mr. Guta"
+      },
+      "answer": "C",
+      "explanation": "Mr. Ope Wonde, a pastor-teacher at Stardom Schools, is brought in to speak with Bepo, though Bepo still does not disclose his problem.",
+      "optionA": "Mr. Audu",
+      "optionB": "Mr. Fafore",
+      "optionC": "Mr. Ope Wonde",
+      "optionD": "Mr. Guta",
+      "correctOption": "C"
+    },
+    {
+      "id": "q_lekki_1_1795388813312_16",
+      "chapter": 1,
+      "question": "What crucial clue about Bepo's personal life does the Managing Director later uncover in Chapter 1?",
+      "options": {
+        "A": "Bepo has secretly bought a rival school in Lekki",
+        "B": "Bepo's wife now lives in London",
+        "C": "Bepo is facing bankruptcy from a failed transport business",
+        "D": "Bepo has been offered a job at Beesway Group of Schools"
+      },
+      "answer": "B",
+      "explanation": "Mrs. Ibidun Gloss eventually learns that Bepo's wife has relocated to London, hinting at the source of his distress.",
+      "optionA": "Bepo has secretly bought a rival school in Lekki",
+      "optionB": "Bepo's wife now lives in London",
+      "optionC": "Bepo is facing bankruptcy from a failed transport business",
+      "optionD": "Bepo has been offered a job at Beesway Group of Schools",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_1_1795388813312_17",
+      "chapter": 1,
+      "question": "What action does the school management take at the end of Chapter 1 regarding Bepo?",
+      "options": {
+        "A": "They suspend him for disrupting the assembly",
+        "B": "They ask him to go home and rest",
+        "C": "They immediately appoint Mrs. Grace Apeh as substantive principal",
+        "D": "They organize an emergency PTA meeting"
+      },
+      "answer": "B",
+      "explanation": "Out of concern for his emotional state, Bepo is asked to go home for the day to rest.",
+      "optionA": "They suspend him for disrupting the assembly",
+      "optionB": "They ask him to go home and rest",
+      "optionC": "They immediately appoint Mrs. Grace Apeh as substantive principal",
+      "optionD": "They organize an emergency PTA meeting",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_1_1795388813312_18",
+      "chapter": 1,
+      "question": "Why does Bepo's crying at assembly shock the Stardom Schools community so deeply?",
+      "options": {
+        "A": "He had never missed a single day of school in thirty years",
+        "B": "He is normally cheerful, composed, and energetic at morning assemblies",
+        "C": "He had just won a national teacher award the previous day",
+        "D": "Students had never seen a male principal before"
+      },
+      "answer": "B",
+      "explanation": "Bepo's sudden silence and tears starkly contrast with his usual lively and inspiring presence on the assembly podium.",
+      "optionA": "He had never missed a single day of school in thirty years",
+      "optionB": "He is normally cheerful, composed, and energetic at morning assemblies",
+      "optionC": "He had just won a national teacher award the previous day",
+      "optionD": "Students had never seen a male principal before",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_1_1795388813312_19",
+      "chapter": 1,
+      "question": "How did news of Bepo's breakdown spread beyond the school compound in Chapter 1?",
+      "options": {
+        "A": "Through a live television broadcast",
+        "B": "Through students and bystanders who informed some parents",
+        "C": "Through an official press release from the MD",
+        "D": "Through a post on the school's website"
+      },
+      "answer": "B",
+      "explanation": "Word of the principal's unexplained weeping quickly reached several parents, escalating concern and bringing the MD to the school.",
+      "optionA": "Through a live television broadcast",
+      "optionB": "Through students and bystanders who informed some parents",
+      "optionC": "Through an official press release from the MD",
+      "optionD": "Through a post on the school's website",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_2_1795388813312_20",
+      "chapter": 2,
+      "question": "What narrative technique does the author use in Chapter 1 by withholding the reason for Bepo's tears?",
+      "options": {
+        "A": "Flashback",
+        "B": "Suspense",
+        "C": "Foreshadowing through prophecy",
+        "D": "Dramatic monologue"
+      },
+      "answer": "B",
+      "explanation": "Keeping the cause of Bepo's tears hidden until Chapter 2 builds suspense and draws the reader into his internal conflict. Chapter 2",
+      "optionA": "Flashback",
+      "optionB": "Suspense",
+      "optionC": "Foreshadowing through prophecy",
+      "optionD": "Dramatic monologue",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_2_1795388813312_21",
+      "chapter": 2,
+      "question": "What is the real reason behind Principal Bepo's tears in Chapter 1, as revealed in Chapter 2?",
+      "options": {
+        "A": "He has been diagnosed with a terminal illness",
+        "B": "He has reluctantly decided to relocate (\"japa\") to the United Kingdom",
+        "C": "The Managing Director has reduced his salary",
+        "D": "His retirement pension was embezzled"
+      },
+      "answer": "B",
+      "explanation": "Chapter 2 reveals that Bepo is heartbroken over his decision to leave Stardom Schools and relocate to the UK.",
+      "optionA": "He has been diagnosed with a terminal illness",
+      "optionB": "He has reluctantly decided to relocate (\"japa\") to the United Kingdom",
+      "optionC": "The Managing Director has reduced his salary",
+      "optionD": "His retirement pension was embezzled",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_2_1795388813312_22",
+      "chapter": 2,
+      "question": "Who are the members of Bepo's immediate family already living in the United Kingdom?",
+      "options": {
+        "A": "His wife Seri and their two children, Nike and Kike",
+        "B": "His wife Grace and their son Tosh",
+        "C": "His sister Sola and her husband Ibe",
+        "D": "His mother and two brothers"
+      },
+      "answer": "A",
+      "explanation": "Bepo's wife, Seri, along with their two children, Nike and Kike, are already settled in the UK and pressuring him to join them.",
+      "optionA": "His wife Seri and their two children, Nike and Kike",
+      "optionB": "His wife Grace and their son Tosh",
+      "optionC": "His sister Sola and her husband Ibe",
+      "optionD": "His mother and two brothers",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_2_1795388813312_23",
+      "chapter": 2,
+      "question": "For how long had Bepo worked at Stardom Schools before deciding to relocate?",
+      "options": {
+        "A": "Over 10 years",
+        "B": "Over 20 years",
+        "C": "Exactly 5 years",
+        "D": "35 years"
+      },
+      "answer": "B",
+      "explanation": "Bepo had dedicated over 20 years (24 years by his farewell) to building Stardom Schools, making departure deeply painful.",
+      "optionA": "Over 10 years",
+      "optionB": "Over 20 years",
+      "optionC": "Exactly 5 years",
+      "optionD": "35 years",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_2_1795388813312_24",
+      "chapter": 2,
+      "question": "How do Bepo's colleagues react when they learn he is sad about relocating to the UK?",
+      "options": {
+        "A": "They beg him not to abandon the students",
+        "B": "They think he is foolish to grieve over what they consider a \"golden opportunity\"",
+        "C": "They report him to the Managing Director for disloyalty",
+        "D": "They immediately apply to take over his position"
+      },
+      "answer": "B",
+      "explanation": "Most colleagues view relocation to the UK as a dream come true and cannot understand why Bepo is mourning it.",
+      "optionA": "They beg him not to abandon the students",
+      "optionB": "They think he is foolish to grieve over what they consider a \"golden opportunity\"",
+      "optionC": "They report him to the Managing Director for disloyalty",
+      "optionD": "They immediately apply to take over his position",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_2_1795388813312_25",
+      "chapter": 2,
+      "question": "What economic comparison do people around Bepo make to justify his move to the UK?",
+      "options": {
+        "A": "Comparing Lagos traffic to London underground trains",
+        "B": "Comparing his Nigerian Naira salary to what he could earn in British pounds",
+        "C": "Comparing Nigerian weather to British winter",
+        "D": "Comparing school fees in Lekki to Oxford University"
+      },
+      "answer": "B",
+      "explanation": "People emphasize the exchange-rate gap, arguing that earning in pounds in the UK far outweighs his Nigerian salary.",
+      "optionA": "Comparing Lagos traffic to London underground trains",
+      "optionB": "Comparing his Nigerian Naira salary to what he could earn in British pounds",
+      "optionC": "Comparing Nigerian weather to British winter",
+      "optionD": "Comparing school fees in Lekki to Oxford University",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_2_1795388813312_26",
+      "chapter": 2,
+      "question": "What had been Bepo's original retirement plan before Seri pressured him to relocate?",
+      "options": {
+        "A": "To enter partisan politics in Lagos State",
+        "B": "To start his own transport or private school business in Nigeria",
+        "C": "To become a full-time pastor",
+        "D": "To relocate to Canada as a lecturer"
+      },
+      "answer": "B",
+      "explanation": "Bepo had envisioned retiring in Nigeria and establishing either a transport business or his own private school.",
+      "optionA": "To enter partisan politics in Lagos State",
+      "optionB": "To start his own transport or private school business in Nigeria",
+      "optionC": "To become a full-time pastor",
+      "optionD": "To relocate to Canada as a lecturer",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_2_1795388813312_27",
+      "chapter": 2,
+      "question": "What role does Seri play in Bepo's decision to relocate in Chapter 2?",
+      "options": {
+        "A": "She advises him to stay in Nigeria until retirement",
+        "B": "She persistently pressures him to join her and the children in the UK",
+        "C": "She threatens to return to Nigeria if he does not resign",
+        "D": "She refuses to send him travel documents"
+      },
+      "answer": "B",
+      "explanation": "Seri wants the family reunited in the UK and continually urges Bepo to leave his job in Lagos.",
+      "optionA": "She advises him to stay in Nigeria until retirement",
+      "optionB": "She persistently pressures him to join her and the children in the UK",
+      "optionC": "She threatens to return to Nigeria if he does not resign",
+      "optionD": "She refuses to send him travel documents",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_2_1795388813312_28",
+      "chapter": 2,
+      "question": "What internal conflict defines Bepo in Chapter 2?",
+      "options": {
+        "A": "Choosing between two private schools in Lekki",
+        "B": "Duty to his family abroad versus love for his vocation, students, and homeland",
+        "C": "Fear of flying versus fear of losing his pension",
+        "D": "Loyalty to Mr. Fafore versus loyalty to Mrs. Gloss"
+      },
+      "answer": "B",
+      "explanation": "Bepo is torn between fulfilling his wife's wish for family reunification in the UK and abandoning the school community he loves.",
+      "optionA": "Choosing between two private schools in Lekki",
+      "optionB": "Duty to his family abroad versus love for his vocation, students, and homeland",
+      "optionC": "Fear of flying versus fear of losing his pension",
+      "optionD": "Loyalty to Mr. Fafore versus loyalty to Mrs. Gloss",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_2_1795388813312_29",
+      "chapter": 2,
+      "question": "Why does the chapter bear the title \"The Enticement\"?",
+      "options": {
+        "A": "Bepo is offered a huge bribe by a parent",
+        "B": "The allure of earning British pounds and joining his family in the UK pulls Bepo away from his true passion",
+        "C": "The MD offers Bepo a brand-new SUV to stay",
+        "D": "A rival school tries to poach Bepo with double pay"
+      },
+      "answer": "B",
+      "explanation": "\"The Enticement\" refers to the powerful pull of foreign currency, UK residency, and family pressure tempting Bepo away from his calling.",
+      "optionA": "Bepo is offered a huge bribe by a parent",
+      "optionB": "The allure of earning British pounds and joining his family in the UK pulls Bepo away from his true passion",
+      "optionC": "The MD offers Bepo a brand-new SUV to stay",
+      "optionD": "A rival school tries to poach Bepo with double pay",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_3_1795388813312_30",
+      "chapter": 3,
+      "question": "How does Bepo view his work at Stardom Schools compared to how his peers view it?",
+      "options": {
+        "A": "As a temporary stepping stone before leaving Nigeria",
+        "B": "As a lifelong calling and family rather than a mere paycheck",
+        "C": "As an ungrateful burden imposed by Mrs. Gloss",
+        "D": "As a failed career that kept him in poverty"
+      },
+      "answer": "B",
+      "explanation": "While colleagues measure success by foreign currency, Bepo values impact, relationships, and his bond with his students. Chapter 3",
+      "optionA": "As a temporary stepping stone before leaving Nigeria",
+      "optionB": "As a lifelong calling and family rather than a mere paycheck",
+      "optionC": "As an ungrateful burden imposed by Mrs. Gloss",
+      "optionD": "As a failed career that kept him in poverty",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_3_1795388813312_31",
+      "chapter": 3,
+      "question": "What action does Bepo take in Chapter 3 after deciding to relocate to the UK?",
+      "options": {
+        "A": "He immediately resigns without notice",
+        "B": "He researches the realities of life for Nigerians living abroad",
+        "C": "He sells his house in Lekki to Mr. Guta",
+        "D": "He enrolls in a nursing school in Ibadan"
+      },
+      "answer": "B",
+      "explanation": "Bepo begins investigating what daily life, wages, and living conditions are truly like for Nigerian immigrants abroad.",
+      "optionA": "He immediately resigns without notice",
+      "optionB": "He researches the realities of life for Nigerians living abroad",
+      "optionC": "He sells his house in Lekki to Mr. Guta",
+      "optionD": "He enrolls in a nursing school in Ibadan",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_3_1795388813312_32",
+      "chapter": 3,
+      "question": "Which three destination countries does Bepo examine while researching hourly wages abroad?",
+      "options": {
+        "A": "UK, USA, and Canada",
+        "B": "Germany, France, and Spain",
+        "C": "Australia, South Africa, and Ghana",
+        "D": "UK, Ireland, and Dubai"
+      },
+      "answer": "A",
+      "explanation": "Bepo compares hourly wages and earning potential in the UK, USA, and Canada against salaries in Nigeria.",
+      "optionA": "UK, USA, and Canada",
+      "optionB": "Germany, France, and Spain",
+      "optionC": "Australia, South Africa, and Ghana",
+      "optionD": "UK, Ireland, and Dubai",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_3_1795388813312_33",
+      "chapter": 3,
+      "question": "What extreme measures does Bepo learn some Nigerians take to fund their relocation (\"japa\")?",
+      "options": {
+        "A": "Selling all their possessions, borrowing without repaying, and even stealing",
+        "B": "Winning government scholarships and sports lotteries",
+        "C": "Working as diplomats for the Ministry of Foreign Affairs",
+        "D": "Farming cocoa and exporting timber"
+      },
+      "answer": "A",
+      "explanation": "Bepo hears disturbing accounts of people liquidating everything, defaulting on loans, and committing theft just to finance travel abroad.",
+      "optionA": "Selling all their possessions, borrowing without repaying, and even stealing",
+      "optionB": "Winning government scholarships and sports lotteries",
+      "optionC": "Working as diplomats for the Ministry of Foreign Affairs",
+      "optionD": "Farming cocoa and exporting timber",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_3_1795388813312_34",
+      "chapter": 3,
+      "question": "Who is Sola in Chapter 3, and how is she connected to Bepo?",
+      "options": {
+        "A": "Bepo's elder sister living in Manchester",
+        "B": "Bepo's former colleague at Stardom Schools who relocated to the UK",
+        "C": "A travel agent at the Ibadan passport office",
+        "D": "The mother of a Stardom Schools prefect"
+      },
+      "answer": "B",
+      "explanation": "Sola is a former colleague of Bepo's who moved to the UK and shares her firsthand immigrant experience with him.",
+      "optionA": "Bepo's elder sister living in Manchester",
+      "optionB": "Bepo's former colleague at Stardom Schools who relocated to the UK",
+      "optionC": "A travel agent at the Ibadan passport office",
+      "optionD": "The mother of a Stardom Schools prefect",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_3_1795388813312_35",
+      "chapter": 3,
+      "question": "According to Sola's account in Chapter 3, what are the major benefits of living in the UK?",
+      "options": {
+        "A": "High-paying executive jobs and cheap housing",
+        "B": "Free healthcare and free public schooling for children",
+        "C": "Zero taxes and warm weather year-round",
+        "D": "Easy promotion for Nigerian teachers"
+      },
+      "answer": "B",
+      "explanation": "Sola highlights social benefits such as access to free healthcare (NHS) and free schooling for children.",
+      "optionA": "High-paying executive jobs and cheap housing",
+      "optionB": "Free healthcare and free public schooling for children",
+      "optionC": "Zero taxes and warm weather year-round",
+      "optionD": "Easy promotion for Nigerian teachers",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_3_1795388813312_36",
+      "chapter": 3,
+      "question": "What harsh realities of UK life does Sola warn Bepo about?",
+      "options": {
+        "A": "Constant civil unrest and lack of electricity",
+        "B": "Low-paying menial jobs and very expensive house rent",
+        "C": "Inability to speak English with locals",
+        "D": "Ban on Nigerians owning bank accounts"
+      },
+      "answer": "B",
+      "explanation": "Sola balances the positive aspects with the truth about high rent costs and immigrants often settling for low-paying jobs.",
+      "optionA": "Constant civil unrest and lack of electricity",
+      "optionB": "Low-paying menial jobs and very expensive house rent",
+      "optionC": "Inability to speak English with locals",
+      "optionD": "Ban on Nigerians owning bank accounts",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_3_1795388813312_37",
+      "chapter": 3,
+      "question": "What key lesson does Bepo draw from the migration stories he gathers in Chapter 3?",
+      "options": {
+        "A": "Every Nigerian who travels abroad becomes wealthy within a year",
+        "B": "Not every migration story is a success; many people struggle severely abroad",
+        "C": "Canada is the only country where Nigerians succeed",
+        "D": "Only single people should relocate abroad"
+      },
+      "answer": "B",
+      "explanation": "Bepo realizes that the \"japa\" dream is often romanticized and that many migrants endure quiet hardship and downward social mobility.",
+      "optionA": "Every Nigerian who travels abroad becomes wealthy within a year",
+      "optionB": "Not every migration story is a success; many people struggle severely abroad",
+      "optionC": "Canada is the only country where Nigerians succeed",
+      "optionD": "Only single people should relocate abroad",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_3_1795388813312_38",
+      "chapter": 3,
+      "question": "How does Chapter 3 contribute to the overall message of The Lekki Headmaster?",
+      "options": {
+        "A": "It proves that staying in Nigeria is impossible",
+        "B": "It presents a balanced, realistic view of emigration rather than one-sided hype",
+        "C": "It encourages teachers to borrow money from school cooperatives to travel",
+        "D": "It shows that Sola regrets having children"
+      },
+      "answer": "B",
+      "explanation": "Through Sola's balanced testimony and stories of desperate migrants, the chapter exposes both the pros and the hidden costs of relocation.",
+      "optionA": "It proves that staying in Nigeria is impossible",
+      "optionB": "It presents a balanced, realistic view of emigration rather than one-sided hype",
+      "optionC": "It encourages teachers to borrow money from school cooperatives to travel",
+      "optionD": "It shows that Sola regrets having children",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_3_1795388813312_39",
+      "chapter": 3,
+      "question": "Why do many Nigerians in Bepo's findings borrow money without paying back when relocating?",
+      "options": {
+        "A": "Foreign banks cancel all Nigerian debts upon arrival",
+        "B": "They view relocation as a desperate escape and burn bridges behind them",
+        "C": "The Nigerian government pays off migrants' loans",
+        "D": "Their employers in London settle their local debts"
+      },
+      "answer": "B",
+      "explanation": "Desperation to leave at any cost leads some migrants to borrow recklessly with no intention or capacity to repay.",
+      "optionA": "Foreign banks cancel all Nigerian debts upon arrival",
+      "optionB": "They view relocation as a desperate escape and burn bridges behind them",
+      "optionC": "The Nigerian government pays off migrants' loans",
+      "optionD": "Their employers in London settle their local debts",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_3_1795388813312_40",
+      "chapter": 3,
+      "question": "What contrast does Sola's experience illustrate for Bepo?",
+      "options": {
+        "A": "The contrast between public and private schools in Lekki",
+        "B": "The gap between glamorous social-media perceptions of abroad and actual day-to-day survival",
+        "C": "The difference between Nigerian and British wedding customs",
+        "D": "The rivalry between Lagos and Abuja landlords"
+      },
+      "answer": "B",
+      "explanation": "Sola's candid account strips away the illusion of easy wealth abroad, showing Bepo the trade-offs behind relocating.",
+      "optionA": "The contrast between public and private schools in Lekki",
+      "optionB": "The gap between glamorous social-media perceptions of abroad and actual day-to-day survival",
+      "optionC": "The difference between Nigerian and British wedding customs",
+      "optionD": "The rivalry between Lagos and Abuja landlords",
+      "correctOption": "B"
     }
   ],
   "characters": [
@@ -161,5 +1264,12 @@
       "significance": "The catalysts of Bepo’s crisis. Living abroad in the UK, they view remaining in Nigeria as foolishness and relentlessly urge him to abandon Stardom Schools for Western opportunities."
     }
   ],
-  "updatedAt": "2026-11-22T21:02:33.403Z"
+  "themes": [
+    "The \"Japa\" Syndrome & Brain Drain vs. Patriotism",
+    "Mental Health, Burnout & Administrative Vulnerability in Educational Leadership",
+    "Economic Realities, Inflation & the Plight of the Nigerian Educator",
+    "Student Empowerment, Moral Mentorship & Institutional Legacy",
+    "Faith, Hope and Ethical Integrity in Contemporary Nigeria"
+  ],
+  "updatedAt": "2026-11-22T23:07:48.349Z"
 }
