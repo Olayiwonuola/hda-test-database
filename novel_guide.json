@@ -10,7 +10,28 @@
       "title": "Dusk: The Morning Assembly Breakdown",
       "summary": "At the morning assembly, Principal Bepo Adewale suddenly cannot talk.   \n\nHe walks to the podium looking sad and starts to cry in front of everyone.   \n\nThe Vice Principal (Mrs. Grace Apeh) and other staff try to find out what is wrong, but Bepo does not say anything.   \n\nHe is taken to his office, still weeping.   News of his strange behaviour reaches some parents and the Managing Director (MD), Mrs. Ibidun Gloss, is called to the school.   \n\nShe questions Bepo, but he only keeps saying, \"I will be all right.\"   Even a pastor-teacher (Mr. Ope Wonde) is invited to talk to him too, but Bepo still will not explain his problem.   \n\nThe MD later learns that Bepo's wife now lives in London.   In the end, Bepo is asked to go home to rest.  ",
       "highYieldPoints": [],
-      "quiz": []
+      "quiz": [
+        {
+          "id": "q_1_1795380897445",
+          "question": "Who is the main protagonist in The Lekki Headmaster?",
+          "optionA": "The school principal",
+          "optionB": "The headmaster",
+          "optionC": "The teacher",
+          "optionD": "The student",
+          "correctOption": "B",
+          "explanation": ""
+        },
+        {
+          "id": "q_1_1795380944283",
+          "question": "What challenges does the headmaster face in the story?",
+          "optionA": "Lack of students to teach",
+          "optionB": "Resistance from staff",
+          "optionC": "Overcrowded classrooms",
+          "optionD": "Financial crisis",
+          "correctOption": "B",
+          "explanation": ""
+        }
+      ]
     },
     {
       "chapterNumber": 2,
@@ -140,5 +161,5 @@
       "significance": "The catalysts of Bepo’s crisis. Living abroad in the UK, they view remaining in Nigeria as foolishness and relentlessly urge him to abandon Stardom Schools for Western opportunities."
     }
   ],
-  "updatedAt": "2026-11-22T20:22:23.572Z"
+  "updatedAt": "2026-11-22T21:02:33.403Z"
 }
