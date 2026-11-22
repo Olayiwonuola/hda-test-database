@@ -82,8 +82,7 @@
           "content": "",
           "quiz": [],
           "question_tags": [
-            "sets",
-            "venn-diagrams"
+            "sets"
           ],
           "keywords": [
             "empty set",
@@ -91,8 +90,7 @@
             "complement",
             "subsets",
             "disjoint sets",
-            "cardinality",
-            "Venn diagram"
+            "cardinality"
           ],
           "sortOrder": 3
         }
@@ -498,6 +496,25 @@
             "independent events"
           ],
           "sortOrder": 4
+        },
+        {
+          "sectionId": "sec_1795348193730_lshwx4",
+          "id": "sec_1795348193730_lshwx4",
+          "title": "Venn Diagram",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "venn-diagram"
+          ],
+          "keywords": [
+            "Venn diagram",
+            "universal set",
+            "at least one subject",
+            "both subjects",
+            "neither",
+            "in a class of"
+          ],
+          "sortOrder": 5
         }
       ]
     }
