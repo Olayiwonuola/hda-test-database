@@ -3,11 +3,1103 @@
   "syllabus": "JAMB",
   "modules": [
     {
-      "moduleId": "phys_mod_1",
-      "id": "phys_mod_1",
-      "title": "Syllabus Topics",
+      "moduleId": "phy_mod_1",
+      "id": "phy_mod_1",
+      "title": "Mechanics and Properties of Matter",
       "sortOrder": 0,
-      "sections": []
+      "sections": [
+        {
+          "sectionId": "phy_1",
+          "id": "phy_1",
+          "title": "1. Measurements and Units",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "measurements",
+            "units",
+            "dimensions",
+            "vernier-calipers",
+            "micrometer-screw-gauge"
+          ],
+          "keywords": [
+            "vernier",
+            "micrometer",
+            "screw gauge",
+            "dimension",
+            "dimensional",
+            "homogeneity",
+            "fundamental quantity",
+            "derived quantity",
+            "significant figures",
+            "standard form",
+            "beam balance",
+            "displacement",
+            "cartesian"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "phy_2",
+          "id": "phy_2",
+          "title": "2. Scalars and Vectors",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "scalars",
+            "vectors",
+            "resultant-vector",
+            "relative-velocity"
+          ],
+          "keywords": [
+            "scalar",
+            "vector",
+            "resultant",
+            "relative velocity",
+            "perpendicular components",
+            "parallelogram law",
+            "triangle of vectors",
+            "resolving"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "phy_3",
+          "id": "phy_3",
+          "title": "3. Motion",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "motion",
+            "linear-motion",
+            "projectiles",
+            "newtons-laws",
+            "momentum",
+            "circular-motion",
+            "shm"
+          ],
+          "keywords": [
+            "velocity",
+            "acceleration",
+            "uniformly accelerated",
+            "under gravity",
+            "projectile",
+            "range",
+            "time of flight",
+            "maximum height",
+            "inertia",
+            "impulse",
+            "momentum",
+            "conservation of linear momentum",
+            "collision",
+            "angular velocity",
+            "centripetal",
+            "centrifugal",
+            "simple harmonic motion",
+            "amplitude",
+            "resonance"
+          ],
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "phy_4",
+          "id": "phy_4",
+          "title": "4. Gravitational Field",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "gravitational-field",
+            "gravitation",
+            "escape-velocity",
+            "satellites"
+          ],
+          "keywords": [
+            "universal gravitation",
+            "gravitational constant",
+            "gravitational potential",
+            "escape velocity",
+            "parking orbit",
+            "geostationary",
+            "weightlessness",
+            "conservative field",
+            "acceleration due to gravity"
+          ],
+          "sortOrder": 3
+        },
+        {
+          "sectionId": "phy_5",
+          "id": "phy_5",
+          "title": "5. Equilibrium of Forces",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "equilibrium",
+            "moments",
+            "couple",
+            "centre-of-gravity",
+            "stability"
+          ],
+          "keywords": [
+            "coplanar forces",
+            "lami",
+            "principle of moments",
+            "moment of a force",
+            "couple",
+            "torque",
+            "equilibrant",
+            "centre of gravity",
+            "stable equilibrium",
+            "unstable equilibrium",
+            "neutral equilibrium"
+          ],
+          "sortOrder": 4
+        },
+        {
+          "sectionId": "phy_6",
+          "id": "phy_6",
+          "title": "6. Work, Energy, Power, and Energy in Society",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "work",
+            "energy",
+            "power",
+            "renewable-energy",
+            "solar-energy",
+            "nuclear-energy"
+          ],
+          "keywords": [
+            "work done",
+            "kinetic energy",
+            "potential energy",
+            "conservation of energy",
+            "power",
+            "watt",
+            "joule",
+            "renewable",
+            "non-renewable",
+            "hydroelectric",
+            "dam",
+            "solar collector",
+            "solar panel",
+            "nuclear energy",
+            "global warming",
+            "greenhouse effect"
+          ],
+          "sortOrder": 5
+        },
+        {
+          "sectionId": "phy_7",
+          "id": "phy_7",
+          "title": "7. Friction",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "friction",
+            "viscosity",
+            "terminal-velocity",
+            "stokes-law"
+          ],
+          "keywords": [
+            "static friction",
+            "dynamic friction",
+            "limiting friction",
+            "coefficient of friction",
+            "lubrication",
+            "viscosity",
+            "viscous",
+            "terminal velocity",
+            "stokes law"
+          ],
+          "sortOrder": 6
+        },
+        {
+          "sectionId": "phy_8",
+          "id": "phy_8",
+          "title": "8. Simple Machines",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "simple-machines",
+            "mechanical-advantage",
+            "velocity-ratio",
+            "efficiency"
+          ],
+          "keywords": [
+            "machine",
+            "mechanical advantage",
+            "velocity ratio",
+            "efficiency",
+            "pulley",
+            "inclined plane",
+            "screw jack",
+            "wheel and axle",
+            "lever",
+            "effort",
+            "load"
+          ],
+          "sortOrder": 7
+        },
+        {
+          "sectionId": "phy_9",
+          "id": "phy_9",
+          "title": "9. Elasticity",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "elasticity",
+            "hookes-law",
+            "youngs-modulus"
+          ],
+          "keywords": [
+            "elastic limit",
+            "yield point",
+            "breaking point",
+            "hooke",
+            "youngs modulus",
+            "stress",
+            "strain",
+            "force constant",
+            "spring constant",
+            "extension",
+            "elastic potential energy"
+          ],
+          "sortOrder": 8
+        },
+        {
+          "sectionId": "phy_10",
+          "id": "phy_10",
+          "title": "10. Pressure",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "pressure",
+            "atmospheric-pressure",
+            "pascals-principle",
+            "barometer"
+          ],
+          "keywords": [
+            "pascal",
+            "barometer",
+            "manometer",
+            "altimeter",
+            "atmospheric pressure",
+            "hydrostatic",
+            "hydraulic press",
+            "depth",
+            "transmission of pressure"
+          ],
+          "sortOrder": 9
+        },
+        {
+          "sectionId": "phy_11",
+          "id": "phy_11",
+          "title": "11. Liquids at Rest",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "liquids-at-rest",
+            "density",
+            "relative-density",
+            "archimedes-principle",
+            "floatation"
+          ],
+          "keywords": [
+            "relative density",
+            "upthrust",
+            "archimedes",
+            "floatation",
+            "hydrometer",
+            "submerged",
+            "immersed",
+            "displaced liquid"
+          ],
+          "sortOrder": 10
+        }
+      ]
+    },
+    {
+      "moduleId": "phy_mod_2",
+      "id": "phy_mod_2",
+      "title": "Thermal Physics",
+      "sortOrder": 1,
+      "sections": [
+        {
+          "sectionId": "phy_12",
+          "id": "phy_12",
+          "title": "12. Temperature and Its Measurement",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "temperature",
+            "thermometers",
+            "temperature-scales"
+          ],
+          "keywords": [
+            "thermometric",
+            "thermometer",
+            "celsius",
+            "kelvin",
+            "absolute temperature",
+            "ice point",
+            "steam point",
+            "upper fixed point",
+            "lower fixed point",
+            "thermocouple",
+            "clinical thermometer"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "phy_13",
+          "id": "phy_13",
+          "title": "13. Thermal Expansion",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "thermal-expansion",
+            "expansivity",
+            "anomalous-expansion"
+          ],
+          "keywords": [
+            "linear expansivity",
+            "area expansivity",
+            "cubic expansivity",
+            "volume expansivity",
+            "real expansivity",
+            "apparent expansivity",
+            "bimetallic strip",
+            "anomalous expansion"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "phy_14",
+          "id": "phy_14",
+          "title": "14. Gas Laws",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "gas-laws",
+            "boyles-law",
+            "charles-law",
+            "ideal-gas"
+          ],
+          "keywords": [
+            "boyle",
+            "charles",
+            "pressure law",
+            "isothermal",
+            "isobaric",
+            "isochoric",
+            "absolute zero",
+            "ideal gas",
+            "van der waals",
+            "molar gas constant"
+          ],
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "phy_15",
+          "id": "phy_15",
+          "title": "15. Quantity of Heat",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "quantity-of-heat",
+            "specific-heat-capacity",
+            "heat-capacity"
+          ],
+          "keywords": [
+            "heat capacity",
+            "specific heat capacity",
+            "method of mixtures",
+            "calorimeter",
+            "newtons law of cooling",
+            "joule heating"
+          ],
+          "sortOrder": 3
+        },
+        {
+          "sectionId": "phy_16",
+          "id": "phy_16",
+          "title": "16. Change of State",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "change-of-state",
+            "latent-heat",
+            "evaporation",
+            "boiling"
+          ],
+          "keywords": [
+            "latent heat",
+            "specific latent heat",
+            "fusion",
+            "vaporization",
+            "melting point",
+            "boiling point",
+            "evaporation",
+            "regelation",
+            "pressure cooker"
+          ],
+          "sortOrder": 4
+        },
+        {
+          "sectionId": "phy_17",
+          "id": "phy_17",
+          "title": "17. Vapours",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "vapours",
+            "saturated-vapour-pressure",
+            "humidity",
+            "hygrometry"
+          ],
+          "keywords": [
+            "saturated vapour",
+            "unsaturated vapour",
+            "vapour pressure",
+            "dew point",
+            "relative humidity",
+            "hygrometer",
+            "wet and dry bulb",
+            "mist",
+            "fog"
+          ],
+          "sortOrder": 5
+        },
+        {
+          "sectionId": "phy_18",
+          "id": "phy_18",
+          "title": "18. Structure of Matter and Kinetic Theory",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "kinetic-theory",
+            "structure-of-matter",
+            "surface-tension",
+            "capillarity"
+          ],
+          "keywords": [
+            "brownian motion",
+            "diffusion",
+            "surface tension",
+            "capillarity",
+            "capillary",
+            "adhesion",
+            "cohesion",
+            "angle of contact",
+            "meniscus",
+            "kinetic theory"
+          ],
+          "sortOrder": 6
+        },
+        {
+          "sectionId": "phy_19",
+          "id": "phy_19",
+          "title": "19. Heat Transfer",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "heat-transfer",
+            "conduction",
+            "convection",
+            "radiation"
+          ],
+          "keywords": [
+            "conduction",
+            "convection",
+            "radiation",
+            "temperature gradient",
+            "thermal conductivity",
+            "heat flux",
+            "thermos flask",
+            "vacuum flask",
+            "land and sea breeze",
+            "black body",
+            "jet engine"
+          ],
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "moduleId": "phy_mod_3",
+      "id": "phy_mod_3",
+      "title": "Waves, Sound, and Light",
+      "sortOrder": 2,
+      "sections": [
+        {
+          "sectionId": "phy_20",
+          "id": "phy_20",
+          "title": "20. Waves",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "waves",
+            "wave-equation",
+            "interference",
+            "diffraction",
+            "polarization",
+            "doppler-effect"
+          ],
+          "keywords": [
+            "wavelength",
+            "wave velocity",
+            "phase difference",
+            "wave number",
+            "progressive wave",
+            "stationary wave",
+            "standing wave",
+            "longitudinal",
+            "transverse",
+            "diffraction",
+            "polarization",
+            "interference",
+            "beats",
+            "beat frequency",
+            "doppler"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "phy_21",
+          "id": "phy_21",
+          "title": "21. Propagation of Sound Waves",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "sound-propagation",
+            "echoes",
+            "reverberation",
+            "speed-of-sound"
+          ],
+          "keywords": [
+            "speed of sound",
+            "echo",
+            "echoes",
+            "reverberation",
+            "material medium",
+            "ultrasonic",
+            "sonar"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "phy_22",
+          "id": "phy_22",
+          "title": "22. Characteristics of Sound Waves",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "characteristics-of-sound",
+            "musical-notes",
+            "vibrating-strings",
+            "air-columns"
+          ],
+          "keywords": [
+            "pitch",
+            "loudness",
+            "quality",
+            "timbre",
+            "overtone",
+            "harmonic",
+            "fundamental frequency",
+            "sonometer",
+            "closed pipe",
+            "open pipe",
+            "air column",
+            "resonance tube"
+          ],
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "phy_23",
+          "id": "phy_23",
+          "title": "23. Light Energy",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "light-energy",
+            "shadows",
+            "eclipses",
+            "pinhole-camera"
+          ],
+          "keywords": [
+            "luminous",
+            "non-luminous",
+            "umbra",
+            "penumbra",
+            "eclipse",
+            "pinhole camera",
+            "rectilinear propagation"
+          ],
+          "sortOrder": 3
+        },
+        {
+          "sectionId": "phy_24",
+          "id": "phy_24",
+          "title": "24. Reflection of Light at Plane and Curved Surfaces",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "reflection-of-light",
+            "plane-mirrors",
+            "curved-mirrors",
+            "mirror-formula"
+          ],
+          "keywords": [
+            "angle of incidence",
+            "angle of reflection",
+            "plane mirror",
+            "concave mirror",
+            "convex mirror",
+            "focal length",
+            "radius of curvature",
+            "real image",
+            "virtual image",
+            "periscope",
+            "kaleidoscope",
+            "sextant"
+          ],
+          "sortOrder": 4
+        },
+        {
+          "sectionId": "phy_25",
+          "id": "phy_25",
+          "title": "25. Refraction of Light Through Plane and Curved Surfaces",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "refraction-of-light",
+            "refractive-index",
+            "total-internal-reflection",
+            "prisms",
+            "lenses"
+          ],
+          "keywords": [
+            "snell",
+            "refractive index",
+            "real and apparent depth",
+            "lateral displacement",
+            "critical angle",
+            "total internal reflection",
+            "optical fibre",
+            "mirage",
+            "triangular prism",
+            "minimum deviation",
+            "converging lens",
+            "diverging lens",
+            "lens formula",
+            "newtons formula"
+          ],
+          "sortOrder": 5
+        },
+        {
+          "sectionId": "phy_26",
+          "id": "phy_26",
+          "title": "26. Optical Instruments",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "optical-instruments",
+            "microscope",
+            "telescope",
+            "human-eye",
+            "sight-defects"
+          ],
+          "keywords": [
+            "compound microscope",
+            "astronomical telescope",
+            "projector",
+            "power of a lens",
+            "dioptre",
+            "angular magnification",
+            "near point",
+            "far point",
+            "myopia",
+            "short sight",
+            "hypermetropia",
+            "long sight",
+            "astigmatism"
+          ],
+          "sortOrder": 6
+        },
+        {
+          "sectionId": "phy_27",
+          "id": "phy_27",
+          "title": "27. Dispersion of Light and Electromagnetic Spectrum",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "dispersion",
+            "colours",
+            "electromagnetic-spectrum"
+          ],
+          "keywords": [
+            "dispersion",
+            "pure spectrum",
+            "primary colours",
+            "secondary colours",
+            "colour filter",
+            "rainbow",
+            "electromagnetic spectrum",
+            "ultraviolet",
+            "infrared",
+            "gamma rays",
+            "microwaves",
+            "radio waves"
+          ],
+          "sortOrder": 7
+        }
+      ]
+    },
+    {
+      "moduleId": "phy_mod_4",
+      "id": "phy_mod_4",
+      "title": "Electricity, Magnetism, and Modern Physics",
+      "sortOrder": 3,
+      "sections": [
+        {
+          "sectionId": "phy_28",
+          "id": "phy_28",
+          "title": "28. Electrostatics",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "electrostatics",
+            "coulombs-law",
+            "electric-field",
+            "electroscope"
+          ],
+          "keywords": [
+            "electroscope",
+            "charging by induction",
+            "coulomb",
+            "electric field intensity",
+            "electric potential",
+            "potential difference",
+            "lightning conductor",
+            "electric flux"
+          ],
+          "sortOrder": 0
+        },
+        {
+          "sectionId": "phy_29",
+          "id": "phy_29",
+          "title": "29. Capacitors",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "capacitors",
+            "capacitance",
+            "energy-in-capacitor"
+          ],
+          "keywords": [
+            "capacitor",
+            "capacitance",
+            "farad",
+            "microfarad",
+            "parallel plate",
+            "dielectric",
+            "permittivity",
+            "series and parallel capacitors",
+            "energy stored in a capacitor"
+          ],
+          "sortOrder": 1
+        },
+        {
+          "sectionId": "phy_30",
+          "id": "phy_30",
+          "title": "30. Electric Cells",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "electric-cells",
+            "primary-cells",
+            "secondary-cells",
+            "accumulators"
+          ],
+          "keywords": [
+            "voltaic cell",
+            "polarization",
+            "local action",
+            "daniell cell",
+            "leclanche cell",
+            "lead-acid accumulator",
+            "nickel-iron",
+            "nife",
+            "depolarizer",
+            "primary cell",
+            "secondary cell"
+          ],
+          "sortOrder": 2
+        },
+        {
+          "sectionId": "phy_31",
+          "id": "phy_31",
+          "title": "31. Current Electricity",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "current-electricity",
+            "ohms-law",
+            "resistors",
+            "potentiometer",
+            "wheatstone-bridge"
+          ],
+          "keywords": [
+            "electromotive force",
+            "emf",
+            "internal resistance",
+            "lost volt",
+            "ohm",
+            "resistivity",
+            "conductivity",
+            "metre bridge",
+            "wheatstone bridge",
+            "potentiometer",
+            "kirchhoff",
+            "shunt",
+            "resistors in series",
+            "resistors in parallel"
+          ],
+          "sortOrder": 3
+        },
+        {
+          "sectionId": "phy_32",
+          "id": "phy_32",
+          "title": "32. Electrical Energy and Power",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "electrical-energy",
+            "electrical-power",
+            "fuses",
+            "power-transmission"
+          ],
+          "keywords": [
+            "kilowatt-hour",
+            "kwh",
+            "electrical power",
+            "power transmission",
+            "step-up transformer",
+            "fuse rating",
+            "house wiring",
+            "heating effect"
+          ],
+          "sortOrder": 4
+        },
+        {
+          "sectionId": "phy_33",
+          "id": "phy_33",
+          "title": "33. Magnets and Magnetic Fields",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "magnets",
+            "magnetic-fields",
+            "earths-magnetic-field"
+          ],
+          "keywords": [
+            "soft iron",
+            "steel",
+            "demagnetization",
+            "magnetic flux",
+            "flux density",
+            "tesla",
+            "solenoid",
+            "magnetic meridian",
+            "angle of dip",
+            "declination",
+            "neutral point",
+            "keeper"
+          ],
+          "sortOrder": 5
+        },
+        {
+          "sectionId": "phy_34",
+          "id": "phy_34",
+          "title": "34. Force on a Current-Carrying Conductor in a Magnetic Field",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "magnetic-force",
+            "dc-motor",
+            "galvanometer",
+            "ammeter",
+            "voltmeter"
+          ],
+          "keywords": [
+            "fleming",
+            "left-hand rule",
+            "parallel conductors",
+            "dc motor",
+            "commutator",
+            "moving coil galvanometer",
+            "shunt",
+            "multiplier",
+            "conversion of galvanometer",
+            "electromagnet",
+            "carbon microphone"
+          ],
+          "sortOrder": 6
+        },
+        {
+          "sectionId": "phy_35",
+          "id": "phy_35",
+          "title": "35. Electromagnetic Induction and Inductance",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "electromagnetic-induction",
+            "faradays-law",
+            "lenzs-law",
+            "transformers",
+            "inductance",
+            "eddy-currents"
+          ],
+          "keywords": [
+            "faraday",
+            "lenz",
+            "induced emf",
+            "ac generator",
+            "dc generator",
+            "transformer",
+            "turns ratio",
+            "step-down",
+            "induction coil",
+            "inductance",
+            "henry",
+            "inductor",
+            "eddy current",
+            "laminated core"
+          ],
+          "sortOrder": 7
+        },
+        {
+          "sectionId": "phy_36",
+          "id": "phy_36",
+          "title": "36. Simple A.C. Circuits",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "ac-circuits",
+            "reactance",
+            "impedance",
+            "resonance-frequency",
+            "power-factor"
+          ],
+          "keywords": [
+            "root mean square",
+            "rms",
+            "peak value",
+            "capacitive reactance",
+            "inductive reactance",
+            "impedance",
+            "rlc",
+            "phase angle",
+            "power factor",
+            "resonant frequency",
+            "alternating current"
+          ],
+          "sortOrder": 8
+        },
+        {
+          "sectionId": "phy_37",
+          "id": "phy_37",
+          "title": "37. Conduction of Electricity Through Liquids and Gases",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "electrolysis",
+            "conduction-in-gases",
+            "faradays-laws-of-electrolysis"
+          ],
+          "keywords": [
+            "electrolyte",
+            "non-electrolyte",
+            "electrolysis",
+            "electrochemical equivalent",
+            "electroplating",
+            "cathode rays",
+            "discharge tube",
+            "ionization"
+          ],
+          "sortOrder": 9
+        },
+        {
+          "sectionId": "phy_38",
+          "id": "phy_38",
+          "title": "38. Elementary Modern Physics",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "modern-physics",
+            "photoelectric-effect",
+            "radioactivity",
+            "x-rays",
+            "nuclear-physics",
+            "wave-particle-duality"
+          ],
+          "keywords": [
+            "bohr",
+            "rutherford",
+            "energy level",
+            "thermionic",
+            "photoelectric",
+            "work function",
+            "threshold frequency",
+            "stopping potential",
+            "x-ray",
+            "alpha",
+            "beta",
+            "gamma",
+            "half-life",
+            "decay constant",
+            "fission",
+            "fusion",
+            "binding energy",
+            "mass defect",
+            "de broglie",
+            "uncertainty principle"
+          ],
+          "sortOrder": 10
+        },
+        {
+          "sectionId": "phy_39",
+          "id": "phy_39",
+          "title": "39. Introductory Electronics",
+          "content": "",
+          "quiz": [],
+          "question_tags": [
+            "electronics",
+            "semiconductors",
+            "diodes",
+            "transistors",
+            "rectification"
+          ],
+          "keywords": [
+            "semiconductor",
+            "band gap",
+            "intrinsic",
+            "extrinsic",
+            "n-type",
+            "p-type",
+            "doping",
+            "p-n junction",
+            "diode",
+            "rectification",
+            "rectifier",
+            "transistor",
+            "amplification",
+            "amplifier",
+            "hole carriers"
+          ],
+          "sortOrder": 11
+        }
+      ]
     }
   ]
 }
