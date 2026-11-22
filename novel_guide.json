@@ -364,14 +364,306 @@
       "title": "A Case of Visa Denied",
       "summary": "A parent (Mrs. Ignatius) calls Bepo late at night to complain that her husband (Ibe) has not come home.   \n\nTheir family had planned to relocate to London, but their visa was denied because a DNA test showed that Mr. Ignatius is not the biological father of one of their three children.   \n\nThis discovery has caused serious trouble in the marriage, and Ibe threatens to leave his wife and the child who is not his.   \n\nThis chapter shows another side of the japa dream — how family secrets can be exposed by the visa process and how emigration is not always simple or happy.",
       "highYieldPoints": [],
-      "quiz": []
+      "quiz": [
+        {
+          "id": "q_lekki_4_1795388916924_1",
+          "question": "Who calls Principal Bepo late at night in Chapter 4 with a distressing family complaint?",
+          "optionA": "Mrs. Ibidun Gloss",
+          "optionB": "Mrs. Ignatius",
+          "optionC": "Mrs. Grace Apeh",
+          "optionD": "Miss Sola",
+          "correctOption": "B",
+          "explanation": "Mrs. Ignatius, a parent at Stardom Schools, phones Bepo late at night because her husband has not returned home."
+        },
+        {
+          "id": "q_lekki_4_1795388916924_2",
+          "question": "What is the first name of Mrs. Ignatius's husband in Chapter 4?",
+          "optionA": "Audu",
+          "optionB": "Fafore",
+          "optionC": "Ibe",
+          "optionD": "Tai",
+          "correctOption": "C",
+          "explanation": "Mrs. Ignatius calls Bepo to report that her husband, Ibe, failed to return home after a major family crisis."
+        },
+        {
+          "id": "q_lekki_4_1795388916924_3",
+          "question": "Where had the Ignatius family planned to relocate before their crisis erupted?",
+          "optionA": "Toronto, Canada",
+          "optionB": "London, United Kingdom",
+          "optionC": "New York, United States",
+          "optionD": "Dublin, Ireland",
+          "correctOption": "B",
+          "explanation": "Mr. and Mrs. Ignatius and their children were processing visas to relocate to London."
+        },
+        {
+          "id": "q_lekki_4_1795388916924_4",
+          "question": "Why was the Ignatius family's UK visa application denied?",
+          "optionA": "Mr. Ignatius submitted a forged bank statement",
+          "optionB": "A DNA test revealed that Mr. Ignatius is not the biological father of one of their three children",
+          "optionC": "Their passports had expired before the embassy interview",
+          "optionD": "They failed the English language proficiency test",
+          "correctOption": "B",
+          "explanation": "Mandatory embassy DNA testing exposed that one of the three children was not biologically fathered by Ibe, leading to visa denial."
+        },
+        {
+          "id": "q_lekki_4_1795388916924_5",
+          "question": "How many children did the Ignatius family have when they applied for the London visa?",
+          "optionA": "Two",
+          "optionB": "Three",
+          "optionC": "Four",
+          "optionD": "One",
+          "correctOption": "B",
+          "explanation": "The DNA test showed that Ibe was not the biological father of one of their three children."
+        },
+        {
+          "id": "q_lekki_4_1795388916924_6",
+          "question": "How does Ibe (Mr. Ignatius) react to the DNA test revelation?",
+          "optionA": "He immediately forgives his wife and reapplies for the visa",
+          "optionB": "He stays away from home and threatens to leave his wife and the child who is not his",
+          "optionC": "He sues the British High Commission for falsifying results",
+          "optionD": "He relocates to London alone without telling anyone",
+          "correctOption": "B",
+          "explanation": "Shattered by the discovery of infidelity, Ibe refuses to come home and threatens to abandon his wife and the non-biological child."
+        },
+        {
+          "id": "q_lekki_4_1795388916924_7",
+          "question": "Why does Mrs. Ignatius reach out specifically to Principal Bepo during her marital crisis?",
+          "optionA": "Bepo is her biological brother",
+          "optionB": "She trusts Bepo's wisdom, moral authority, and ability to counsel her husband",
+          "optionC": "Bepo is a licensed immigration lawyer",
+          "optionD": "She wants Bepo to lend her money for a second DNA test",
+          "correctOption": "B",
+          "explanation": "Parents at Stardom Schools deeply respect Bepo's integrity and counsel, prompting Mrs. Ignatius to seek his intervention at night."
+        },
+        {
+          "id": "q_lekki_4_1795388916924_8",
+          "question": "What broader theme about the \"japa\" phenomenon does Chapter 4 illustrate?",
+          "optionA": "Relocating abroad automatically solves all marital disagreements",
+          "optionB": "Emigration procedures can expose hidden family secrets and destroy homes instead of bringing happiness",
+          "optionC": "Only families without children should apply for UK visas",
+          "optionD": "DNA tests are unnecessary for Nigerian passport holders",
+          "correctOption": "B",
+          "explanation": "Chapter 4 shows that the pursuit of relocation is not always joyful and can unravel marriages when buried secrets come to light."
+        },
+        {
+          "id": "q_lekki_4_1795388916924_9",
+          "question": "What is the title of Chapter 4 in The Lekki Headmaster?",
+          "optionA": "Passport Pains",
+          "optionB": "A Case of Visa Denied",
+          "optionC": "The Enticement",
+          "optionD": "Point of No Return",
+          "correctOption": "B",
+          "explanation": "Chapter 4 is titled \"A Case of Visa Denied,\" centered on the Ignatius family's failed UK visa application."
+        },
+        {
+          "id": "q_lekki_4_1795388916924_10",
+          "question": "What does the Ignatius family's ordeal demonstrate to Bepo as he prepares for his own relocation?",
+          "optionA": "That moving to London is guaranteed to bring peace to every household",
+          "optionB": "That the \"japa\" dream carries unforeseen emotional and family casualties",
+          "optionC": "That he should cancel his flight because UK embassies reject all Nigerians",
+          "optionD": "That Mrs. Ignatius should take over his role at Stardom Schools",
+          "correctOption": "B",
+          "explanation": "Witnessing the collapse of the Ignatius family reinforces Bepo's awareness of the dark, complicated side of migration."
+        },
+        {
+          "id": "q_lekki_4_1795388916924_11",
+          "question": "Which emotion best characterizes Mrs. Ignatius when she contacts Bepo in Chapter 4?",
+          "optionA": "Triumph and excitement",
+          "optionB": "Panic, shame, and desperation",
+          "optionC": "Indifference and amusement",
+          "optionD": "Anger toward Stardom Schools",
+          "correctOption": "B",
+          "explanation": "With her husband missing and her marriage on the brink of collapse, Mrs. Ignatius is desperate for Bepo's help."
+        },
+        {
+          "id": "q_lekki_4_1795388916924_12",
+          "question": "What medical/scientific procedure triggered the crisis in the Ignatius household?",
+          "optionA": "A routine blood pressure check",
+          "optionB": "A mandatory DNA paternity test for visa processing",
+          "optionC": "A COVID-19 vaccination screening",
+          "optionD": "A genetic eye examination",
+          "correctOption": "B",
+          "explanation": "The DNA test required during their UK visa process exposed the truth about one child's paternity."
+        },
+        {
+          "id": "q_lekki_4_1795388916924_13",
+          "question": "In Chapter 4, what happens to the Ignatius family's dream of living in London?",
+          "optionA": "It is indefinitely shattered alongside their marital stability",
+          "optionB": "It succeeds after Bepo writes a recommendation letter",
+          "optionC": "Only the children are granted visas while the parents stay behind",
+          "optionD": "They move to Canada the following week instead",
+          "correctOption": "A",
+          "explanation": "Both their visa application and their family unity collapse following the DNA test result."
+        },
+        {
+          "id": "q_lekki_4_1795388916924_14",
+          "question": "How does Chapter 4 highlight Principal Bepo's standing in the Lekki community?",
+          "optionA": "He is feared as a strict disciplinarian who punishes parents",
+          "optionB": "He serves as a trusted moral anchor whom families turn to even outside school hours",
+          "optionC": "He regularly interferes in parents' private finances",
+          "optionD": "He only interacts with wealthy politicians",
+          "correctOption": "B",
+          "explanation": "The fact that a parent calls Bepo late at night in a deeply personal crisis proves how deeply the community trusts him."
+        }
+      ]
     },
     {
       "chapterNumber": 5,
       "title": "Snake in the Roof",
       "summary": "During lunch break, the MD (Mrs. Ibidun Gloss), goes to inspect a piece of land that the school owns.   \n\nShe is shocked to find many staff cars and big vehicles parked there secretly.   \n\nShe fears that teachers are stealing school money to buy these cars.   \n\nShe calls the accountant and principal to explain.   It turns out the money came from the school's staff cooperative society, which had grown very large — #95 million in the account, with #50 million loaned out.   \n\nWorried that the cooperative has become too powerful (like \"a snake in the roof\"), the board of directors decides to limit how much any staff member can borrow, to protect the school from future risk.   ",
       "highYieldPoints": [],
-      "quiz": []
+      "quiz": [
+        {
+          "id": "q_lekki_5_1795388916924_15",
+          "question": "Which of the following statements is TRUE about Chapter 4?",
+          "optionA": "Ibe discovered the paternity secret before applying for any visa",
+          "optionB": "All three children failed the DNA test",
+          "optionC": "The visa denial was directly linked to the DNA test discrepancy",
+          "optionD": "Bepo advised Ibe to divorce his wife immediately",
+          "correctOption": "C",
+          "explanation": "The embassy denied the family's visa after the DNA test proved Ibe was not the biological father of one of the three children. Chapter 5"
+        },
+        {
+          "id": "q_lekki_5_1795388916924_16",
+          "question": "What is the title of Chapter 5 in The Lekki Headmaster?",
+          "optionA": "Snake in the Roof",
+          "optionB": "Missions Unaccomplished",
+          "optionC": "Ritualists",
+          "optionD": "Laughing Waterfalls",
+          "correctOption": "A",
+          "explanation": "Chapter 5 is titled \"Snake in the Roof,\" referring to management's fear of the powerful staff cooperative society."
+        },
+        {
+          "id": "q_lekki_5_1795388916924_17",
+          "question": "During what time of the school day does Mrs. Ibidun Gloss inspect the school's parcel of land in Chapter 5?",
+          "optionA": "Early morning before assembly",
+          "optionB": "During lunch break",
+          "optionC": "Late at night after closing",
+          "optionD": "On a Sunday afternoon",
+          "correctOption": "B",
+          "explanation": "During lunch break, the Managing Director walks over to inspect a piece of land owned by Stardom Schools."
+        },
+        {
+          "id": "q_lekki_5_1795388916924_18",
+          "question": "What shocking sight does the Managing Director discover on the school's land during her inspection?",
+          "optionA": "Students skipping classes to play football",
+          "optionB": "Many staff cars and big vehicles parked there secretly",
+          "optionC": "Construction workers building an unauthorized church",
+          "optionD": "A giant python coiled under a mango tree",
+          "correctOption": "B",
+          "explanation": "Mrs. Gloss is stunned to find numerous expensive cars and big vehicles belonging to staff parked discreetly on the school land."
+        },
+        {
+          "id": "q_lekki_5_1795388916924_19",
+          "question": "What is Mrs. Ibidun Gloss's immediate suspicion when she sees the big vehicles owned by staff?",
+          "optionA": "That parents are using the school land as a public car park",
+          "optionB": "That teachers are stealing or embezzling school money to buy those cars",
+          "optionC": "That the government has seized the land for a motor park",
+          "optionD": "That Bepo has started his transport business on school property",
+          "correctOption": "B",
+          "explanation": "Alarmed by the luxury vehicles, the MD fears staff members are siphoning school funds to finance them."
+        },
+        {
+          "id": "q_lekki_5_1795388916924_20",
+          "question": "Whom does the MD summon to explain how staff members afforded the vehicles?",
+          "optionA": "The PTA Chairman and Mr. Guta",
+          "optionB": "The school accountant and Principal Bepo",
+          "optionC": "The local police commissioner and Mr. Audu",
+          "optionD": "Mrs. Grace Apeh and Mr. Fafore",
+          "correctOption": "B",
+          "explanation": "Mrs. Gloss calls the accountant and the principal to account for the source of the staff's sudden purchasing power."
+        },
+        {
+          "id": "q_lekki_5_1795388916924_21",
+          "question": "Where did the staff actually get the money to buy those cars?",
+          "optionA": "From an inheritance left by a former proprietor",
+          "optionB": "From Stardom Schools' staff cooperative society",
+          "optionC": "From bank loans guaranteed by the Lagos State Government",
+          "optionD": "From foreign remittances sent by former teachers",
+          "correctOption": "B",
+          "explanation": "The accountant and principal explain that the vehicles were financed through loans from the school's thriving staff cooperative society."
+        },
+        {
+          "id": "q_lekki_5_1795388916924_22",
+          "question": "How much money had the Stardom Schools staff cooperative accumulated in its account?",
+          "optionA": "₦25 million",
+          "optionB": "₦50 million",
+          "optionC": "₦95 million",
+          "optionD": "₦150 million",
+          "correctOption": "C",
+          "explanation": "The staff cooperative society had grown remarkably large, holding ₦95 million in its account."
+        },
+        {
+          "id": "q_lekki_5_1795388916924_23",
+          "question": "Out of the cooperative's funds, how much had already been loaned out to staff members?",
+          "optionA": "₦10 million",
+          "optionB": "₦30 million",
+          "optionC": "₦50 million",
+          "optionD": "₦95 million",
+          "correctOption": "C",
+          "explanation": "The cooperative had ₦95 million in its account, with ₦50 million already disbursed as loans to staff."
+        },
+        {
+          "id": "q_lekki_5_1795388916924_24",
+          "question": "Why does the MD view the staff cooperative as \"a snake in the roof\"?",
+          "optionA": "Because the cooperative treasurer stole ₦50 million",
+          "optionB": "Because she fears the cooperative has grown too financially powerful and could threaten management's control",
+          "optionC": "Because the cooperative kept live snakes on the school land",
+          "optionD": "Because teachers refused to pay their monthly dues",
+          "correctOption": "B",
+          "explanation": "To Mrs. Gloss, a staff body controlling ₦95 million rivals management's authority and represents a hidden institutional risk (\"a snake in the roof\")."
+        },
+        {
+          "id": "q_lekki_5_1795388916924_25",
+          "question": "What decision does the board of directors take at the end of Chapter 5 regarding the cooperative?",
+          "optionA": "They ban the staff cooperative completely and seize its funds",
+          "optionB": "They place a limit on how much any staff member can borrow from the cooperative",
+          "optionC": "They sack the school accountant and confiscate the staff cars",
+          "optionD": "They double every teacher's monthly salary",
+          "correctOption": "B",
+          "explanation": "To protect the school from future risk, the board caps the maximum amount an individual staff member can borrow."
+        },
+        {
+          "id": "q_lekki_5_1795388916924_26",
+          "question": "Why had the staff parked their big vehicles secretly on the school's parcel of land?",
+          "optionA": "There was no space anywhere else in Lekki",
+          "optionB": "They did not want management to notice their newly acquired cars and assume they were overpaid or stealing",
+          "optionC": "The cars were broken down and awaiting repairs",
+          "optionD": "Bepo ordered all teachers to hide their vehicles",
+          "correctOption": "B",
+          "explanation": "Staff parked the vehicles out of sight on the school's undeveloped land to avoid drawing management's suspicion."
+        },
+        {
+          "id": "q_lekki_5_1795388916924_27",
+          "question": "What aspect of workplace dynamics in Nigerian private schools does Chapter 5 highlight?",
+          "optionA": "Teachers in private schools never save money",
+          "optionB": "Tension between staff financial empowerment through cooperatives and proprietors' fear of losing control",
+          "optionC": "School proprietors always encourage teachers to buy luxury SUVs",
+          "optionD": "Accountants have more authority than Managing Directors",
+          "correctOption": "B",
+          "explanation": "The episode illustrates how management can feel threatened when employees build strong collective financial independence."
+        },
+        {
+          "id": "q_lekki_5_1795388916924_28",
+          "question": "How does Principal Bepo handle the MD's alarm in Chapter 5?",
+          "optionA": "He joins the MD in accusing the teachers of theft",
+          "optionB": "He calmly helps clarify the legitimate cooperative source of the funds alongside the accountant",
+          "optionC": "He resigns immediately in protest",
+          "optionD": "He reveals that he borrowed all ₦50 million himself",
+          "correctOption": "B",
+          "explanation": "Bepo and the accountant provide transparent facts showing the cars came from legitimate cooperative savings and loans rather than fraud."
+        },
+        {
+          "id": "q_lekki_5_1795388916924_29",
+          "question": "Which two figures represent the financial strength of the Stardom Schools cooperative in Chapter 5?",
+          "optionA": "₦45 million in savings and ₦20 million in assets",
+          "optionB": "₦95 million in the account and ₦50 million loaned out",
+          "optionC": "₦100 million in shares and ₦75 million in debt",
+          "optionD": "₦60 million in cash and ₦15 million in fines",
+          "correctOption": "B",
+          "explanation": "The chapter specifically notes ₦95 million in the cooperative's account with ₦50 million loaned out to members."
+        }
+      ]
     },
     {
       "chapterNumber": 6,
@@ -388,6 +680,166 @@
           "optionD": "Competitive and bitter",
           "correctOption": "B",
           "explanation": "Staff members—including the Vice Principal, Mr. Fafore, and Mr. Audu—respect Bepo deeply and accompany him to the airport to see him off."
+        },
+        {
+          "id": "q_lekki_6_1795388916924_30",
+          "question": "What does the board's cap on cooperative borrowing aim to achieve?",
+          "optionA": "Prevent staff from buying better cars than the Managing Director and mitigate institutional risk",
+          "optionB": "Force teachers to take loans from commercial banks instead",
+          "optionC": "Raise funds to build a new hostel in Badagry",
+          "optionD": "Reward only senior teachers with interest-free loans",
+          "correctOption": "A",
+          "explanation": "Management restricts borrowing limits to curb the cooperative's unchecked influence and protect the school from perceived risk. Chapter 6"
+        },
+        {
+          "id": "q_lekki_6_1795388916924_31",
+          "question": "During which school event does the conflict in Chapter 6 take place?",
+          "optionA": "Inter-house sports competition",
+          "optionB": "Open Day",
+          "optionC": "Valedictory graduation ceremony",
+          "optionD": "Morning assembly",
+          "correctOption": "B",
+          "explanation": "The grammar dispute occurs on Stardom Schools' Open Day when parents visit to review their children's work."
+        },
+        {
+          "id": "q_lekki_6_1795388916924_32",
+          "question": "Which parent complains angrily about a teacher's grammatical expression in Chapter 6?",
+          "optionA": "Mr. Ignatius",
+          "optionB": "Mr. Guta",
+          "optionC": "Mr. Tosh",
+          "optionD": "Mr. Banky",
+          "correctOption": "B",
+          "explanation": "A parent named Mr. Guta becomes furious after reading a note written by the English teacher."
+        },
+        {
+          "id": "q_lekki_6_1795388916924_33",
+          "question": "Who is the English teacher whose sentence sparks the controversy in Chapter 6?",
+          "optionA": "Mr. Ope Wonde",
+          "optionB": "Mr. Fafore",
+          "optionC": "Mr. Audu",
+          "optionD": "Mr. Adewale",
+          "correctOption": "B",
+          "explanation": "Mr. Fafore, the English teacher, wrote the remark that Mr. Guta mistakenly assumed was ungrammatical."
+        },
+        {
+          "id": "q_lekki_6_1795388916924_34",
+          "question": "What exact sentence written by Mr. Fafore angers Mr. Guta?",
+          "optionA": "\"Ade and Jide comes early.\"",
+          "optionB": "\"Ade as well as Jide comes early.\"",
+          "optionC": "\"Neither Ade nor Jide come early.\"",
+          "optionD": "\"Ade as well as Jide have came early.\"",
+          "correctOption": "B",
+          "explanation": "Mr. Fafore wrote, \"Ade as well as Jide comes early,\" which follows standard subject-verb concord rules."
+        },
+        {
+          "id": "q_lekki_6_1795388916924_35",
+          "question": "How does the Managing Director (Mrs. Ibidun Gloss) initially react to Mr. Guta's complaint?",
+          "optionA": "She consults an English dictionary before responding",
+          "optionB": "She assumes Fafore made an embarrassing grammar error and orders him sacked immediately without checking",
+          "optionC": "She defends Mr. Fafore in front of all the parents",
+          "optionD": "She asks Mr. Audu to rewrite the report card",
+          "correctOption": "B",
+          "explanation": "Eager to appease the angry parent, the MD rashly orders Mr. Fafore's immediate dismissal without verifying the grammar rule."
+        },
+        {
+          "id": "q_lekki_6_1795388916924_36",
+          "question": "Who steps in to defend Mr. Fafore from being unjustly sacked?",
+          "optionA": "Mrs. Grace Apeh",
+          "optionB": "Principal Bepo Adewale",
+          "optionC": "Mr. Guta's wife",
+          "optionD": "The school accountant",
+          "correctOption": "B",
+          "explanation": "Principal Bepo stands up for his teacher and explains that Mr. Fafore's sentence is grammatically sound."
+        },
+        {
+          "id": "q_lekki_6_1795388916924_37",
+          "question": "Why is the sentence \"Ade as well as Jide comes early\" grammatically correct?",
+          "optionA": "Because \"Jide\" is a singular proper noun",
+          "optionB": "Because when two singular subjects are joined by \"as well as,\" the verb agrees with the first subject (\"Ade\"), taking a singular verb (\"comes\")",
+          "optionC": "Because \"comes\" is a plural verb in British English",
+          "optionD": "Because \"early\" modifies both subjects equally",
+          "correctOption": "B",
+          "explanation": "Under the rule of concord, parenthetical expressions like \"as well as\" do not form a compound plural subject; the verb agrees with the main subject, \"Ade.\""
+        },
+        {
+          "id": "q_lekki_6_1795388916924_38",
+          "question": "How do the MD, parent, and staff verify who is right in the grammar dispute?",
+          "optionA": "They call a professor at the University of Lagos",
+          "optionB": "Everyone checks online and confirms that Bepo and Fafore are right",
+          "optionC": "They take a vote among the students",
+          "optionD": "They check an old typewriter manual in the library",
+          "correctOption": "B",
+          "explanation": "Checking online confirms the concord rule, proving Bepo and Mr. Fafore correct and showing that the MD had jumped to the wrong conclusion."
+        },
+        {
+          "id": "q_lekki_6_1795388916924_39",
+          "question": "Which teacher uses humor to ease the tension and embarrassment after the MD is proven wrong?",
+          "optionA": "Mr. Ope Wonde",
+          "optionB": "Mr. Audu",
+          "optionC": "Mr. Fafore",
+          "optionD": "Mrs. Grace Apeh",
+          "correctOption": "B",
+          "explanation": "Mr. Audu, known as the comic teacher, cracks jokes about the situation to diffuse the awkwardness."
+        },
+        {
+          "id": "q_lekki_6_1795388916924_40",
+          "question": "What is the final outcome for Mr. Fafore at the end of Chapter 6?",
+          "optionA": "He resigns out of anger at the Managing Director",
+          "optionB": "He is demoted to teaching primary school",
+          "optionC": "He is vindicated and is not sacked after all",
+          "optionD": "He is transferred to Beesway Group of Schools",
+          "correctOption": "C",
+          "explanation": "Once the online check proves his grammar was accurate, Mr. Fafore keeps his job."
+        },
+        {
+          "id": "q_lekki_6_1795388916924_41",
+          "question": "What leadership quality does Principal Bepo display in Chapter 6?",
+          "optionA": "Blind obedience to his employer even when she is wrong",
+          "optionB": "Courage to defend a subordinate with facts and intellectual confidence",
+          "optionC": "Indifference toward academic standards",
+          "optionD": "Fear of confronting wealthy parents",
+          "correctOption": "B",
+          "explanation": "Bepo refuses to let an innocent teacher lose his livelihood due to a parent's ignorance or the MD's hasty judgment."
+        },
+        {
+          "id": "q_lekki_6_1795388916924_42",
+          "question": "What flaw in Mrs. Ibidun Gloss's management style is exposed in Chapter 6?",
+          "optionA": "She is too slow to make any administrative decision",
+          "optionB": "She acts impulsively to please parents without investigating facts first",
+          "optionC": "She refuses to attend school Open Days",
+          "optionD": "She dislikes all English teachers",
+          "correctOption": "B",
+          "explanation": "Mrs. Gloss nearly sacks a competent teacher on the spot without checking whether the complaint had any merit."
+        },
+        {
+          "id": "q_lekki_6_1795388916924_43",
+          "question": "What is the title of Chapter 6?",
+          "optionA": "Ade as well as Jide — COMES vs. COME",
+          "optionB": "Open Day Embarrassment",
+          "optionC": "The English Teacher's Trial",
+          "optionD": "Grammar and Authority",
+          "correctOption": "A",
+          "explanation": "Chapter 6 is titled \"Ade as well as Jide — COMES vs. COME,\" highlighting the exact grammatical rule at the center of the episode."
+        },
+        {
+          "id": "q_lekki_6_1795388916924_44",
+          "question": "How does Mr. Audu's intervention in Chapter 6 help the school leadership?",
+          "optionA": "He apologizes on behalf of Mr. Guta",
+          "optionB": "His comic relief saves the MD from prolonged public humiliation and restores a relaxed atmosphere",
+          "optionC": "He threatens to report Mr. Guta to the police",
+          "optionD": "He proves that Mr. Guta never attended secondary school",
+          "correctOption": "B",
+          "explanation": "Mr. Audu's timely humor softens the MD's embarrassment in front of staff and parents."
+        },
+        {
+          "id": "q_lekki_6_1795388916924_45",
+          "question": "What educational lesson does Chapter 6 reinforce for students preparing for JAMB Use of English?",
+          "optionA": "Always use plural verbs whenever two names appear in a sentence",
+          "optionB": "Subordinators/phrases like \"as well as,\" \"along with,\" and \"together with\" do not make a singular subject plural",
+          "optionC": "Parents are always right about English grammar",
+          "optionD": "Online dictionaries should never be trusted in school",
+          "correctOption": "B",
+          "explanation": "The chapter directly dramatizes a classic JAMB Use of English concord rule involving \"as well as.\""
         }
       ]
     },
@@ -1212,6 +1664,816 @@
       "optionC": "The difference between Nigerian and British wedding customs",
       "optionD": "The rivalry between Lagos and Abuja landlords",
       "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_4_1795388916924_1",
+      "chapter": 4,
+      "question": "Who calls Principal Bepo late at night in Chapter 4 with a distressing family complaint?",
+      "options": {
+        "A": "Mrs. Ibidun Gloss",
+        "B": "Mrs. Ignatius",
+        "C": "Mrs. Grace Apeh",
+        "D": "Miss Sola"
+      },
+      "answer": "B",
+      "explanation": "Mrs. Ignatius, a parent at Stardom Schools, phones Bepo late at night because her husband has not returned home.",
+      "optionA": "Mrs. Ibidun Gloss",
+      "optionB": "Mrs. Ignatius",
+      "optionC": "Mrs. Grace Apeh",
+      "optionD": "Miss Sola",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_4_1795388916924_2",
+      "chapter": 4,
+      "question": "What is the first name of Mrs. Ignatius's husband in Chapter 4?",
+      "options": {
+        "A": "Audu",
+        "B": "Fafore",
+        "C": "Ibe",
+        "D": "Tai"
+      },
+      "answer": "C",
+      "explanation": "Mrs. Ignatius calls Bepo to report that her husband, Ibe, failed to return home after a major family crisis.",
+      "optionA": "Audu",
+      "optionB": "Fafore",
+      "optionC": "Ibe",
+      "optionD": "Tai",
+      "correctOption": "C"
+    },
+    {
+      "id": "q_lekki_4_1795388916924_3",
+      "chapter": 4,
+      "question": "Where had the Ignatius family planned to relocate before their crisis erupted?",
+      "options": {
+        "A": "Toronto, Canada",
+        "B": "London, United Kingdom",
+        "C": "New York, United States",
+        "D": "Dublin, Ireland"
+      },
+      "answer": "B",
+      "explanation": "Mr. and Mrs. Ignatius and their children were processing visas to relocate to London.",
+      "optionA": "Toronto, Canada",
+      "optionB": "London, United Kingdom",
+      "optionC": "New York, United States",
+      "optionD": "Dublin, Ireland",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_4_1795388916924_4",
+      "chapter": 4,
+      "question": "Why was the Ignatius family's UK visa application denied?",
+      "options": {
+        "A": "Mr. Ignatius submitted a forged bank statement",
+        "B": "A DNA test revealed that Mr. Ignatius is not the biological father of one of their three children",
+        "C": "Their passports had expired before the embassy interview",
+        "D": "They failed the English language proficiency test"
+      },
+      "answer": "B",
+      "explanation": "Mandatory embassy DNA testing exposed that one of the three children was not biologically fathered by Ibe, leading to visa denial.",
+      "optionA": "Mr. Ignatius submitted a forged bank statement",
+      "optionB": "A DNA test revealed that Mr. Ignatius is not the biological father of one of their three children",
+      "optionC": "Their passports had expired before the embassy interview",
+      "optionD": "They failed the English language proficiency test",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_4_1795388916924_5",
+      "chapter": 4,
+      "question": "How many children did the Ignatius family have when they applied for the London visa?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "One"
+      },
+      "answer": "B",
+      "explanation": "The DNA test showed that Ibe was not the biological father of one of their three children.",
+      "optionA": "Two",
+      "optionB": "Three",
+      "optionC": "Four",
+      "optionD": "One",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_4_1795388916924_6",
+      "chapter": 4,
+      "question": "How does Ibe (Mr. Ignatius) react to the DNA test revelation?",
+      "options": {
+        "A": "He immediately forgives his wife and reapplies for the visa",
+        "B": "He stays away from home and threatens to leave his wife and the child who is not his",
+        "C": "He sues the British High Commission for falsifying results",
+        "D": "He relocates to London alone without telling anyone"
+      },
+      "answer": "B",
+      "explanation": "Shattered by the discovery of infidelity, Ibe refuses to come home and threatens to abandon his wife and the non-biological child.",
+      "optionA": "He immediately forgives his wife and reapplies for the visa",
+      "optionB": "He stays away from home and threatens to leave his wife and the child who is not his",
+      "optionC": "He sues the British High Commission for falsifying results",
+      "optionD": "He relocates to London alone without telling anyone",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_4_1795388916924_7",
+      "chapter": 4,
+      "question": "Why does Mrs. Ignatius reach out specifically to Principal Bepo during her marital crisis?",
+      "options": {
+        "A": "Bepo is her biological brother",
+        "B": "She trusts Bepo's wisdom, moral authority, and ability to counsel her husband",
+        "C": "Bepo is a licensed immigration lawyer",
+        "D": "She wants Bepo to lend her money for a second DNA test"
+      },
+      "answer": "B",
+      "explanation": "Parents at Stardom Schools deeply respect Bepo's integrity and counsel, prompting Mrs. Ignatius to seek his intervention at night.",
+      "optionA": "Bepo is her biological brother",
+      "optionB": "She trusts Bepo's wisdom, moral authority, and ability to counsel her husband",
+      "optionC": "Bepo is a licensed immigration lawyer",
+      "optionD": "She wants Bepo to lend her money for a second DNA test",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_4_1795388916924_8",
+      "chapter": 4,
+      "question": "What broader theme about the \"japa\" phenomenon does Chapter 4 illustrate?",
+      "options": {
+        "A": "Relocating abroad automatically solves all marital disagreements",
+        "B": "Emigration procedures can expose hidden family secrets and destroy homes instead of bringing happiness",
+        "C": "Only families without children should apply for UK visas",
+        "D": "DNA tests are unnecessary for Nigerian passport holders"
+      },
+      "answer": "B",
+      "explanation": "Chapter 4 shows that the pursuit of relocation is not always joyful and can unravel marriages when buried secrets come to light.",
+      "optionA": "Relocating abroad automatically solves all marital disagreements",
+      "optionB": "Emigration procedures can expose hidden family secrets and destroy homes instead of bringing happiness",
+      "optionC": "Only families without children should apply for UK visas",
+      "optionD": "DNA tests are unnecessary for Nigerian passport holders",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_4_1795388916924_9",
+      "chapter": 4,
+      "question": "What is the title of Chapter 4 in The Lekki Headmaster?",
+      "options": {
+        "A": "Passport Pains",
+        "B": "A Case of Visa Denied",
+        "C": "The Enticement",
+        "D": "Point of No Return"
+      },
+      "answer": "B",
+      "explanation": "Chapter 4 is titled \"A Case of Visa Denied,\" centered on the Ignatius family's failed UK visa application.",
+      "optionA": "Passport Pains",
+      "optionB": "A Case of Visa Denied",
+      "optionC": "The Enticement",
+      "optionD": "Point of No Return",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_4_1795388916924_10",
+      "chapter": 4,
+      "question": "What does the Ignatius family's ordeal demonstrate to Bepo as he prepares for his own relocation?",
+      "options": {
+        "A": "That moving to London is guaranteed to bring peace to every household",
+        "B": "That the \"japa\" dream carries unforeseen emotional and family casualties",
+        "C": "That he should cancel his flight because UK embassies reject all Nigerians",
+        "D": "That Mrs. Ignatius should take over his role at Stardom Schools"
+      },
+      "answer": "B",
+      "explanation": "Witnessing the collapse of the Ignatius family reinforces Bepo's awareness of the dark, complicated side of migration.",
+      "optionA": "That moving to London is guaranteed to bring peace to every household",
+      "optionB": "That the \"japa\" dream carries unforeseen emotional and family casualties",
+      "optionC": "That he should cancel his flight because UK embassies reject all Nigerians",
+      "optionD": "That Mrs. Ignatius should take over his role at Stardom Schools",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_4_1795388916924_11",
+      "chapter": 4,
+      "question": "Which emotion best characterizes Mrs. Ignatius when she contacts Bepo in Chapter 4?",
+      "options": {
+        "A": "Triumph and excitement",
+        "B": "Panic, shame, and desperation",
+        "C": "Indifference and amusement",
+        "D": "Anger toward Stardom Schools"
+      },
+      "answer": "B",
+      "explanation": "With her husband missing and her marriage on the brink of collapse, Mrs. Ignatius is desperate for Bepo's help.",
+      "optionA": "Triumph and excitement",
+      "optionB": "Panic, shame, and desperation",
+      "optionC": "Indifference and amusement",
+      "optionD": "Anger toward Stardom Schools",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_4_1795388916924_12",
+      "chapter": 4,
+      "question": "What medical/scientific procedure triggered the crisis in the Ignatius household?",
+      "options": {
+        "A": "A routine blood pressure check",
+        "B": "A mandatory DNA paternity test for visa processing",
+        "C": "A COVID-19 vaccination screening",
+        "D": "A genetic eye examination"
+      },
+      "answer": "B",
+      "explanation": "The DNA test required during their UK visa process exposed the truth about one child's paternity.",
+      "optionA": "A routine blood pressure check",
+      "optionB": "A mandatory DNA paternity test for visa processing",
+      "optionC": "A COVID-19 vaccination screening",
+      "optionD": "A genetic eye examination",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_4_1795388916924_13",
+      "chapter": 4,
+      "question": "In Chapter 4, what happens to the Ignatius family's dream of living in London?",
+      "options": {
+        "A": "It is indefinitely shattered alongside their marital stability",
+        "B": "It succeeds after Bepo writes a recommendation letter",
+        "C": "Only the children are granted visas while the parents stay behind",
+        "D": "They move to Canada the following week instead"
+      },
+      "answer": "A",
+      "explanation": "Both their visa application and their family unity collapse following the DNA test result.",
+      "optionA": "It is indefinitely shattered alongside their marital stability",
+      "optionB": "It succeeds after Bepo writes a recommendation letter",
+      "optionC": "Only the children are granted visas while the parents stay behind",
+      "optionD": "They move to Canada the following week instead",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_4_1795388916924_14",
+      "chapter": 4,
+      "question": "How does Chapter 4 highlight Principal Bepo's standing in the Lekki community?",
+      "options": {
+        "A": "He is feared as a strict disciplinarian who punishes parents",
+        "B": "He serves as a trusted moral anchor whom families turn to even outside school hours",
+        "C": "He regularly interferes in parents' private finances",
+        "D": "He only interacts with wealthy politicians"
+      },
+      "answer": "B",
+      "explanation": "The fact that a parent calls Bepo late at night in a deeply personal crisis proves how deeply the community trusts him.",
+      "optionA": "He is feared as a strict disciplinarian who punishes parents",
+      "optionB": "He serves as a trusted moral anchor whom families turn to even outside school hours",
+      "optionC": "He regularly interferes in parents' private finances",
+      "optionD": "He only interacts with wealthy politicians",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_15",
+      "chapter": 5,
+      "question": "Which of the following statements is TRUE about Chapter 4?",
+      "options": {
+        "A": "Ibe discovered the paternity secret before applying for any visa",
+        "B": "All three children failed the DNA test",
+        "C": "The visa denial was directly linked to the DNA test discrepancy",
+        "D": "Bepo advised Ibe to divorce his wife immediately"
+      },
+      "answer": "C",
+      "explanation": "The embassy denied the family's visa after the DNA test proved Ibe was not the biological father of one of the three children. Chapter 5",
+      "optionA": "Ibe discovered the paternity secret before applying for any visa",
+      "optionB": "All three children failed the DNA test",
+      "optionC": "The visa denial was directly linked to the DNA test discrepancy",
+      "optionD": "Bepo advised Ibe to divorce his wife immediately",
+      "correctOption": "C"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_16",
+      "chapter": 5,
+      "question": "What is the title of Chapter 5 in The Lekki Headmaster?",
+      "options": {
+        "A": "Snake in the Roof",
+        "B": "Missions Unaccomplished",
+        "C": "Ritualists",
+        "D": "Laughing Waterfalls"
+      },
+      "answer": "A",
+      "explanation": "Chapter 5 is titled \"Snake in the Roof,\" referring to management's fear of the powerful staff cooperative society.",
+      "optionA": "Snake in the Roof",
+      "optionB": "Missions Unaccomplished",
+      "optionC": "Ritualists",
+      "optionD": "Laughing Waterfalls",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_17",
+      "chapter": 5,
+      "question": "During what time of the school day does Mrs. Ibidun Gloss inspect the school's parcel of land in Chapter 5?",
+      "options": {
+        "A": "Early morning before assembly",
+        "B": "During lunch break",
+        "C": "Late at night after closing",
+        "D": "On a Sunday afternoon"
+      },
+      "answer": "B",
+      "explanation": "During lunch break, the Managing Director walks over to inspect a piece of land owned by Stardom Schools.",
+      "optionA": "Early morning before assembly",
+      "optionB": "During lunch break",
+      "optionC": "Late at night after closing",
+      "optionD": "On a Sunday afternoon",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_18",
+      "chapter": 5,
+      "question": "What shocking sight does the Managing Director discover on the school's land during her inspection?",
+      "options": {
+        "A": "Students skipping classes to play football",
+        "B": "Many staff cars and big vehicles parked there secretly",
+        "C": "Construction workers building an unauthorized church",
+        "D": "A giant python coiled under a mango tree"
+      },
+      "answer": "B",
+      "explanation": "Mrs. Gloss is stunned to find numerous expensive cars and big vehicles belonging to staff parked discreetly on the school land.",
+      "optionA": "Students skipping classes to play football",
+      "optionB": "Many staff cars and big vehicles parked there secretly",
+      "optionC": "Construction workers building an unauthorized church",
+      "optionD": "A giant python coiled under a mango tree",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_19",
+      "chapter": 5,
+      "question": "What is Mrs. Ibidun Gloss's immediate suspicion when she sees the big vehicles owned by staff?",
+      "options": {
+        "A": "That parents are using the school land as a public car park",
+        "B": "That teachers are stealing or embezzling school money to buy those cars",
+        "C": "That the government has seized the land for a motor park",
+        "D": "That Bepo has started his transport business on school property"
+      },
+      "answer": "B",
+      "explanation": "Alarmed by the luxury vehicles, the MD fears staff members are siphoning school funds to finance them.",
+      "optionA": "That parents are using the school land as a public car park",
+      "optionB": "That teachers are stealing or embezzling school money to buy those cars",
+      "optionC": "That the government has seized the land for a motor park",
+      "optionD": "That Bepo has started his transport business on school property",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_20",
+      "chapter": 5,
+      "question": "Whom does the MD summon to explain how staff members afforded the vehicles?",
+      "options": {
+        "A": "The PTA Chairman and Mr. Guta",
+        "B": "The school accountant and Principal Bepo",
+        "C": "The local police commissioner and Mr. Audu",
+        "D": "Mrs. Grace Apeh and Mr. Fafore"
+      },
+      "answer": "B",
+      "explanation": "Mrs. Gloss calls the accountant and the principal to account for the source of the staff's sudden purchasing power.",
+      "optionA": "The PTA Chairman and Mr. Guta",
+      "optionB": "The school accountant and Principal Bepo",
+      "optionC": "The local police commissioner and Mr. Audu",
+      "optionD": "Mrs. Grace Apeh and Mr. Fafore",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_21",
+      "chapter": 5,
+      "question": "Where did the staff actually get the money to buy those cars?",
+      "options": {
+        "A": "From an inheritance left by a former proprietor",
+        "B": "From Stardom Schools' staff cooperative society",
+        "C": "From bank loans guaranteed by the Lagos State Government",
+        "D": "From foreign remittances sent by former teachers"
+      },
+      "answer": "B",
+      "explanation": "The accountant and principal explain that the vehicles were financed through loans from the school's thriving staff cooperative society.",
+      "optionA": "From an inheritance left by a former proprietor",
+      "optionB": "From Stardom Schools' staff cooperative society",
+      "optionC": "From bank loans guaranteed by the Lagos State Government",
+      "optionD": "From foreign remittances sent by former teachers",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_22",
+      "chapter": 5,
+      "question": "How much money had the Stardom Schools staff cooperative accumulated in its account?",
+      "options": {
+        "A": "₦25 million",
+        "B": "₦50 million",
+        "C": "₦95 million",
+        "D": "₦150 million"
+      },
+      "answer": "C",
+      "explanation": "The staff cooperative society had grown remarkably large, holding ₦95 million in its account.",
+      "optionA": "₦25 million",
+      "optionB": "₦50 million",
+      "optionC": "₦95 million",
+      "optionD": "₦150 million",
+      "correctOption": "C"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_23",
+      "chapter": 5,
+      "question": "Out of the cooperative's funds, how much had already been loaned out to staff members?",
+      "options": {
+        "A": "₦10 million",
+        "B": "₦30 million",
+        "C": "₦50 million",
+        "D": "₦95 million"
+      },
+      "answer": "C",
+      "explanation": "The cooperative had ₦95 million in its account, with ₦50 million already disbursed as loans to staff.",
+      "optionA": "₦10 million",
+      "optionB": "₦30 million",
+      "optionC": "₦50 million",
+      "optionD": "₦95 million",
+      "correctOption": "C"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_24",
+      "chapter": 5,
+      "question": "Why does the MD view the staff cooperative as \"a snake in the roof\"?",
+      "options": {
+        "A": "Because the cooperative treasurer stole ₦50 million",
+        "B": "Because she fears the cooperative has grown too financially powerful and could threaten management's control",
+        "C": "Because the cooperative kept live snakes on the school land",
+        "D": "Because teachers refused to pay their monthly dues"
+      },
+      "answer": "B",
+      "explanation": "To Mrs. Gloss, a staff body controlling ₦95 million rivals management's authority and represents a hidden institutional risk (\"a snake in the roof\").",
+      "optionA": "Because the cooperative treasurer stole ₦50 million",
+      "optionB": "Because she fears the cooperative has grown too financially powerful and could threaten management's control",
+      "optionC": "Because the cooperative kept live snakes on the school land",
+      "optionD": "Because teachers refused to pay their monthly dues",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_25",
+      "chapter": 5,
+      "question": "What decision does the board of directors take at the end of Chapter 5 regarding the cooperative?",
+      "options": {
+        "A": "They ban the staff cooperative completely and seize its funds",
+        "B": "They place a limit on how much any staff member can borrow from the cooperative",
+        "C": "They sack the school accountant and confiscate the staff cars",
+        "D": "They double every teacher's monthly salary"
+      },
+      "answer": "B",
+      "explanation": "To protect the school from future risk, the board caps the maximum amount an individual staff member can borrow.",
+      "optionA": "They ban the staff cooperative completely and seize its funds",
+      "optionB": "They place a limit on how much any staff member can borrow from the cooperative",
+      "optionC": "They sack the school accountant and confiscate the staff cars",
+      "optionD": "They double every teacher's monthly salary",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_26",
+      "chapter": 5,
+      "question": "Why had the staff parked their big vehicles secretly on the school's parcel of land?",
+      "options": {
+        "A": "There was no space anywhere else in Lekki",
+        "B": "They did not want management to notice their newly acquired cars and assume they were overpaid or stealing",
+        "C": "The cars were broken down and awaiting repairs",
+        "D": "Bepo ordered all teachers to hide their vehicles"
+      },
+      "answer": "B",
+      "explanation": "Staff parked the vehicles out of sight on the school's undeveloped land to avoid drawing management's suspicion.",
+      "optionA": "There was no space anywhere else in Lekki",
+      "optionB": "They did not want management to notice their newly acquired cars and assume they were overpaid or stealing",
+      "optionC": "The cars were broken down and awaiting repairs",
+      "optionD": "Bepo ordered all teachers to hide their vehicles",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_27",
+      "chapter": 5,
+      "question": "What aspect of workplace dynamics in Nigerian private schools does Chapter 5 highlight?",
+      "options": {
+        "A": "Teachers in private schools never save money",
+        "B": "Tension between staff financial empowerment through cooperatives and proprietors' fear of losing control",
+        "C": "School proprietors always encourage teachers to buy luxury SUVs",
+        "D": "Accountants have more authority than Managing Directors"
+      },
+      "answer": "B",
+      "explanation": "The episode illustrates how management can feel threatened when employees build strong collective financial independence.",
+      "optionA": "Teachers in private schools never save money",
+      "optionB": "Tension between staff financial empowerment through cooperatives and proprietors' fear of losing control",
+      "optionC": "School proprietors always encourage teachers to buy luxury SUVs",
+      "optionD": "Accountants have more authority than Managing Directors",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_28",
+      "chapter": 5,
+      "question": "How does Principal Bepo handle the MD's alarm in Chapter 5?",
+      "options": {
+        "A": "He joins the MD in accusing the teachers of theft",
+        "B": "He calmly helps clarify the legitimate cooperative source of the funds alongside the accountant",
+        "C": "He resigns immediately in protest",
+        "D": "He reveals that he borrowed all ₦50 million himself"
+      },
+      "answer": "B",
+      "explanation": "Bepo and the accountant provide transparent facts showing the cars came from legitimate cooperative savings and loans rather than fraud.",
+      "optionA": "He joins the MD in accusing the teachers of theft",
+      "optionB": "He calmly helps clarify the legitimate cooperative source of the funds alongside the accountant",
+      "optionC": "He resigns immediately in protest",
+      "optionD": "He reveals that he borrowed all ₦50 million himself",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_5_1795388916924_29",
+      "chapter": 5,
+      "question": "Which two figures represent the financial strength of the Stardom Schools cooperative in Chapter 5?",
+      "options": {
+        "A": "₦45 million in savings and ₦20 million in assets",
+        "B": "₦95 million in the account and ₦50 million loaned out",
+        "C": "₦100 million in shares and ₦75 million in debt",
+        "D": "₦60 million in cash and ₦15 million in fines"
+      },
+      "answer": "B",
+      "explanation": "The chapter specifically notes ₦95 million in the cooperative's account with ₦50 million loaned out to members.",
+      "optionA": "₦45 million in savings and ₦20 million in assets",
+      "optionB": "₦95 million in the account and ₦50 million loaned out",
+      "optionC": "₦100 million in shares and ₦75 million in debt",
+      "optionD": "₦60 million in cash and ₦15 million in fines",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_30",
+      "chapter": 6,
+      "question": "What does the board's cap on cooperative borrowing aim to achieve?",
+      "options": {
+        "A": "Prevent staff from buying better cars than the Managing Director and mitigate institutional risk",
+        "B": "Force teachers to take loans from commercial banks instead",
+        "C": "Raise funds to build a new hostel in Badagry",
+        "D": "Reward only senior teachers with interest-free loans"
+      },
+      "answer": "A",
+      "explanation": "Management restricts borrowing limits to curb the cooperative's unchecked influence and protect the school from perceived risk. Chapter 6",
+      "optionA": "Prevent staff from buying better cars than the Managing Director and mitigate institutional risk",
+      "optionB": "Force teachers to take loans from commercial banks instead",
+      "optionC": "Raise funds to build a new hostel in Badagry",
+      "optionD": "Reward only senior teachers with interest-free loans",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_31",
+      "chapter": 6,
+      "question": "During which school event does the conflict in Chapter 6 take place?",
+      "options": {
+        "A": "Inter-house sports competition",
+        "B": "Open Day",
+        "C": "Valedictory graduation ceremony",
+        "D": "Morning assembly"
+      },
+      "answer": "B",
+      "explanation": "The grammar dispute occurs on Stardom Schools' Open Day when parents visit to review their children's work.",
+      "optionA": "Inter-house sports competition",
+      "optionB": "Open Day",
+      "optionC": "Valedictory graduation ceremony",
+      "optionD": "Morning assembly",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_32",
+      "chapter": 6,
+      "question": "Which parent complains angrily about a teacher's grammatical expression in Chapter 6?",
+      "options": {
+        "A": "Mr. Ignatius",
+        "B": "Mr. Guta",
+        "C": "Mr. Tosh",
+        "D": "Mr. Banky"
+      },
+      "answer": "B",
+      "explanation": "A parent named Mr. Guta becomes furious after reading a note written by the English teacher.",
+      "optionA": "Mr. Ignatius",
+      "optionB": "Mr. Guta",
+      "optionC": "Mr. Tosh",
+      "optionD": "Mr. Banky",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_33",
+      "chapter": 6,
+      "question": "Who is the English teacher whose sentence sparks the controversy in Chapter 6?",
+      "options": {
+        "A": "Mr. Ope Wonde",
+        "B": "Mr. Fafore",
+        "C": "Mr. Audu",
+        "D": "Mr. Adewale"
+      },
+      "answer": "B",
+      "explanation": "Mr. Fafore, the English teacher, wrote the remark that Mr. Guta mistakenly assumed was ungrammatical.",
+      "optionA": "Mr. Ope Wonde",
+      "optionB": "Mr. Fafore",
+      "optionC": "Mr. Audu",
+      "optionD": "Mr. Adewale",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_34",
+      "chapter": 6,
+      "question": "What exact sentence written by Mr. Fafore angers Mr. Guta?",
+      "options": {
+        "A": "\"Ade and Jide comes early.\"",
+        "B": "\"Ade as well as Jide comes early.\"",
+        "C": "\"Neither Ade nor Jide come early.\"",
+        "D": "\"Ade as well as Jide have came early.\""
+      },
+      "answer": "B",
+      "explanation": "Mr. Fafore wrote, \"Ade as well as Jide comes early,\" which follows standard subject-verb concord rules.",
+      "optionA": "\"Ade and Jide comes early.\"",
+      "optionB": "\"Ade as well as Jide comes early.\"",
+      "optionC": "\"Neither Ade nor Jide come early.\"",
+      "optionD": "\"Ade as well as Jide have came early.\"",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_35",
+      "chapter": 6,
+      "question": "How does the Managing Director (Mrs. Ibidun Gloss) initially react to Mr. Guta's complaint?",
+      "options": {
+        "A": "She consults an English dictionary before responding",
+        "B": "She assumes Fafore made an embarrassing grammar error and orders him sacked immediately without checking",
+        "C": "She defends Mr. Fafore in front of all the parents",
+        "D": "She asks Mr. Audu to rewrite the report card"
+      },
+      "answer": "B",
+      "explanation": "Eager to appease the angry parent, the MD rashly orders Mr. Fafore's immediate dismissal without verifying the grammar rule.",
+      "optionA": "She consults an English dictionary before responding",
+      "optionB": "She assumes Fafore made an embarrassing grammar error and orders him sacked immediately without checking",
+      "optionC": "She defends Mr. Fafore in front of all the parents",
+      "optionD": "She asks Mr. Audu to rewrite the report card",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_36",
+      "chapter": 6,
+      "question": "Who steps in to defend Mr. Fafore from being unjustly sacked?",
+      "options": {
+        "A": "Mrs. Grace Apeh",
+        "B": "Principal Bepo Adewale",
+        "C": "Mr. Guta's wife",
+        "D": "The school accountant"
+      },
+      "answer": "B",
+      "explanation": "Principal Bepo stands up for his teacher and explains that Mr. Fafore's sentence is grammatically sound.",
+      "optionA": "Mrs. Grace Apeh",
+      "optionB": "Principal Bepo Adewale",
+      "optionC": "Mr. Guta's wife",
+      "optionD": "The school accountant",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_37",
+      "chapter": 6,
+      "question": "Why is the sentence \"Ade as well as Jide comes early\" grammatically correct?",
+      "options": {
+        "A": "Because \"Jide\" is a singular proper noun",
+        "B": "Because when two singular subjects are joined by \"as well as,\" the verb agrees with the first subject (\"Ade\"), taking a singular verb (\"comes\")",
+        "C": "Because \"comes\" is a plural verb in British English",
+        "D": "Because \"early\" modifies both subjects equally"
+      },
+      "answer": "B",
+      "explanation": "Under the rule of concord, parenthetical expressions like \"as well as\" do not form a compound plural subject; the verb agrees with the main subject, \"Ade.\"",
+      "optionA": "Because \"Jide\" is a singular proper noun",
+      "optionB": "Because when two singular subjects are joined by \"as well as,\" the verb agrees with the first subject (\"Ade\"), taking a singular verb (\"comes\")",
+      "optionC": "Because \"comes\" is a plural verb in British English",
+      "optionD": "Because \"early\" modifies both subjects equally",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_38",
+      "chapter": 6,
+      "question": "How do the MD, parent, and staff verify who is right in the grammar dispute?",
+      "options": {
+        "A": "They call a professor at the University of Lagos",
+        "B": "Everyone checks online and confirms that Bepo and Fafore are right",
+        "C": "They take a vote among the students",
+        "D": "They check an old typewriter manual in the library"
+      },
+      "answer": "B",
+      "explanation": "Checking online confirms the concord rule, proving Bepo and Mr. Fafore correct and showing that the MD had jumped to the wrong conclusion.",
+      "optionA": "They call a professor at the University of Lagos",
+      "optionB": "Everyone checks online and confirms that Bepo and Fafore are right",
+      "optionC": "They take a vote among the students",
+      "optionD": "They check an old typewriter manual in the library",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_39",
+      "chapter": 6,
+      "question": "Which teacher uses humor to ease the tension and embarrassment after the MD is proven wrong?",
+      "options": {
+        "A": "Mr. Ope Wonde",
+        "B": "Mr. Audu",
+        "C": "Mr. Fafore",
+        "D": "Mrs. Grace Apeh"
+      },
+      "answer": "B",
+      "explanation": "Mr. Audu, known as the comic teacher, cracks jokes about the situation to diffuse the awkwardness.",
+      "optionA": "Mr. Ope Wonde",
+      "optionB": "Mr. Audu",
+      "optionC": "Mr. Fafore",
+      "optionD": "Mrs. Grace Apeh",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_40",
+      "chapter": 6,
+      "question": "What is the final outcome for Mr. Fafore at the end of Chapter 6?",
+      "options": {
+        "A": "He resigns out of anger at the Managing Director",
+        "B": "He is demoted to teaching primary school",
+        "C": "He is vindicated and is not sacked after all",
+        "D": "He is transferred to Beesway Group of Schools"
+      },
+      "answer": "C",
+      "explanation": "Once the online check proves his grammar was accurate, Mr. Fafore keeps his job.",
+      "optionA": "He resigns out of anger at the Managing Director",
+      "optionB": "He is demoted to teaching primary school",
+      "optionC": "He is vindicated and is not sacked after all",
+      "optionD": "He is transferred to Beesway Group of Schools",
+      "correctOption": "C"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_41",
+      "chapter": 6,
+      "question": "What leadership quality does Principal Bepo display in Chapter 6?",
+      "options": {
+        "A": "Blind obedience to his employer even when she is wrong",
+        "B": "Courage to defend a subordinate with facts and intellectual confidence",
+        "C": "Indifference toward academic standards",
+        "D": "Fear of confronting wealthy parents"
+      },
+      "answer": "B",
+      "explanation": "Bepo refuses to let an innocent teacher lose his livelihood due to a parent's ignorance or the MD's hasty judgment.",
+      "optionA": "Blind obedience to his employer even when she is wrong",
+      "optionB": "Courage to defend a subordinate with facts and intellectual confidence",
+      "optionC": "Indifference toward academic standards",
+      "optionD": "Fear of confronting wealthy parents",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_42",
+      "chapter": 6,
+      "question": "What flaw in Mrs. Ibidun Gloss's management style is exposed in Chapter 6?",
+      "options": {
+        "A": "She is too slow to make any administrative decision",
+        "B": "She acts impulsively to please parents without investigating facts first",
+        "C": "She refuses to attend school Open Days",
+        "D": "She dislikes all English teachers"
+      },
+      "answer": "B",
+      "explanation": "Mrs. Gloss nearly sacks a competent teacher on the spot without checking whether the complaint had any merit.",
+      "optionA": "She is too slow to make any administrative decision",
+      "optionB": "She acts impulsively to please parents without investigating facts first",
+      "optionC": "She refuses to attend school Open Days",
+      "optionD": "She dislikes all English teachers",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_43",
+      "chapter": 6,
+      "question": "What is the title of Chapter 6?",
+      "options": {
+        "A": "Ade as well as Jide — COMES vs. COME",
+        "B": "Open Day Embarrassment",
+        "C": "The English Teacher's Trial",
+        "D": "Grammar and Authority"
+      },
+      "answer": "A",
+      "explanation": "Chapter 6 is titled \"Ade as well as Jide — COMES vs. COME,\" highlighting the exact grammatical rule at the center of the episode.",
+      "optionA": "Ade as well as Jide — COMES vs. COME",
+      "optionB": "Open Day Embarrassment",
+      "optionC": "The English Teacher's Trial",
+      "optionD": "Grammar and Authority",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_44",
+      "chapter": 6,
+      "question": "How does Mr. Audu's intervention in Chapter 6 help the school leadership?",
+      "options": {
+        "A": "He apologizes on behalf of Mr. Guta",
+        "B": "His comic relief saves the MD from prolonged public humiliation and restores a relaxed atmosphere",
+        "C": "He threatens to report Mr. Guta to the police",
+        "D": "He proves that Mr. Guta never attended secondary school"
+      },
+      "answer": "B",
+      "explanation": "Mr. Audu's timely humor softens the MD's embarrassment in front of staff and parents.",
+      "optionA": "He apologizes on behalf of Mr. Guta",
+      "optionB": "His comic relief saves the MD from prolonged public humiliation and restores a relaxed atmosphere",
+      "optionC": "He threatens to report Mr. Guta to the police",
+      "optionD": "He proves that Mr. Guta never attended secondary school",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_6_1795388916924_45",
+      "chapter": 6,
+      "question": "What educational lesson does Chapter 6 reinforce for students preparing for JAMB Use of English?",
+      "options": {
+        "A": "Always use plural verbs whenever two names appear in a sentence",
+        "B": "Subordinators/phrases like \"as well as,\" \"along with,\" and \"together with\" do not make a singular subject plural",
+        "C": "Parents are always right about English grammar",
+        "D": "Online dictionaries should never be trusted in school"
+      },
+      "answer": "B",
+      "explanation": "The chapter directly dramatizes a classic JAMB Use of English concord rule involving \"as well as.\"",
+      "optionA": "Always use plural verbs whenever two names appear in a sentence",
+      "optionB": "Subordinators/phrases like \"as well as,\" \"along with,\" and \"together with\" do not make a singular subject plural",
+      "optionC": "Parents are always right about English grammar",
+      "optionD": "Online dictionaries should never be trusted in school",
+      "correctOption": "B"
     }
   ],
   "characters": [
@@ -1271,5 +2533,5 @@
     "Student Empowerment, Moral Mentorship & Institutional Legacy",
     "Faith, Hope and Ethical Integrity in Contemporary Nigeria"
   ],
-  "updatedAt": "2026-11-22T23:07:48.349Z"
+  "updatedAt": "2026-11-22T23:09:04.562Z"
 }
