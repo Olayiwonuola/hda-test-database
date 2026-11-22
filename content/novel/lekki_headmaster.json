@@ -1332,14 +1332,316 @@
       "title": "Passport Pains",
       "summary": "Bepo faces frustrating problems trying to renew his expired Nigerian passport.   \n\nBecause of large crowds and long delays at the Lagos passport office, he decides to travel to Ibadan for a faster process.   \n\nOn the journey, Bepo reflects on the changes he sees along the Lagos-Ibadan Expressway — new roads, businesses and religious buildings.   \n\nHe ends up paying extra money to an agent (Tai) to speed things up, which shows how common bribery and \"connection\" are in government processes.   \n\nEven after paying the agent, Bepo still faces more delays at the National Identity Number (NIN) office, which puts his travel date at risk",
       "highYieldPoints": [],
-      "quiz": []
+      "quiz": [
+        {
+          "id": "q_lekki_10_1795389149243_1",
+          "question": "What is the title of Chapter 10 in The Lekki Headmaster?",
+          "optionA": "Point of No Return",
+          "optionB": "Passport Pains",
+          "optionC": "A Case of Visa Denied",
+          "optionD": "...Dawn",
+          "correctOption": "B",
+          "explanation": "Chapter 10 is titled \"Passport Pains,\" chronicling the bureaucratic hurdles Bepo faces while renewing his expired Nigerian passport[cite: 6]."
+        },
+        {
+          "id": "q_lekki_10_1795389149243_2",
+          "question": "Why does Principal Bepo decide to travel from Lagos to Ibadan in Chapter 10?",
+          "optionA": "To attend a national conference of private school principals",
+          "optionB": "To avoid massive crowds and long delays at the Lagos passport office",
+          "optionC": "To visit his wife Seri's family home",
+          "optionD": "To inspect a branch of Stardom Schools in Oyo State",
+          "correctOption": "B",
+          "explanation": "Frustrated by heavy congestion and slow processing at the Lagos passport office, Bepo heads to Ibadan hoping for a faster renewal[cite: 6]."
+        },
+        {
+          "id": "q_lekki_10_1795389149243_3",
+          "question": "What does Bepo observe along the Lagos-Ibadan Expressway during his journey to Ibadan?",
+          "optionA": "Abandoned farmland and flooded villages",
+          "optionB": "Rapid physical development including new roads, businesses, and religious buildings",
+          "optionC": "Military checkpoints every two kilometers",
+          "optionD": "Street protests by university students",
+          "correctOption": "B",
+          "explanation": "Along the Lagos-Ibadan Expressway, Bepo reflects on the visible growth of new roads, commercial enterprises, and religious centers[cite: 6]."
+        },
+        {
+          "id": "q_lekki_10_1795389149243_4",
+          "question": "Who is Tai in Chapter 10?",
+          "optionA": "Bepo's younger brother who works at the airport",
+          "optionB": "An agent whom Bepo pays extra money to speed up his passport renewal",
+          "optionC": "The immigration comptroller in Ibadan",
+          "optionD": "A senior prefect at Stardom Schools",
+          "correctOption": "B",
+          "explanation": "Bepo ends up paying extra money to an agent named Tai to expedite his passport renewal process[cite: 6]."
+        },
+        {
+          "id": "q_lekki_10_1795389149243_5",
+          "question": "What systemic problem in Nigerian public administration does Bepo's interaction with Tai expose?",
+          "optionA": "Lack of computer literacy among bank tellers",
+          "optionB": "How widespread bribery and informal \"connection\" networks have become in official government processes",
+          "optionC": "The refusal of immigration offices to accept Naira payments",
+          "optionD": "Overstaffing at federal ministries",
+          "correctOption": "B",
+          "explanation": "Paying an agent extra money to bypass bottlenecks highlights how entrenched bribery and \"connection\" are in public service delivery[cite: 6]."
+        },
+        {
+          "id": "q_lekki_10_1795389149243_6",
+          "question": "Which additional government agency causes further delays for Bepo even after he pays the agent?",
+          "optionA": "The Federal Road Safety Corps (FRSC)",
+          "optionB": "The National Identity Number (NIN) office",
+          "optionC": "The Corporate Affairs Commission (CAC)",
+          "optionD": "The Joint Admissions and Matriculation Board (JAMB)",
+          "correctOption": "B",
+          "explanation": "Even after paying Tai, Bepo encounters frustrating delays at the National Identity Number (NIN) office[cite: 6]."
+        },
+        {
+          "id": "q_lekki_10_1795389149243_7",
+          "question": "What serious consequence do the delays at the passport and NIN offices create for Bepo?",
+          "optionA": "His UK visa is permanently revoked",
+          "optionB": "His planned travel date is put at risk",
+          "optionC": "He loses his job at Stardom Schools before his farewell",
+          "optionD": "He is arrested for double registration",
+          "correctOption": "B",
+          "explanation": "The compounded bottlenecks at both the passport and NIN offices threaten to make him miss his scheduled departure date[cite: 6]."
+        },
+        {
+          "id": "q_lekki_10_1795389149243_8",
+          "question": "What internal conflict does Bepo's reliance on an agent (Tai) represent?",
+          "optionA": "A principled man forced to navigate a corrupt, inefficient bureaucracy just to get basic documentation",
+          "optionB": "A corrupt principal looking for ways to defraud the government",
+          "optionC": "An opportunist trying to start an immigration agency in Ibadan",
+          "optionD": "A teacher who refuses to follow any official guidelines",
+          "correctOption": "A",
+          "explanation": "Even a man of high integrity like Bepo finds himself trapped by a broken system where paying extra to middlemen is treated as the only way forward[cite: 6]."
+        },
+        {
+          "id": "q_lekki_10_1795389149243_9",
+          "question": "Why was Bepo renewing his Nigerian passport in Chapter 10?",
+          "optionA": "Because his previous passport had expired before his planned trip to the UK",
+          "optionB": "Because he lost his passport during the Badagry excursion",
+          "optionC": "Because his wife Seri tore his old passport",
+          "optionD": "Because he wanted to apply for a Canadian diplomatic visa",
+          "correctOption": "A",
+          "explanation": "Bepo needed to renew his expired Nigerian passport so he could travel to join his family in the United Kingdom[cite: 6]."
+        },
+        {
+          "id": "q_lekki_10_1795389149243_10",
+          "question": "What does Bepo's reflection on the new buildings and businesses along the Lagos-Ibadan Expressway reveal?",
+          "optionA": "That Nigeria has zero economic activity outside Lekki",
+          "optionB": "His observant nature and appreciation of the energy, growth, and potential within Nigeria",
+          "optionC": "His desire to become a real estate developer in Ogun State",
+          "optionD": "His anger over traffic congestion caused by churches",
+          "correctOption": "B",
+          "explanation": "As he travels, Bepo notices signs of enterprise and development along the corridor, reflecting his deep connection to his homeland[cite: 6]."
+        },
+        {
+          "id": "q_lekki_10_1795389149243_11",
+          "question": "Which two cities are central to Bepo's passport renewal journey in Chapter 10?",
+          "optionA": "Lagos and Abuja",
+          "optionB": "Lagos and Ibadan",
+          "optionC": "Ibadan and Abeokuta",
+          "optionD": "Lekki and Badagry",
+          "correctOption": "B",
+          "explanation": "Unable to endure the delays in Lagos, Bepo travels to Ibadan to process his passport renewal[cite: 6]."
+        },
+        {
+          "id": "q_lekki_10_1795389149243_12",
+          "question": "How does Chapter 10 contribute to the novel's portrayal of the \"japa\" experience?",
+          "optionA": "It shows that preparing to leave Nigeria involves exhausting bureaucratic stress and extra financial costs",
+          "optionB": "It proves that Nigerian government offices operate with instant efficiency",
+          "optionC": "It suggests that only residents of Ibadan can obtain passports",
+          "optionD": "It shows that NIN is not required for international travel",
+          "correctOption": "A",
+          "explanation": "The chapter illustrates the frustrating administrative hurdles—crowds, middlemen, and NIN delays—that emigrants must endure before leaving[cite: 6]."
+        },
+        {
+          "id": "q_lekki_10_1795389149243_13",
+          "question": "What ironic situation does Bepo face in Chapter 10?",
+          "optionA": "He travels to Ibadan for speed, pays an agent to hasten things, yet still gets stalled at the NIN office",
+          "optionB": "He forgets to bring any passport photographs to Ibadan",
+          "optionC": "He arrives at the passport office on a public holiday",
+          "optionD": "He accidentally renews his driver's license instead of his passport",
+          "correctOption": "A",
+          "explanation": "Despite leaving Lagos for a faster process and paying Tai extra, Bepo is still held up by NIN verification delays[cite: 6]."
+        },
+        {
+          "id": "q_lekki_10_1795389149243_14",
+          "question": "Which documentation hurdle almost derails Bepo's departure schedule in Chapter 10?",
+          "optionA": "Missing primary school certificate",
+          "optionB": "Expired Nigerian passport and National Identity Number (NIN) processing delays",
+          "optionC": "Unpaid tenement rates in Lekki",
+          "optionD": "Expired yellow fever vaccination card",
+          "correctOption": "B",
+          "explanation": "Both the passport renewal and NIN office delays put Bepo's scheduled flight at serious risk[cite: 6]."
+        },
+        {
+          "id": "q_lekki_10_1795389149243_15",
+          "question": "What tone characterizes Chapter 10?",
+          "optionA": "Lighthearted comedy from start to finish",
+          "optionB": "Satirical frustration over bureaucratic inefficiency and institutional bottlenecks",
+          "optionC": "Gothic horror and suspense",
+          "optionD": "Romantic nostalgia",
+          "correctOption": "B",
+          "explanation": "Through Bepo's ordeal with crowds, middlemen, and NIN delays, the chapter satirizes the exhausting inefficiencies of public institutions[cite: 6]."
+        }
+      ]
     },
     {
       "chapterNumber": 11,
       "title": "Point of No Return",
       "summary": "The school organizes a big farewell party for Bepo.   \n\nThere are games, a debate, comedy skits mimicking Bepo's habits and traditional Nigerian dances, including a Canoe dance from Badagry.   \n\nDuring the dance, Bepo becomes so emotional (remembering the slave history again) that he shouts out loud, disturbing the performance — but he quickly calms the crowd with a joke.   \n\nThe MD gives a moving speech praising Bepo's 24 years of service and presents him with a cheque of $10,000 as a farewell gift.   \n\nBepo is overcome with emotion and cries as he tries to give his thank-you speech.   ",
       "highYieldPoints": [],
-      "quiz": []
+      "quiz": [
+        {
+          "id": "q_lekki_11_1795389149243_16",
+          "question": "What is the title of Chapter 11 in The Lekki Headmaster?",
+          "optionA": "Dusk...",
+          "optionB": "Point of No Return",
+          "optionC": "...Dawn",
+          "optionD": "Missions Unaccomplished",
+          "correctOption": "B",
+          "explanation": "Chapter 11 is titled \"Point of No Return,\" capturing the emotional farewell event organized for Bepo at Stardom Schools[cite: 6]."
+        },
+        {
+          "id": "q_lekki_11_1795389149243_17",
+          "question": "What major event does Stardom Schools organize for Bepo in Chapter 11?",
+          "optionA": "A surprise birthday party",
+          "optionB": "A grand farewell party",
+          "optionC": "An inter-house sports festival",
+          "optionD": "A fundraising gala for the Invention Club",
+          "correctOption": "B",
+          "explanation": "The school community hosts an elaborate farewell party to celebrate Bepo's years of leadership before his departure[cite: 6]."
+        },
+        {
+          "id": "q_lekki_11_1795389149243_18",
+          "question": "Which activities feature during Bepo's farewell party in Chapter 11?",
+          "optionA": "Swimming competitions and chess tournaments",
+          "optionB": "Games, a debate, comedy skits mimicking Bepo's habits, and traditional Nigerian dances",
+          "optionC": "Science exhibitions and spelling bees",
+          "optionD": "Poetry recitals by parents only",
+          "correctOption": "B",
+          "explanation": "The farewell celebration includes games, a debate, humorous skits imitating Bepo's mannerisms, and traditional dances[cite: 6]."
+        },
+        {
+          "id": "q_lekki_11_1795389149243_19",
+          "question": "Which specific traditional dance performed at the farewell party triggers a strong emotional reaction from Bepo?",
+          "optionA": "The Bata dance from Oyo",
+          "optionB": "The Canoe dance from Badagry",
+          "optionC": "The Atilogwu dance from Anambra",
+          "optionD": "The Swange dance from Benue",
+          "correctOption": "B",
+          "explanation": "The performance of the Canoe dance from Badagry stirs deep emotions in Bepo[cite: 6]."
+        },
+        {
+          "id": "q_lekki_11_1795389149243_20",
+          "question": "Why does Bepo shout out loud and disturb the Canoe dance performance during his farewell party?",
+          "optionA": "Because a dancer fell off the stage",
+          "optionB": "Because the Badagry dance reminds him once again of the painful history of the slave trade and his own departure",
+          "optionC": "Because the sound system broke down",
+          "optionD": "Because he was angry at the students mimicking his habits",
+          "correctOption": "B",
+          "explanation": "Watching the Badagry Canoe dance triggers memories of the slave trade and the \"Point of No Return,\" causing him to cry out involuntarily[cite: 6]."
+        },
+        {
+          "id": "q_lekki_11_1795389149243_21",
+          "question": "How does Bepo quickly recover the mood of the audience after shouting out during the dance?",
+          "optionA": "He walks out of the hall in silence",
+          "optionB": "He quickly calms the crowd with a joke",
+          "optionC": "He asks the Managing Director to stop the music",
+          "optionD": "He delivers a stern lecture on history",
+          "correctOption": "B",
+          "explanation": "Showing his trademark wit and composure, Bepo immediately cracks a joke to ease the tension and reassure everyone[cite: 6]."
+        },
+        {
+          "id": "q_lekki_11_1795389149243_22",
+          "question": "How many years of service does the Managing Director praise Bepo for in her farewell speech?",
+          "optionA": "15 years",
+          "optionB": "20 years",
+          "optionC": "24 years",
+          "optionD": "30 years",
+          "correctOption": "C",
+          "explanation": "In her moving tribute, Mrs. Ibidun Gloss commends Bepo for 24 years of dedicated service to Stardom Schools[cite: 6]."
+        },
+        {
+          "id": "q_lekki_11_1795389149243_23",
+          "question": "What farewell gift does the Managing Director present to Bepo on behalf of the school?",
+          "optionA": "A brand-new SUV",
+          "optionB": "A cheque of $10,000",
+          "optionC": "A plot of land in Lekki",
+          "optionD": "A gold wristwatch and plaque",
+          "correctOption": "B",
+          "explanation": "Mrs. Gloss presents Bepo with a generous farewell cheque of $10,000 in appreciation of his 24 years of service[cite: 6]."
+        },
+        {
+          "id": "q_lekki_11_1795389149243_24",
+          "question": "How does Bepo react when he steps forward to deliver his thank-you speech?",
+          "optionA": "He criticizes the board for limiting the cooperative society",
+          "optionB": "He is overcome with emotion and cries as he tries to speak",
+          "optionC": "He announces that he has already canceled his flight",
+          "optionD": "He hands the $10,000 cheque back to the MD",
+          "correctOption": "B",
+          "explanation": "Deeply moved by the school's love, tribute, and $10,000 gift, Bepo breaks into tears while attempting his thank-you speech[cite: 6]."
+        },
+        {
+          "id": "q_lekki_11_1795389149243_25",
+          "question": "What do the comedy skits mimicking Bepo's habits reveal about how students view him?",
+          "optionA": "They mock him out of hatred and disrespect",
+          "optionB": "They observe him fondly and affectionately as a beloved, memorable mentor",
+          "optionC": "They have never interacted with him closely",
+          "optionD": "They want him to leave the school as soon as possible",
+          "correctOption": "B",
+          "explanation": "Mimicking a leader's familiar mannerisms at a farewell party reflects warmth, affection, and close daily connection[cite: 6]."
+        },
+        {
+          "id": "q_lekki_11_1795389149243_26",
+          "question": "Why is Chapter 11 titled \"Point of No Return\"?",
+          "optionA": "Because Bepo boards his flight to London in this chapter",
+          "optionB": "Because the farewell party marks the emotional threshold of leaving his 24-year career, echoed by the Badagry slave-trade motif",
+          "optionC": "Because the school gates are permanently locked after the party",
+          "optionD": "Because the Managing Director refuses to ever rehire him",
+          "correctOption": "B",
+          "explanation": "The title links Bepo's emotional farewell ceremony with the Badagry slave-trade symbol that resurfaces during the Canoe dance[cite: 6]."
+        },
+        {
+          "id": "q_lekki_11_1795389149243_27",
+          "question": "What does the $10,000 farewell gift signify about Bepo's impact on Stardom Schools?",
+          "optionA": "That the school wanted to bribe him to keep quiet about the cooperative",
+          "optionB": "That management and proprietors deeply valued his 24 years of transformational leadership",
+          "optionC": "That Bepo had been underpaid for two decades",
+          "optionD": "That foreign currency was the only money in the school account",
+          "correctOption": "B",
+          "explanation": "Presenting a $10,000 cheque alongside a glowing speech demonstrates immense institutional gratitude for Bepo's loyalty and impact[cite: 6]."
+        },
+        {
+          "id": "q_lekki_11_1795389149243_28",
+          "question": "How does Bepo's reaction in Chapter 11 echo his breakdown in Chapter 1?",
+          "optionA": "In both chapters, overwhelming emotion over leaving Stardom Schools brings him to tears in front of the school community",
+          "optionB": "In both chapters, he refuses to speak a single word",
+          "optionC": "In both chapters, he argues publicly with Mr. Guta",
+          "optionD": "In both chapters, he collapses and is rushed to the hospital",
+          "correctOption": "A",
+          "explanation": "Just as he wept on the assembly podium in Chapter 1, Bepo's deep love for the school moves him to tears during his farewell speech[cite: 3, 6]."
+        },
+        {
+          "id": "q_lekki_11_1795389149243_29",
+          "question": "Which combination of elements makes Chapter 11 both celebratory and poignant?",
+          "optionA": "Lively games, debates, skits, and dances contrasted with Bepo's slave-history outburst and tearful farewell",
+          "optionB": "A somber funeral procession followed by a staff strike",
+          "optionC": "A courtroom trial followed by a graduation ceremony",
+          "optionD": "An angry confrontation between parents and teachers",
+          "correctOption": "A",
+          "explanation": "Joyous tributes, skits, and the $10,000 gift blend with Bepo's intense grief at parting from the school he loves[cite: 6]."
+        },
+        {
+          "id": "q_lekki_11_1795389149243_30",
+          "question": "What is the dominant atmosphere at the end of Chapter 11?",
+          "optionA": "Bitter hostility",
+          "optionB": "Deep gratitude, affection, and bittersweet emotion",
+          "optionC": "Cold indifference",
+          "optionD": "Comic relief without any sadness",
+          "correctOption": "B",
+          "explanation": "The chapter closes on a deeply touching note of mutual love and sorrowful parting between Bepo and Stardom Schools[cite: 6]."
+        }
+      ]
     },
     {
       "chapterNumber": 12,
@@ -1356,6 +1658,156 @@
           "optionD": "Private schools pay better than jobs in the United Kingdom",
           "correctOption": "B",
           "explanation": "Bepo's return (\"My heart is here!\") underscores the theme of patriotism and finding purpose in building one's home country."
+        },
+        {
+          "id": "q_lekki_12_1795389149243_31",
+          "question": "What is the title of the final chapter (Chapter 12) of The Lekki Headmaster?",
+          "optionA": "Dusk...",
+          "optionB": "...Dawn",
+          "optionC": "Homeward Bound",
+          "optionD": "The New Beginning",
+          "correctOption": "B",
+          "explanation": "Chapter 12 is titled \"...Dawn,\" completing the day-cycle symmetry begun in Chapter 1 (\"Dusk...\")[cite: 3, 6]."
+        },
+        {
+          "id": "q_lekki_12_1795389149243_32",
+          "question": "What past travel mistake does Bepo recall as he prepares to go to the airport in Chapter 12?",
+          "optionA": "Losing his luggage in Abuja",
+          "optionB": "Missing a flight earlier in life because he misread his ticket",
+          "optionC": "Boarding the wrong plane to Ghana",
+          "optionD": "Forgetting his passport at Stardom Schools",
+          "correctOption": "B",
+          "explanation": "Remembering an earlier occasion when he missed a flight by misreading his ticket, Bepo takes extra care with his travel preparations[cite: 6]."
+        },
+        {
+          "id": "q_lekki_12_1795389149243_33",
+          "question": "Who comes to bid Bepo goodbye and accompany him to the airport in Chapter 12?",
+          "optionA": "Only his travel agent Tai",
+          "optionB": "His landlord's family, who say goodbye, and his colleagues (the VP, accountant, and other teachers), who follow him to the airport",
+          "optionC": "The Managing Director and Mr. Guta alone",
+          "optionD": "Nobody, because he leaves secretly at midnight",
+          "correctOption": "B",
+          "explanation": "Bepo's landlord's family bids him farewell, while the Vice Principal, accountant, and fellow teachers escort him to the airport[cite: 6]."
+        },
+        {
+          "id": "q_lekki_12_1795389149243_34",
+          "question": "What does Bepo do at the airport after checking in for his flight?",
+          "optionA": "He immediately calls Seri to cancel his ticket",
+          "optionB": "He falls asleep while waiting to board",
+          "optionC": "He meets Mr. Ignatius at the departure lounge",
+          "optionD": "He gives an impromptu lecture to airport staff",
+          "correctOption": "B",
+          "explanation": "After completing check-in procedures, Bepo dozes off in the waiting area before boarding[cite: 6]."
+        },
+        {
+          "id": "q_lekki_12_1795389149243_35",
+          "question": "What frightening nightmare does Bepo have while sleeping at the airport?",
+          "optionA": "That Stardom Schools has burned to the ground",
+          "optionB": "That he is back at the slave museum in Badagry, being forced onto a slave ship",
+          "optionC": "That his plane crashes into the Atlantic Ocean",
+          "optionD": "That he is arrested by immigration officers in London",
+          "correctOption": "B",
+          "explanation": "Bepo dreams vividly of the Badagry slave museum and sees himself being forcibly driven onto a slave ship[cite: 6]."
+        },
+        {
+          "id": "q_lekki_12_1795389149243_36",
+          "question": "How does Bepo wake up from his nightmare at the airport?",
+          "optionA": "Smiling quietly to himself",
+          "optionB": "Screaming \"Nooo!\" just before the flight takes off",
+          "optionC": "Asking a flight attendant for a glass of water",
+          "optionD": "Calling Mrs. Ibidun Gloss on the phone",
+          "correctOption": "B",
+          "explanation": "Terrified by the vision of being forced onto a slave ship, Bepo wakes up screaming \"Nooo!\" right before boarding/takeoff[cite: 6]."
+        },
+        {
+          "id": "q_lekki_12_1795389149243_37",
+          "question": "What unexpected event happens at Stardom Schools on the Monday following Bepo's supposed departure?",
+          "optionA": "The Managing Director announces the permanent closure of the school",
+          "optionB": "While students are mourning Bepo's absence, he suddenly appears at the school gate",
+          "optionC": "Seri arrives from London to take over as principal",
+          "optionD": "The Invention Club cancels its phone project",
+          "correctOption": "B",
+          "explanation": "On Monday morning, as saddened students miss him, Bepo shockingly turns up at the Stardom Schools gate[cite: 6]."
+        },
+        {
+          "id": "q_lekki_12_1795389149243_38",
+          "question": "What final decision does Bepo make regarding his relocation to the United Kingdom?",
+          "optionA": "He postpones his trip for two weeks",
+          "optionB": "He decides not to leave Nigeria after all",
+          "optionC": "He decides to relocate to Canada instead of the UK",
+          "optionD": "He returns only to collect his $10,000 cheque",
+          "correctOption": "B",
+          "explanation": "Following his airport epiphany, Bepo abandons the relocation plan and chooses to remain in Nigeria[cite: 6]."
+        },
+        {
+          "id": "q_lekki_12_1795389149243_39",
+          "question": "What famous declaration does Bepo make to everyone upon returning to Stardom Schools?",
+          "optionA": "\"Nigeria will never change!\"",
+          "optionB": "\"My heart is here!\"",
+          "optionC": "\"The journey has just begun!\"",
+          "optionD": "\"I have come to claim my throne!\"",
+          "correctOption": "B",
+          "explanation": "Bepo announces to the rejoicing school community, \"My heart is here!\"[cite: 6]"
+        },
+        {
+          "id": "q_lekki_12_1795389149243_40",
+          "question": "How do the students at Stardom Schools react to Bepo's return on Monday?",
+          "optionA": "They are confused and disappointed",
+          "optionB": "They celebrate his return with immense joy",
+          "optionC": "They ignore him and continue their assembly",
+          "optionD": "They ask him why he wasted his flight ticket",
+          "correctOption": "B",
+          "explanation": "Overjoyed to see their beloved headmaster back, the students erupt in celebration[cite: 6]."
+        },
+        {
+          "id": "q_lekki_12_1795389149243_41",
+          "question": "What psychological role does Bepo's airport dream play in the resolution of the novel?",
+          "optionA": "It is a meaningless dream caused by airport noise",
+          "optionB": "It acts as his subconscious awakening, confirming that leaving Nigeria feels like voluntary enslavement against his true calling",
+          "optionC": "It convinces him that flying is medically unsafe",
+          "optionD": "It reminds him that he left his luggage with his landlord",
+          "correctOption": "B",
+          "explanation": "The nightmare fuses the Badagry slave-ship imagery with his reluctance to leave, crystalizing his realization that his true purpose is in Nigeria[cite: 6]."
+        },
+        {
+          "id": "q_lekki_12_1795389149243_42",
+          "question": "Why is the final chapter titled \"...Dawn\"?",
+          "optionA": "Because Bepo's flight departed at 5:00 a.m.",
+          "optionB": "Because Bepo's return marks a fresh beginning, clarity of purpose, and renewed hope for him and Stardom Schools",
+          "optionC": "Because the school changed its morning assembly time",
+          "optionD": "Because Bepo decided to open a morning-shift school",
+          "correctOption": "B",
+          "explanation": "\"...Dawn\" symbolizes renewal, light after emotional darkness, and Bepo's joyful recommitment to his vocation at home[cite: 6]."
+        },
+        {
+          "id": "q_lekki_12_1795389149243_43",
+          "question": "What does the loyalty of the landlord's family, VP, accountant, and teachers in Chapter 12 demonstrate?",
+          "optionA": "They wanted to make sure Bepo actually left the country",
+          "optionB": "Bepo's warmth and integrity earned him genuine love both at home and in the workplace",
+          "optionC": "They were hoping to share his $10,000 farewell gift",
+          "optionD": "The Managing Director forced them to go to the airport",
+          "correctOption": "B",
+          "explanation": "Having both his neighbors and colleagues turn out to see him off reflects the deep affection Bepo inspires everywhere he lives and works[cite: 6]."
+        },
+        {
+          "id": "q_lekki_12_1795389149243_44",
+          "question": "How does Bepo's resolution in Chapter 12 address the novel's central \"japa\" debate?",
+          "optionA": "It argues that foreign countries do not exist",
+          "optionB": "It affirms that while relocation entices many, personal fulfillment and patriotism can triumph over external pressure to leave",
+          "optionC": "It proves that Seri will divorce him immediately",
+          "optionD": "It shows that money is the only factor in career decisions",
+          "correctOption": "B",
+          "explanation": "By choosing \"My heart is here!\" over life in the UK, Bepo embodies devotion to purpose, community, and homeland[cite: 6]."
+        },
+        {
+          "id": "q_lekki_12_1795389149243_45",
+          "question": "Which structural parallel ties Chapter 1 and Chapter 12 together?",
+          "optionA": "Both chapters take place at the Ibadan passport office",
+          "optionB": "Chapter 1 opens at \"Dusk...\" with Bepo weeping in despair, while Chapter 12 closes at \"...Dawn\" with Bepo returning in joy",
+          "optionC": "Both chapters feature Mr. Guta complaining about grammar",
+          "optionD": "Both chapters end with Bepo boarding an international flight",
+          "correctOption": "B",
+          "explanation": "The \"Dusk...\" to \"...Dawn\" arc frames Bepo's emotional journey from sorrowful reluctant departure to joyful homecoming[cite: 3, 6]."
         }
       ]
     }
@@ -3736,6 +4188,816 @@
       "optionC": "It shows he uses school funds for personal vacations",
       "optionD": "It alienates parents who dislike travel",
       "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_1",
+      "chapter": 10,
+      "question": "What is the title of Chapter 10 in The Lekki Headmaster?",
+      "options": {
+        "A": "Point of No Return",
+        "B": "Passport Pains",
+        "C": "A Case of Visa Denied",
+        "D": "...Dawn"
+      },
+      "answer": "B",
+      "explanation": "Chapter 10 is titled \"Passport Pains,\" chronicling the bureaucratic hurdles Bepo faces while renewing his expired Nigerian passport[cite: 6].",
+      "optionA": "Point of No Return",
+      "optionB": "Passport Pains",
+      "optionC": "A Case of Visa Denied",
+      "optionD": "...Dawn",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_2",
+      "chapter": 10,
+      "question": "Why does Principal Bepo decide to travel from Lagos to Ibadan in Chapter 10?",
+      "options": {
+        "A": "To attend a national conference of private school principals",
+        "B": "To avoid massive crowds and long delays at the Lagos passport office",
+        "C": "To visit his wife Seri's family home",
+        "D": "To inspect a branch of Stardom Schools in Oyo State"
+      },
+      "answer": "B",
+      "explanation": "Frustrated by heavy congestion and slow processing at the Lagos passport office, Bepo heads to Ibadan hoping for a faster renewal[cite: 6].",
+      "optionA": "To attend a national conference of private school principals",
+      "optionB": "To avoid massive crowds and long delays at the Lagos passport office",
+      "optionC": "To visit his wife Seri's family home",
+      "optionD": "To inspect a branch of Stardom Schools in Oyo State",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_3",
+      "chapter": 10,
+      "question": "What does Bepo observe along the Lagos-Ibadan Expressway during his journey to Ibadan?",
+      "options": {
+        "A": "Abandoned farmland and flooded villages",
+        "B": "Rapid physical development including new roads, businesses, and religious buildings",
+        "C": "Military checkpoints every two kilometers",
+        "D": "Street protests by university students"
+      },
+      "answer": "B",
+      "explanation": "Along the Lagos-Ibadan Expressway, Bepo reflects on the visible growth of new roads, commercial enterprises, and religious centers[cite: 6].",
+      "optionA": "Abandoned farmland and flooded villages",
+      "optionB": "Rapid physical development including new roads, businesses, and religious buildings",
+      "optionC": "Military checkpoints every two kilometers",
+      "optionD": "Street protests by university students",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_4",
+      "chapter": 10,
+      "question": "Who is Tai in Chapter 10?",
+      "options": {
+        "A": "Bepo's younger brother who works at the airport",
+        "B": "An agent whom Bepo pays extra money to speed up his passport renewal",
+        "C": "The immigration comptroller in Ibadan",
+        "D": "A senior prefect at Stardom Schools"
+      },
+      "answer": "B",
+      "explanation": "Bepo ends up paying extra money to an agent named Tai to expedite his passport renewal process[cite: 6].",
+      "optionA": "Bepo's younger brother who works at the airport",
+      "optionB": "An agent whom Bepo pays extra money to speed up his passport renewal",
+      "optionC": "The immigration comptroller in Ibadan",
+      "optionD": "A senior prefect at Stardom Schools",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_5",
+      "chapter": 10,
+      "question": "What systemic problem in Nigerian public administration does Bepo's interaction with Tai expose?",
+      "options": {
+        "A": "Lack of computer literacy among bank tellers",
+        "B": "How widespread bribery and informal \"connection\" networks have become in official government processes",
+        "C": "The refusal of immigration offices to accept Naira payments",
+        "D": "Overstaffing at federal ministries"
+      },
+      "answer": "B",
+      "explanation": "Paying an agent extra money to bypass bottlenecks highlights how entrenched bribery and \"connection\" are in public service delivery[cite: 6].",
+      "optionA": "Lack of computer literacy among bank tellers",
+      "optionB": "How widespread bribery and informal \"connection\" networks have become in official government processes",
+      "optionC": "The refusal of immigration offices to accept Naira payments",
+      "optionD": "Overstaffing at federal ministries",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_6",
+      "chapter": 10,
+      "question": "Which additional government agency causes further delays for Bepo even after he pays the agent?",
+      "options": {
+        "A": "The Federal Road Safety Corps (FRSC)",
+        "B": "The National Identity Number (NIN) office",
+        "C": "The Corporate Affairs Commission (CAC)",
+        "D": "The Joint Admissions and Matriculation Board (JAMB)"
+      },
+      "answer": "B",
+      "explanation": "Even after paying Tai, Bepo encounters frustrating delays at the National Identity Number (NIN) office[cite: 6].",
+      "optionA": "The Federal Road Safety Corps (FRSC)",
+      "optionB": "The National Identity Number (NIN) office",
+      "optionC": "The Corporate Affairs Commission (CAC)",
+      "optionD": "The Joint Admissions and Matriculation Board (JAMB)",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_7",
+      "chapter": 10,
+      "question": "What serious consequence do the delays at the passport and NIN offices create for Bepo?",
+      "options": {
+        "A": "His UK visa is permanently revoked",
+        "B": "His planned travel date is put at risk",
+        "C": "He loses his job at Stardom Schools before his farewell",
+        "D": "He is arrested for double registration"
+      },
+      "answer": "B",
+      "explanation": "The compounded bottlenecks at both the passport and NIN offices threaten to make him miss his scheduled departure date[cite: 6].",
+      "optionA": "His UK visa is permanently revoked",
+      "optionB": "His planned travel date is put at risk",
+      "optionC": "He loses his job at Stardom Schools before his farewell",
+      "optionD": "He is arrested for double registration",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_8",
+      "chapter": 10,
+      "question": "What internal conflict does Bepo's reliance on an agent (Tai) represent?",
+      "options": {
+        "A": "A principled man forced to navigate a corrupt, inefficient bureaucracy just to get basic documentation",
+        "B": "A corrupt principal looking for ways to defraud the government",
+        "C": "An opportunist trying to start an immigration agency in Ibadan",
+        "D": "A teacher who refuses to follow any official guidelines"
+      },
+      "answer": "A",
+      "explanation": "Even a man of high integrity like Bepo finds himself trapped by a broken system where paying extra to middlemen is treated as the only way forward[cite: 6].",
+      "optionA": "A principled man forced to navigate a corrupt, inefficient bureaucracy just to get basic documentation",
+      "optionB": "A corrupt principal looking for ways to defraud the government",
+      "optionC": "An opportunist trying to start an immigration agency in Ibadan",
+      "optionD": "A teacher who refuses to follow any official guidelines",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_9",
+      "chapter": 10,
+      "question": "Why was Bepo renewing his Nigerian passport in Chapter 10?",
+      "options": {
+        "A": "Because his previous passport had expired before his planned trip to the UK",
+        "B": "Because he lost his passport during the Badagry excursion",
+        "C": "Because his wife Seri tore his old passport",
+        "D": "Because he wanted to apply for a Canadian diplomatic visa"
+      },
+      "answer": "A",
+      "explanation": "Bepo needed to renew his expired Nigerian passport so he could travel to join his family in the United Kingdom[cite: 6].",
+      "optionA": "Because his previous passport had expired before his planned trip to the UK",
+      "optionB": "Because he lost his passport during the Badagry excursion",
+      "optionC": "Because his wife Seri tore his old passport",
+      "optionD": "Because he wanted to apply for a Canadian diplomatic visa",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_10",
+      "chapter": 10,
+      "question": "What does Bepo's reflection on the new buildings and businesses along the Lagos-Ibadan Expressway reveal?",
+      "options": {
+        "A": "That Nigeria has zero economic activity outside Lekki",
+        "B": "His observant nature and appreciation of the energy, growth, and potential within Nigeria",
+        "C": "His desire to become a real estate developer in Ogun State",
+        "D": "His anger over traffic congestion caused by churches"
+      },
+      "answer": "B",
+      "explanation": "As he travels, Bepo notices signs of enterprise and development along the corridor, reflecting his deep connection to his homeland[cite: 6].",
+      "optionA": "That Nigeria has zero economic activity outside Lekki",
+      "optionB": "His observant nature and appreciation of the energy, growth, and potential within Nigeria",
+      "optionC": "His desire to become a real estate developer in Ogun State",
+      "optionD": "His anger over traffic congestion caused by churches",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_11",
+      "chapter": 10,
+      "question": "Which two cities are central to Bepo's passport renewal journey in Chapter 10?",
+      "options": {
+        "A": "Lagos and Abuja",
+        "B": "Lagos and Ibadan",
+        "C": "Ibadan and Abeokuta",
+        "D": "Lekki and Badagry"
+      },
+      "answer": "B",
+      "explanation": "Unable to endure the delays in Lagos, Bepo travels to Ibadan to process his passport renewal[cite: 6].",
+      "optionA": "Lagos and Abuja",
+      "optionB": "Lagos and Ibadan",
+      "optionC": "Ibadan and Abeokuta",
+      "optionD": "Lekki and Badagry",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_12",
+      "chapter": 10,
+      "question": "How does Chapter 10 contribute to the novel's portrayal of the \"japa\" experience?",
+      "options": {
+        "A": "It shows that preparing to leave Nigeria involves exhausting bureaucratic stress and extra financial costs",
+        "B": "It proves that Nigerian government offices operate with instant efficiency",
+        "C": "It suggests that only residents of Ibadan can obtain passports",
+        "D": "It shows that NIN is not required for international travel"
+      },
+      "answer": "A",
+      "explanation": "The chapter illustrates the frustrating administrative hurdles—crowds, middlemen, and NIN delays—that emigrants must endure before leaving[cite: 6].",
+      "optionA": "It shows that preparing to leave Nigeria involves exhausting bureaucratic stress and extra financial costs",
+      "optionB": "It proves that Nigerian government offices operate with instant efficiency",
+      "optionC": "It suggests that only residents of Ibadan can obtain passports",
+      "optionD": "It shows that NIN is not required for international travel",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_13",
+      "chapter": 10,
+      "question": "What ironic situation does Bepo face in Chapter 10?",
+      "options": {
+        "A": "He travels to Ibadan for speed, pays an agent to hasten things, yet still gets stalled at the NIN office",
+        "B": "He forgets to bring any passport photographs to Ibadan",
+        "C": "He arrives at the passport office on a public holiday",
+        "D": "He accidentally renews his driver's license instead of his passport"
+      },
+      "answer": "A",
+      "explanation": "Despite leaving Lagos for a faster process and paying Tai extra, Bepo is still held up by NIN verification delays[cite: 6].",
+      "optionA": "He travels to Ibadan for speed, pays an agent to hasten things, yet still gets stalled at the NIN office",
+      "optionB": "He forgets to bring any passport photographs to Ibadan",
+      "optionC": "He arrives at the passport office on a public holiday",
+      "optionD": "He accidentally renews his driver's license instead of his passport",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_14",
+      "chapter": 10,
+      "question": "Which documentation hurdle almost derails Bepo's departure schedule in Chapter 10?",
+      "options": {
+        "A": "Missing primary school certificate",
+        "B": "Expired Nigerian passport and National Identity Number (NIN) processing delays",
+        "C": "Unpaid tenement rates in Lekki",
+        "D": "Expired yellow fever vaccination card"
+      },
+      "answer": "B",
+      "explanation": "Both the passport renewal and NIN office delays put Bepo's scheduled flight at serious risk[cite: 6].",
+      "optionA": "Missing primary school certificate",
+      "optionB": "Expired Nigerian passport and National Identity Number (NIN) processing delays",
+      "optionC": "Unpaid tenement rates in Lekki",
+      "optionD": "Expired yellow fever vaccination card",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_10_1795389149243_15",
+      "chapter": 10,
+      "question": "What tone characterizes Chapter 10?",
+      "options": {
+        "A": "Lighthearted comedy from start to finish",
+        "B": "Satirical frustration over bureaucratic inefficiency and institutional bottlenecks",
+        "C": "Gothic horror and suspense",
+        "D": "Romantic nostalgia"
+      },
+      "answer": "B",
+      "explanation": "Through Bepo's ordeal with crowds, middlemen, and NIN delays, the chapter satirizes the exhausting inefficiencies of public institutions[cite: 6].",
+      "optionA": "Lighthearted comedy from start to finish",
+      "optionB": "Satirical frustration over bureaucratic inefficiency and institutional bottlenecks",
+      "optionC": "Gothic horror and suspense",
+      "optionD": "Romantic nostalgia",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_16",
+      "chapter": 11,
+      "question": "What is the title of Chapter 11 in The Lekki Headmaster?",
+      "options": {
+        "A": "Dusk...",
+        "B": "Point of No Return",
+        "C": "...Dawn",
+        "D": "Missions Unaccomplished"
+      },
+      "answer": "B",
+      "explanation": "Chapter 11 is titled \"Point of No Return,\" capturing the emotional farewell event organized for Bepo at Stardom Schools[cite: 6].",
+      "optionA": "Dusk...",
+      "optionB": "Point of No Return",
+      "optionC": "...Dawn",
+      "optionD": "Missions Unaccomplished",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_17",
+      "chapter": 11,
+      "question": "What major event does Stardom Schools organize for Bepo in Chapter 11?",
+      "options": {
+        "A": "A surprise birthday party",
+        "B": "A grand farewell party",
+        "C": "An inter-house sports festival",
+        "D": "A fundraising gala for the Invention Club"
+      },
+      "answer": "B",
+      "explanation": "The school community hosts an elaborate farewell party to celebrate Bepo's years of leadership before his departure[cite: 6].",
+      "optionA": "A surprise birthday party",
+      "optionB": "A grand farewell party",
+      "optionC": "An inter-house sports festival",
+      "optionD": "A fundraising gala for the Invention Club",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_18",
+      "chapter": 11,
+      "question": "Which activities feature during Bepo's farewell party in Chapter 11?",
+      "options": {
+        "A": "Swimming competitions and chess tournaments",
+        "B": "Games, a debate, comedy skits mimicking Bepo's habits, and traditional Nigerian dances",
+        "C": "Science exhibitions and spelling bees",
+        "D": "Poetry recitals by parents only"
+      },
+      "answer": "B",
+      "explanation": "The farewell celebration includes games, a debate, humorous skits imitating Bepo's mannerisms, and traditional dances[cite: 6].",
+      "optionA": "Swimming competitions and chess tournaments",
+      "optionB": "Games, a debate, comedy skits mimicking Bepo's habits, and traditional Nigerian dances",
+      "optionC": "Science exhibitions and spelling bees",
+      "optionD": "Poetry recitals by parents only",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_19",
+      "chapter": 11,
+      "question": "Which specific traditional dance performed at the farewell party triggers a strong emotional reaction from Bepo?",
+      "options": {
+        "A": "The Bata dance from Oyo",
+        "B": "The Canoe dance from Badagry",
+        "C": "The Atilogwu dance from Anambra",
+        "D": "The Swange dance from Benue"
+      },
+      "answer": "B",
+      "explanation": "The performance of the Canoe dance from Badagry stirs deep emotions in Bepo[cite: 6].",
+      "optionA": "The Bata dance from Oyo",
+      "optionB": "The Canoe dance from Badagry",
+      "optionC": "The Atilogwu dance from Anambra",
+      "optionD": "The Swange dance from Benue",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_20",
+      "chapter": 11,
+      "question": "Why does Bepo shout out loud and disturb the Canoe dance performance during his farewell party?",
+      "options": {
+        "A": "Because a dancer fell off the stage",
+        "B": "Because the Badagry dance reminds him once again of the painful history of the slave trade and his own departure",
+        "C": "Because the sound system broke down",
+        "D": "Because he was angry at the students mimicking his habits"
+      },
+      "answer": "B",
+      "explanation": "Watching the Badagry Canoe dance triggers memories of the slave trade and the \"Point of No Return,\" causing him to cry out involuntarily[cite: 6].",
+      "optionA": "Because a dancer fell off the stage",
+      "optionB": "Because the Badagry dance reminds him once again of the painful history of the slave trade and his own departure",
+      "optionC": "Because the sound system broke down",
+      "optionD": "Because he was angry at the students mimicking his habits",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_21",
+      "chapter": 11,
+      "question": "How does Bepo quickly recover the mood of the audience after shouting out during the dance?",
+      "options": {
+        "A": "He walks out of the hall in silence",
+        "B": "He quickly calms the crowd with a joke",
+        "C": "He asks the Managing Director to stop the music",
+        "D": "He delivers a stern lecture on history"
+      },
+      "answer": "B",
+      "explanation": "Showing his trademark wit and composure, Bepo immediately cracks a joke to ease the tension and reassure everyone[cite: 6].",
+      "optionA": "He walks out of the hall in silence",
+      "optionB": "He quickly calms the crowd with a joke",
+      "optionC": "He asks the Managing Director to stop the music",
+      "optionD": "He delivers a stern lecture on history",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_22",
+      "chapter": 11,
+      "question": "How many years of service does the Managing Director praise Bepo for in her farewell speech?",
+      "options": {
+        "A": "15 years",
+        "B": "20 years",
+        "C": "24 years",
+        "D": "30 years"
+      },
+      "answer": "C",
+      "explanation": "In her moving tribute, Mrs. Ibidun Gloss commends Bepo for 24 years of dedicated service to Stardom Schools[cite: 6].",
+      "optionA": "15 years",
+      "optionB": "20 years",
+      "optionC": "24 years",
+      "optionD": "30 years",
+      "correctOption": "C"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_23",
+      "chapter": 11,
+      "question": "What farewell gift does the Managing Director present to Bepo on behalf of the school?",
+      "options": {
+        "A": "A brand-new SUV",
+        "B": "A cheque of $10,000",
+        "C": "A plot of land in Lekki",
+        "D": "A gold wristwatch and plaque"
+      },
+      "answer": "B",
+      "explanation": "Mrs. Gloss presents Bepo with a generous farewell cheque of $10,000 in appreciation of his 24 years of service[cite: 6].",
+      "optionA": "A brand-new SUV",
+      "optionB": "A cheque of $10,000",
+      "optionC": "A plot of land in Lekki",
+      "optionD": "A gold wristwatch and plaque",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_24",
+      "chapter": 11,
+      "question": "How does Bepo react when he steps forward to deliver his thank-you speech?",
+      "options": {
+        "A": "He criticizes the board for limiting the cooperative society",
+        "B": "He is overcome with emotion and cries as he tries to speak",
+        "C": "He announces that he has already canceled his flight",
+        "D": "He hands the $10,000 cheque back to the MD"
+      },
+      "answer": "B",
+      "explanation": "Deeply moved by the school's love, tribute, and $10,000 gift, Bepo breaks into tears while attempting his thank-you speech[cite: 6].",
+      "optionA": "He criticizes the board for limiting the cooperative society",
+      "optionB": "He is overcome with emotion and cries as he tries to speak",
+      "optionC": "He announces that he has already canceled his flight",
+      "optionD": "He hands the $10,000 cheque back to the MD",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_25",
+      "chapter": 11,
+      "question": "What do the comedy skits mimicking Bepo's habits reveal about how students view him?",
+      "options": {
+        "A": "They mock him out of hatred and disrespect",
+        "B": "They observe him fondly and affectionately as a beloved, memorable mentor",
+        "C": "They have never interacted with him closely",
+        "D": "They want him to leave the school as soon as possible"
+      },
+      "answer": "B",
+      "explanation": "Mimicking a leader's familiar mannerisms at a farewell party reflects warmth, affection, and close daily connection[cite: 6].",
+      "optionA": "They mock him out of hatred and disrespect",
+      "optionB": "They observe him fondly and affectionately as a beloved, memorable mentor",
+      "optionC": "They have never interacted with him closely",
+      "optionD": "They want him to leave the school as soon as possible",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_26",
+      "chapter": 11,
+      "question": "Why is Chapter 11 titled \"Point of No Return\"?",
+      "options": {
+        "A": "Because Bepo boards his flight to London in this chapter",
+        "B": "Because the farewell party marks the emotional threshold of leaving his 24-year career, echoed by the Badagry slave-trade motif",
+        "C": "Because the school gates are permanently locked after the party",
+        "D": "Because the Managing Director refuses to ever rehire him"
+      },
+      "answer": "B",
+      "explanation": "The title links Bepo's emotional farewell ceremony with the Badagry slave-trade symbol that resurfaces during the Canoe dance[cite: 6].",
+      "optionA": "Because Bepo boards his flight to London in this chapter",
+      "optionB": "Because the farewell party marks the emotional threshold of leaving his 24-year career, echoed by the Badagry slave-trade motif",
+      "optionC": "Because the school gates are permanently locked after the party",
+      "optionD": "Because the Managing Director refuses to ever rehire him",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_27",
+      "chapter": 11,
+      "question": "What does the $10,000 farewell gift signify about Bepo's impact on Stardom Schools?",
+      "options": {
+        "A": "That the school wanted to bribe him to keep quiet about the cooperative",
+        "B": "That management and proprietors deeply valued his 24 years of transformational leadership",
+        "C": "That Bepo had been underpaid for two decades",
+        "D": "That foreign currency was the only money in the school account"
+      },
+      "answer": "B",
+      "explanation": "Presenting a $10,000 cheque alongside a glowing speech demonstrates immense institutional gratitude for Bepo's loyalty and impact[cite: 6].",
+      "optionA": "That the school wanted to bribe him to keep quiet about the cooperative",
+      "optionB": "That management and proprietors deeply valued his 24 years of transformational leadership",
+      "optionC": "That Bepo had been underpaid for two decades",
+      "optionD": "That foreign currency was the only money in the school account",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_28",
+      "chapter": 11,
+      "question": "How does Bepo's reaction in Chapter 11 echo his breakdown in Chapter 1?",
+      "options": {
+        "A": "In both chapters, overwhelming emotion over leaving Stardom Schools brings him to tears in front of the school community",
+        "B": "In both chapters, he refuses to speak a single word",
+        "C": "In both chapters, he argues publicly with Mr. Guta",
+        "D": "In both chapters, he collapses and is rushed to the hospital"
+      },
+      "answer": "A",
+      "explanation": "Just as he wept on the assembly podium in Chapter 1, Bepo's deep love for the school moves him to tears during his farewell speech[cite: 3, 6].",
+      "optionA": "In both chapters, overwhelming emotion over leaving Stardom Schools brings him to tears in front of the school community",
+      "optionB": "In both chapters, he refuses to speak a single word",
+      "optionC": "In both chapters, he argues publicly with Mr. Guta",
+      "optionD": "In both chapters, he collapses and is rushed to the hospital",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_29",
+      "chapter": 11,
+      "question": "Which combination of elements makes Chapter 11 both celebratory and poignant?",
+      "options": {
+        "A": "Lively games, debates, skits, and dances contrasted with Bepo's slave-history outburst and tearful farewell",
+        "B": "A somber funeral procession followed by a staff strike",
+        "C": "A courtroom trial followed by a graduation ceremony",
+        "D": "An angry confrontation between parents and teachers"
+      },
+      "answer": "A",
+      "explanation": "Joyous tributes, skits, and the $10,000 gift blend with Bepo's intense grief at parting from the school he loves[cite: 6].",
+      "optionA": "Lively games, debates, skits, and dances contrasted with Bepo's slave-history outburst and tearful farewell",
+      "optionB": "A somber funeral procession followed by a staff strike",
+      "optionC": "A courtroom trial followed by a graduation ceremony",
+      "optionD": "An angry confrontation between parents and teachers",
+      "correctOption": "A"
+    },
+    {
+      "id": "q_lekki_11_1795389149243_30",
+      "chapter": 11,
+      "question": "What is the dominant atmosphere at the end of Chapter 11?",
+      "options": {
+        "A": "Bitter hostility",
+        "B": "Deep gratitude, affection, and bittersweet emotion",
+        "C": "Cold indifference",
+        "D": "Comic relief without any sadness"
+      },
+      "answer": "B",
+      "explanation": "The chapter closes on a deeply touching note of mutual love and sorrowful parting between Bepo and Stardom Schools[cite: 6].",
+      "optionA": "Bitter hostility",
+      "optionB": "Deep gratitude, affection, and bittersweet emotion",
+      "optionC": "Cold indifference",
+      "optionD": "Comic relief without any sadness",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_31",
+      "chapter": 12,
+      "question": "What is the title of the final chapter (Chapter 12) of The Lekki Headmaster?",
+      "options": {
+        "A": "Dusk...",
+        "B": "...Dawn",
+        "C": "Homeward Bound",
+        "D": "The New Beginning"
+      },
+      "answer": "B",
+      "explanation": "Chapter 12 is titled \"...Dawn,\" completing the day-cycle symmetry begun in Chapter 1 (\"Dusk...\")[cite: 3, 6].",
+      "optionA": "Dusk...",
+      "optionB": "...Dawn",
+      "optionC": "Homeward Bound",
+      "optionD": "The New Beginning",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_32",
+      "chapter": 12,
+      "question": "What past travel mistake does Bepo recall as he prepares to go to the airport in Chapter 12?",
+      "options": {
+        "A": "Losing his luggage in Abuja",
+        "B": "Missing a flight earlier in life because he misread his ticket",
+        "C": "Boarding the wrong plane to Ghana",
+        "D": "Forgetting his passport at Stardom Schools"
+      },
+      "answer": "B",
+      "explanation": "Remembering an earlier occasion when he missed a flight by misreading his ticket, Bepo takes extra care with his travel preparations[cite: 6].",
+      "optionA": "Losing his luggage in Abuja",
+      "optionB": "Missing a flight earlier in life because he misread his ticket",
+      "optionC": "Boarding the wrong plane to Ghana",
+      "optionD": "Forgetting his passport at Stardom Schools",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_33",
+      "chapter": 12,
+      "question": "Who comes to bid Bepo goodbye and accompany him to the airport in Chapter 12?",
+      "options": {
+        "A": "Only his travel agent Tai",
+        "B": "His landlord's family, who say goodbye, and his colleagues (the VP, accountant, and other teachers), who follow him to the airport",
+        "C": "The Managing Director and Mr. Guta alone",
+        "D": "Nobody, because he leaves secretly at midnight"
+      },
+      "answer": "B",
+      "explanation": "Bepo's landlord's family bids him farewell, while the Vice Principal, accountant, and fellow teachers escort him to the airport[cite: 6].",
+      "optionA": "Only his travel agent Tai",
+      "optionB": "His landlord's family, who say goodbye, and his colleagues (the VP, accountant, and other teachers), who follow him to the airport",
+      "optionC": "The Managing Director and Mr. Guta alone",
+      "optionD": "Nobody, because he leaves secretly at midnight",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_34",
+      "chapter": 12,
+      "question": "What does Bepo do at the airport after checking in for his flight?",
+      "options": {
+        "A": "He immediately calls Seri to cancel his ticket",
+        "B": "He falls asleep while waiting to board",
+        "C": "He meets Mr. Ignatius at the departure lounge",
+        "D": "He gives an impromptu lecture to airport staff"
+      },
+      "answer": "B",
+      "explanation": "After completing check-in procedures, Bepo dozes off in the waiting area before boarding[cite: 6].",
+      "optionA": "He immediately calls Seri to cancel his ticket",
+      "optionB": "He falls asleep while waiting to board",
+      "optionC": "He meets Mr. Ignatius at the departure lounge",
+      "optionD": "He gives an impromptu lecture to airport staff",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_35",
+      "chapter": 12,
+      "question": "What frightening nightmare does Bepo have while sleeping at the airport?",
+      "options": {
+        "A": "That Stardom Schools has burned to the ground",
+        "B": "That he is back at the slave museum in Badagry, being forced onto a slave ship",
+        "C": "That his plane crashes into the Atlantic Ocean",
+        "D": "That he is arrested by immigration officers in London"
+      },
+      "answer": "B",
+      "explanation": "Bepo dreams vividly of the Badagry slave museum and sees himself being forcibly driven onto a slave ship[cite: 6].",
+      "optionA": "That Stardom Schools has burned to the ground",
+      "optionB": "That he is back at the slave museum in Badagry, being forced onto a slave ship",
+      "optionC": "That his plane crashes into the Atlantic Ocean",
+      "optionD": "That he is arrested by immigration officers in London",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_36",
+      "chapter": 12,
+      "question": "How does Bepo wake up from his nightmare at the airport?",
+      "options": {
+        "A": "Smiling quietly to himself",
+        "B": "Screaming \"Nooo!\" just before the flight takes off",
+        "C": "Asking a flight attendant for a glass of water",
+        "D": "Calling Mrs. Ibidun Gloss on the phone"
+      },
+      "answer": "B",
+      "explanation": "Terrified by the vision of being forced onto a slave ship, Bepo wakes up screaming \"Nooo!\" right before boarding/takeoff[cite: 6].",
+      "optionA": "Smiling quietly to himself",
+      "optionB": "Screaming \"Nooo!\" just before the flight takes off",
+      "optionC": "Asking a flight attendant for a glass of water",
+      "optionD": "Calling Mrs. Ibidun Gloss on the phone",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_37",
+      "chapter": 12,
+      "question": "What unexpected event happens at Stardom Schools on the Monday following Bepo's supposed departure?",
+      "options": {
+        "A": "The Managing Director announces the permanent closure of the school",
+        "B": "While students are mourning Bepo's absence, he suddenly appears at the school gate",
+        "C": "Seri arrives from London to take over as principal",
+        "D": "The Invention Club cancels its phone project"
+      },
+      "answer": "B",
+      "explanation": "On Monday morning, as saddened students miss him, Bepo shockingly turns up at the Stardom Schools gate[cite: 6].",
+      "optionA": "The Managing Director announces the permanent closure of the school",
+      "optionB": "While students are mourning Bepo's absence, he suddenly appears at the school gate",
+      "optionC": "Seri arrives from London to take over as principal",
+      "optionD": "The Invention Club cancels its phone project",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_38",
+      "chapter": 12,
+      "question": "What final decision does Bepo make regarding his relocation to the United Kingdom?",
+      "options": {
+        "A": "He postpones his trip for two weeks",
+        "B": "He decides not to leave Nigeria after all",
+        "C": "He decides to relocate to Canada instead of the UK",
+        "D": "He returns only to collect his $10,000 cheque"
+      },
+      "answer": "B",
+      "explanation": "Following his airport epiphany, Bepo abandons the relocation plan and chooses to remain in Nigeria[cite: 6].",
+      "optionA": "He postpones his trip for two weeks",
+      "optionB": "He decides not to leave Nigeria after all",
+      "optionC": "He decides to relocate to Canada instead of the UK",
+      "optionD": "He returns only to collect his $10,000 cheque",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_39",
+      "chapter": 12,
+      "question": "What famous declaration does Bepo make to everyone upon returning to Stardom Schools?",
+      "options": {
+        "A": "\"Nigeria will never change!\"",
+        "B": "\"My heart is here!\"",
+        "C": "\"The journey has just begun!\"",
+        "D": "\"I have come to claim my throne!\""
+      },
+      "answer": "B",
+      "explanation": "Bepo announces to the rejoicing school community, \"My heart is here!\"[cite: 6]",
+      "optionA": "\"Nigeria will never change!\"",
+      "optionB": "\"My heart is here!\"",
+      "optionC": "\"The journey has just begun!\"",
+      "optionD": "\"I have come to claim my throne!\"",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_40",
+      "chapter": 12,
+      "question": "How do the students at Stardom Schools react to Bepo's return on Monday?",
+      "options": {
+        "A": "They are confused and disappointed",
+        "B": "They celebrate his return with immense joy",
+        "C": "They ignore him and continue their assembly",
+        "D": "They ask him why he wasted his flight ticket"
+      },
+      "answer": "B",
+      "explanation": "Overjoyed to see their beloved headmaster back, the students erupt in celebration[cite: 6].",
+      "optionA": "They are confused and disappointed",
+      "optionB": "They celebrate his return with immense joy",
+      "optionC": "They ignore him and continue their assembly",
+      "optionD": "They ask him why he wasted his flight ticket",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_41",
+      "chapter": 12,
+      "question": "What psychological role does Bepo's airport dream play in the resolution of the novel?",
+      "options": {
+        "A": "It is a meaningless dream caused by airport noise",
+        "B": "It acts as his subconscious awakening, confirming that leaving Nigeria feels like voluntary enslavement against his true calling",
+        "C": "It convinces him that flying is medically unsafe",
+        "D": "It reminds him that he left his luggage with his landlord"
+      },
+      "answer": "B",
+      "explanation": "The nightmare fuses the Badagry slave-ship imagery with his reluctance to leave, crystalizing his realization that his true purpose is in Nigeria[cite: 6].",
+      "optionA": "It is a meaningless dream caused by airport noise",
+      "optionB": "It acts as his subconscious awakening, confirming that leaving Nigeria feels like voluntary enslavement against his true calling",
+      "optionC": "It convinces him that flying is medically unsafe",
+      "optionD": "It reminds him that he left his luggage with his landlord",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_42",
+      "chapter": 12,
+      "question": "Why is the final chapter titled \"...Dawn\"?",
+      "options": {
+        "A": "Because Bepo's flight departed at 5:00 a.m.",
+        "B": "Because Bepo's return marks a fresh beginning, clarity of purpose, and renewed hope for him and Stardom Schools",
+        "C": "Because the school changed its morning assembly time",
+        "D": "Because Bepo decided to open a morning-shift school"
+      },
+      "answer": "B",
+      "explanation": "\"...Dawn\" symbolizes renewal, light after emotional darkness, and Bepo's joyful recommitment to his vocation at home[cite: 6].",
+      "optionA": "Because Bepo's flight departed at 5:00 a.m.",
+      "optionB": "Because Bepo's return marks a fresh beginning, clarity of purpose, and renewed hope for him and Stardom Schools",
+      "optionC": "Because the school changed its morning assembly time",
+      "optionD": "Because Bepo decided to open a morning-shift school",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_43",
+      "chapter": 12,
+      "question": "What does the loyalty of the landlord's family, VP, accountant, and teachers in Chapter 12 demonstrate?",
+      "options": {
+        "A": "They wanted to make sure Bepo actually left the country",
+        "B": "Bepo's warmth and integrity earned him genuine love both at home and in the workplace",
+        "C": "They were hoping to share his $10,000 farewell gift",
+        "D": "The Managing Director forced them to go to the airport"
+      },
+      "answer": "B",
+      "explanation": "Having both his neighbors and colleagues turn out to see him off reflects the deep affection Bepo inspires everywhere he lives and works[cite: 6].",
+      "optionA": "They wanted to make sure Bepo actually left the country",
+      "optionB": "Bepo's warmth and integrity earned him genuine love both at home and in the workplace",
+      "optionC": "They were hoping to share his $10,000 farewell gift",
+      "optionD": "The Managing Director forced them to go to the airport",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_44",
+      "chapter": 12,
+      "question": "How does Bepo's resolution in Chapter 12 address the novel's central \"japa\" debate?",
+      "options": {
+        "A": "It argues that foreign countries do not exist",
+        "B": "It affirms that while relocation entices many, personal fulfillment and patriotism can triumph over external pressure to leave",
+        "C": "It proves that Seri will divorce him immediately",
+        "D": "It shows that money is the only factor in career decisions"
+      },
+      "answer": "B",
+      "explanation": "By choosing \"My heart is here!\" over life in the UK, Bepo embodies devotion to purpose, community, and homeland[cite: 6].",
+      "optionA": "It argues that foreign countries do not exist",
+      "optionB": "It affirms that while relocation entices many, personal fulfillment and patriotism can triumph over external pressure to leave",
+      "optionC": "It proves that Seri will divorce him immediately",
+      "optionD": "It shows that money is the only factor in career decisions",
+      "correctOption": "B"
+    },
+    {
+      "id": "q_lekki_12_1795389149243_45",
+      "chapter": 12,
+      "question": "Which structural parallel ties Chapter 1 and Chapter 12 together?",
+      "options": {
+        "A": "Both chapters take place at the Ibadan passport office",
+        "B": "Chapter 1 opens at \"Dusk...\" with Bepo weeping in despair, while Chapter 12 closes at \"...Dawn\" with Bepo returning in joy",
+        "C": "Both chapters feature Mr. Guta complaining about grammar",
+        "D": "Both chapters end with Bepo boarding an international flight"
+      },
+      "answer": "B",
+      "explanation": "The \"Dusk...\" to \"...Dawn\" arc frames Bepo's emotional journey from sorrowful reluctant departure to joyful homecoming[cite: 3, 6].",
+      "optionA": "Both chapters take place at the Ibadan passport office",
+      "optionB": "Chapter 1 opens at \"Dusk...\" with Bepo weeping in despair, while Chapter 12 closes at \"...Dawn\" with Bepo returning in joy",
+      "optionC": "Both chapters feature Mr. Guta complaining about grammar",
+      "optionD": "Both chapters end with Bepo boarding an international flight",
+      "correctOption": "B"
     }
   ],
   "characters": [
@@ -3795,5 +5057,5 @@
     "Student Empowerment, Moral Mentorship & Institutional Legacy",
     "Faith, Hope and Ethical Integrity in Contemporary Nigeria"
   ],
-  "updatedAt": "2026-11-22T23:10:21.652Z"
+  "updatedAt": "2026-11-22T23:12:39.709Z"
 }
