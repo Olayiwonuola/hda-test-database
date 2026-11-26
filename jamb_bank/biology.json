@@ -341,7 +341,7 @@
     "subject": "Biology",
     "topic": "A2b. Evolution & Classification: Animalia (Invertebrates and Vertebrates)",
     "type": "UTME",
-    "question": "[DIAGRAM NEEDED: Vertical section of mammalian skin showing sweat gland and hair follicle/oil gland] The sweat gland is the structure labelled",
+    "question": "The sweat gland is the structure labelled",
     "options": {
       "A": "IV",
       "B": "III",
@@ -4037,7 +4037,7 @@
     "subject": "Biology",
     "topic": "A2b. Evolution & Classification: Animalia (Invertebrates and Vertebrates)",
     "type": "UTME",
-    "question": "[DIAGRAM NEEDED: Section of the mammalian ear showing middle ear structures] The part labelled II is the",
+    "question": "The part labelled II is the",
     "options": {
       "A": "fenestra ovalis",
       "B": "middle ear canal",
@@ -4053,9 +4053,9 @@
     "correct_option": "D",
     "explanation": "In standard JAMB mammalian ear diagrams, label II indicates the chain of three small bones in the middle ear—the ear ossicles (malleus, incus, stapes).",
     "passage": "",
-    "diagram_url": "",
-    "image": "",
-    "requires_diagram": 0,
+    "diagram_url": "https://raw.githubusercontent.com/Olayiwonuola/hda-test-database/main/jamb_bank/assets/biology/biology_qbiology_2001_1795715063795_20_1795728549791.png",
+    "image": "https://raw.githubusercontent.com/Olayiwonuola/hda-test-database/main/jamb_bank/assets/biology/biology_qbiology_2001_1795715063795_20_1795728549791.png",
+    "requires_diagram": false,
     "content_hash": "0778f6b21d8d9580adf7dcd8101374aa75eaf1993e6230814619ad2b2dd12444",
     "created_at": "2026-11-26T17:44:23.795Z"
   },
@@ -4121,7 +4121,7 @@
     "subject": "Biology",
     "topic": "B3. Transport System in Plants and Animals",
     "type": "UTME",
-    "question": "[DIAGRAM NEEDED: Vertebra diagram showing centrum, neural canal, neural spine, and transverse processes] Blood vessels usually pass through the structure labelled",
+    "question": "Blood vessels usually pass through the structure labelled",
     "options": {
       "A": "III",
       "B": "II",
@@ -4137,9 +4137,9 @@
     "correct_option": "A",
     "explanation": "In standard JAMB vertebra diagrams, the opening/foramen or canal space designated by label III accommodates blood vessels and nerves supplying/draining the vertebral region.",
     "passage": "",
-    "diagram_url": "",
-    "image": "",
-    "requires_diagram": 0,
+    "diagram_url": "https://raw.githubusercontent.com/Olayiwonuola/hda-test-database/main/jamb_bank/assets/biology/biology_qbiology_2001_1795715063795_23_1795728553544.png",
+    "image": "https://raw.githubusercontent.com/Olayiwonuola/hda-test-database/main/jamb_bank/assets/biology/biology_qbiology_2001_1795715063795_23_1795728553544.png",
+    "requires_diagram": false,
     "content_hash": "402182595617aba80c51d16c7078bfca83d02026fcc40a4ff708214f5fd5d689",
     "created_at": "2026-11-26T17:44:23.795Z"
   },
@@ -4365,34 +4365,6 @@
     "image": "",
     "requires_diagram": 0,
     "content_hash": "08d10b2cd9e31808716b4ff8d18aca9579a1715e11b9e2afda095a7e847cfc65",
-    "created_at": "2026-11-26T17:44:23.795Z"
-  },
-  {
-    "id": "biology_2001_1795715063795_32",
-    "year": 2001,
-    "subject": "Biology",
-    "topic": "General Practice",
-    "type": "UTME",
-    "question": "[DIAGRAM NEEDED: Missing question 35 from source paste] Which of the following is a standard ecological/biological concept?",
-    "options": {
-      "A": "Not applicable",
-      "B": "Not applicable",
-      "C": "Not applicable",
-      "D": "Not applicable",
-      "a": "Not applicable",
-      "b": "Not applicable",
-      "c": "Not applicable",
-      "d": "Not applicable"
-    },
-    "answer": "A",
-    "correctOption": "A",
-    "correct_option": "A",
-    "explanation": "Question 35 was omitted in the pasted sequence between questions 34 and 36.",
-    "passage": "",
-    "diagram_url": "",
-    "image": "",
-    "requires_diagram": 0,
-    "content_hash": "d587c671a125f99a9ebc032092e6d93f6f4c92e5c1f8fb3cc340fb6613c09edc",
     "created_at": "2026-11-26T17:44:23.795Z"
   },
   {
@@ -7033,7 +7005,7 @@
     "subject": "Biology",
     "topic": "A2b. Evolution & Classification: Animalia (Invertebrates and Vertebrates)",
     "type": "UTME",
-    "question": "[DIAGRAM NEEDED: Vertical section of mammalian skin showing numbered structures such as sweat gland, blood vessel, and nerve ending] The structure labelled II is known as",
+    "question": "The structure labelled II is known as",
     "options": {
       "A": "sweat gland",
       "B": "lymph vessel",
@@ -7117,7 +7089,7 @@
     "subject": "Biology",
     "topic": "B6. Support, Movement, Plant Tropisms, and Skeleton",
     "type": "UTME",
-    "question": "[DIAGRAM NEEDED: Forelimb bones showing humerus (II) articulating with radius and ulna (III)] The structure labelled II articulates with III to form a",
+    "question": "The structure labelled II articulates with III to form a",
     "options": {
       "A": "sliding joint",
       "B": "hinge joint",
@@ -7145,7 +7117,7 @@
     "subject": "Biology",
     "topic": "B6. Support, Movement, Plant Tropisms, and Skeleton",
     "type": "UTME",
-    "question": "[DIAGRAM NEEDED: Forelimb bones showing humerus, radius, and ulna labeled I–IV] Which of the bones is the radius?",
+    "question": "Which of the bones is the radius?",
     "options": {
       "A": "I",
       "B": "II",
@@ -13809,7 +13781,7 @@
     "subject": "Biology",
     "topic": "C3 & C4. Natural Habitats and Local (Nigerian) Biomes",
     "type": "UTME",
-    "question": "[DIAGRAM NEEDED: Aquatic food pyramid showing Algae at the base, Tadpole, Tilapia, and Shark at the top] Which organism in the pyramid functions as a tertiary consumer?",
+    "question": "Which organism in the pyramid functions as a tertiary consumer?",
     "options": {
       "A": "Algae",
       "B": "Shark",
@@ -13825,9 +13797,9 @@
     "correct_option": "B",
     "explanation": "In the aquatic food chain Algae (producer) -> Tadpole (primary consumer) -> Tilapia (secondary consumer) -> Shark, the shark occupies the tertiary consumer level.",
     "passage": "",
-    "diagram_url": "",
-    "image": "",
-    "requires_diagram": 0,
+    "diagram_url": "https://raw.githubusercontent.com/Olayiwonuola/hda-test-database/main/jamb_bank/assets/biology/biology_qbiology_1992_1795693763123_35_1795728556702.png",
+    "image": "https://raw.githubusercontent.com/Olayiwonuola/hda-test-database/main/jamb_bank/assets/biology/biology_qbiology_1992_1795693763123_35_1795728556702.png",
+    "requires_diagram": false,
     "content_hash": "577b9e483ab382a6885b296450e0b13f1edbc271c98219c0233e25378ea59167",
     "created_at": "2026-11-26T11:49:23.123Z"
   },
