@@ -19473,9 +19473,9 @@
     "year": 2011,
     "category": "Past Question",
     "topic": "biology",
-    "instruction": "",
+    "instruction": "Use the following information to answer the question below.",
     "image": "",
-    "question": "I. Test tube containing cane sugar and water  II. Test tube containing cane sugar and dilute acid  III Test tube containing cane sugar and its degrading enzyme \nThe enzyme involved in the hydrolysis is",
+    "question": "I. Test tube containing cane sugar and water.\nII. Test tube containing cane sugar and dilute acid.\nIII. Test tube containing cane sugar and its degrading enzyme\nThe enzyme involved in the hydrolysis is",
     "options": {
       "a": "erepsin",
       "b": "rennin",
@@ -19635,25 +19635,6 @@
       "d": "cholera"
     },
     "correctOption": "C",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 4424,
-    "alocId": null,
-    "subject": "biology",
-    "year": 2011,
-    "category": "Past Question",
-    "topic": "biology",
-    "instruction": "",
-    "image": "",
-    "question": "I. Test tube containing cane sugar and water  II. Test tube containing cane sugar and dilute acid  III Test tube containing cane sugar and its degrading enzyme \nIn which of the test tubes will glucose be detected after complete hydrolysis?",
-    "options": {
-      "a": "I only",
-      "b": "II and III only",
-      "c": "I and II only",
-      "d": "I, II and III"
-    },
-    "correctOption": "A",
     "explanation": "No detailed explanation provided."
   },
   {
@@ -20509,25 +20490,6 @@
       "d": "contrasting antigens and antibodies"
     },
     "correctOption": "D",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 4825,
-    "alocId": "4f827956-b85c-4294-bfe7-b8d7f71e0f48",
-    "subject": "biology",
-    "year": 2011,
-    "category": "Past Question",
-    "topic": "biology",
-    "instruction": "",
-    "image": "",
-    "question": "I. Test tube containing cane sugar and water  II. Test tube containing cane sugar and dilute acid  III Test tube containing cane sugar and its degrading enzyme \nThe enzyme involved in the hydrolysis is",
-    "options": {
-      "a": "erepsin",
-      "b": "perilymph",
-      "c": "maltase",
-      "d": "rennin"
-    },
-    "correctOption": "C",
     "explanation": "No detailed explanation provided."
   },
   {
