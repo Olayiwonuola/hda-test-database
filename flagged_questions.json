@@ -206,5 +206,29 @@
     "question_text": "A thick glass tumbler cracks when boiling water is poured into it because",
     "exam_mode": "JAMB Study",
     "created_at": "2026-11-24T21:41:27.941Z"
+  },
+  {
+    "id": 18,
+    "question_id": "1793282210669",
+    "subject": "Biology",
+    "question_text": "Thespeed ofwindcanbemeasuredwithan instrumentcalled",
+    "exam_mode": "JAMB Study",
+    "created_at": "2026-11-26T14:44:36.448Z"
+  },
+  {
+    "id": 19,
+    "question_id": "1793282210650",
+    "subject": "Biology",
+    "question_text": "In ferns, the saprophyte",
+    "exam_mode": "JAMB Study",
+    "created_at": "2026-11-26T14:45:04.495Z"
+  },
+  {
+    "id": 20,
+    "question_id": "1793282210691",
+    "subject": "Biology",
+    "question_text": "Secondary thickening in dicotyledonous stem is\ncontrolled by the",
+    "exam_mode": "JAMB Study",
+    "created_at": "2026-11-26T14:46:05.338Z"
   }
 ]
