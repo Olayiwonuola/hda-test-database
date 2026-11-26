@@ -4465,44 +4465,6 @@
     "explanation": "No detailed explanation provided."
   },
   {
-    "id": 304,
-    "alocId": "6446ed23-4b84-404b-8ad1-e55a7262c351",
-    "subject": "english",
-    "year": 2016,
-    "category": "Past Question",
-    "topic": "literature-in-english",
-    "instruction": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
-    "image": "",
-    "question": "The author uses the novel to portray some of the",
-    "options": {
-      "a": "NGO's activities only",
-      "b": "environment conditions",
-      "c": "feelings of teachers only",
-      "d": "societal problems"
-    },
-    "correctOption": "D",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 319,
-    "alocId": "0045cb60-21da-47cd-9c9b-9612bd85c34d",
-    "subject": "english",
-    "year": 2016,
-    "category": "Past Question",
-    "topic": "LITERATURE IN ENGLISH",
-    "instruction": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
-    "image": "",
-    "question": "Which of the following best describes Mr Mallum?",
-    "options": {
-      "a": "He was a fat, tall man with wimpish behaviour",
-      "b": "He was a tall, wiry man with good diction",
-      "c": "He was crude, rash and impatient",
-      "d": "He was a small, wiry man with odd accent"
-    },
-    "correctOption": "D",
-    "explanation": "No detailed explanation provided."
-  },
-  {
     "id": 320,
     "alocId": "6e9b089c-c09e-42ba-9274-6bce784b7458",
     "subject": "english",
@@ -4598,44 +4560,6 @@
     "explanation": "No detailed explanation provided."
   },
   {
-    "id": 469,
-    "alocId": "526443be-5451-49a4-823d-82010c9bbc08",
-    "subject": "english",
-    "year": 2016,
-    "category": "Past Question",
-    "topic": "literature-in-english",
-    "instruction": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
-    "image": "",
-    "question": "Jimi was very prominent in Forcados High School because he was",
-    "options": {
-      "a": "the son of a great scholar",
-      "b": "the only child of his parents",
-      "c": "one of the school prefects",
-      "d": "noted for his good paintings"
-    },
-    "correctOption": "C",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 474,
-    "alocId": "d175506e-6056-4297-a803-added7d0fa8d",
-    "subject": "english",
-    "year": 2016,
-    "category": "Past Question",
-    "topic": "literature-in-english",
-    "instruction": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
-    "image": "",
-    "question": "According to the novel, Efua was in Forcados High School because",
-    "options": {
-      "a": "her stepfather was a board member",
-      "b": "of her former principal's recommendation",
-      "c": "the school needed her mother's support",
-      "d": "of aunt Moni's gift to the school"
-    },
-    "correctOption": "B",
-    "explanation": "No detailed explanation provided."
-  },
-  {
     "id": 502,
     "alocId": "31d3cfe5-9eb1-44a1-b40a-ea1546356295",
     "subject": "english",
@@ -4690,44 +4614,6 @@
       "d": "will know"
     },
     "correctOption": "C",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 597,
-    "alocId": "d60faf10-218f-4af2-916c-63b816b71423",
-    "subject": "english",
-    "year": 2016,
-    "category": "Past Question",
-    "topic": "literature-in-english",
-    "instruction": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
-    "image": "",
-    "question": "Ansa licked his lips and said furtively, look this is between you and me. Jimi would be angry if i told you but his brother is ---- well, we suspect he sometimes sells drugs and...'\n\nFrom the excerpt above, Ansa was talking to",
-    "options": {
-      "a": "Risikat and Nene",
-      "b": "Novi",
-      "c": "Caro",
-      "d": "Efua and Nene"
-    },
-    "correctOption": "D",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 605,
-    "alocId": "9a15e0f0-cd46-4ad3-a7a4-3908aadfd215",
-    "subject": "english",
-    "year": 2016,
-    "category": "Past Question",
-    "topic": "LITERATURE IN ENGLISH",
-    "instruction": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
-    "image": "",
-    "question": "Seyi Lawal, the head boy of the school was described as someone who",
-    "options": {
-      "a": "loved his job",
-      "b": "hated Physics practical",
-      "c": "loved interacting with girls",
-      "d": "hated hard-work"
-    },
-    "correctOption": "A",
     "explanation": "No detailed explanation provided."
   },
   {
@@ -4823,25 +4709,6 @@
       "d": "obLIgation"
     },
     "correctOption": "A",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 874,
-    "alocId": "06a8aaa3-51d1-461c-a187-bed2cc2645fa",
-    "subject": "english",
-    "year": 2016,
-    "category": "Past Question",
-    "topic": "LITERATURE IN ENGLISH",
-    "instruction": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
-    "image": "",
-    "question": "Efua was not in the good books of teachers at Forcados High School because",
-    "options": {
-      "a": "the students of Forcados did not like her",
-      "b": "she was expelled from her previous school",
-      "c": "she bribed the principal before she was admitted",
-      "d": "her admission into senior class was unusual"
-    },
-    "correctOption": "D",
     "explanation": "No detailed explanation provided."
   },
   {
@@ -4997,25 +4864,6 @@
     "explanation": "No detailed explanation provided."
   },
   {
-    "id": 337,
-    "alocId": "c90868c4-2135-4271-a5da-696c805bb6ec",
-    "subject": "english",
-    "year": 2015,
-    "category": "Past Question",
-    "topic": "literature-in-english",
-    "instruction": "This question is from the novel 'The Last Days at Forcados High school'.",
-    "image": "",
-    "question": "What did Wole pick up from Jimi’s Table beside Jimi’s music CD’s, chemisty and Mathematics Textbooks?",
-    "options": {
-      "a": "a pen",
-      "b": "a watch",
-      "c": "a book",
-      "d": "a toy"
-    },
-    "correctOption": "B",
-    "explanation": "No detailed explanation provided."
-  },
-  {
     "id": 340,
     "alocId": "b5743095-67df-41be-82e9-a467822ecabe",
     "subject": "english",
@@ -5073,25 +4921,6 @@
     "explanation": "No detailed explanation provided."
   },
   {
-    "id": 476,
-    "alocId": "7f83db25-b991-48f2-89ea-3c70af8c39ff",
-    "subject": "english",
-    "year": 2015,
-    "category": "Past Question",
-    "topic": "literature-in-english",
-    "instruction": "",
-    "image": "",
-    "question": "This question is from the novel The Last Days at Forcados High school.\n\nWhat was the early morning surprise Jimi get while he was still half-asleep?",
-    "options": {
-      "a": "Mrs Solade’s return",
-      "b": "Mr. Solade’s return",
-      "c": "Tupac Shakur’s return",
-      "d": "Wole’s return"
-    },
-    "correctOption": "D",
-    "explanation": "No detailed explanation provided."
-  },
-  {
     "id": 482,
     "alocId": "49318b60-5326-4679-a0c8-4c8bf76ad2a0",
     "subject": "english",
@@ -5130,82 +4959,6 @@
     "explanation": "No detailed explanation provided."
   },
   {
-    "id": 577,
-    "alocId": "684c1e0b-3059-4fc8-9ab8-b6e17c9ede60",
-    "subject": "english",
-    "year": 2015,
-    "category": "Past Question",
-    "topic": "literature-in-english",
-    "instruction": "",
-    "image": "",
-    "question": "This question is from the novel 'The Last Days at Forcados High school'.\n\n‘I could hear his voice from a distance, rowdy and full of fun as usual,’to whom were these words said to and who said it?",
-    "options": {
-      "a": "Ansa to Nene Ekpo",
-      "b": "Nene ekpo to Ansa",
-      "c": "Efua to seyi lawal",
-      "d": "Jimi to Nene ekpo"
-    },
-    "correctOption": "B",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 599,
-    "alocId": "0ba1a85b-00d4-4936-ba98-c5808d9bd990",
-    "subject": "english",
-    "year": 2015,
-    "category": "Past Question",
-    "topic": "literature-in-english",
-    "instruction": "",
-    "image": "",
-    "question": "This question is from the novel The Last Days at Forcados High school.\n\nWhat is the name of Efua’s Aunt?",
-    "options": {
-      "a": "funmi",
-      "b": "Moni",
-      "c": "Mrs solade",
-      "d": "Nene ekpo"
-    },
-    "correctOption": "B",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 612,
-    "alocId": "eebd142d-58ed-4f23-b31c-cd55b26eb3e4",
-    "subject": "english",
-    "year": 2015,
-    "category": "Past Question",
-    "topic": "english-language",
-    "instruction": "This question is from the novel The Last Days at Forcados High school.",
-    "image": "",
-    "question": "What prefect was Jimi?",
-    "options": {
-      "a": "food prefect",
-      "b": "assembly prefect",
-      "c": "health prefect",
-      "d": "the headboy"
-    },
-    "correctOption": "C",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 613,
-    "alocId": "e0bf3e7f-4f4d-4e35-bc27-7b8608a75eda",
-    "subject": "english",
-    "year": 2015,
-    "category": "Past Question",
-    "topic": "LITERATURE IN ENGLISH",
-    "instruction": "This question is from the novel 'The Last Days at Forcados High school'.",
-    "image": "",
-    "question": "In three words, describe the principal ( Mr. Mallum) as described in the novel.",
-    "options": {
-      "a": "small, wiry and spoke through his nose",
-      "b": "fat, smooth-cheeked and loved his job",
-      "c": "tall, good- looking and funny",
-      "d": "wicked, ugly and tall."
-    },
-    "correctOption": "A",
-    "explanation": "No detailed explanation provided."
-  },
-  {
     "id": 623,
     "alocId": "f6c8864e-afb1-4e48-9e0b-b01af2fc542b",
     "subject": "english",
@@ -5222,25 +4975,6 @@
       "d": "advise/advise"
     },
     "correctOption": "B",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 634,
-    "alocId": "130d3da9-1f5a-49f7-9dae-c33ec6902850",
-    "subject": "english",
-    "year": 2015,
-    "category": "Past Question",
-    "topic": "LITERATURE IN ENGLISH",
-    "instruction": "",
-    "image": "",
-    "question": "This question is from the novel 'The Last Days at Forcados High school'.\n\n‘What is this good-for-nothing doing in my house’. Whose words were these?",
-    "options": {
-      "a": "Jimi",
-      "b": "Mrs Solade",
-      "c": "Mr solade",
-      "d": "Wole"
-    },
-    "correctOption": "C",
     "explanation": "No detailed explanation provided."
   },
   {
@@ -5279,25 +5013,6 @@
       "d": "committee/ accommodation"
     },
     "correctOption": "D",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 684,
-    "alocId": "4413047f-6388-43e5-b784-eaad9b798352",
-    "subject": "english",
-    "year": 2015,
-    "category": "Past Question",
-    "topic": "LITERATURE IN ENGLISH",
-    "instruction": "This question is from the novel 'The Last Days at Forcados High school'.",
-    "image": "",
-    "question": "What did papa Solade do after knowing that Wole and jimi still saw secretly?",
-    "options": {
-      "a": "he flogged jimi",
-      "b": "he flogged wole",
-      "c": "sent jimi away to Ibadan",
-      "d": "sent jimi's mother away"
-    },
-    "correctOption": "C",
     "explanation": "No detailed explanation provided."
   },
   {
@@ -5355,63 +5070,6 @@
       "d": "cheapen"
     },
     "correctOption": "C",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 748,
-    "alocId": "19928115-a1b7-44d3-a98e-b0bbc2124e3e",
-    "subject": "english",
-    "year": 2015,
-    "category": "Past Question",
-    "topic": "LITERATURE IN ENGLISH",
-    "instruction": "",
-    "image": "",
-    "question": "This question is from the novel 'The Last Days at Forcados High school'.\n\n“Nene, this is my niece Efua Coker”. Who made this statement?",
-    "options": {
-      "a": "Moni",
-      "b": "Efua",
-      "c": "Mrs. Ekpo",
-      "d": "none"
-    },
-    "correctOption": "A",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 784,
-    "alocId": "5d9892a1-dcb4-4217-8adc-faca60f50a69",
-    "subject": "english",
-    "year": 2015,
-    "category": "Past Question",
-    "topic": "literature-in-english",
-    "instruction": "",
-    "image": "",
-    "question": "This question is from the novel 'The Last Days at Forcados High school'.\n\n“come here, you pretty child; I hear you will be going to the same school as my daughter.’ Who made this statement and to whom?",
-    "options": {
-      "a": "Aunt Moni said this to Efua",
-      "b": "Efua to Aunt Moni",
-      "c": "Mrs. Ekpo said this to Efua",
-      "d": "Aunt Moni to Mrs. Ekpo"
-    },
-    "correctOption": "C",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 855,
-    "alocId": "09697c48-cd26-408f-86a6-d9d97169634b",
-    "subject": "english",
-    "year": 2015,
-    "category": "Past Question",
-    "topic": "literature-in-english",
-    "instruction": "",
-    "image": "",
-    "question": "This question is from the novel The Last Days at Forcados High school.\n\n__________ had been expelled from two different schools and kicked out of the university.",
-    "options": {
-      "a": "jolly",
-      "b": "Jimi",
-      "c": "nene ekpo",
-      "d": "wole"
-    },
-    "correctOption": "D",
     "explanation": "No detailed explanation provided."
   },
   {
@@ -5488,63 +5146,6 @@
       "d": "it is all over the world and popular even among the rich and the poor."
     },
     "correctOption": "C",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 910,
-    "alocId": "92584d8d-47eb-4075-b5db-ce047d78a0af",
-    "subject": "english",
-    "year": 2015,
-    "category": "Past Question",
-    "topic": "literature-in-english",
-    "instruction": "",
-    "image": "",
-    "question": "This question is from the novel 'The Last Days at Forcados High school'.\n\nWho was the teacher to whom the students called “cane”?",
-    "options": {
-      "a": "Mr Bade",
-      "b": "Mr Okoro",
-      "c": "Mama Silifat",
-      "d": "Mr Solade"
-    },
-    "correctOption": "A",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 947,
-    "alocId": "e64e29c3-e859-4b93-a7d4-56f7902cc219",
-    "subject": "english",
-    "year": 2015,
-    "category": "Past Question",
-    "topic": "literature-in-english",
-    "instruction": "",
-    "image": "",
-    "question": "This question is from the novel 'The Last Days at Forcados High school'.\n\nWho laugh in such a way that showed only his upper teeth?",
-    "options": {
-      "a": "Seyi Lawal",
-      "b": "Ansa boy",
-      "c": "Kemi",
-      "d": "Wole"
-    },
-    "correctOption": "D",
-    "explanation": "No detailed explanation provided."
-  },
-  {
-    "id": 978,
-    "alocId": "a3f83c72-32f5-4e83-a8f2-2dd7de25046c",
-    "subject": "english",
-    "year": 2015,
-    "category": "Past Question",
-    "topic": "literature-in-english",
-    "instruction": "",
-    "image": "",
-    "question": "This question is from the novel The Last Days at Forcados High school.\n\nIn chapter two, after the national anthem and assembly prayers, who gave a brief talk welcoming everyone?",
-    "options": {
-      "a": "Seyi Lawal",
-      "b": "Jimi",
-      "c": "Mrs Solade",
-      "d": "The principal"
-    },
-    "correctOption": "D",
     "explanation": "No detailed explanation provided."
   },
   {
