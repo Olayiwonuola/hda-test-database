@@ -677,7 +677,7 @@
     "subject": "Biology",
     "topic": "B3. Transport System in Plants and Animals",
     "type": "UTME",
-    "question": "[DIAGRAM NEEDED: Osmosis U-tube / thistle funnel setup with X and Y] After 30 minutes, the level of sugar solution in the above figure will",
+    "question": "After 30 minutes, the level of sugar solution in the above figure will",
     "options": {
       "A": "rise in X only",
       "B": "rise in Y only",
@@ -693,9 +693,9 @@
     "correct_option": "B",
     "explanation": "Water moves osmotically from the region of higher water potential (X) across the semi-permeable membrane into the more concentrated sugar solution (Y), causing the level in Y to rise.",
     "passage": "",
-    "diagram_url": "",
-    "image": "",
-    "requires_diagram": 0,
+    "diagram_url": "https://raw.githubusercontent.com/Olayiwonuola/hda-test-database/main/jamb_bank/assets/biology/biology_qbiology_1991_1795681148324_25_1795684883121.png",
+    "image": "https://raw.githubusercontent.com/Olayiwonuola/hda-test-database/main/jamb_bank/assets/biology/biology_qbiology_1991_1795681148324_25_1795684883121.png",
+    "requires_diagram": false,
     "content_hash": "070321fe8e1d89276191f9454c19e3eeacc6a7e5f875eb7d8bcb1ffce7d22d0d",
     "created_at": "2026-11-26T08:19:08.324Z"
   },
@@ -705,7 +705,7 @@
     "subject": "Biology",
     "topic": "B3. Transport System in Plants and Animals",
     "type": "UTME",
-    "question": "[DIAGRAM NEEDED: Osmosis U-tube / thistle funnel setup with X and Y] The process by which water moves from X to Y through the semi-permeable membrane is called",
+    "question": "The process by which water moves from X to Y through the semi-permeable membrane is called",
     "options": {
       "A": "diffusion",
       "B": "osmosis",
@@ -721,9 +721,9 @@
     "correct_option": "B",
     "explanation": "Osmosis is the net movement of water molecules from a dilute solution (higher water potential) to a more concentrated solution (lower water potential) through a semi-permeable membrane.",
     "passage": "",
-    "diagram_url": "",
-    "image": "",
-    "requires_diagram": 0,
+    "diagram_url": "https://raw.githubusercontent.com/Olayiwonuola/hda-test-database/main/jamb_bank/assets/biology/biology_qbiology_1991_1795681148324_26_1795684886439.png",
+    "image": "https://raw.githubusercontent.com/Olayiwonuola/hda-test-database/main/jamb_bank/assets/biology/biology_qbiology_1991_1795681148324_26_1795684886439.png",
+    "requires_diagram": false,
     "content_hash": "46fc335af00f49351727b0c6ed22af2c88c3c9093837dec021052dc41333744c",
     "created_at": "2026-11-26T08:19:08.324Z"
   },
