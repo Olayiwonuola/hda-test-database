@@ -4047,25 +4047,6 @@
     "explanation": "No detailed explanation provided."
   },
   {
-    "id": 651,
-    "alocId": "a0b80556-dd57-4a11-821b-dbba9f14c6d5",
-    "subject": "english",
-    "year": 2017,
-    "category": "Past Question",
-    "topic": "literature-in-english",
-    "instruction": "This question is based on S. L. Manyika's INDEPENDENCE",
-    "image": "",
-    "question": "In the Novel \"Independence\" Tayo wrote a biography of ______?",
-    "options": {
-      "a": "Arthur Richardson",
-      "b": "Lord Lugard",
-      "c": "Obafemi Awolowo",
-      "d": "Nnamdi Azikiwe"
-    },
-    "correctOption": "B",
-    "explanation": "No detailed explanation provided."
-  },
-  {
     "id": 654,
     "alocId": "f2afaab4-fd5f-4c81-8536-a207cb3bb678",
     "subject": "english",
