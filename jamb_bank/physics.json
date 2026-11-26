@@ -1693,8 +1693,10 @@
       "c": "The expansion is even",
       "d": "The inside expands more rapidly than the outside"
     },
-    "correctOption": "A",
-    "explanation": "No detailed explanation provided."
+    "correctOption": "D",
+    "explanation": "No detailed explanation provided.",
+    "correct_option": "D",
+    "answer": "D"
   },
   {
     "id": 2089,
