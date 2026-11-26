@@ -141,7 +141,7 @@
   },
   {
     "id": "biology_2011_1795731765746_9",
-    "year": 2011,
+    "year": 2026,
     "subject": "Biology",
     "topic": "General Practice",
     "type": "UTME",
@@ -156,16 +156,16 @@
       "c": "fermentation",
       "d": "plasmolysis"
     },
-    "answer": "B",
-    "correctOption": "B",
-    "correct_option": "B",
-    "explanation": "Collecting oxygen gas evolved by illuminated pondweed demonstrates photosynthesis in green plants.",
+    "answer": "C",
+    "correctOption": "C",
+    "correct_option": "C",
+    "explanation": "",
     "passage": "",
-    "diagram_url": "",
-    "image": "",
-    "requires_diagram": 0,
+    "diagram_url": "https://raw.githubusercontent.com/Olayiwonuola/hda-test-database/main/jamb_bank/assets/biology/biology_qbiology_2011_1795731765746_9_1795732524463.png",
+    "image": "https://raw.githubusercontent.com/Olayiwonuola/hda-test-database/main/jamb_bank/assets/biology/biology_qbiology_2011_1795731765746_9_1795732524463.png",
+    "requires_diagram": false,
     "content_hash": "0accfdf2cae1b9846a1c209281f4ed5acdfc4dc89f42458510552b114103f642",
-    "created_at": "2026-11-26T22:22:45.746Z"
+    "created_at": "2026-11-26T22:32:44.617Z"
   },
   {
     "id": "biology_2011_1795731765746_10",
