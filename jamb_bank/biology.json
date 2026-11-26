@@ -1153,7 +1153,7 @@
     "subject": "Biology",
     "topic": "C1. Abiotic and Biotic Factors Affecting Distribution of Organisms",
     "type": "UTME",
-    "question": "[DIAGRAM NEEDED: Competitive interaction population graph for communities I and II] The above diagram represents a competitive interaction between organisms in communities I and II. Which of the following statements is CORRECT?",
+    "question": "The above diagram represents a competitive interaction between organisms in communities I and II. Which of the following statements is CORRECT?",
     "options": {
       "A": "The population of I was higher than II at the beginning of the experiment",
       "B": "II was wiped out from the environment at the end of the experiment",
@@ -1169,9 +1169,9 @@
     "correct_option": "B",
     "explanation": "Under competitive exclusion, species I outcompetes species II for shared limiting resources, driving the population of II down to zero (extinction/elimination) by the end of the experiment.",
     "passage": "",
-    "diagram_url": "",
-    "image": "",
-    "requires_diagram": 0,
+    "diagram_url": "https://raw.githubusercontent.com/Olayiwonuola/hda-test-database/main/jamb_bank/assets/biology/biology_qbiology_1991_1795681148325_42_1795685296037.png",
+    "image": "https://raw.githubusercontent.com/Olayiwonuola/hda-test-database/main/jamb_bank/assets/biology/biology_qbiology_1991_1795681148325_42_1795685296037.png",
+    "requires_diagram": false,
     "content_hash": "c30fd0a24f3c2763360a73c3665d27fcc859a8dc20a413c62eb8719b178ac1f8",
     "created_at": "2026-11-26T08:19:08.325Z"
   },
